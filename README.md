@@ -3,6 +3,7 @@ Doable things:
 - [ ] Withdraw $4250 from local shared branching location
    - [ ] find time to visit truck guy and email him
 - [ ] Buy a straight razor from barber (Hero?)
+- [ ] Buy SD card to replace mine for still point wii
 
 Confusing things:
 - [ ] Finish EE lab report
