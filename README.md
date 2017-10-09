@@ -4,6 +4,7 @@ Doable things:
    - [ ] find time to visit truck guy and email him
 - [ ] Buy a straight razor from barber (Hero?)
 - [ ] figure out when/if Downpour is happening
+- [ ] Buy SD card to replace mine for still point wii
 
 Confusing things:
 - [ ] Finish EE lab report
