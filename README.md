@@ -1,8 +1,14 @@
 Doable things:
+- [ ] visit truck
+- [ ] visit mill180
+- [ ] upgrade laptop vms
 
 Confusing things:
+- [ ] resume EEG
+- [ ] email back brett if he doesn't reply to my quote request
 - [ ] Finish EE lab report
-- [ ] Free up space on laptop in preparation for repairing it and storing recordings
+- [x] Free up space on laptop in preparation for repairing it and storing recordings
+- [ ] move EEG recording to laptop
 - [ ] Add items for tasks not on this list
 - [ ] Get lab supplies for EE labs (note: I can do my labs at the asylum where they have supplies)
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
