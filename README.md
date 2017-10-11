@@ -2,6 +2,7 @@ Doable things:
 - [ ] visit truck
 - [ ] visit mill180
 - [ ] upgrade laptop vms
+- [ ] visit garage bay
 
 Confusing things:
 - [ ] resume EEG
