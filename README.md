@@ -1,11 +1,14 @@
 Doable things:
-- [ ] visit truck
+- [x] visit truck
+- [ ] schedule as-you-wait service for truck
+- [ ] add jaw exercises to routine
+- [ ] reply brett quote
 - [ ] visit mill180
 - [ ] upgrade laptop vms
 
 Confusing things:
 - [ ] resume EEG
-- [ ] email back brett if he doesn't reply to my quote request
+- [x] email back brett if he doesn't reply to my quote request
 - [ ] Finish EE lab report
 - [x] Free up space on laptop in preparation for repairing it and storing recordings
 - [ ] move EEG recording to laptop
