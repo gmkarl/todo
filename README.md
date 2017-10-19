@@ -5,6 +5,7 @@ Purchase:
 
 Doable things:
 - [ ] move welding supplies from A2
+- [ ] switch from coinbase to gdax or gemini
 - [ ] check up on brainvision order if not received
 - [ ] get truck evaluated & communicate decision after weekend to rorie
 - [ ] visit mill180
