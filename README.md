@@ -1,6 +1,7 @@
 Purchase:
 - [ ] inverter-based tig welder
 - [ ] black tape for cap
+- [ ] 4 AA NiMH batteries
 
 Doable things:
 - [ ] move welding supplies from A2
