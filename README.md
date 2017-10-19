@@ -5,13 +5,14 @@ Purchase:
 
 Doable things:
 - [ ] move welding supplies from A2
+- [ ] try to get replacement openbci dongle
 - [ ] check up on brainvision order if not received
 - [ ] get truck evaluated & communicate decision after weekend to rorie
 - [ ] visit mill180
-- [ ] upgrade laptop vms
 
 Confusing things:
 - [ ] resume EEG
+- [ ] upgrade laptop vms
 - [ ] Finish EE lab report
 - [ ] move EEG recording to laptop
 - [ ] Add items for tasks not on this list
