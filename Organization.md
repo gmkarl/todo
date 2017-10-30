@@ -12,3 +12,11 @@
   - Environmental Justice, Hearing Voices
 
 Old Schedule & Todo Lists ... with blocking triggers associated in my mind with some of the items
+
+Stop Mind Control?
+  - shielded room
+  - shielding measurement
+  - radio logging
+  - eeg logging
+  - audiovisual logging
+  - something else
