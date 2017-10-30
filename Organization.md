@@ -19,4 +19,5 @@ Stop Mind Control?
   - radio logging
   - eeg logging
   - audiovisual logging
-  - something else
+  - general security
+  - community, outreach
