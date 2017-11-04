@@ -1,20 +1,14 @@
 Purchase:
-- [ ] inverter-based tig welder
-- [ ] black tape for cap
-- [ ] 4 AA NiMH batteries
 
 Doable things:
-- [ ] move welding supplies from A2
-- [ ] switch from coinbase to gdax or gemini
-- [ ] check up on brainvision order if not received
-- [ ] get truck evaluated & communicate decision after weekend to rorie
+- [ ] buy truck
 - [ ] visit mill180
 
 Confusing things:
 - [ ] resume EEG
 - [ ] upgrade laptop vms
+- [ ] switch from coinbase to gdax or gemini
 - [ ] Finish EE lab report
-- [ ] move EEG recording to laptop
 - [ ] Add items for tasks not on this list
 - [ ] Get lab supplies for EE labs (note: I can do my labs at the asylum where they have supplies)
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
@@ -23,6 +17,12 @@ Mention at team meeting:
 - [ ] environmental activism ally?  distant events, unexpected schedules
 
 Done:
+- [X] move welding supplies from A2
+- [X] check up on brainvision order if not received
+- [X] inverter-based tig welder
+- [X] black tape for cap
+- [X] 4 AA NiMH batteries
+- [X] move EEG recording to laptop
 - [x] Get a soft toothbrush for cleaning electrodes
 - no longer need to withdraw $4250 from local shared branching location
    - [x] find time to visit truck guy and email him
