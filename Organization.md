@@ -13,18 +13,6 @@
 
 Old Schedule & Todo Lists ... with blocking triggers associated in my mind with some of the items
 
-GOAL: barest necessities for small shielded room
-  - [ ] material for walls
-  - [ ] door
-  - [ ] way to join walls & door
-  - [ ] wideband emitter for testing
-  - [ ] wideband receiver for testing
-  - [ ] 2 loop antenna for testing H field
-  - [ ] 2 straight antenna for testing E field
-  - [ ] software & hookups for performing measurement
-  - [ ] microprobes for hunting leaks?
-  
-
 Stop Mind Control?
   - shielded room
   - shielding measurement
