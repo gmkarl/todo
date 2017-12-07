@@ -1,16 +1,19 @@
 Purchase:
+- [ ] labels (pink duct tape?)
 
 Doable things:
+- [ ] move trailer
+- [ ] consolidate possessions
 - [ ] buy truck
 - [ ] visit mill180
 
 Confusing things:
-- [ ] resume EEG
-- [ ] upgrade laptop vms
-- [ ] switch from coinbase to gdax or gemini
+- [X] resume EEG
+- [X] upgrade laptop vms
+- [X] switch from coinbase to gdax or gemini
 - [ ] Finish EE lab report
 - [ ] Add items for tasks not on this list
-- [ ] Get lab supplies for EE labs (note: I can do my labs at the asylum where they have supplies)
+- [X] Get lab supplies for EE labs (note: I can do my labs at the asylum where they have supplies)
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
 
 Mention at team meeting:
