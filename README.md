@@ -1,5 +1,6 @@
 Purchase:
 - [ ] labels (pink duct tape?)
+- [ ] broom / dustpan / trash bag
 
 Doable things:
 - [ ] move trailer
