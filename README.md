@@ -1,9 +1,10 @@
 Purchase:
+- [ ] gift for sister
 - [ ] labels (pink duct tape?)
 - [ ] broom / dustpan / trash bag
 - [ ] small olive oil
 - [ ] adjustable wrench
-- [ ] gift for sister
+- [ ] clean water solution
 
 Doable things:
 - [ ] pay debt, bill is in right hand pocket
