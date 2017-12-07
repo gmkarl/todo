@@ -3,9 +3,13 @@ Purchase:
 - [ ] broom / dustpan / trash bag
 - [ ] small olive oil
 - [ ] adjustable wrench
+- [ ] gift for sister
 
 Doable things:
 - [ ] move trailer
+- [ ] ask mother christmas
+- [ ] brainstorm gift for dad
+- [ ] ask tor christmas
 - [ ] consolidate possessions
 - [ ] buy truck
 - [ ] visit mill180
