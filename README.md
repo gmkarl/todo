@@ -1,6 +1,7 @@
 Purchase:
 - [ ] labels (pink duct tape?)
 - [ ] broom / dustpan / trash bag
+- [ ] small olive oil
 
 Doable things:
 - [ ] move trailer
