@@ -6,6 +6,7 @@ Purchase:
 - [ ] gift for sister
 
 Doable things:
+- [ ] pay debt, bill is in right hand pocket
 - [ ] move trailer
 - [ ] ask mother christmas
 - [ ] brainstorm gift for dad
