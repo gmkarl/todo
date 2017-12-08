@@ -5,10 +5,11 @@ Purchase:
 - [ ] small olive oil
 - [ ] adjustable wrench
 - [ ] clean water solution
+- [ ] hand mirror
 
 Doable things:
 - [ ] pay debt, bill is in right hand pocket
-- [ ] move trailer
+- [X] move trailer
 - [ ] ask mother christmas
 - [ ] brainstorm gift for dad
 - [ ] ask tor christmas
