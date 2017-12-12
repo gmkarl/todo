@@ -8,7 +8,6 @@ Doable things:
 - [ ] ask mother christmas
 - [ ] brainstorm gift for dad
 - [ ] ask tor christmas
-- [ ] consolidate possessions
 - [ ] buy truck
 - [ ] visit mill180
 - [ ] visit artsy place katie found
@@ -18,6 +17,8 @@ Doable things:
 
 Confusing things:
 - [ ] resume EEG
+- [ ] find more eye lubricant
+- [ ] consolidate possessions
 - [ ] make door for trailer
 - [ ] Finish EE lab report
 - [ ] Add items for tasks not on this list
