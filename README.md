@@ -1,7 +1,8 @@
-Purchase:
+Purchase / Create / Find:
 - [ ] gift for sister
 - [ ] clean water solution
 - [ ] hand mirror
+- [ ] mobile clothes solution, small portable dresser
 
 Doable things:
 - [ ] pay debt, bill is in right hand pocket
