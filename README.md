@@ -5,16 +5,17 @@ Purchase / Create / Find:
 
 Doable things:
 - [ ] move trailer items to trailer
-- [ ] check xloem's posted bounties; ask bountysource to ensure they are in search results
+- [ ] update log to note which items done each day & include katie's items
 - [ ] pay debt, bill is in right hand pocket
 - [ ] ask mother christmas
 - [ ] brainstorm gift for dad
 - [ ] ask tor christmas
+- [ ] take down staples from trailer
+- [ ] check xloem's posted bounties; ask bountysource to ensure they are in search results
 - [ ] buy truck
 - [ ] visit mill180
 - [ ] visit artsy place katie found
 - [ ] visit makerspace to the south
-- [ ] take down staples from trailer
 - [ ] restaple walls trailer
 
 Confusing things:
