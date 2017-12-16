@@ -9,6 +9,7 @@ Doable things:
 - [ ] brainstorm gift for dad
 - [ ] ask tor christmas
 - [ ] buy truck
+- [ ] update trailer sticker
 - [ ] visit mill180
 - [ ] visit artsy place katie found
 - [ ] visit makerspace to the south
