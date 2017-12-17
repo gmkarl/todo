@@ -4,6 +4,7 @@ Purchase / Create / Find:
 - [ ] mobile clothes solution, small portable bureau
 
 Doable things:
+- [ ] get registration # for passat
 - [ ] move trailer items to trailer
 - [ ] update log to note which items done each day & include katie's items
 - [ ] pay debt, bill is in right hand pocket
