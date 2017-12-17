@@ -4,6 +4,7 @@ Purchase / Create / Find:
 - [ ] mobile clothes solution, small portable bureau
 
 Doable things:
+- [ ] get off bitfinex which is non-usa only
 - [ ] pick up flouride
 - [ ] get a new dentist
 - [ ] get a new eye doctor
