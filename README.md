@@ -2,6 +2,8 @@ Purchase / Create / Find:
 - [ ] gift for sister
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
+- [ ] shopping list pad
+- [ ] scraper and adhesive remover
 
 Doable things:
 - [ ] get off bitfinex which is non-usa only
