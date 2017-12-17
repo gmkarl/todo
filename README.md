@@ -5,6 +5,8 @@ Purchase / Create / Find:
 
 Doable things:
 - [ ] pick up flouride
+- [ ] get a new dentist
+- [ ] get a new eye doctor
 - [ ] get registration # for passat
 - [ ] move trailer items to trailer
 - [ ] update log to note which items done each day & include katie's items
@@ -22,8 +24,8 @@ Doable things:
 - [ ] restaple walls trailer
 
 Confusing things:
+- [ ] figure out junk in passat & move inverter up front or to trailer
 - [ ] resume EEG
-- [ ] find more eye lubricant
 - [ ] consolidate possessions
 - [ ] make door for trailer
 - [ ] Finish EE lab report
@@ -34,6 +36,7 @@ Mention at team meeting:
 - [ ] environmental activism ally?  distant events, unexpected schedules
 
 Done:
+- [X] find more eye lubricant
 - [X] hand mirror
 - [X] adjustable wrench
 - [X] work gloves
@@ -45,5 +48,3 @@ Done:
 - [X] labels (pink duct tape?)
 - [X] move welding supplies from A2
 - [X] check up on brainvision order if not received
-- [X] inverter-based tig welder
-- [X] black tape for cap
