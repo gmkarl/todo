@@ -5,6 +5,7 @@ Purchase / Create / Find:
 - [ ] shopping list pad
 
 Doable things:
+- [ ] follow up neurologist dartmouth hitchcock; include question re white matter
 - [ ] wrap sister gift
 - [ ] schedule next port flush; missed last one but was redundant
 - [ ] pick up flouride @ serio's
