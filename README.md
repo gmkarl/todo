@@ -6,6 +6,7 @@ Purchase / Create / Find:
 
 Doable things:
 - [ ] wrap sister gift
+- [ ] schedule next port flush; missed last one but was redundant
 - [ ] pick up flouride @ serio's
 - [ ] grocery shopping
 - [ ] get a new dentist
