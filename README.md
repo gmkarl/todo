@@ -1,23 +1,19 @@
 Purchase / Create / Find:
-- [ ] gift for sister
+- [ ] pullup bar or other solution
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
 - [ ] shopping list pad
-- [ ] scraper and adhesive remover
 
 Doable things:
-- [ ] get off bitfinex which is non-usa only
-- [ ] pick up flouride
+- [ ] wrap sister gift
+- [ ] pick up flouride @ serio's
+- [ ] grocery shopping
 - [ ] get a new dentist
 - [ ] get a new eye doctor
-- [ ] get registration # for passat
-- [ ] move trailer items to trailer
 - [ ] update log to note which items done each day & include katie's items
-- [ ] pay debt, bill is in right hand pocket
 - [ ] ask mother christmas
 - [ ] brainstorm gift for dad
 - [ ] ask tor christmas
-- [ ] take down staples from trailer
 - [ ] check xloem's posted bounties; ask bountysource to ensure they are in search results
 - [ ] buy truck
 - [ ] update trailer sticker
@@ -25,10 +21,10 @@ Doable things:
 - [ ] visit artsy place katie found
 - [ ] visit makerspace to the south
 - [ ] restaple walls trailer
+- [ ] resume EEG
 
 Confusing things:
 - [ ] figure out junk in passat & move inverter up front or to trailer
-- [ ] resume EEG
 - [ ] consolidate possessions
 - [ ] make door for trailer
 - [ ] Finish EE lab report
@@ -36,18 +32,17 @@ Confusing things:
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
 
 Mention at team meeting:
-- [ ] environmental activism ally?  distant events, unexpected schedules
+- [X] environmental activism ally?  distant events, unexpected schedules
 
 Done:
+- [X] take down staples from trailer
+- [X] scraper and adhesive remover
+- [X] gift for sister
+- [X] pay debt, bill is in right hand pocket
+- [X] get registration # for passat
+- [X] move trailer items to trailer
+- [X] get off bitfinex which is non-usa only
 - [X] find more eye lubricant
 - [X] hand mirror
 - [X] adjustable wrench
 - [X] work gloves
-- [X] Get lab supplies for EE labs (note: I can do my labs at the asylum where they have supplies)
-- [X] upgrade laptop vms
-- [X] switch from coinbase to gdax or gemini
-- [X] move trailer
-- [X] small olive oil
-- [X] labels (pink duct tape?)
-- [X] move welding supplies from A2
-- [X] check up on brainvision order if not received
