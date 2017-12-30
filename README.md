@@ -1,5 +1,7 @@
 Purchase / Create / Find:
 - [ ] pullup bar or other solution
+- [ ] new metamucil & miralax
+- [ ] more celexa
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
 - [ ] shopping list pad
