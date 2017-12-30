@@ -4,6 +4,7 @@ Purchase / Create / Find:
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
 - [ ] shopping list pad
+- [ ] CBD oil
 
 Doable things:
 - [ ] finish backup of old drive data, remember my annex is in there!
