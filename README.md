@@ -1,4 +1,5 @@
 Purchase / Create / Find:
+- [ ] tough & empty USB key
 - [ ] pullup bar or other solution
 - [ ] more celexa
 - [ ] clean water solution
