@@ -6,6 +6,7 @@ Purchase / Create / Find:
 - [ ] shopping list pad
 
 Doable things:
+- [ ] finish backup of old drive data, remember my annex is in there!
 - [ ] get prescription flouride
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
       note: katie found local neurologist
