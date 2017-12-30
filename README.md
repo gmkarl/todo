@@ -1,23 +1,21 @@
 Purchase / Create / Find:
 - [ ] pullup bar or other solution
-- [ ] new metamucil & miralax
 - [ ] more celexa
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
 - [ ] shopping list pad
 
 Doable things:
+- [ ] get prescription flouride
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
-- [ ] wrap sister gift
+      note: katie found local neurologist
 - [ ] schedule next port flush; missed last one but was redundant
 - [ ] pick up flouride @ serio's
 - [ ] grocery shopping
 - [ ] get a new dentist
 - [ ] get a new eye doctor
 - [ ] update log to note which items done each day & include katie's items
-- [ ] ask mother christmas
 - [ ] brainstorm gift for dad
-- [ ] ask tor christmas
 - [ ] check xloem's posted bounties; ask bountysource to ensure they are in search results
 - [ ] buy truck
 - [ ] update trailer sticker
@@ -39,6 +37,10 @@ Mention at team meeting:
 - [X] environmental activism ally?  distant events, unexpected schedules
 
 Done:
+- [ ] ask mother christmas
+- [ ] ask tor christmas
+- [X] wrap sister gift
+- [X] new metamucil & miralax
 - [X] take down staples from trailer
 - [X] scraper and adhesive remover
 - [X] gift for sister
@@ -49,4 +51,3 @@ Done:
 - [X] find more eye lubricant
 - [X] hand mirror
 - [X] adjustable wrench
-- [X] work gloves
