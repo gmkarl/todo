@@ -8,6 +8,7 @@ Purchase / Create / Find:
 - [ ] CBD oil
 
 Doable things:
+- [ ] follow up transdermals / microdermals
 - [ ] finish backup of old drive data, remember my annex is in there!
 - [ ] get prescription flouride
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
