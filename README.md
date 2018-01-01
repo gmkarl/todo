@@ -29,6 +29,7 @@ Doable things:
 - [ ] visit makerspace to the south
 - [ ] restaple walls trailer
 - [ ] resume EEG
+- [ ] visit garage bay
 
 Confusing things:
 - [ ] figure out junk in passat & move inverter up front or to trailer
