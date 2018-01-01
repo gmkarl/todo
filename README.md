@@ -31,6 +31,16 @@ Doable things:
 - [ ] resume EEG
 - [ ] visit garage bay
 
+BA Tasks:
+- [ ] Research box truck
+- [ ] Interview Housemate at 1:30
+- [ ] Fill out rental application
+- [ ] photo copy Karl's license for rental application
+- [ ] purchase inverter-based tig welder based on instructor's recs
+- [ ] plan trip to Indian Orchard
+- [ ] discuss tonight (and dinner)
+- [ ] purchase shoes and jacket for fall/winter 
+
 Confusing things:
 - [ ] figure out junk in passat & move inverter up front or to trailer
 - [ ] consolidate possessions
@@ -38,6 +48,7 @@ Confusing things:
 - [ ] Finish EE lab report
 - [ ] Add items for tasks not on this list
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
+- [ ] Find trailer registration
 
 Mention at team meeting:
 - [X] environmental activism ally?  distant events, unexpected schedules
@@ -57,3 +68,26 @@ Done:
 - [X] find more eye lubricant
 - [X] hand mirror
 - [X] adjustable wrench
+
+Daily Tasks:
+wake up
+take covers off
+stand up 
+do todo list / calendar
+eye goop
+exercise
+pajamas
+water
+bathroom
+downstairs
+prep meds
+prep food
+have meds
+have food
+upstairs
+brush teeth
+take shower
+sit spot
+journal
+eye goop
+EE
