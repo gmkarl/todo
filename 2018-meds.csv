@@ -1,11 +1,15 @@
 MX, MiraLAX Polyethylene Glycol 3350, 17 grams
-LV, LifeExtension Two-Per-Day High Potency Supplement, 2 capsules divided
+LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 CX, Citalopram / Celexa, 8 milligrams
-D3, Moss Nutrition Vitamin D+K 5000, 5000 IU / capsule
-K2, Moss Nutrition Vitamin D+K 5000, 140 micrograms / capsule
+MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
+   ,                               , D3, 5000 IU
+   ,                               , K2, 140 micrograms
 VC, Vitamin C / Ascorbic Acid, 500 milligrams
-MM, Moss Nutrition Magnesium Glycinate TRAACS, 150 milligrams / capsule
+MM, Moss Nutrition Magnesium Glycinate, 1 capsule
+  ,                                   , TRAACS, 150 milligrams
 LO, LifeExtension Super Omega-3, 2 softgels
 MF, Metamucil, 2 tablespoons
 CD, Colace Docusate Sodium, 100 milligrams / capsule
+DF, Finished Liquid Drink, 0 milliliters
 Time, Med, Dosage, Notes
+2018-01-01T19:00:39-0500,MF,1,"liquid"
