@@ -1,18 +1,73 @@
-MX, MiraLAX Polyethylene Glycol 3350, 17 grams
-LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
-CX, Citalopram / Celexa, 8 milligrams
+Described Meds
+# contents are per unit, not per recommended does
+MF, Metamucil, 3 tablespoons
+MF, CONTAINS psyllium husk soluble fiber, 2.4 grams
+MX, MiraLAX Polyethylene Glycol 3350, 1 capful
+MX, CONTAINS polyethylene glycol, 17 grams
+CL, Citalopram Liquid, 7.5 milliliters
+CL, CONTAINS citalopram, 2 milligrams
+LV, LifeExtension Two-Per-Day High Potency Supplement, 2 capsules
+LV, CONTAINS vitamin a, 2500 IU
+LV, CONTAINS vitamin c, 250 milligrams
+LV, CONTAINS vitamin d3, 1000 IU
+LV, CONTAINS vitamin e, 33.5 milligrams
+LV, CONTAINS vitamin b1, 37.5 milligrams
+LV, CONTAINS vitamin b2, 25 milligrams
+LV, CONTAINS niacin, 25 milligrams
+LV, CONTAINS vitamin b6, 37.5 milligrams
+LV, CONTAINS folate, 200 micrograms
+LV, CONTAINS vitamin b12, 150 micrograms
+LV, CONTAINS biotin, 150 micrograms
+LV, CONTAINS pantothenic acid, 25 milligrams
+LV, CONTAINS iodine, 75 micrograms
+LV, CONTAINS magnesium, 50 milligrams
+LV, CONTAINS zinc, 12.5 milligrams
+LV, CONTAINS selenium, 100 micrograms
+LV, CONTAINS manganese, 1 milligrams
+LV, CONTAINS chromium, 100 micrograms
+LV, CONTAINS molybdenum, 50 micrograms
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
-   ,                               , D3, 5000 IU
-   ,                               , K2, 140 micrograms
-VC, Vitamin C / Ascorbic Acid, 500 milligrams
-MM, Moss Nutrition Magnesium Glycinate, 1 capsule
-  ,                                   , TRAACS, 150 milligrams
+MD, CONTAINS vitamin d3, 5000 IU
+MD, CONTAINS vitamin k2, 140 micrograms
+VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
+VC, CONTAINS vitamin c, 500 milligrams
 LO, LifeExtension Super Omega-3, 2 softgels
-MF, Metamucil, 2 tablespoons
-CD, Colace Docusate Sodium, 100 milligrams / capsule
+LO, CONTAINS eicosapentaenoic acid, 350 milligrams
+LO, CONTAINS docosahexaenoic acid, 250 milligrams
+LO, CONTAINS docosapentaenoic acid, 25 milligrams
+LO, CONTAINS polyphenols, 9.75 milligrams
+LO, CONTAINS tyrosol, 2.6 milligrams
+LO, CONTAINS oleuropein, 2.2 milligrams
 DF, Finished Liquid Drink, 0 milliliters
+DF, CONTAINS drink contents, as above
+MM, Moss Nutrition Magnesium Glycinate, 1 capsule
+MM, CONTAINS magnesium glycinate TRAACS, 150 milligrams
+CD, Colace Docusate Sodium, 1 capsule
+CD, CONTAINS docusate sodium, 100 milligrams
+CX, Citalopram / Celexa 20 mg Pill, 1 pill
+CX, CONTAINS citalopram, 20 milligrams
+
+Morning Meds
+MF, Metamucil, 1 tablespoon in drink
+MX, MiraLAX Polyethylene Glycol 3350, 1 capful in drink
+CL, Citalopram Liquid, 7.5 milliliters in drink
+LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
+MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
+VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
+LO, LifeExtension Super Omega-3, 2 softgels
+DF, Finished Liquid Drink, 0 milliliters
+
+Lunch Meds
+LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
+
+Evening Meds
+MM, Moss Nutrition Magnesium Glycinate, 1 capsule
+CD, Colace Docusate Sodium, 1 capsule
+DF, Finished Liquid Drink, 0 milliliters
+
 Time, Med, Dosage, Notes
-2018-01-01T19:00:39-0500,MF,1,"liquid"
+2018-01-01T19:00:39-0500,MF,1,"drink"
 2018-01-01T19:01:19-0500,MM,1,
-2018-01-01T19:01:37-0500,CD,100 milligrams /,
+2018-01-01T19:01:37-0500,CD,1,
 2018-01-01T19:02:56-0500,DF,0,
+2018-01-02T09:56:42-0500,MF,1,"drink"
