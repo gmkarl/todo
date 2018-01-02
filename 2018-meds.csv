@@ -1,12 +1,14 @@
 Described Meds
 # contents are per unit, not per recommended does
-MF, Metamucil, 3 tablespoons
+MF, Metamucil, 1 tablespoon
+MF, RECOMMENDED, 3 tablespoons daily
 MF, CONTAINS psyllium husk soluble fiber, 2.4 grams
 MX, MiraLAX Polyethylene Glycol 3350, 1 capful
 MX, CONTAINS polyethylene glycol, 17 grams
 CL, Citalopram Liquid, 7.5 milliliters
 CL, CONTAINS citalopram, 2 milligrams
-LV, LifeExtension Two-Per-Day High Potency Supplement, 2 capsules
+LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
+LV, RECOMMENDED, 2 capsules daily
 LV, CONTAINS vitamin a, 2500 IU
 LV, CONTAINS vitamin c, 250 milligrams
 LV, CONTAINS vitamin d3, 1000 IU
@@ -31,7 +33,8 @@ MD, CONTAINS vitamin d3, 5000 IU
 MD, CONTAINS vitamin k2, 140 micrograms
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
 VC, CONTAINS vitamin c, 500 milligrams
-LO, LifeExtension Super Omega-3, 2 softgels
+LO, LifeExtension Super Omega-3, 1 softgel
+LO, RECOMMENDED, 2 softgels
 LO, CONTAINS eicosapentaenoic acid, 350 milligrams
 LO, CONTAINS docosahexaenoic acid, 250 milligrams
 LO, CONTAINS docosapentaenoic acid, 25 milligrams
@@ -39,7 +42,7 @@ LO, CONTAINS polyphenols, 9.75 milligrams
 LO, CONTAINS tyrosol, 2.6 milligrams
 LO, CONTAINS oleuropein, 2.2 milligrams
 DF, Finished Liquid Drink, 0 milliliters
-DF, CONTAINS drink contents, as above
+DF, CONTAINS drink contents, as prior
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 MM, CONTAINS magnesium glycinate TRAACS, 150 milligrams
 CD, Colace Docusate Sodium, 1 capsule
@@ -48,13 +51,14 @@ CX, Citalopram / Celexa 20 mg Pill, 1 pill
 CX, CONTAINS citalopram, 20 milligrams
 
 Morning Meds
-MF, Metamucil, 1 tablespoon in drink
-MX, MiraLAX Polyethylene Glycol 3350, 1 capful in drink
-CL, Citalopram Liquid, 7.5 milliliters in drink
+MF, Metamucil, 1 tablespoon, drink
+MX, MiraLAX Polyethylene Glycol 3350, 1 capful, drink
+CL, Citalopram Liquid, 7.5 milliliters, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
-LO, LifeExtension Super Omega-3, 2 softgels
+LO, LifeExtension Super Omega-3, 1 softgel
+LO, LifeExtension Super Omega-3, 1 softgel
 DF, Finished Liquid Drink, 0 milliliters
 
 Lunch Meds
@@ -79,3 +83,4 @@ Time, Med, Dosage, Notes
 2018-01-02T10:01:55-0500,LO,1,
 2018-01-02T10:02:19-0500,MD,1,
 2018-01-02T10:40:10-0500,DF,0,
+2018-01-02T14:56:13-0500,I'LL,fill,"in values for your morning meds!"
