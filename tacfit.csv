@@ -2,6 +2,8 @@ heart rate max 220-age, mobility min, mobity max
 186,                    0,            74.4
 
 date,       time,  day, day, intensity, level, drill,              bpm, reps
+2018-01-03, 09:08, 01, qual, mobility,  1,     ,                    88,
+2018-01-03, 08:59, 01, qual, mobility,  1,     all,                 80, as in video
 2017-12-30,      , 01, qual, mobility,  1,     spinal rotation 29,    ,
 2017-12-30,      , 01, qual, mobility,  1,     gunslinger 8,          ,
 2017-12-30,      , 01, qual, mobility,  1,     hitchhiker 12,         , 
