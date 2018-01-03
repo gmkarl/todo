@@ -55,7 +55,7 @@ do
 	echo "You took $dosage $medunit of $medname at $time !  Yippee!"
 done
 echo ''
-echo "You rock at meds!  Don't forget to lubricate your eye and treat your fissure!"
+echo "You rock at meds!  Don't forget to lubricate your eye, brush your teeth, and treat your fissure!"
 echo "Uploading ..."
 echo ''
 $TORIFY git push
