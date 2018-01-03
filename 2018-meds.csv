@@ -65,6 +65,7 @@ Lunch Meds
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 
 Evening Meds
+MF, Metamucil, 1 tablespoon, drink
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 CD, Colace Docusate Sodium, 1 capsule
 DF, Finished Liquid Drink, 0 milliliters
@@ -84,3 +85,7 @@ Time, Med, Dosage, Notes
 2018-01-02T10:02:19-0500,MD,1,
 2018-01-02T10:40:10-0500,DF,0,
 2018-01-02T16:20:52-0500,LV,1,
+2018-01-02T20:00:48-05:00,MF,1,"drink"
+2018-01-02T20:02:04-05:00,MM,1,
+2018-01-02T20:02:28-05:00,CD,1,
+2018-01-02T20:06:08-05:00,DF,0,
