@@ -3,6 +3,12 @@
 export TZ=America/New_York
 today="$(date +"%F %Z")"
 year="${today%%-*}"
+if type -p torify >/dev/null
+then
+	TORIFY=torify
+else
+	TORIFY=
+fi
 
 csv="${year}-meds.csv"
 
@@ -10,6 +16,8 @@ echo ''
 grep ^.., "$csv" | grep -v CONTAINS | grep -v RECOMMENDED | sort -u
 echo ''
 echo 'Yay!  Meds time!'
+echo ''
+$TORIFY git pull
 echo ''
 echo 'Enter meds in the form "ID Dosage".  Hit enter when you take it!'
 med='go'
@@ -50,5 +58,5 @@ echo ''
 echo "You rock at meds!  Don't forget to lubricate your eye and treat your fissure!"
 echo "Uploading ..."
 echo ''
-git push
+$TORIFY git push
 
