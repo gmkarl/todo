@@ -7,7 +7,7 @@ year="${today%%-*}"
 csv="${year}-meds.csv"
 
 echo ''
-grep ^.., "$csv"
+grep ^.., "$csv" | grep -v CONTAINS | grep -v RECOMMENDED | sort -u
 echo ''
 echo 'Yay!  Meds time!'
 echo ''
@@ -19,11 +19,12 @@ do
 	read med dosage notes
 	time="$(date -Is)"
 	if [ "x$med" == "x" ]; then break; fi
-	line="$(grep ^"$med", "$csv")"
+	med="$(echo "$med" | tr '[:lower:]' '[:upper:]')"
+	line="$(grep ^"$med", "$csv" | head -n 1)"
 	if [ "x$line" == "x" ]
 	then
-		echo "That med doesn't exist!  You should add it, or fix the ID and re-enter it!"
-		continue
+		echo ''
+		echo "OOPS !! That med doesn't exist!  You should fix the file afterwards!"
 	fi
 	line="${line#*, }"
 	medname="${line%,*}"
@@ -36,15 +37,18 @@ do
 	fi
 	if [ "x$notes" != "x" ]; then
 		notes="\"$notes\""
+		echo ''
 		echo "I'll note this with your med! $notes"
 	fi
 	echo "$time,$med,$dosage,$notes" >> "$csv"
 	git add "$csv"
-	git commit -m "meds $med $dosage"
+	git commit -qm "meds $med $dosage" &
+	echo ''
 	echo "You took $dosage $medunit of $medname at $time !  Yippee!"
 done
 echo ''
-echo "You rock at meds!  Uploading ..."
+echo "You rock at meds!  Don't forget to lubricate your eye and treat your fissure!"
+echo "Uploading ..."
 echo ''
 git push
 
