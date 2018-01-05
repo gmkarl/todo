@@ -20,4 +20,3 @@ Stop Mind Control & save TIs, activists, possible enslaved people
   - audiovisual logging
   - general security
   - community, outreach
-  - test
