@@ -1,7 +1,8 @@
-heart rate max 220-age, mobility min, mobity max, compensation range
-186,                    0,            74.4,       74.4 - 111.6
+heart rate max 220-age, mobility min, mobity max, compensation range, medium range
+186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8
 
 date,       time,  day, day, intensity, level, drill,              bpm, reps
+2018-01-05, 
 2018-01-04, 10:09, 01, qual, mobility,  1,                          92,
 2018-01-04, 09:50, 01, qual, mobility,  1,     all,                 80, 1 video of each; got upset at dr mooney called in the middle; slowing down
 2018-01-03, 09:08, 01, qual, mobility,  1,     ,                    88,
@@ -19,3 +20,9 @@ date,       time,  day, day, intensity, level, drill,              bpm, reps
 2017-12-25,      , 01, qual, mobility,  1,     backstroke 04,         ,  5
 2017-12-25, 07:07, 01, qual, mobility,  1,     knee circle 15,      72,  5
 
+INSTEP:
+	The top of the foot, where it arches up a little.
+
+SHINBOX:
+	A shinbox is the space reached when, starting sitting with legs in front of you, knees up, you move both knees to one side until they hit the floor.  One knee comes to rest touching the other foot, making a shin box on the floor.
+	
