@@ -8,8 +8,6 @@ year="${today%%-*}"
 
 csv="${year}-meds.csv"
 
-echo 'Good morning !'
-
 {
 	sleep 0.1
 	echo "I'll fill in values for your $routine meds!" > /dev/tty
@@ -48,7 +46,7 @@ echo 'Good morning !'
 				if [ "x$skip" == "x" ]
 				then
 					echo "$medid" "$dosage"
-				elif [ "x$skip" == "skip" ]
+				elif [ "x$skip" == "xskip" ]
 				then
 					echo "SKIPPED!" > /dev/tty
 				else

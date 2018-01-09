@@ -3,13 +3,16 @@
 export TZ=America/New_York
 today="$(date +"%F %Z")"
 year="${today%%-*}"
-if type -p torify >/dev/null
+if [ "x$TORIFY" == "x" ]
 then
-	TORIFY=torify
-else
-	TORIFY=
+	if type -p torify >/dev/null
+	then
+		TORIFY=torify
+	else
+		TORIFY=
+	fi
 fi
-
+	
 csv="${year}-meds.csv"
 
 echo ''
