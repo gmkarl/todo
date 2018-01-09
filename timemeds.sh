@@ -35,16 +35,40 @@ echo 'Good morning !'
 			fulldosage="${line%%,*}"
 			dosage="${fulldosage%% *}"
 			notes="${line#*, }"
+			if (( $(shuf -i 0-9 | head -n 1) == 0 ))
+			then
+				echo "I recommend SKIPPING the next med if you want !" > /dev/tty
+			fi
 			if [ "$notes" == "$line" ]
 			then
 				notes=''
 				echo "Have $fulldosage of $medname, then hit enter !" > /dev/tty
-				read </dev/tty
-				echo "$medid" "$dosage"
+				echo "Type 'skip' if you skip this med." > /dev/tty
+				read skip </dev/tty
+				if [ "x$skip" == "x" ]
+				then
+					echo "$medid" "$dosage"
+				elif [ "x$skip" == "skip" ]
+				then
+					echo "SKIPPED!" > /dev/tty
+				else
+					echo "What does '$skip' mean? fix the record !!!" > /dev/tty
+					echo "$medid" "$dosage" "skipped? '$skip' entered"
+				fi
 			else
 				echo "Have $fulldosage ($notes) of $medname, then hit enter !" >/dev/tty
-				read </dev/tty
-				echo "$medid" "$dosage" "$notes"
+				echo "Type 'skip' if you skip this med." > /dev/tty
+				read skip </dev/tty
+				if [ "x$skip" == "x" ]
+				then
+					echo "$medid" "$dosage" "$notes"
+				elif [ "x$skip" == "skip" ]
+				then
+					echo "SKIPPED!" > /dev/tty
+				else
+					echo "What does '$skip' mean? fix the record !!!" > /dev/tty
+					echo "$medid" "$dosage" "$notes ... skipped? '$skip' entered"
+				fi
 			fi
 			sleep 0.3
 		done
