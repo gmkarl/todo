@@ -9,6 +9,7 @@ Purchase / Create / Find:
 
 Doable things:
 - [ ] learn about shielded vestibules
+- [ ] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
 - [X] add paypal & cap one to credit report
 - [ ] follow up transdermals / microdermals
 - [ ] finish backup of old drive data, remember my annex is in there!
