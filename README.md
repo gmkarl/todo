@@ -8,7 +8,9 @@ Purchase / Create / Find:
 - [ ] CBD oil
 
 Doable things:
-- [ ] add paypal & cap one to credit report
+- [ ] learn about shielded vestibules
+- [ ] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
+- [X] add paypal & cap one to credit report
 - [ ] follow up transdermals / microdermals
 - [ ] finish backup of old drive data, remember my annex is in there!
 - [ ] get prescription flouride
@@ -42,6 +44,7 @@ BA Tasks:
 - [ ] purchase shoes and jacket for fall/winter 
 
 Confusing things:
+- [ ] figure out if mt.gox will give me my money or if I am too late
 - [ ] figure out junk in passat & move inverter up front or to trailer
 - [ ] consolidate possessions
 - [ ] make door for trailer
