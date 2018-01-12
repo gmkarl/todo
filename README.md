@@ -1,6 +1,6 @@
 Next
 - [ ] get trailer, rent box truck (Katie & Karl, Fri 1/12)
-- [ ] get usb key
+- [ ] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
