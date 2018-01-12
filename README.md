@@ -1,5 +1,6 @@
 Next
 - [ ] get trailer, rent box truck (Katie & Karl, Fri 1/12)
+- [ ] get bedding back to stillpoint (and get new bedding)
 - [ ] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
