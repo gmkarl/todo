@@ -44,6 +44,7 @@ BA Tasks:
 - [ ] purchase shoes and jacket for fall/winter 
 
 Confusing things:
+- [ ] resume symptom log; staff can help
 - [ ] figure out if mt.gox will give me my money or if I am too late
 - [ ] figure out junk in passat & move inverter up front or to trailer
 - [ ] consolidate possessions
