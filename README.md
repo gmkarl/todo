@@ -1,5 +1,7 @@
 Next
 - [ ] get trailer, rent box truck (Katie & Karl, Fri 1/12)
+- [ ] purchase bedding and lamp (and get bedside table from still point garage)
+- [ ] return bedding, lamp, and bedside table to still point
 - [ ] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
