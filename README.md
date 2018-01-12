@@ -1,6 +1,8 @@
 Next
-- [ ] get trailer, rent box truck (Katie & Karl, Fri 1/12)
-- [ ] get bedding back to stillpoint (and get new bedding)
+- [X] get trailer, rent box truck (Katie & Karl, Fri 1/12)
+- [ ] get bedding back to stillpoint (and [/] get new bedding)
+- [ ] return bedding, lamp, and bedside table to still point
+- [/] purchase bedding and lamp [ ] (and [ ] get bedside table from still point garage)
 - [ ] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
