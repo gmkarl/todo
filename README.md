@@ -1,5 +1,12 @@
+Next
+- [X] get trailer, rent box truck (Katie & Karl, Fri 1/12)
+- [ ] get bedding back to stillpoint (and [/] get new bedding)
+- [ ] return bedding, lamp, and bedside table to still point
+- [/] purchase bedding and lamp [ ] (and [ ] get bedside table from still point garage)
+- [ ] get usb thumb drive (weather resistant)
+- [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
+
 Purchase / Create / Find:
-- [ ] tough & empty USB key
 - [ ] pullup bar or other solution
 - [ ] more celexa
 - [ ] clean water solution
@@ -44,6 +51,8 @@ BA Tasks:
 - [ ] purchase shoes and jacket for fall/winter 
 
 Confusing things:
+- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
+- [ ] resume symptom log; staff can help
 - [ ] figure out if mt.gox will give me my money or if I am too late
 - [ ] figure out junk in passat & move inverter up front or to trailer
 - [ ] consolidate possessions
