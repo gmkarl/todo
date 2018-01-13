@@ -1,8 +1,8 @@
 Next
-- [X] get trailer, rent box truck (Katie & Karl, Fri 1/12)
-- [ ] get bedding back to stillpoint (and [/] get new bedding)
-- [ ] return bedding, lamp, and bedside table to still point
-- [/] purchase bedding and lamp [ ] (and [ ] get bedside table from still point garage)
+- [X] purchase bedding
+- [ ] replace bedding
+- [ ] return bedding to still point
+- [ ] get fluoride from sirio's
 - [ ] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
@@ -76,10 +76,7 @@ Done:
 - [X] pay debt, bill is in right hand pocket
 - [X] get registration # for passat
 - [X] move trailer items to trailer
-- [X] get off bitfinex which is non-usa only
-- [X] find more eye lubricant
-- [X] hand mirror
-- [X] adjustable wrench
+- [X] get trailer, rent box truck (Katie & Karl, Fri 1/12)
 
 Daily Tasks:
 wake up
