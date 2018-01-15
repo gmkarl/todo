@@ -1,0 +1,6 @@
+
+
+
+
+The tasks/ folder is for todo items and perhaps task progress notes.
+These things should go in the projects folder.

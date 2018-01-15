@@ -1,0 +1,32 @@
+pg 16-2 16.1.4 LENGTH OF LEASE
+  Change first sentence to such as:
+    The landlord will provide this residence to the tenant for so long as the tenant desires, with no other conditions.
+
+pg 16-4 16.1.7 SERVICES PROVIDED BY THE LANDLORD
+  We'll need to decide who pays for utilities and maintenance and under what conditions.
+
+pg 16-4 16.1.9 TENANT RESIDENTIAL RESPONSIBILITIES
+  I would ideally replace this entire section with wording along the lines of:
+    The tenant may use and alter the residence in any way so long as local codes and ordinances are complied with.
+
+pg 16-6 16.1.11 LANDLORD ENTRY INTO THE RESIDENCE
+  Ideally I would change entire paragraph to such as:
+    The landlord may not enter the apartment without obtaining consent from the
+    tenant, so as not to surprise him.  The landlord does not hold a key.
+  I would say that legal emergencies where somebody would forcefully enter a
+  building anyway would still apply.
+
+pg 16-6 16.1.12 BUILDING RULES
+  Let's adjust these to keep trust's desires met.
+  I think it would be nice to allow pets, parking, candle burning, and storage
+  on the lawn.
+
+pg 16-8 16.1.18 WHEN THE LEASE ENDS
+  I wonder if it's reasonable to adjust this to such as:
+    The lease does not end, and continues to apply to any property held by the trust, for so long as the trust continues to exist.
+
+pg 16-8 16.1.19 BREACH
+  Change first paragraph to such as:
+    Any violations ... and the Landlord may pursue legal remedies, but the Landlord may never evict the tenant.
+    
+  the lease is violated.  I'm conce
