@@ -1,9 +1,11 @@
 Next
 - [X] purchase bedding
+- [ ] reply body mod schedule
+- [ ] get squirrel nuts
 - [ ] replace bedding
 - [ ] return bedding to still point
 - [ ] get fluoride from sirio's
-- [ ] get usb thumb drive (weather resistant)
+- [X] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
