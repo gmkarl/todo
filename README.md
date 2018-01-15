@@ -1,17 +1,20 @@
 Next
 - [X] purchase bedding
+- [ ] reply body mod schedule (also below)
+- [ ] get squirrel nuts
 - [ ] replace bedding
 - [ ] return bedding to still point
-- [ ] get fluoride from sirio's
-- [ ] get usb thumb drive (weather resistant)
+- [ ] get fluoride from sirio's (also below)
+- [X] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
+- [ ] schedule next port flush (also below)
 
 Purchase / Create / Find:
 - [ ] pullup bar or other solution
-- [ ] more celexa
+- [X] more celexa
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
-- [ ] shopping list pad
+- [X] shopping list pad
 - [ ] CBD oil
 
 Doable things:
