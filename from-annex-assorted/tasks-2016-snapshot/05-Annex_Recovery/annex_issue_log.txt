@@ -1,0 +1,54 @@
+2016-05-22
+
+Issue history:
+Original annex started being unable to finish commit.
+Second annex, I cloned and copied objects folder over.  Soon, same issue.
+Third annex, cloned from elsewhere, use git annex get to get objects from
+broken repo.  Same issue developed.
+Fourth annex, cloned from elsewhere, was able to commit successfully
+prior to adding objects from broken repo.
+Some object in the broken repo seems to be causing this issue somehow.
+
+Plan to resolve:
+- copy all objects over again.  verify that issue immediately develops.
+  
+  I expect the issue will trigger when I add a set of objects with litelog.
+  So I could narrow it either by narrowing the objects I add with litelog,
+  or by narrowing the object I copy from the broken repo.
+
+  I'll narrow the issue between the two, first.
+
+annex: used to be annex.2, busted
+annex.3: third repository, busted, holds objects
+annex.4:
+	1. cloned from delta
+	2. added logs, no issue
+  3. 10:24:24 EDT rsync --delete-during'd objects in from annex.3
+  4. 10:25:10 EDT added small test file, sync'd with delta fine
+  5. 2016-05-22 10:27:38
+      I ran fetchall but ran by root by mistake.
+      files were added with wrong permissions
+      fixed permissions.  only two files were cpied, voicerecorder and muse.
+      sync works fine.'
+  6. ran fetchall (as root) again, got 4 sensorium files
+  7. add and sync seems to work fine.
+  So now this repository is functioning with additional objects copied into
+  its annex folder.  It must have been something else which caused the issue
+  on the other repo I initialized this way.
+  8. I foolishly tried to git annex add the alphabetically first object from
+  the annex/objects folder to get it annex's logs.  It failed when trying to
+  _delete_ it to replace it with a link to itself, luckily it was not writable.
+
+  I'll try using this repo - 2016-05-22 10:36:24 EDT
+
+  I'll add the remotes one at a time and sync with them, adding litelog after
+  each one.
+  ISSUE: voice recorder files have not been removed from phone
+
+  [ ] add remotes one at a time to annex.4
+      for each remote, add from litelog before moving to next remote
+  [x] nested repo is broken and wont' repair automatically; I have bnc now I can ask on chat
+      it wouldn't repair because it wasn't unlocked
+  [ ] get nested repo working fine.  this just means packing the objects
+  [x] fix voice recorder files not having been moved from phone
+      the list shown on the phone is cached.  the files have been moved.

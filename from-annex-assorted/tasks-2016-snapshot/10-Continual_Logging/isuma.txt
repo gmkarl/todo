@@ -1,0 +1,8 @@
+
+
+
+Somebody has a lot of project energy around distributed media sharing devices for native communities.
+http://isuma-media-players.readthedocs.org/
+
+My understanding is that the devices share and host files themselves, even though there may also be a central server involved.  They may even
+shell into each-other to transfer files.

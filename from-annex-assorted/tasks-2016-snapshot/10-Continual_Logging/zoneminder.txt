@@ -1,0 +1,6 @@
+
+
+
+
+Zoneminder is probably usable.  It had an issue with deleting the videos it recorded, but it is modular like litelog, and I could just use the
+simple components without the ones I do not need.

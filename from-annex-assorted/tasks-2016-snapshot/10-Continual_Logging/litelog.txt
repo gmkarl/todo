@@ -1,0 +1,10 @@
+
+
+
+
+
+[ ] Compress all the raw video recorded.  space is exhausted
+[ ] Sort out git-annex assistant filepath bug, shows in daemon.log
+[ ] Mark servers as recording, transcoding/encoding/compression, and storage
+    [ ] Use these marks to automate file transfer using git-annex assistant 
+

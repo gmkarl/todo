@@ -1,0 +1,9 @@
+
+Goals:
+  [ ] Add SPV support to blockchain-common
+  [ ] (Get BurnStream to use blockchain-common and wallet-common)
+
+Tasks to move forward:
+  [ ] Do something with webcoin to understand it
+  [ ] Make a webcoin implementation of blockchain-common to understand it
+    [ ] Use an existing implementation of blockchain-common to understand it
