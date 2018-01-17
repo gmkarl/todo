@@ -1,20 +1,16 @@
 Next
-- [X] purchase bedding
 - [ ] reply body mod schedule (also below)
 - [ ] get squirrel nuts
 - [ ] replace bedding
 - [ ] return bedding to still point
 - [ ] get fluoride from sirio's (also below)
-- [X] get usb thumb drive (weather resistant)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [ ] schedule next port flush (also below)
 
 Purchase / Create / Find:
 - [ ] pullup bar or other solution
-- [X] more celexa
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
-- [X] shopping list pad
 - [ ] CBD oil
 
 Doable things:
@@ -71,17 +67,15 @@ Mention at team meeting:
 - [X] environmental activism ally?  distant events, unexpected schedules
 
 Done:
+- [X] shopping list pad
+- [X] more celexa
+- [X] get usb thumb drive (weather resistant)
+- [X] purchase bedding
 - [ ] ask mother christmas
 - [ ] ask tor christmas
 - [X] wrap sister gift
 - [X] new metamucil & miralax
 - [X] take down staples from trailer
-- [X] scraper and adhesive remover
-- [X] gift for sister
-- [X] pay debt, bill is in right hand pocket
-- [X] get registration # for passat
-- [X] move trailer items to trailer
-- [X] get trailer, rent box truck (Katie & Karl, Fri 1/12)
 
 Daily Tasks:
 wake up
