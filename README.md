@@ -18,6 +18,8 @@ Purchase / Create / Find:
 - [ ] CBD oil
 
 Doable things:
+- [ ] schedule body mod
+- [ ] email tax docs
 - [ ] learn about shielded vestibules
 - [ ] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
 - [X] add paypal & cap one to credit report
