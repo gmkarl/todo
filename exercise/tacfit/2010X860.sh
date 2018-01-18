@@ -1,11 +1,10 @@
 #!/bin/bash
+
 dir="$1"
-PLAYONCE="cvlc --play-and-exit "
-PLAYLOOP="cvlc --loop"
-STOPWATCH="./stopwatch.sh"
+. ./functions
 
 echo '=== 1 round of warmup =='
-$PLAYONCE "$dir"/00-warmup/*
+playall60 "$dir"/00-warmup
 
 echo 'Warmup done, beginning workout in 20'
 $STOPWATCH 20
@@ -37,7 +36,7 @@ done
 
 
 echo '=== 1 round of cooldown ==='
-$PLAYONCE "$dir"/02-cooldown/*
+playall60 "$dir"/02-cooldown
 
 echo '=== DONE ! ==='
 echo 'Write your final heart rate'
