@@ -6,6 +6,9 @@ Next
 - [ ] get fluoride from sirio's (also below)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [ ] schedule next port flush (also below)
+- [ ] get fluoride
+- [ ] do eeg
+- [ ] check off done items
 
 Purchase / Create / Find:
 - [ ] pullup bar or other solution
