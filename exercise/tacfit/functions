@@ -1,4 +1,5 @@
 PLAYLOOP="cvlc --loop --quiet"
+PLAYONCE="cvlc --play-and-exit --quiet"
 STOPWATCH="./stopwatch.sh"
 
 playfor()
@@ -13,12 +14,13 @@ playall60()
 {
 	for drill in "$1"/*
 	do
-		echo "30 seconds: LEFT $drill"
-		$PLAYLOOP "$drill" &
+		$PLAYONCE "$drill" &
+		echo "30 seconds: LEFT $(basename "$(readlink "$drill")") $drill"
 		playpid=$!
 		$STOPWATCH 30
-		echo "30 seconds: RIGHT $drill"
+		echo "30 seconds: RIGHT $(basename "$(readlink "$drill")") $drill"
 		$STOPWATCH 30
-		kill $playpid
+		wait $playpid 2>/dev/null
+		#kill $playpid
 	done
 }
