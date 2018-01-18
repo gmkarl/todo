@@ -4,6 +4,7 @@ Next
 - [ ] get fluoride from sirio's (also below)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [ ] schedule next port flush (also below)
+- [ ] schedule port removal (??? not scheduled)
 - [ ] do eeg
 - [ ] check off done items
 
