@@ -1,16 +1,14 @@
 Next
-- [ ] reply body mod schedule (also below)
 - [ ] get squirrel nuts
-- [ ] replace bedding
 - [ ] return bedding to still point
 - [ ] get fluoride from sirio's (also below)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [ ] schedule next port flush (also below)
-- [ ] get fluoride
 - [ ] do eeg
 - [ ] check off done items
 
 Purchase / Create / Find:
+- [ ] better 12v battery charger (charge controller?)
 - [ ] pullup bar or other solution
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
@@ -21,8 +19,6 @@ Doable things:
 - [ ] email tax docs
 - [ ] learn about shielded vestibules
 - [ ] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
-- [X] add paypal & cap one to credit report
-- [ ] follow up transdermals / microdermals
 - [ ] finish backup of old drive data, remember my annex is in there!
 - [ ] get prescription flouride
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
@@ -33,7 +29,6 @@ Doable things:
 - [ ] get a new dentist
 - [ ] get a new eye doctor
 - [ ] update log to note which items done each day & include katie's items
-- [ ] brainstorm gift for dad
 - [ ] check xloem's posted bounties; ask bountysource to ensure they are in search results
 - [ ] buy truck
 - [ ] update trailer sticker
@@ -42,17 +37,10 @@ Doable things:
 - [ ] visit makerspace to the south
 - [ ] restaple walls trailer
 - [ ] resume EEG
-- [ ] visit garage bay
 
 BA Tasks:
 - [ ] Research box truck
-- [ ] Interview Housemate at 1:30
-- [ ] Fill out rental application
-- [ ] photo copy Karl's license for rental application
-- [ ] purchase inverter-based tig welder based on instructor's recs
 - [ ] plan trip to Indian Orchard
-- [ ] discuss tonight (and dinner)
-- [ ] purchase shoes and jacket for fall/winter 
 
 Confusing things:
 - [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
@@ -68,17 +56,21 @@ Confusing things:
 
 Mention at team meeting:
 - [X] environmental activism ally?  distant events, unexpected schedules
+- [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
-- [X] shopping list pad
-- [X] more celexa
-- [X] get usb thumb drive (weather resistant)
-- [X] purchase bedding
-- [ ] ask mother christmas
-- [ ] ask tor christmas
-- [X] wrap sister gift
-- [X] new metamucil & miralax
-- [X] take down staples from trailer
+- [ ] brainstorm gift for dad
+- [ ] visit garage bay
+- [ ] discuss tonight (and dinner)
+- [ ] purchase shoes and jacket for fall/winter 
+- [X] reply body mod schedule (also below)
+- [X] replace bedding
+- [X] add paypal & cap one to credit report
+- [x] follow up transdermals / microdermals
+- [X] Interview Housemate at 1:30
+- [X] Fill out rental application
+- [X] photo copy Karl's license for rental application
+- [X] purchase inverter-based tig welder based on instructor's recs
 
 Daily Tasks:
 wake up
