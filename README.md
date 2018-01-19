@@ -39,6 +39,7 @@ Doable things:
 
 BA Tasks:
 - [ ] organize, consolidate possessions
+- [ ] help karl wear eeg cap
 - [ ] Research box truck
 - [ ] plan trip to Indian Orchard
 
