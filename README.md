@@ -40,6 +40,7 @@ Doable things:
 - [ ] resume EEG
 
 BA Tasks:
+- [ ] organize, consolidate possessions
 - [ ] Research box truck
 - [ ] plan trip to Indian Orchard
 
