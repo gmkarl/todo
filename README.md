@@ -1,12 +1,8 @@
 Next
 - [ ] get squirrel nuts
 - [ ] return bedding to still point
-- [ ] get fluoride from sirio's (also below)
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
-- [ ] schedule next port flush (also below)
-- [ ] schedule port removal (??? not scheduled)
 - [ ] do eeg
-- [ ] check off done items
 
 Purchase / Create / Find:
 - [ ] better 12v battery charger (charge controller?)
@@ -61,6 +57,10 @@ Mention at team meeting:
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] get fluoride from sirio's (also below)
+- [X] schedule next port flush (also below)
+- [X] schedule port removal (??? not scheduled)
+- [X] check off done items
 - [ ] brainstorm gift for dad
 - [ ] visit garage bay
 - [ ] discuss tonight (and dinner)
@@ -68,11 +68,6 @@ Done:
 - [X] reply body mod schedule (also below)
 - [X] replace bedding
 - [X] add paypal & cap one to credit report
-- [x] follow up transdermals / microdermals
-- [X] Interview Housemate at 1:30
-- [X] Fill out rental application
-- [X] photo copy Karl's license for rental application
-- [X] purchase inverter-based tig welder based on instructor's recs
 
 Daily Tasks:
 wake up
