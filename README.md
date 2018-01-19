@@ -11,7 +11,8 @@ Purchase / Create / Find:
 - [ ] mobile clothes solution, small portable bureau
 - [ ] CBD oil
 
-Doable things: to 
+Doable things:
+- [ ] visit zine place
 - [ ] register nvda
 - [ ] schedule body mod
 - [ ] email tax docs
