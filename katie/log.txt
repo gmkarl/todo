@@ -10,9 +10,9 @@
 
 // Things Katie has accomplished
 
-2018-01-19 updated plan to include advice from reviewn [example]
-2018-01-18 made some folders following plan [example]
-2018-01-17 added document laying out plan [example]
+2018-01-19 started "transcranial implants" file in "Organization" folder that includes the appointment date, and preparation notes
+2018-01-18 created "how to make things happen" document, and gave to team members
+
 
 
 
