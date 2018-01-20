@@ -20,7 +20,7 @@ Doable things:
 - [ ] build simple trailer (1 alu layer)
 - [ ] learn to weld
 - [ ] find person to build room for me
-- [ ] hire tech helper
+- [ ] hire tech-savvy researcher, worker, executive assistant
 - [ ] build & test a small box
 - [ ] organize notes for shielding goals somewhere
 - [ ] brass used for knife edge on door; how to connect this to wall?
