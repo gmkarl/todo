@@ -12,12 +12,24 @@ Purchase / Create / Find:
 - [ ] CBD oil
 
 Doable things:
+- [ ] visit zine place
+- [ ] register nvda
 - [ ] schedule body mod
 - [ ] email tax docs
 - [ ] learn about shielded vestibules
+- [ ] build simple trailer (1 alu layer)
+- [ ] learn to weld
+- [ ] find person to build room for me
+- [ ] hire tech-savvy researcher, worker, executive assistant
+- [ ] build & test a small box
+- [ ] organize notes for shielding goals somewhere
+- [ ] brass used for knife edge on door; how to connect this to wall?
+  - [ ] how do existing structures do it?
+  - [ ] what attenuation properties provided by high conductivity of brass?
+  - [ ] what materials will work for 200dB walls?
 - [ ] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
 - [ ] finish backup of old drive data, remember my annex is in there!
-- [ ] get prescription flouride
+- [Z] get prescription flouride
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
       note: katie found local neurologist
 - [ ] schedule next port flush; missed last one but was redundant
@@ -37,6 +49,8 @@ Doable things:
 
 BA Tasks:
 - [ ] organize, consolidate possessions
+- [ ] help karl wear eeg cap
+- [ ] visit flywheel arts
 - [ ] Research box truck
 - [ ] plan trip to Indian Orchard
 
