@@ -1,12 +1,17 @@
 - what is a glut?  what is a scapula?
 - computer quiets display after a time
 - text is small and hard to see; can set terminal window to be behind all
+- can we overlay text on top of video?
 - would be nice to have time automatically entered
 - computer needs to be on ground to see screen during ground exercises
 triceps, lats, scaps
 
 heart rate max 220-age, mobility min, mobity max, compensation range, medium range,  high intensity range
 186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8, 148.8 - 186
+
+date,       time,  day, day, intensity, level, drill,              bpm, reps
+2018-01-21, 10:23,   ,     ,          ,      ,      , 132
+2018-01-21, 10:03, 05, alpha, mobility, 1,     , 80,
 final bpm 126: ended 09:58 EST
 2, 7, 5, 0, 0, 2, 5, 0, 120, 2, 7, 2
 5, 8, 5, 0, 0, 0, 0, 0, 104, 5, 9, 2
@@ -14,8 +19,6 @@ final bpm 126: ended 09:58 EST
 2, 3, 4, 3, 2, 0, 3, 4, 152, 5, 7, 1
 0, 2, 3, 2, 2, 2, 1, 2, 122, 4, 6, 2
 6, 6, 7, 7, 6, 4, 4, 5, 136, 5, 8, 5
-date,       time,  day, day, intensity, level, drill,              bpm, reps
-
 2018-01-20, 09:12,  04, qual, high,     1,     ,                   72,
 stop: 2018-01-19 08:05 EST
 did not finish compensation
