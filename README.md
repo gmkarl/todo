@@ -13,6 +13,14 @@ Purchase / Create / Find:
 - [ ] mobile clothes solution, small portable bureau
 - [ ] CBD oil
 
+Bring to trailer:
+- [ ] aluminum
+- [ ] glue to protect corners
+- [ ] straight edge
+- [ ] 45 degree measure
+- [ ] measuring tape
+- [ ] alu scissors
+
 Doable things:
 - [ ] visit zine place
 - [ ] email tax docs
