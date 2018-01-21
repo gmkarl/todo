@@ -1,4 +1,6 @@
 Next
+- [ ] rent vehicle for ny trip
+- [ ] register nvda
 - [ ] get squirrel nuts
 - [ ] return bedding to still point
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
@@ -13,9 +15,10 @@ Purchase / Create / Find:
 
 Doable things:
 - [ ] visit zine place
-- [ ] register nvda
-- [ ] schedule body mod
 - [ ] email tax docs
+- [ ] finish backup of old drive data, remember my annex is in there!
+- [ ] buy truck
+- [ ] update trailer sticker
 - [ ] learn about shielded vestibules
 - [ ] build simple trailer (1 alu layer)
 - [ ] learn to weld
@@ -27,20 +30,11 @@ Doable things:
   - [ ] how do existing structures do it?
   - [ ] what attenuation properties provided by high conductivity of brass?
   - [ ] what materials will work for 200dB walls?
-- [ ] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
-- [ ] finish backup of old drive data, remember my annex is in there!
-- [Z] get prescription flouride
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
       note: katie found local neurologist
-- [ ] schedule next port flush; missed last one but was redundant
-- [ ] pick up flouride @ serio's
-- [ ] grocery shopping
 - [ ] get a new dentist
 - [ ] get a new eye doctor
 - [ ] update log to note which items done each day & include katie's items
-- [ ] check xloem's posted bounties; ask bountysource to ensure they are in search results
-- [ ] buy truck
-- [ ] update trailer sticker
 - [ ] visit mill180
 - [ ] visit artsy place katie found
 - [ ] visit makerspace to the south
@@ -58,30 +52,26 @@ Confusing things:
 - [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
 - [ ] resume symptom log; staff can help
 - [ ] figure out if mt.gox will give me my money or if I am too late
-- [ ] figure out junk in passat & move inverter up front or to trailer
 - [ ] consolidate possessions
 - [ ] make door for trailer
 - [ ] Finish EE lab report
 - [ ] Add items for tasks not on this list
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
 - [ ] Find trailer registration
+- [ ] figure out junk in passat & [X] move inverter up front or to trailer
 
 Mention at team meeting:
 - [X] environmental activism ally?  distant events, unexpected schedules
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
-- [X] get fluoride from sirio's (also below)
-- [X] schedule next port flush (also below)
-- [X] schedule port removal (??? not scheduled)
-- [X] check off done items
-- [ ] brainstorm gift for dad
-- [ ] visit garage bay
-- [ ] discuss tonight (and dinner)
-- [ ] purchase shoes and jacket for fall/winter 
-- [X] reply body mod schedule (also below)
-- [X] replace bedding
-- [X] add paypal & cap one to credit report
+- [X] schedule next port flush; missed last one but was redundant
+- [X] pick up flouride @ serio's
+- [X] grocery shopping
+- [X] check xloem's posted bounties; ask bountysource to ensure they are in search results
+- [X] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
+- [X] schedule body mod
+- [X] get prescription flouride
 
 Daily Tasks:
 wake up
