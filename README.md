@@ -20,6 +20,8 @@ Bring to trailer:
 - [ ] 45 degree measure
 - [ ] measuring tape
 - [ ] alu scissors
+- [ ] haven phone & microusb
+- [ ] strong clips
 
 Doable things:
 - [ ] visit zine place
