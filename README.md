@@ -5,6 +5,7 @@ Next
 - [ ] return bedding to still point
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [X] do eeg
+- [ ] deposit christmas check at umassfive college fcu
 
 Purchase / Create / Find:
 - [ ] better 12v battery charger (charge controller?)
@@ -12,6 +13,7 @@ Purchase / Create / Find:
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
 - [ ] CBD oil
+- [ ] 45 degree square
 
 Bring to trailer:
 - [ ] aluminum
