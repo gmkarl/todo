@@ -8,6 +8,8 @@ Next
 - [ ] deposit christmas check at umassfive college fcu
 
 Purchase / Create / Find:
+- [ ] vitamin C
+- [ ] squirrel nuts & other items on shopping list
 - [ ] better 12v battery charger (charge controller?)
 - [ ] pullup bar or other solution
 - [ ] clean water solution
