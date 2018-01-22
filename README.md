@@ -1,10 +1,10 @@
 Next
 - [ ] rent vehicle for ny trip
-- [ ] register nvda
+- [X] register nvda
 - [ ] get squirrel nuts
 - [ ] return bedding to still point
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
-- [ ] do eeg
+- [X] do eeg
 
 Purchase / Create / Find:
 - [ ] better 12v battery charger (charge controller?)
