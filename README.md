@@ -2,12 +2,17 @@ Next
 - [ ] rent vehicle for ny trip
 - [X] register nvda
 - [ ] get squirrel nuts
-- [ ] return bedding to still point
+- [X] return bedding to still point
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [X] do eeg
 - [ ] deposit christmas check at umassfive college fcu
+- [ ] moss nutrition vitamin d+k 5000
+- [ ] full circle vitamin c 500 mg
+- [ ] lifeextension super omega-3 epa/dha with etc
 
 Purchase / Create / Find:
+- [ ] vitamin C
+- [ ] squirrel nuts & other items on shopping list
 - [ ] better 12v battery charger (charge controller?)
 - [ ] pullup bar or other solution
 - [ ] clean water solution
