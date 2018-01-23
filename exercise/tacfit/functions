@@ -21,6 +21,20 @@ playall60()
 		echo "30 seconds: RIGHT $(basename "$(readlink "$drill")") $drill"
 		$STOPWATCH 30
 		wait $playpid 2>/dev/null
-		#kill $playpid
+	done
+}
+
+playallN()
+{
+	s=$(($2/2))
+	for drill in "$1"/*
+	do
+		$PLAYLOOP "$drill" &
+		echo "$s seconds: LEFT $(basename "$(readlink "$drill")") $drill"
+		playpid=$!
+		$STOPWATCH $s
+		echo "$s seconds: RIGHT $(basename "$(readlink "$drill")") $drill"
+		$STOPWATCH $s
+		kill $playpid
 	done
 }
