@@ -1,40 +1,23 @@
 PLAYLOOP="cvlc --loop --quiet"
 PLAYONCE="cvlc --play-and-exit --quiet"
+DURATION="avprobe -v 0 -show_format_entry duration"
 STOPWATCH="./stopwatch.sh"
 
-playfor()
+PLAYFOR()
 {
-	$PLAYLOOP "$1" &
-	playpid=$!
-	$STOPWATCH $(($2))
-	kill $playpid
+	rate="$(python -c "print($($DURATION "$1") / $2)")"
+	$PLAYONCE --rate "$rate" "$1"
 }
 
-playall60()
+playalloncefor()
 {
+	dir="$1"
+	timetotal="$2"
+	count=$(($(ls "$dir" | wc -l)))
+	timeper="$(python -c "print($timetotal / $count)")"
 	for drill in "$1"/*
 	do
-		$PLAYONCE "$drill" &
-		echo "30 seconds: LEFT $(basename "$(readlink "$drill")") $drill"
-		playpid=$!
-		$STOPWATCH 30
-		echo "30 seconds: RIGHT $(basename "$(readlink "$drill")") $drill"
-		$STOPWATCH 30
-		wait $playpid 2>/dev/null
-	done
-}
-
-playallN()
-{
-	s=$(($2/2))
-	for drill in "$1"/*
-	do
-		$PLAYLOOP "$drill" &
-		echo "$s seconds: LEFT $(basename "$(readlink "$drill")") $drill"
-		playpid=$!
-		$STOPWATCH $s
-		echo "$s seconds: RIGHT $(basename "$(readlink "$drill")") $drill"
-		$STOPWATCH $s
-		kill $playpid
+		PLAYFOR "$drill" "$timeper" &
+		$STOPWATCH "$timeper"
 	done
 }
