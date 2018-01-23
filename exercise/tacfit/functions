@@ -9,6 +9,21 @@ PLAYFOR()
 	$PLAYONCE --rate "$rate" "$1"
 }
 
+playloop()
+{
+	fn="$*"
+	range="${fn#*:}"
+	if [ "$range" != "$fn" ]
+	then
+		range="${range%.*}"
+		start="${range%-*}"
+		stop="${range#*-}"
+		$PLAYLOOP --start-time $start --stop-time $stop "$fn"
+	else
+		$PLAYLOOP "$fn"
+	fi
+}
+
 playalloncefor()
 {
 	dir="$1"
