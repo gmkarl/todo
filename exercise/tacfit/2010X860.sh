@@ -12,7 +12,7 @@ $STOPWATCH 20
 for ex in "$dir"/01-*
 do
 	echo "=== 8 sets: $(readlink $ex) === "
-	$PLAYLOOP "$ex" &
+	playloop "$ex" &
 	playpid=$!
 	for set in 1 2 3 4 5 6 7 8
 	do

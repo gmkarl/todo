@@ -2,12 +2,17 @@ Next
 - [ ] rent vehicle for ny trip
 - [X] register nvda
 - [ ] get squirrel nuts
-- [ ] return bedding to still point
+- [X] return bedding to still point
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [X] do eeg
 - [ ] deposit christmas check at umassfive college fcu
+- [ ] moss nutrition vitamin d+k 5000
+- [ ] full circle vitamin c 500 mg
+- [ ] lifeextension super omega-3 epa/dha with etc
 
 Purchase / Create / Find:
+- [ ] vitamin C
+- [ ] squirrel nuts & other items on shopping list
 - [ ] better 12v battery charger (charge controller?)
 - [ ] pullup bar or other solution
 - [ ] clean water solution
@@ -61,6 +66,8 @@ BA Tasks:
 - [ ] plan trip to Indian Orchard
 
 Confusing things:
+- [ ] add inventory list to google sheets & a csv of it to this repo
+- [ ] somehow sync inventory csv with something others can use
 - [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
 - [ ] resume symptom log; staff can help
 - [ ] figure out if mt.gox will give me my money or if I am too late
