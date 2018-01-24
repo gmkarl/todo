@@ -4,7 +4,7 @@ dir="$1"
 . ./functions
 
 echo '=== 1 round of warmup =='
-playall60 "$dir"/00-warmup
+playalloncefor "$dir"/00-warmup $((18*60/3))
 
 echo 'Warmup done, beginning workout in 20'
 $STOPWATCH 20
@@ -12,7 +12,7 @@ $STOPWATCH 20
 for ex in "$dir"/01-*
 do
 	echo "=== 8 sets: $(readlink $ex) === "
-	playloop "$ex" &
+	playloopbg "$ex"
 	playpid=$!
 	for set in 1 2 3 4 5 6 7 8
 	do
@@ -36,7 +36,7 @@ done
 
 
 echo '=== 1 round of cooldown ==='
-playall60 "$dir"/02-cooldown
+playalloncefor "$dir"/02-cooldown $((18*60/3))
 
 echo '=== DONE ! ==='
 echo 'Write your final heart rate'
