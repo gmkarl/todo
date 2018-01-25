@@ -67,6 +67,7 @@ BA Tasks:
 - [ ] plan trip to Indian Orchard
 
 Confusing things:
+- [ ] electromagnetic compatibility engineer like david weston could be shielded room designer
 - [ ] add inventory list to google sheets & a csv of it to this repo
 - [ ] somehow sync inventory csv with something others can use
 - [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
