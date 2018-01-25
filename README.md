@@ -1,4 +1,5 @@
 Next
+- [ ] celexa
 - [ ] rent vehicle for ny trip
 - [X] register nvda
 - [ ] get squirrel nuts
