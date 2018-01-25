@@ -5,11 +5,11 @@ STOPWATCH="./stopwatch.sh"
 
 PLAYFOR()
 {
-	rate="$(python -c "print($($DURATION "$1") / $2)")"
+	local rate="$(python -c "print($($DURATION "$1") / $2)")"
 	$PLAYONCE --rate "$rate" "$1"
 }
 
-playloop()
+playloopbg()
 {
 	fn="$*"
 	range="${fn#*:}"
@@ -18,18 +18,18 @@ playloop()
 		range="${range%.*}"
 		start="${range%-*}"
 		stop="${range#*-}"
-		$PLAYLOOP --start-time $start --stop-time $stop "$fn"
+		$PLAYLOOP --start-time $start --stop-time $stop "$fn" &
 	else
-		$PLAYLOOP "$fn"
+		$PLAYLOOP "$fn" &
 	fi
 }
 
 playalloncefor()
 {
-	dir="$1"
-	timetotal="$2"
-	count=$(($(ls "$dir" | wc -l)))
-	timeper="$(python -c "print($timetotal / $count)")"
+	local dir="$1"
+	local timetotal="$2"
+	local count=$(($(ls "$dir" | wc -l)))
+	local timeper="$(python -c "print($timetotal / $count)")"
 	for drill in "$1"/*
 	do
 		PLAYFOR "$drill" "$timeper" &

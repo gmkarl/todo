@@ -1,15 +1,12 @@
 Next
 - [ ] celexa
-- [ ] rent vehicle for ny trip
-- [X] register nvda
+- [ ] aluminum (steel?) water bottle
+- [ ] rent vehicle
 - [ ] get squirrel nuts
-- [X] return bedding to still point
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
-- [X] do eeg
+- [ ] do eeg
 - [ ] deposit christmas check at umassfive college fcu
-- [ ] moss nutrition vitamin d+k 5000
 - [ ] full circle vitamin c 500 mg
-- [ ] lifeextension super omega-3 epa/dha with etc
 
 Purchase / Create / Find:
 - [ ] vitamin C
@@ -68,6 +65,7 @@ BA Tasks:
 
 Confusing things:
 - [ ] electromagnetic compatibility engineer like david weston could be shielded room designer
+- [ ] ensure brian decker is still on track for piercing, feb 24, mar 24
 - [ ] add inventory list to google sheets & a csv of it to this repo
 - [ ] somehow sync inventory csv with something others can use
 - [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
@@ -86,13 +84,12 @@ Mention at team meeting:
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] moss nutrition vitamin d+k 5000
+- [X] lifeextension super omega-3 epa/dha with etc
+- [X] register nvda
+- [X] return bedding to still point
 - [X] schedule next port flush; missed last one but was redundant
 - [X] pick up flouride @ serio's
-- [X] grocery shopping
-- [X] check xloem's posted bounties; ask bountysource to ensure they are in search results
-- [X] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
-- [X] schedule body mod
-- [X] get prescription flouride
 
 Daily Tasks:
 wake up
