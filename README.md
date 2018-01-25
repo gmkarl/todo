@@ -1,13 +1,12 @@
 Next
+- [ ] celexa
 - [ ] aluminum (steel?) water bottle
 - [ ] rent vehicle
 - [ ] get squirrel nuts
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [ ] do eeg
 - [ ] deposit christmas check at umassfive college fcu
-- [ ] moss nutrition vitamin d+k 5000
 - [ ] full circle vitamin c 500 mg
-- [ ] lifeextension super omega-3 epa/dha with etc
 
 Purchase / Create / Find:
 - [ ] vitamin C
@@ -84,13 +83,12 @@ Mention at team meeting:
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] moss nutrition vitamin d+k 5000
+- [X] lifeextension super omega-3 epa/dha with etc
 - [X] register nvda
 - [X] return bedding to still point
 - [X] schedule next port flush; missed last one but was redundant
 - [X] pick up flouride @ serio's
-- [X] grocery shopping
-- [X] check xloem's posted bounties; ask bountysource to ensure they are in search results
-- [X] page 194 of hamming’s architectural guide specifies vents shielded up to 34 ghz.  This is the kind of approach I am looking for; review it.
 
 Daily Tasks:
 wake up
