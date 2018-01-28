@@ -1,5 +1,5 @@
-PLAYLOOP="cvlc --loop --quiet"
-PLAYONCE="cvlc --play-and-exit --quiet"
+PLAYLOOP="cvlc --fullscreen --loop --quiet"
+PLAYONCE="cvlc --fullscreen --play-and-exit --quiet"
 DURATION="avprobe -v 0 -show_format_entry duration"
 STOPWATCH="./stopwatch.sh"
 
@@ -32,7 +32,11 @@ playalloncefor()
 	local timeper="$(python -c "print($timetotal / $count)")"
 	for drill in "$1"/*
 	do
-		PLAYFOR "$drill" "$timeper" &
-		$STOPWATCH "$timeper"
+		PLAYFOR "$drill" "$timeper"
 	done
+}
+
+notify()
+{
+	notify-send "$1" "$2"
 }
