@@ -113,3 +113,24 @@ sit spot
 journal
 eye goop
 EE
+
+2018-01-28 Sun tasks (deleteme):
+[X] do daily todo list
+[ ] put on eeg cap
+[ ] do next exercise routine
+[ ] set up next exercise routine
+[ ] set up xfinity internet
+	-> some issue ... I made an account but didn't get confirmation email
+	-> may need to go to place with better internet
+	-> if can't figure next step, just make new account with different address
+	-> if need internet, just reregister with father's account!
+[ ] set up program to convert between cvs and google sheets to integrate inventory system
+	-> issue ... not sure how to create google signed authentication
+	-> will have to read and comprehend google documentation, extensive
+[ ] select cell phone for jessica
+	-> too many options, maybe staff can help
+[ ] work on trailer !
+[ ] install eeg analysis program (ovh update)
+[ ] put tools back in basement
+[ ] make meal for supper with eric?
+[ ] update this readme thing
