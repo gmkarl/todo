@@ -1,15 +1,44 @@
-01. Routine ("Definite Routine" section and "Ideal Routine" section)
-02. Tasks ("To Do Next" Section, "This Week" section, "Done" section--or just check boxes? "Repository doable" and "confusing" tasks section) 
-03. Projects ("This Month" section, "This Year" section, "Longterm" section. "Repository doable" and "confusing" projects section)) 
-04. Values
-05. Work in Progress 
-06. Upcoming Appointments
+01. Routine ("Definite Routine" section and "Ideal Routine" section. include a check box script)
+02. Tasks ("To Do Next" Section, "This Week" section, "Done" section--or just check boxes? "Queue doable" and "confusing" tasks section). CSV. google sheets? 
+03. Projects ("This Month" section, "This Year" section, "Longterm" section. "Queue doable" and "confusing" projects section)) 
+04. Groceries and Items to Purchase
+05. Upcoming Appointments 
+
 07. Team Meeting Agenda
-08. Medications
-09. Calendar
-10. Groceries and Items to Purchase
+08. Medications (track what meds K has taken)
+09. Calendar (could sych with google, work in progress)
+04. Values
+05. Work in Progress (to be organized,
 
+== karl's thoughts in progress trying to comprehend categorizing things ==
+Karl Personal
+  - schedule / todo / checklists
+  - raw data & scripts
+  - thought organization, planning (values, projects)
+Team
+  - team meeting agenda
+  - data reports?
 
+Queue of Queues!  Queue Conveyor Belt!
+Planning
+  1 - INCOMING CONFUSING IDEA
+  2 - NASCENT PROJECT / VALUE / GOAL
+
+Action
+  3 - DEVELOPED PROJECT / VALUE / GOAL
+    - related documents
+  4 - ACTIONABLE TASKS / ROUTINE ITEMS
+    - routine items
+    - task items
+    - purchasing items
+    - scheduling items
+
+Projects/Tasks have 2 parts:
+  - 
+  - Planning them (determining what they are, what priority they are, what components they have, and when to do them)
+  - Doing them (checking a box, organizing related documents in one spot)
+
+== == ==
 
 TIPS FOR ORGANIZING THAT KARL HAS FOUND USEFUL
 - "In the annex folder is an example of one of the more recent todo-list techniques I was using.
@@ -31,3 +60,5 @@ a regular check in for reviewing how the system is working and how to review
 it--a weekly activity that never leaves the list and would go on the calendar.
 The first thing we add to the system: schedule regular integration of other 
 things and regular system review.)
+
+Priority Queue: for tasks, each thing could have a priority. 00-99 (00 is highest priority, 99 lowest, 50 middle)
