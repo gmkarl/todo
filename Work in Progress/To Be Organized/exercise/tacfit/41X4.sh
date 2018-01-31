@@ -4,11 +4,11 @@ dir="$1"
 . ./functions
 
 notify "One round of warmup" "Do each mobility drill once over 6 minutes."
-# playalloncefor "$dir"/00-warmup $((18*60/3))
+playalloncefor "$dir"/00-warmup $((18*60/3))
 
 notify "4/1X4 Workout" "You will perform each exercise for one round 4 minutes in duration, and take 1 minute recovery in between each exercise.  Pace and regress as necessary to perform without stopping."
 
-# $STOPWATCH 20 "Workout starting in 20."
+$STOPWATCH 20 "Workout starting in 20."
 
 for drill in "$dir"/01-*
 do
