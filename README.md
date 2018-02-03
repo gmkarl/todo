@@ -64,6 +64,7 @@ BA Tasks:
 - [ ] plan trip to Indian Orchard
 
 Confusing things:
+- [ ] remember + consolidate in writing importance of shielding using common or scavanged materials (e.g. say i can't receive mail or cannot phone or email or have no money)
 - [ ] electromagnetic compatibility engineer like david weston could be shielded room designer
 - [ ] ensure brian decker is still on track for piercing, feb 24, mar 24
 - [ ] add inventory list to google sheets & a csv of it to this repo
