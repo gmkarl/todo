@@ -12,7 +12,7 @@
 
 2018-01-19 started "transcranial implants" file in "Organization" folder that includes the appointment date, and preparation notes
 2018-01-18 created "how to make things happen" document, and gave to team members
-
+2018-02-04 created new folders and files to begin to implement new organizational structure
 
 
 
