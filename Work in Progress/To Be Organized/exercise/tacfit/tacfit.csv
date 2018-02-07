@@ -11,13 +11,15 @@ heart rate max 220-age, mobility min, mobity max, compensation range, medium ran
 186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8, 148.8 - 186
 
 date,       time,  day, day, intensity, level, drill,              bpm, reps
+2018-02-07, 05:06,    ,        ,         ,  ,       ,              102,
+2018-02-07, 04:47,  13, charlie, mobility, 1,       ,              88,
 09:10 116
 23, 136, 2, 9, 2
 23, 128, 1, 8, 2
 36, 124, 6, 3, 1
 reps?, 128, 6, 7, 3
 41X4.sh primal-41X4-01-delta-03-workout
-2018-02-06, 08:32,  12,      , high   ,  1,         ,              72, 
+2018-02-06, 08:32,  12, bravo, high   ,  1,         ,              72, 
 2018-01-31, 10:05
 13, 140, 2, 6, 2
 34, 140, 4, 6, 2
