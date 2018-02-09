@@ -1,0 +1,18 @@
+
+
+# Hand-made Panels
+
+== Notes Monologue (deleteme when formalized)
+I've dreamed up a way to make a more flexible solar charging system by dynamically reconfiguring how the panels are wired.
+More amps at higher voltage in varied conditions overall.
+
+The idea is to break up the cells into units and wire the units in a binary tree.
+A single panel is made up of a number of cells whose maximum voltage is the minimum voltage needed to dispense power.
+
+The smallest unit in the tree configuration (leaf unit) is made up of two panels, and that is all it contains.
+Larger units (inner nodes of the tree) have a consistent configuration:
+	Each unit has two subunits and four voltage outputs (2 positive and 2 negative).
+	The two subunits provide 8 voltage inputs.
+	... TODO: explain these will be wired together, perhaps such that 8 electrically-controlled DPDT switches can configure them into 2^8 configurations, controlling which set of inputs are wired in series into the first pair of outputs, and which set of inputs are wired in series into the second pair of outputs.  The hope is to allow the panels to be wired in series until the voltage is high enough, and then in parallel in such a way that shaded cells are not series with lit cells, which would limit the current.
+
+
