@@ -4,6 +4,7 @@ Every Shift 10 minutes:
 - [ ] eeg
 - [ ] unpack / tidy
 - [ ] paperwork / notes organizing / planning
+- [ ] solar
 
 Next
 - [ ] aluminum (steel?) water bottle
@@ -19,16 +20,37 @@ Purchase / Create / Find:
 
 Bring to trailer:
 - [ ] glue to protect corners
-- [ ] alu scissors
 - [ ] haven phone & microusb
-- [ ] strong clips
 
 Doable things:
+- [ ] make haven phone work
 - [ ] visit zine place
-- [ ] email tax docs
 - [ ] finish backup of old drive data, remember my annex is in there!
 - [ ] buy truck
 - [ ] update trailer sticker
+- [ ] get a new eye doctor
+- [ ] visit mill180
+- [ ] visit artsy place katie found
+- [ ] visit makerspace to the south
+- [ ] restaple walls trailer
+- [ ] resume EEG
+- [ ] sync inventory list with this repo
+- [ ] resume symptom log; staff can help
+- [ ] figure out if mt.gox will give me my money or if I am too late
+- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
+
+BA Tasks:
+- [ ] organize, consolidate possessions
+- [ ] help karl wear eeg cap
+- [ ] visit flywheel arts
+- [ ] Research box truck
+- [ ] plan trip to Indian Orchard
+
+Confusing things:
+- [ ] Find trailer registration
+- [ ] make door for trailer
+- [ ] consolidate possessions
+- [ ] figure out junk in passat & [X] move inverter up front or to trailer
 - [ ] learn about shielded vestibules
 - [ ] build simple trailer (1 alu layer)
 - [ ] learn to weld
@@ -42,44 +64,21 @@ Doable things:
   - [ ] what materials will work for 200dB walls?
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
       note: katie found local neurologist
-- [ ] get a new dentist
-- [ ] get a new eye doctor
-- [ ] update log to note which items done each day & include katie's items
-- [ ] visit mill180
-- [ ] visit artsy place katie found
-- [ ] visit makerspace to the south
-- [ ] restaple walls trailer
-- [ ] resume EEG
-
-BA Tasks:
-- [ ] organize, consolidate possessions
-- [ ] help karl wear eeg cap
-- [ ] visit flywheel arts
-- [ ] Research box truck
-- [ ] plan trip to Indian Orchard
-
-Confusing things:
 - [ ] remember + consolidate in writing importance of shielding using common or scavanged materials (e.g. say i can't receive mail or cannot phone or email or have no money)
 - [ ] electromagnetic compatibility engineer like david weston could be shielded room designer
-- [ ] ensure brian decker is still on track for piercing, feb 24, mar 24
-- [ ] add inventory list to google sheets & a csv of it to this repo
-- [ ] somehow sync inventory csv with something others can use
-- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
-- [ ] resume symptom log; staff can help
-- [ ] figure out if mt.gox will give me my money or if I am too late
-- [ ] consolidate possessions
-- [ ] make door for trailer
 - [ ] Finish EE lab report
 - [ ] Add items for tasks not on this list
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
-- [ ] Find trailer registration
-- [ ] figure out junk in passat & [X] move inverter up front or to trailer
 
 Mention at team meeting:
 - [X] environmental activism ally?  distant events, unexpected schedules
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] ensure brian decker is still on track for piercing, feb 24, mar 24
+- [X] email tax docs
+- [X] get a new dentist
+- [X] update log to note which items done each day & include katie's items
 - [X] aluminum
 - [X] straight edge
 - [X] 45 degree measure
@@ -88,12 +87,6 @@ Done:
 - [X] deposit christmas check at umassfive college fcu
 - [X] full circle vitamin c 500 mg
 - [X] vitamin C
-- [X] squirrel nuts & other items on shopping list
-- [X] get squirrel nuts
-- [X] better 12v battery charger (charge controller?)
-- [X] 45 degree square
-- [X] moss nutrition vitamin d+k 5000
-- [X] lifeextension super omega-3 epa/dha with etc
 
 Daily Tasks:
 wake up
@@ -116,25 +109,4 @@ take shower
 sit spot
 journal
 eye goop
-EE
-
-2018-01-28 Sun tasks (deleteme):
-[X] do daily todo list
-[ ] put on eeg cap
-[ ] do next exercise routine
-[ ] set up next exercise routine
-[ ] set up xfinity internet
-	-> some issue ... I made an account but didn't get confirmation email
-	-> may need to go to place with better internet
-	-> if can't figure next step, just make new account with different address
-	-> if need internet, just reregister with father's account!
-[ ] set up program to convert between cvs and google sheets to integrate inventory system
-	-> issue ... not sure how to create google signed authentication
-	-> will have to read and comprehend google documentation, extensive
-[ ] select cell phone for jessica
-	-> too many options, maybe staff can help
-[ ] work on trailer !
-[ ] install eeg analysis program (ovh update)
-[ ] put tools back in basement
-[ ] make meal for supper with eric?
-[ ] update this readme thing
+10 mins of each project
