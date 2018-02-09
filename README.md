@@ -1,29 +1,24 @@
+Every Shift 10 minutes:
+- [ ] weld
+- [ ] trailer / shielding
+- [ ] eeg
+- [ ] unpack / tidy
+- [ ] paperwork / notes organizing / planning
+
 Next
-- [ ] celexa
 - [ ] aluminum (steel?) water bottle
 - [ ] rent vehicle
-- [ ] get squirrel nuts
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [ ] do eeg
-- [ ] deposit christmas check at umassfive college fcu
-- [ ] full circle vitamin c 500 mg
 
 Purchase / Create / Find:
-- [ ] vitamin C
-- [ ] squirrel nuts & other items on shopping list
-- [ ] better 12v battery charger (charge controller?)
 - [ ] pullup bar or other solution
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
 - [ ] CBD oil
-- [ ] 45 degree square
 
 Bring to trailer:
-- [ ] aluminum
 - [ ] glue to protect corners
-- [ ] straight edge
-- [ ] 45 degree measure
-- [ ] measuring tape
 - [ ] alu scissors
 - [ ] haven phone & microusb
 - [ ] strong clips
@@ -85,12 +80,20 @@ Mention at team meeting:
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] aluminum
+- [X] straight edge
+- [X] 45 degree measure
+- [X] measuring tape
+- [X] celexa
+- [X] deposit christmas check at umassfive college fcu
+- [X] full circle vitamin c 500 mg
+- [X] vitamin C
+- [X] squirrel nuts & other items on shopping list
+- [X] get squirrel nuts
+- [X] better 12v battery charger (charge controller?)
+- [X] 45 degree square
 - [X] moss nutrition vitamin d+k 5000
 - [X] lifeextension super omega-3 epa/dha with etc
-- [X] register nvda
-- [X] return bedding to still point
-- [X] schedule next port flush; missed last one but was redundant
-- [X] pick up flouride @ serio's
 
 Daily Tasks:
 wake up
