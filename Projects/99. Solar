@@ -11,8 +11,19 @@ A single panel is made up of a number of cells whose maximum voltage is the mini
 
 The smallest unit in the tree configuration (leaf unit) is made up of two panels, and that is all it contains.
 Larger units (inner nodes of the tree) have a consistent configuration:
-	Each unit has two subunits and four voltage outputs (2 positive and 2 negative).
-	The two subunits provide 8 voltage inputs.
-	... TODO: explain these will be wired together, perhaps such that 8 electrically-controlled DPDT switches can configure them into 2^8 configurations, controlling which set of inputs are wired in series into the first pair of outputs, and which set of inputs are wired in series into the second pair of outputs.  The hope is to allow the panels to be wired in series until the voltage is high enough, and then in parallel in such a way that shaded cells are not series with lit cells, which would limit the current.
+	Each unit has two subunits and four voltage outputs (two pairs of positive and negative).
+	The two subunits provide 8 voltage inputs: 4 pairs of positive and negative.
+	4 electrically-controlled DPDT switches in the unit decide which of the two output pairs each input pair is wired in series into,
+	for a total of 16 different unit configurations.
+	The hope is to allow the panels to be wired in series until the voltage is high enough, and then in parallel in such a way that shaded cells are not in series with lit cells, which would limit the current.
+	Blocking diodes should be included for parallel arrangements, and bypass diodes across the panels.
+	The switches will keep position when unpowered, so control input only needs enough complexity to select a switch and throw it.
+	2 bits - switch selection
+	n bits - tree depth selection
+	1 bit - switch position
+	1 bit - activate
+	This could be done with basic gates, or maybe some packaged chip (multiplexer?) could help.
+
+	for 2800 W, that's ~10 20V panels at peak sunlight, so n would only be 4
 
 
