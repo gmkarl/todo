@@ -6,6 +6,7 @@ Every Shift 10 minutes:
 - [ ] paperwork / notes organizing / planning
 - [ ] solar
 - [ ] EE
+- [ ] radio
 
 Next
 - [ ] aluminum (steel?) water bottle
