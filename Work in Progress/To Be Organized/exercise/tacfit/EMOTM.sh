@@ -6,13 +6,23 @@ dir="$1"
 # Twenty total, 1 minute rounds.  Begin over each new minute.  Perform the circuit of exercises in less than a minute.
 # Complete all in time and get one point.  If you don't, then you receive no point.
 
+$PLAYONCE resources/gong1.mp3 &
 notify "One round of warmup" "Do each mobility drill once over 6 minutes."
 playalloncefor "$dir"/00-warmup $((18*60/3))
+$PLAYONCE resource/gong2.mp3 &
 
-notify "EMOTM Workout" "You will perform one circuit of all the repetitions of all the exercises in less than one minute for each point.  Restart from the beginning if you cannot finish in time."
+playloopbg "$dir"/01-*
 
-# $STOPWATCH 20 "Workout starting in 20."
-# 
+$STOPWATCH 20 "You will perform one circuit of all the repetitions of all the exercises in less than one minute for each point.  Restart from the beginning if you cannot finish in time."
+
+for circuit in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+do
+	$PLAYONCE resources/gong1.mp3 &
+	$STOPWATCH 60 "Start at the first exercise and do a complete circuit in less than a minute."
+done
+$PLAYONCE resource/gong2.mp3 &
+
+ 
 # for drill in "$dir"/01-*
 # do
 # 	notify "$(basename "$(readlink $drill)")"
@@ -26,8 +36,10 @@ notify "EMOTM Workout" "You will perform one circuit of all the repetitions of a
 
 $STOPWATCH 60 "Write your final heart rate, then your technique, effort, and discomfort."
 
+$PLAYONCE resources/gong1.mp3 &
 notify "One round of cooldown" "Do each compensation drill once over 6 minutes."
 playalloncefor "$dir"/02-cooldown $((18*60/3))
+$PLAYONCE resource/gong2.mp3 &
 
 echo '=== DONE ! ==='
 echo 'Write your final heart rate'

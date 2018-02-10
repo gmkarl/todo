@@ -5,6 +5,7 @@ Every Shift 10 minutes:
 - [ ] unpack / tidy
 - [ ] paperwork / notes organizing / planning
 - [ ] solar
+- [ ] EE
 
 Next
 - [ ] aluminum (steel?) water bottle
