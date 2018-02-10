@@ -12,6 +12,7 @@ playalloncefor "$dir"/00-warmup $((18*60/3))
 $PLAYONCE resource/gong2.mp3 &
 
 playloopbg "$dir"/01-*
+playpid=$!
 
 $STOPWATCH 20 "You will perform one circuit of all the repetitions of all the exercises in less than one minute for each point.  Restart from the beginning if you cannot finish in time."
 
@@ -20,6 +21,7 @@ do
 	$PLAYONCE resources/gong1.mp3 &
 	$STOPWATCH 60 "Start at the first exercise and do a complete circuit in less than a minute."
 done
+kill $playpid
 $PLAYONCE resource/gong2.mp3 &
 
  
