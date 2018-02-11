@@ -9,14 +9,19 @@ Every Shift 10 minutes:
 - [ ] radio
 - [ ] chores
 - [ ] shielding
+- [ ] bitcoin
+- [ ] interpersonal notes
 
 Next
+- [ ] get scissors
 - [ ] aluminum (steel?) water bottle
 - [ ] rent vehicle
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 - [ ] do eeg
 
 Purchase / Create / Find:
+- [ ] hammers
+- [ ] scissors
 - [ ] pullup bar or other solution
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
