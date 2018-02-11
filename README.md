@@ -1,12 +1,14 @@
 Every Shift 10 minutes:
 - [ ] weld
-- [ ] trailer / shielding
+- [ ] trailer
 - [ ] eeg
-- [ ] unpack / tidy
-- [ ] paperwork / notes organizing / planning
+- [ ] unpacking
+- [ ] papers and planning
 - [ ] solar
-- [ ] EE
+- [ ] academic
 - [ ] radio
+- [ ] chores
+- [ ] shielding
 
 Next
 - [ ] aluminum (steel?) water bottle

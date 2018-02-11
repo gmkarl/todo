@@ -43,10 +43,10 @@ csv="${year}-meds.csv"
 				echo "Have $fulldosage of $medname, then hit enter !" > /dev/tty
 				echo "Type 'skip' if you skip this med." > /dev/tty
 				read skip </dev/tty
-				if [ "x$skip" == "x" ]
+				if [ "x$skip" = "x" ]
 				then
 					echo "$medid" "$dosage"
-				elif [ "x$skip" == "xskip" ]
+				elif [ "x$skip" = "xskip" ]
 				then
 					echo "SKIPPED!" > /dev/tty
 				else

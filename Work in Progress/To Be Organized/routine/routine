@@ -1,0 +1,25 @@
+#!/bin/bash
+
+# This script prompts me to do the items of a daily '.routine' file and keeps track of what I report doing.
+
+FILE="${1}"
+routine="${FILE%.routine}"
+
+cat "$FILE" | while read code name
+do
+	echo " == $name == " | tr a-z A-Z
+	echo "Press enter when you start."
+	read < /dev/tty
+	start=$(date +%s)
+	echo
+	echo " $name ... "
+	echo
+	echo "Press enter when completed."
+	read < /dev/tty
+	stop=$(date +%s)
+
+	echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name" >> routinedata.csv
+done
+git add routinedata.csv
+git commit -m "$(date -I) $routine routine"
+torify git pull && torify git push

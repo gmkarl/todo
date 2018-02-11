@@ -1,0 +1,49 @@
+#!/bin/bash
+
+# This script randomly orders my daily 10-minute things and prompts me to do them, keeping track of what I report doing.
+
+INPUTFILE=../../../README.md 
+MINUTES=10
+
+cat "$INPUTFILE" | {
+	while read Every Shift regularity
+	do
+		if [ "$Every $Shift" = "Every Shift" ]
+		then
+			break
+		fi
+	done
+	while read dash box1 box2 label
+	do
+		if [ "x$dash $box1 $box2 $label" = "x   " ]
+		then
+			break
+		fi
+		echo $label
+	done
+} | sort -R | while read task
+do
+	echo " == $task == " | tr a-z A-Z
+	echo "$MINUTES minutes"
+	echo "Press enter when you start."
+	read < /dev/tty
+	
+	start=$(date +%s)
+	while true
+	do
+		echo -ne "${task}: $(date -u --date @$((MINUTES * 60 + start - $(date +%s))) +%M:%S) left\r"
+		sleep 0.1
+	done 2>/dev/null &
+	sleep $((MINUTES * 60))
+	kill $!
+	echo
+	echo "Press enter when you stop."
+	read < /dev/tty
+	stop=$(date +%s)
+
+	echo "$task", $(date -Is -d @$start), $(date -Is -d @$stop) >> tasks.csv
+
+done
+git add tasks.csv
+git commit -m "$(date -I) tasks"
+torify git pull && torify git push
