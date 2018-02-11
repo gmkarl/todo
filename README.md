@@ -9,8 +9,11 @@ Every Shift 10 minutes:
 - [ ] radio
 - [ ] chores
 - [ ] shielding
+- [ ] bitcoin
+- [ ] interpersonal notes
 
 Next
+- [ ] get hammers
 - [ ] aluminum (steel?) water bottle
 - [ ] rent vehicle
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
