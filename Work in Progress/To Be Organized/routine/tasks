@@ -23,7 +23,7 @@ cat "$INPUTFILE" | {
 		fi
 		echo $label
 	done
-} | sort -R --random-source=/dev/random | while read task
+} | sort -R --random-source=<(cat /dev/random) | while read task
 do
 	echo " == $task == " | tr a-z A-Z
 	echo "$MINUTES minutes"
