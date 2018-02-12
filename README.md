@@ -11,6 +11,7 @@ Every Shift 10 minutes:
 - [ ] shielding
 - [ ] bitcoin
 - [ ] interpersonal notes
+- [ ] starred emails and todo items
 
 Next
 - [ ] get scissors
