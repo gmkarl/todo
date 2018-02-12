@@ -2,6 +2,7 @@ Every Shift 10 minutes:
 - [ ] weld
 - [ ] trailer
 - [ ] eeg
+- [ ] chores
 - [ ] unpacking
 - [ ] papers and planning
 - [ ] solar
