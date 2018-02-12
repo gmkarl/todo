@@ -5,6 +5,8 @@
 INPUTFILE=../../../README.md 
 MINUTES=10
 
+stop=$(date +%s)
+
 cat "$INPUTFILE" | {
 	while read Every Shift regularity
 	do
@@ -29,6 +31,9 @@ do
 	read < /dev/tty
 	
 	start=$(date +%s)
+	echo
+	echo "downtime: $(date -u --date @$((stop - start)) +%H:%M:%S)"
+	echo
 	while true
 	do
 		echo -ne "${task}: $(date -u --date @$((MINUTES * 60 + start - $(date +%s))) +%M:%S) left\r"
@@ -41,8 +46,13 @@ do
 	read < /dev/tty
 	stop=$(date +%s)
 
+	echo
+	echo "${task}: $(date -u --date @$((stop - start)) +%H:%M:%S)"
+	eco
+
 	echo "$task", $(date -Is -d @$start), $(date -Is -d @$stop) >> tasksdata.csv
 	git add tasksdata.csv
 	git commit -m "$(date -I) $task"
-	torify git pull && torify git push
+	torify git pull
+	torify git push >/dev/null 2>&1 &
 done
