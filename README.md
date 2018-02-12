@@ -24,6 +24,8 @@ Next
 - [ ] do eeg
 
 Purchase / Create / Find:
+- [ ] celexa
+- [ ] miralax
 - [ ] hammers
 - [ ] scissors
 - [ ] pullup bar or other solution
