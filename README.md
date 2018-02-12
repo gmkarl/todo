@@ -2,6 +2,7 @@ Every Shift 10 minutes:
 - [ ] weld
 - [ ] trailer
 - [ ] eeg
+- [ ] chores
 - [ ] unpacking
 - [ ] papers and planning
 - [ ] solar
@@ -11,6 +12,7 @@ Every Shift 10 minutes:
 - [ ] shielding
 - [ ] bitcoin
 - [ ] interpersonal notes
+- [ ] starred emails and todo items
 - [ ] organizing
 - [ ] moving
 - [ ] nature
@@ -23,6 +25,8 @@ Next
 - [ ] do eeg
 
 Purchase / Create / Find:
+- [ ] celexa
+- [ ] miralax
 - [ ] hammers
 - [ ] scissors
 - [ ] pullup bar or other solution
