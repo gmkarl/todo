@@ -32,7 +32,7 @@ do
 	
 	start=$(date +%s)
 	echo
-	echo "downtime: $(date -u --date @$((stop - start)) +%H:%M:%S)"
+	echo "downtime: $(date -u --date @$((start - stop)) +%H:%M:%S)"
 	echo
 	while true
 	do
@@ -48,7 +48,7 @@ do
 
 	echo
 	echo "${task}: $(date -u --date @$((stop - start)) +%H:%M:%S)"
-	eco
+	echo
 
 	echo "$task", $(date -Is -d @$start), $(date -Is -d @$stop) >> tasksdata.csv
 	git add tasksdata.csv
