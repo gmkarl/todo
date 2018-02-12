@@ -20,27 +20,32 @@ Every Shift 10 minutes:
 Next
 - [ ] get scissors
 - [ ] aluminum (steel?) water bottle
-- [ ] rent vehicle
+- [ ] Make a project for working on organization systems.
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
-- [ ] do eeg
 
 Purchase / Create / Find:
-- [ ] celexa
 - [ ] miralax
 - [ ] hammers
 - [ ] scissors
-- [ ] pullup bar or other solution
 - [ ] clean water solution
-- [ ] mobile clothes solution, small portable bureau
 - [ ] CBD oil
+- [ ] mobile clothes solution, small portable bureau
+- [ ] pullup bar or other solution
+- [ ] celexa
 
 Bring to trailer:
 - [ ] glue to protect corners
 - [ ] haven phone & microusb
 
 Doable things:
+- [ ] expand "Project" organization system: make an "activities" folder and give each activity priority items from the projects.  Activities should mesh with my phone tasks system.
+- [ ] Make a project for working on these organization systems.
+- [ ] work on EE lab report for 6 hours total
+- [ ] make door for trailer
+- [ ] build simple trailer (1 alu layer)
+- [ ] hire tech-savvy researcher, worker, executive assistant
+- [ ] review local resources from activist planner; zine place only opens for events
 - [ ] make haven phone work
-- [ ] visit zine place
 - [ ] finish backup of old drive data, remember my annex is in there!
 - [ ] buy truck
 - [ ] update trailer sticker
@@ -49,60 +54,53 @@ Doable things:
 - [ ] visit artsy place katie found
 - [ ] visit makerspace to the south
 - [ ] restaple walls trailer
-- [ ] resume EEG
 - [ ] sync inventory list with this repo
 - [ ] resume symptom log; staff can help
 - [ ] figure out if mt.gox will give me my money or if I am too late
-- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
 
 BA Tasks:
 - [ ] organize, consolidate possessions
 - [ ] help karl wear eeg cap
-- [ ] visit flywheel arts
 - [ ] Research box truck
 - [ ] plan trip to Indian Orchard
 
 Confusing things:
+- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
+- [ ] build & test a small box
 - [ ] Find trailer registration
-- [ ] make door for trailer
 - [ ] consolidate possessions
-- [ ] figure out junk in passat & [X] move inverter up front or to trailer
 - [ ] learn about shielded vestibules
-- [ ] build simple trailer (1 alu layer)
 - [ ] learn to weld
 - [ ] find person to build room for me
-- [ ] hire tech-savvy researcher, worker, executive assistant
-- [ ] build & test a small box
 - [ ] organize notes for shielding goals somewhere
 - [ ] brass used for knife edge on door; how to connect this to wall?
+    -> probably you could bolt it into threaded holes and seal the joint
   - [ ] how do existing structures do it?
   - [ ] what attenuation properties provided by high conductivity of brass?
   - [ ] what materials will work for 200dB walls?
 - [ ] follow up neurologist dartmouth hitchcock; include question re white matter
       note: katie found local neurologist
 - [ ] remember + consolidate in writing importance of shielding using common or scavanged materials (e.g. say i can't receive mail or cannot phone or email or have no money)
-- [ ] electromagnetic compatibility engineer like david weston could be shielded room designer
 - [ ] Finish EE lab report
 - [ ] Add items for tasks not on this list
-- [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
+- [ ] figure out junk in passat
 
 Mention at team meeting:
 - [X] environmental activism ally?  distant events, unexpected schedules
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] move inverter up front or to trailer
+- [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
+- [X] electromagnetic compatibility engineer like david weston could be shielded room designer
+- [X] resume EEG
+- [ ] visit zine place
+- [ ] visit flywheel arts
+- [X] do eeg
+- [ ] rent vehicle
 - [X] ensure brian decker is still on track for piercing, feb 24, mar 24
 - [X] email tax docs
 - [X] get a new dentist
-- [X] update log to note which items done each day & include katie's items
-- [X] aluminum
-- [X] straight edge
-- [X] 45 degree measure
-- [X] measuring tape
-- [X] celexa
-- [X] deposit christmas check at umassfive college fcu
-- [X] full circle vitamin c 500 mg
-- [X] vitamin C
 
 Daily Tasks:
 wake up
