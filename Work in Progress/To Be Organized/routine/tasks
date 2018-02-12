@@ -41,8 +41,11 @@ do
 	read < /dev/tty
 	stop=$(date +%s)
 
+	echo "${task}: $(date -u --date @$((stop - start)) +%H:%M:%S)"
+
 	echo "$task", $(date -Is -d @$start), $(date -Is -d @$stop) >> tasksdata.csv
 	git add tasksdata.csv
 	git commit -m "$(date -I) $task"
-	torify git pull && torify git push
+	torify git pull
+	torify git push >/dev/null 2>&1 &
 done
