@@ -21,7 +21,7 @@ cat "$INPUTFILE" | {
 		fi
 		echo $label
 	done
-} | sort -R | while read task
+} | sort -R --random-source=/dev/random | while read task
 do
 	echo " == $task == " | tr a-z A-Z
 	echo "$MINUTES minutes"
@@ -41,9 +41,8 @@ do
 	read < /dev/tty
 	stop=$(date +%s)
 
-	echo "$task", $(date -Is -d @$start), $(date -Is -d @$stop) >> tasks.csv
-
+	echo "$task", $(date -Is -d @$start), $(date -Is -d @$stop) >> tasksdata.csv
+	git add tasksdata.csv
+	git commit -m "$(date -I) $task"
+	torify git pull && torify git push
 done
-git add tasks.csv
-git commit -m "$(date -I) tasks"
-torify git pull && torify git push
