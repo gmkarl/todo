@@ -12,6 +12,9 @@ Every Shift 10 minutes:
 - [ ] bitcoin
 - [ ] interpersonal notes
 - [ ] starred emails and todo items
+- [ ] organizing
+- [ ] moving
+- [ ] nature
 
 Next
 - [ ] get scissors

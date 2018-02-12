@@ -11,6 +11,11 @@ heart rate max 220-age, mobility min, mobity max, compensation range, medium ran
 186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8, 148.8 - 186
 
 date,       time,  day, day, intensity, level, drill,              bpm, reps
+112
+112
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2018-02-12, 05:05,  16, charlie, high, 1, primal emotm,   76,
+2018-02-11, 09:46,  16, charlie, high, 1, primal emotm,   76,
 10:10
 120
 112
