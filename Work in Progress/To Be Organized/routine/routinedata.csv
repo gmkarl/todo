@@ -14,3 +14,12 @@ TX, aftermornex, 2018-02-11T12:44:39-05:00, 2018-02-11T14:01:02-05:00, Daily Tas
 EY, midday, 2018-02-11T14:02:33-05:00, 2018-02-11T14:04:00-05:00, Midday Eye Lubricant
 FD, midday, 2018-02-11T14:04:14-05:00, 2018-02-11T14:34:35-05:00, Lunch and Meds
 FT, midday, 2018-02-11T14:34:41-05:00, 2018-02-11T14:54:01-05:00, Midday Fissure Treatment
+T, evening, 2018-02-11T17:58:14-05:00, 2018-02-11T18:01:57-05:00, Update Todo List
+EY, evening, 2018-02-11T18:02:00-05:00, 2018-02-11T18:03:12-05:00, Afternoon Eye Lubricant
+FD, evening, 2018-02-11T18:03:18-05:00, 2018-02-11T19:49:03-05:00, Dinner and Meds
+BT, evening, 2018-02-11T20:21:24-05:00, 2018-02-11T20:31:05-05:00, Brush Teeth
+FT, evening, 2018-02-11T20:31:35-05:00, 2018-02-11T20:48:19-05:00, Fissure Treatment
+EX, evening, 2018-02-11T20:55:04-05:00, 2018-02-11T21:50:56-05:00, Evening Exercises
+EY, evening, 2018-02-11T21:51:20-05:00, 2018-02-11T21:51:57-05:00, Nighttime Eye Lubricant
+DG, evening, 2018-02-11T21:52:27-05:00, 2018-02-11T21:52:37-05:00, Dental Guard
+SL, evening, 2018-02-11T21:53:58-05:00, 2018-02-12T04:30:18-05:00, Go to Sleep

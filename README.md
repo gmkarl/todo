@@ -11,6 +11,9 @@ Every Shift 10 minutes:
 - [ ] shielding
 - [ ] bitcoin
 - [ ] interpersonal notes
+- [ ] organizing
+- [ ] moving
+- [ ] nature
 
 Next
 - [ ] get scissors
