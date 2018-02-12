@@ -1,0 +1,17 @@
+# February 2018
+
+I began a list of daily tasks, and it ended up including Radio.
+
+# Goals
+- Radio logging
+- Shielding measurement
+- EM security research tools
+
+# Existing Projects
+- datasignals library attempting to abstract data blocks
+	github.com/xloem/datasignals
+- openemissions library with some work towards van eck phreaking and a spot for shielding
+	github.com/xloem/openemissions
+- soapy_power does generic logging but does not record settings
+- 
+
