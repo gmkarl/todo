@@ -29,7 +29,7 @@ tasklist() {
 
 if [ "x$*" != "x" ]
 then
-	tasklist | grep -i
+	tasklist | grep -i "$*"
 else
 	tasklist
 fi | sort -R --random-source=<(cat /dev/random) | while read task
