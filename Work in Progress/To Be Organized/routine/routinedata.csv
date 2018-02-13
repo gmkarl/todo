@@ -1,38 +1,52 @@
 Code, Routine, Start Time, Stop Time, Description
-B, morning, 2018-02-11T09:30:55-05:00, 2018-02-11T09:31:02-05:00, Get Out of Bed
-T, morning, 2018-02-11T09:31:18-05:00, 2018-02-11T09:31:25-05:00, Calendar and Routine Todo List
-EY, morning, 2018-02-11T09:31:28-05:00, 2018-02-11T09:32:40-05:00, Morning Eye Lubricant
-MB, morning, 2018-02-11T09:32:46-05:00, 2018-02-11T09:35:16-05:00, Make Bed
-FD, aftermornex, 2018-02-11T10:11:11-05:00, 2018-02-11T10:43:32-05:00, Breakfast and Meds
-BT, aftermornex, 2018-02-11T11:35:44-05:00, 2018-02-11T11:35:45-05:00, Brush Teeth
-SH, aftermornex, 2018-02-11T11:35:58-05:00, 2018-02-11T12:13:11-05:00, Shave and Shower
-FT, aftermornex, 2018-02-11T12:13:31-05:00, 2018-02-11T12:30:00-05:00, Fissure Treatment
-CL, aftermornex, 2018-02-11T12:30:50-05:00, 2018-02-11T12:35:16-05:00, Put Clothes On
-EY, aftermornex, 2018-02-11T12:35:21-05:00, 2018-02-11T12:36:11-05:00, Eye Lubricant Again
-T, aftermornex, 2018-02-11T12:37:10-05:00, 2018-02-11T12:38:50-05:00, Update Todo List
-TX, aftermornex, 2018-02-11T12:44:39-05:00, 2018-02-11T14:01:02-05:00, Daily Tasks
-EY, midday, 2018-02-11T14:02:33-05:00, 2018-02-11T14:04:00-05:00, Midday Eye Lubricant
-FD, midday, 2018-02-11T14:04:14-05:00, 2018-02-11T14:34:35-05:00, Lunch and Meds
-FT, midday, 2018-02-11T14:34:41-05:00, 2018-02-11T14:54:01-05:00, Midday Fissure Treatment
-T, evening, 2018-02-11T17:58:14-05:00, 2018-02-11T18:01:57-05:00, Update Todo List
-EY, evening, 2018-02-11T18:02:00-05:00, 2018-02-11T18:03:12-05:00, Afternoon Eye Lubricant
-FD, evening, 2018-02-11T18:03:18-05:00, 2018-02-11T19:49:03-05:00, Dinner and Meds
-BT, evening, 2018-02-11T20:21:24-05:00, 2018-02-11T20:31:05-05:00, Brush Teeth
-FT, evening, 2018-02-11T20:31:35-05:00, 2018-02-11T20:48:19-05:00, Fissure Treatment
-EX, evening, 2018-02-11T20:55:04-05:00, 2018-02-11T21:50:56-05:00, Evening Exercises
-EY, evening, 2018-02-11T21:51:20-05:00, 2018-02-11T21:51:57-05:00, Nighttime Eye Lubricant
-DG, evening, 2018-02-11T21:52:27-05:00, 2018-02-11T21:52:37-05:00, Dental Guard
-SL, evening, 2018-02-11T21:53:58-05:00, 2018-02-12T04:30:18-05:00, Go to Sleep
-B, morning, 2018-02-12T04:34:03-05:00, 2018-02-12T04:35:15-05:00, Get Out of Bed
-T, morning, 2018-02-12T04:41:46-05:00, 2018-02-12T04:51:41-05:00, Calendar and Routine Todo List
-EY, morning, 2018-02-12T04:54:56-05:00, 2018-02-12T04:57:46-05:00, Morning Eye Lubricant
-MB, morning, 2018-02-12T04:59:17-05:00, 2018-02-12T04:59:18-05:00, Make Bed
-EX, morning, 2018-02-12T04:59:21-05:00, 2018-02-12T05:40:47-05:00, Morning Exercises
-FD, morning, 2018-02-12T05:43:30-05:00, 2018-02-12T06:24:21-05:00, Breakfast and Meds
-BT, morning, 2018-02-12T06:25:20-05:00, 2018-02-12T06:38:51-05:00, Brush Teeth
-SH, morning, 2018-02-12T06:39:42-05:00, 2018-02-12T06:57:52-05:00, Shave and Shower
-FT, morning, 2018-02-12T06:58:03-05:00, 2018-02-12T07:13:14-05:00, Fissure Treatment
-CL, morning, 2018-02-12T07:17:17-05:00, 2018-02-12T07:18:10-05:00, Put Clothes On
-EY, morning, 2018-02-12T07:18:13-05:00, 2018-02-12T07:19:00-05:00, Eye Lubricant Again
-T, morning, 2018-02-12T07:19:03-05:00, 2018-02-12T07:20:31-05:00, Update Todo List
-TX, morning, 2018-02-12T07:50:25-05:00, 2018-02-12T12:10:04-05:00, Daily Tasks
+B, morning, 2018-02-11T09:30:55-05:00, 2018-02-11T09:31:02-05:00, Get Out of Bed,
+T, morning, 2018-02-11T09:31:18-05:00, 2018-02-11T09:31:25-05:00, Calendar and Routine Todo List,
+EY, morning, 2018-02-11T09:31:28-05:00, 2018-02-11T09:32:40-05:00, Morning Eye Lubricant,
+MB, morning, 2018-02-11T09:32:46-05:00, 2018-02-11T09:35:16-05:00, Make Bed,
+FD, aftermornex, 2018-02-11T10:11:11-05:00, 2018-02-11T10:43:32-05:00, Breakfast and Meds,
+BT, aftermornex, 2018-02-11T11:35:44-05:00, 2018-02-11T11:35:45-05:00, Brush Teeth,
+SH, aftermornex, 2018-02-11T11:35:58-05:00, 2018-02-11T12:13:11-05:00, Shave and Shower,
+FT, aftermornex, 2018-02-11T12:13:31-05:00, 2018-02-11T12:30:00-05:00, Fissure Treatment,
+CL, aftermornex, 2018-02-11T12:30:50-05:00, 2018-02-11T12:35:16-05:00, Put Clothes On,
+EY, aftermornex, 2018-02-11T12:35:21-05:00, 2018-02-11T12:36:11-05:00, Eye Lubricant Again,
+T, aftermornex, 2018-02-11T12:37:10-05:00, 2018-02-11T12:38:50-05:00, Update Todo List,
+TX, aftermornex, 2018-02-11T12:44:39-05:00, 2018-02-11T14:01:02-05:00, Daily Tasks,
+EY, midday, 2018-02-11T14:02:33-05:00, 2018-02-11T14:04:00-05:00, Midday Eye Lubricant,
+FD, midday, 2018-02-11T14:04:14-05:00, 2018-02-11T14:34:35-05:00, Lunch and Meds,
+FT, midday, 2018-02-11T14:34:41-05:00, 2018-02-11T14:54:01-05:00, Midday Fissure Treatment,
+T, evening, 2018-02-11T17:58:14-05:00, 2018-02-11T18:01:57-05:00, Update Todo List,
+EY, evening, 2018-02-11T18:02:00-05:00, 2018-02-11T18:03:12-05:00, Afternoon Eye Lubricant,
+FD, evening, 2018-02-11T18:03:18-05:00, 2018-02-11T19:49:03-05:00, Dinner and Meds,
+BT, evening, 2018-02-11T20:21:24-05:00, 2018-02-11T20:31:05-05:00, Brush Teeth,
+FT, evening, 2018-02-11T20:31:35-05:00, 2018-02-11T20:48:19-05:00, Fissure Treatment,
+EX, evening, 2018-02-11T20:55:04-05:00, 2018-02-11T21:50:56-05:00, Evening Exercises,
+EY, evening, 2018-02-11T21:51:20-05:00, 2018-02-11T21:51:57-05:00, Nighttime Eye Lubricant,
+DG, evening, 2018-02-11T21:52:27-05:00, 2018-02-11T21:52:37-05:00, Dental Guard,
+SL, evening, 2018-02-11T21:53:58-05:00, 2018-02-12T04:30:18-05:00, Go to Sleep,
+B, morning, 2018-02-12T04:34:03-05:00, 2018-02-12T04:35:15-05:00, Get Out of Bed,
+T, morning, 2018-02-12T04:41:46-05:00, 2018-02-12T04:51:41-05:00, Calendar and Routine Todo List,
+EY, morning, 2018-02-12T04:54:56-05:00, 2018-02-12T04:57:46-05:00, Morning Eye Lubricant,
+MB, morning, 2018-02-12T04:59:17-05:00, 2018-02-12T04:59:18-05:00, Make Bed,
+EX, morning, 2018-02-12T04:59:21-05:00, 2018-02-12T05:40:47-05:00, Morning Exercises,
+FD, morning, 2018-02-12T05:43:30-05:00, 2018-02-12T06:24:21-05:00, Breakfast and Meds,
+BT, morning, 2018-02-12T06:25:20-05:00, 2018-02-12T06:38:51-05:00, Brush Teeth,
+SH, morning, 2018-02-12T06:39:42-05:00, 2018-02-12T06:57:52-05:00, Shave and Shower,
+FT, morning, 2018-02-12T06:58:03-05:00, 2018-02-12T07:13:14-05:00, Fissure Treatment,
+CL, morning, 2018-02-12T07:17:17-05:00, 2018-02-12T07:18:10-05:00, Put Clothes On,
+EY, morning, 2018-02-12T07:18:13-05:00, 2018-02-12T07:19:00-05:00, Eye Lubricant Again,
+T, morning, 2018-02-12T07:19:03-05:00, 2018-02-12T07:20:31-05:00, Update Todo List,
+TX, morning, 2018-02-12T07:50:25-05:00, 2018-02-12T12:10:04-05:00, Daily Tasks,
+T, evening, 2018-02-12T18:23:51-05:00, 2018-02-12T19:36:44-05:00, Update Todo List,
+EY, evening, 2018-02-12T19:37:59-05:00, 2018-02-12T19:38:11-05:00, Afternoon Eye Lubricant,
+FD, evening, 2018-02-12T19:38:16-05:00, 2018-02-12T21:17:04-05:00, Dinner and Meds,
+B, morning, , 2018-02-13T08:42:46-05:00, Get Out of Bed, finished earlier
+T, morning, 2018-02-13T08:46:38-05:00, 2018-02-13T08:48:07-05:00, Calendar and Routine Todo List,
+EY, morning, 2018-02-13T08:48:50-05:00, 2018-02-13T08:49:53-05:00, Morning Eye Lubricant,
+MB, morning, 2018-02-13T08:50:28-05:00, 2018-02-13T08:51:38-05:00, Make Bed,
+FD, morning, 2018-02-13T08:52:52-05:00, 2018-02-13T09:18:02-05:00, Breakfast and Meds,
+BT, morning, 2018-02-13T09:18:52-05:00, 2018-02-13T09:31:58-05:00, Brush Teeth,
+SH, morning, 2018-02-13T09:33:44-05:00, 2018-02-13T09:52:14-05:00, Shave and Shower,
+FT, morning, 2018-02-13T09:52:36-05:00, 2018-02-13T10:07:25-05:00, Fissure Treatment,
+CL, morning, , 2018-02-13T10:14:24-05:00, Put Clothes On, finished earlier
+EY, morning, 2018-02-13T10:14:48-05:00, 2018-02-13T10:15:41-05:00, Eye Lubricant Again,
+T, morning, 2018-02-13T10:18:33-05:00, 2018-02-13T10:19:18-05:00, Update Todo List,

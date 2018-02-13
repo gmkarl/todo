@@ -7,23 +7,32 @@ MINUTES=10
 
 stop=$(date +%s)
 
-cat "$INPUTFILE" | {
-	while read Every Shift regularity
-	do
-		if [ "$Every $Shift" = "Every Shift" ]
-		then
-			break
-		fi
-	done
-	while read dash box1 box2 label
-	do
-		if [ "x$dash $box1 $box2 $label" = "x   " ]
-		then
-			break
-		fi
-		echo $label
-	done
-} | sort -R --random-source=<(cat /dev/random) | while read task
+tasklist() {
+	cat "$INPUTFILE" | {
+		while read Every Shift regularity
+		do
+			if [ "$Every $Shift" = "Every Shift" ]
+			then
+				break
+			fi
+		done
+		while read dash box1 box2 label
+		do
+			if [ "x$dash $box1 $box2 $label" = "x   " ]
+			then
+				break
+			fi
+			echo $label
+		done
+	}
+}
+
+if [ "x$*" != "x" ]
+then
+	tasklist | grep -i "$*"
+else
+	tasklist
+fi | sort -R --random-source=<(cat /dev/random) | while read task
 do
 	echo " == $task == " | tr a-z A-Z
 	echo "$MINUTES minutes"

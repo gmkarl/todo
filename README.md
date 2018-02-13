@@ -25,6 +25,7 @@ Next
 
 Purchase / Create / Find:
 - [ ] water bottle
+- [ ] black duct tape
 - [ ] miralax
 - [ ] hammers
 - [ ] scissors
