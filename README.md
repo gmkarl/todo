@@ -25,10 +25,10 @@ Next
 
 Purchase / Create / Find:
 - [ ] water bottle
-- [ ] black duct tape
+- [X] black duct tape
 - [ ] miralax
-- [ ] hammers
-- [ ] scissors
+- [X] hammers
+- [X] scissors
 - [ ] clean water solution
 - [ ] CBD oil
 - [ ] mobile clothes solution, small portable bureau
