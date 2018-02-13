@@ -12,16 +12,16 @@ do
 		echo " == $name == " | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
+		start=$(date +%s)
 		if [ "x$skip" = "xskip" ]
 		then
 			echo "SKIPPED !"
 		elif [ "x$skip" = "xalready" ]
 		then
 			echo "Already completed."
-			echo $code, $routine, , $(date -Is -d @$stop), "$name", "finished earlier" >> routinedata.csv
+			echo $code, $routine, , $(date -Is -d @$start), "$name", "finished earlier" >> routinedata.csv
 		elif [ "x$skip" = "x" ]
 		then
-			start=$(date +%s)
 			echo
 			echo " $name ... "
 			echo
@@ -29,14 +29,13 @@ do
 			do
 				echo "Press enter when completed, or 'abort' to give up."
 				read abort < /dev/tty
+				stop=$(date +%s)
 				if [ "x$abort" = "xabort" ]
 				then
 					echo ' ABORTED !'
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", UNFINISHED >> routinedata.csv
 				elif [ "x$abort" = "x" ]
 				then
-					stop=$(date +%s)
-			
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", >> routinedata.csv
 				else
 					echo "I couldn't recognize '$abort' ... try again?"
