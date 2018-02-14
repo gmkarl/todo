@@ -18,19 +18,12 @@ Every Shift 10 minutes:
 - [ ] nature
 
 Next
-- [ ] get scissors
-- [ ] aluminum (steel?) water bottle
 - [ ] Make a project for working on organization systems.
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
-- [ ] water bottle
-- [X] black duct tape
-- [ ] miralax
-- [X] hammers
-- [X] scissors
+- [ ] NiMH AA batteries
 - [ ] clean water solution
-- [ ] CBD oil
 - [ ] mobile clothes solution, small portable bureau
 - [ ] pullup bar or other solution
 - [ ] celexa
@@ -92,17 +85,20 @@ Mention at team meeting:
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] get scissors
+- [X] aluminum (steel?) water bottle
+- [X] water bottle
+- [X] black duct tape
+- [X] miralax
+- [X] hammers
+- [X] scissors
+- [X] CBD oil
 - [X] move inverter up front or to trailer
 - [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
 - [X] electromagnetic compatibility engineer like david weston could be shielded room designer
 - [X] resume EEG
 - [ ] visit zine place
 - [ ] visit flywheel arts
-- [X] do eeg
-- [ ] rent vehicle
-- [X] ensure brian decker is still on track for piercing, feb 24, mar 24
-- [X] email tax docs
-- [X] get a new dentist
 
 Daily Tasks:
 wake up
