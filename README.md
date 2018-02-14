@@ -19,10 +19,12 @@ Every Shift 10 minutes:
 
 Next
 - [ ] Make a project for working on organization systems.
+- [ ] replace phone battery
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
 - [ ] NiMH AA batteries
+- [ ] iphone5s battery case
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
 - [ ] pullup bar or other solution
