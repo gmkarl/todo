@@ -24,10 +24,11 @@ Next
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
-- [ ] black duct tape
+- [ ] water bottle
+- [X] black duct tape
 - [ ] miralax
-- [ ] hammers
-- [ ] scissors
+- [X] hammers
+- [X] scissors
 - [ ] clean water solution
 - [ ] CBD oil
 - [ ] mobile clothes solution, small portable bureau
