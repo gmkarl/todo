@@ -62,6 +62,8 @@ do
 	echo "$task", $(date -Is -d @$start), $(date -Is -d @$stop) >> tasksdata.csv
 	git add tasksdata.csv
 	git commit -m "$(date -I) $task"
-	torify git pull
-	torify git push >/dev/null 2>&1 &
+	{
+		torify git pull --no-edit &&
+		torify git push >/dev/null 2>&1
+	} &
 done

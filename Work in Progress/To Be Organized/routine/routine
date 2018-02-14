@@ -52,6 +52,8 @@ do
 	done
 	git add routinedata.csv
 	git commit -m "$(date -I) $routine $name"
-	torify git pull
-	torify git push >/dev/null 2>&1 &
+	{
+		torify git pull --no-edit &&
+		torify git push >/dev/null 2>&1
+	} &
 done
