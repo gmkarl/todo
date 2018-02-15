@@ -2,20 +2,21 @@ Every Shift 10 minutes:
 - [ ] weld
 - [ ] trailer
 - [ ] eeg
-- [ ] chores
+- [ ] moving
 - [ ] unpacking
-- [ ] papers and planning
-- [ ] solar
-- [ ] academic
-- [ ] radio
-- [ ] chores
 - [ ] shielding
-- [ ] bitcoin
+
 - [ ] interpersonal notes
 - [ ] starred emails and todo items
-- [ ] organizing
-- [ ] moving
+- [ ] chores
+- [ ] academic
+- [ ] radio
+
 - [ ] nature
+- [ ] chores
+- [ ] bitcoin
+- [ ] papers and planning
+- [ ] solar
 
 Next
 - [ ] Make a project for working on organization systems.
