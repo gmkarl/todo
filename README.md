@@ -25,6 +25,8 @@ Next
 
 Purchase / Create / Find:
 - [ ] NiMH AA batteries
+- [ ] piercing solution + steri strips
+- [ ] heat shrink tubing
 - [ ] iphone5s battery case
 - [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
