@@ -20,7 +20,7 @@ Every Shift 10 minutes:
 
 Next
 - [ ] Make a project for working on organization systems.
-- [ ] replace phone battery
+- [ ] replace phone battery, fix freezup issue, and fix charging issue
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
