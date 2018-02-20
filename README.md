@@ -21,7 +21,7 @@ Every Shift 10 minutes:
 Next
 - [ ] put docs to work with jeremy regarding: symptom log and things-to-not-forget-about-self file.  Also doc on xo to bitcoin regarding human care and false needs.
 - [ ] Make a project for working on organization systems.
-- [ ] replace phone battery
+- [ ] replace phone battery, fix freezup issue, and fix charging issue
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
