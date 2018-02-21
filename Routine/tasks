@@ -2,7 +2,7 @@
 
 # This script randomly orders my daily 10-minute things and prompts me to do them, keeping track of what I report doing.
 
-INPUTFILE=../../../README.md 
+INPUTFILE=../README.md 
 MINUTES=10
 
 stop=$(date +%s)
