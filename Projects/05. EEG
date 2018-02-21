@@ -1,0 +1,11 @@
+This folder features all things EEG: 
+finding a way to monitor brainwaves 24/7. 
+Mirodermal piercing
+permanent, realtime storage of data
+analysis of data analysis (includes subprojects)
+creating mobile applications that support this system (ie create an app on karl's phone where he can press a button when something happens, or where it can ask a question and he can reply)
+feedback (getting the system to tell Karl what is going on, and possibly training him to have different experiences)
+correlation and integration (combinging data with data from other systems in order to increase knowledge)
+Finding a way to make it opensource so that others can also do this.
+Publicity / Outreach (so that it can support others who also have a need for EEG). 
+Integrating this work with existing efforts, and sharing new tools we create.
