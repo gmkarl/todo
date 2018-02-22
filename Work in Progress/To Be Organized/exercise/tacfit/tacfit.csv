@@ -11,6 +11,14 @@ heart rate max 220-age, mobility min, mobity max, compensation range, medium ran
 186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8, 148.8 - 186
 
 date,       time,  day, day, intensity, level, drill,              bpm, reps
+
+2018-02-22, 07:05, 23, echo, medium, 1, primal 9030, 84
+140
+14, 140, , , 6, 132, , ,
+25,    , , ,29, 132, , ,
+11, 140, , ,14, 148, , ,
+4, 122, , ,  5, 136, , ,
+4, 120, , ,  5, 128, , , 
 116
 2018-02-20, 07:27, 22, echo, compensation, 1, primal 9030 compensation, 66
 132
