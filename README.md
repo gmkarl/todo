@@ -25,6 +25,8 @@ Next
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
+- [ ] acetone
+- [ ] flush cutters
 - [ ] NiMH AA batteries
 - [ ] piercing solution + steri strips
 - [ ] heat shrink tubing
