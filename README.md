@@ -130,3 +130,6 @@ sit spot
 journal
 eye goop
 10 mins of each project
+
+access list:
+- constant thankfulness, carefulness, challenge, love without reason/judgement, orient thoughts to have no criticism or judgement
