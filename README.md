@@ -25,6 +25,8 @@ Next
 - [ ] organize goals, values, etc from emails and this list in categories (Katie, Mon 1/15)
 
 Purchase / Create / Find:
+- [ ] acetone
+- [ ] flush cutters
 - [ ] NiMH AA batteries
 - [ ] piercing solution + steri strips
 - [ ] heat shrink tubing
@@ -128,3 +130,6 @@ sit spot
 journal
 eye goop
 10 mins of each project
+
+access list:
+- constant thankfulness, carefulness, challenge, love without reason/judgement, orient thoughts to have no criticism or judgement
