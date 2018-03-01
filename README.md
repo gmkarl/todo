@@ -63,6 +63,14 @@ BA Tasks:
 - [ ] plan trip to Indian Orchard
 
 Confusing things:
+- [ ] submit job posting, could mention familiarity with linux command line and neuroscience or machine learning
+- [ ] get dermal tops removed
+- [ ] get ears pierced
+- [ ] get more dermals, replace any dermals not working
+- [ ] put bounty on prereq for hyperdb improvement
+- [ ] run bounty updater and keep it running always
+- [ ] put bounty on rest of tasks needed to create dat sensor and video streams, databases, websites, and archives that are timestamped on blockchain
+- [ ] put bounties on openbci issues
 - [ ] do my morning routine
 - [ ] get my cbd oil from the car, take it, and mark having took it
 - [ ] put salt water on my piercings
