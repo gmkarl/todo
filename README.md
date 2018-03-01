@@ -19,6 +19,7 @@ Every Shift 10 minutes:
 - [ ] solar
 
 Next
+- [ ] find the package held by UPS
 - [ ] put docs on phone to work with jeremy regarding: symptom log and things-to-not-forget-about-self file.  Also doc on xo to bitcoin regarding human care and false needs.  also state-switching doc.
 - [ ] Make a project for working on organization systems.
 - [ ] replace phone battery, fix freezup issue, and fix charging issue
@@ -27,20 +28,15 @@ Next
 Purchase / Create / Find:
 - [ ] acetone
 - [ ] flush cutters
-- [ ] NiMH AA batteries
-- [ ] piercing solution + steri strips
-- [ ] heat shrink tubing
-- [ ] iphone5s battery case
-- [ ] clean water solution
 - [ ] mobile clothes solution, small portable bureau
-- [ ] pullup bar or other solution
-- [ ] celexa
 
 Bring to trailer:
 - [ ] glue to protect corners
 - [ ] haven phone & microusb
 
 Doable things:
+- [ ] put heat shrink tubing on my electrodes
+- [ ] clean and sterilize the electrodes
 - [ ] expand "Project" organization system: make an "activities" folder and give each activity priority items from the projects.  Activities should mesh with my phone tasks system.
 - [ ] Make a project for working on these organization systems.
 - [ ] work on EE lab report for 6 hours total
@@ -63,7 +59,6 @@ Doable things:
 
 BA Tasks:
 - [ ] organize, consolidate possessions
-- [ ] help karl wear eeg cap
 - [ ] Research box truck
 - [ ] plan trip to Indian Orchard
 
@@ -73,6 +68,13 @@ Confusing things:
 - [ ] run bounty updater and keep it running always
 - [ ] put bounty on rest of tasks needed to create dat sensor and video streams, databases, websites, and archives that are timestamped on blockchain
 - [ ] put bounties on openbci issues
+- [ ] do my morning routine
+- [ ] get my cbd oil from the car, take it, and mark having took it
+- [ ] put salt water on my piercings
+- [ ] open the mail I got from the eastern mass
+- [ ] open the mail on the table downstairs
+- [ ] do something with my AAA card on the stairs
+- [ ] open the mail I have stored in my possessions
 - [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
 - [ ] build & test a small box
 - [ ] Find trailer registration
@@ -94,24 +96,19 @@ Confusing things:
 - [ ] figure out junk in passat
 
 Mention at team meeting:
-- [X] environmental activism ally?  distant events, unexpected schedules
+- [ ] environmental activism ally?  distant events, unexpected schedules
 - [ ] cat seemed interested ... any followup?  hannah expressed interest ... see how that goes
 
 Done:
+- [X] NiMH AA batteries
+- [X] piercing solution + steri strips
+- [X] heat shrink tubing
+- [X] iphone5s battery case
+- [X] clean water solution
+- [X] pullup bar or other solution
+- [X] celexa
+- [X] help karl wear eeg cap
 - [X] get scissors
-- [X] aluminum (steel?) water bottle
-- [X] water bottle
-- [X] black duct tape
-- [X] miralax
-- [X] hammers
-- [X] scissors
-- [X] CBD oil
-- [X] move inverter up front or to trailer
-- [ ] Find lost calculator for EE (note: I've finished the class now and don't really need it)
-- [X] electromagnetic compatibility engineer like david weston could be shielded room designer
-- [X] resume EEG
-- [ ] visit zine place
-- [ ] visit flywheel arts
 
 Daily Tasks:
 wake up
