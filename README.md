@@ -68,6 +68,11 @@ BA Tasks:
 - [ ] plan trip to Indian Orchard
 
 Confusing things:
+- [ ] submit job posting, could mention familiarity with linux command line and neuroscience or machine learning
+- [ ] put bounty on prereq for hyperdb improvement
+- [ ] run bounty updater and keep it running always
+- [ ] put bounty on rest of tasks needed to create dat sensor and video streams, databases, websites, and archives that are timestamped on blockchain
+- [ ] put bounties on openbci issues
 - [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
 - [ ] build & test a small box
 - [ ] Find trailer registration
