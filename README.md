@@ -65,8 +65,10 @@ BA Tasks:
 Confusing things:
 - [ ] submit job posting, could mention familiarity with linux command line and neuroscience or machine learning
 - [ ] clean laptop using high concentration rubbing alcohol
-- [ ] remove dermal tops
 - [ ] check bridge st packages
+- [ ] get dermal tops removed
+- [ ] get ears pierced
+- [ ] get more dermals, replace any dermals not working
 - [ ] put bounty on prereq for hyperdb improvement
 - [ ] run bounty updater and keep it running always
 - [ ] put bounty on rest of tasks needed to create dat sensor and video streams, databases, websites, and archives that are timestamped on blockchain
