@@ -64,6 +64,8 @@ BA Tasks:
 
 Confusing things:
 - [ ] submit job posting, could mention familiarity with linux command line and neuroscience or machine learning
+- [ ] clean laptop using high concentration rubbing alcohol
+- [ ] check bridge st packages
 - [ ] get dermal tops removed
 - [ ] get ears pierced
 - [ ] get more dermals, replace any dermals not working
