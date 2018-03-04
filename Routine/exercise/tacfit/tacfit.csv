@@ -10,6 +10,13 @@
 heart rate max 220-age, mobility min, mobity max, compensation range, medium range,  high intensity range
 186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8, 148.8 - 186
 date,       time,  day, day, intensity, level, drill,              bpm, reps
+136
+20, 136, 20, 144
+22, 132, 20, 124
+16, 132, i6, 148
+7,  120, 6, 132
+14, 120, 14, 108 
+2018-03-04, 09:10, 24, echo, high, 1, primal 9030, 72
 21, 
 12, 120, , , ,
 12, 108, 5, 5, , 
