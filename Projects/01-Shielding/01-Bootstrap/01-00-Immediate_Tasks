@@ -1,4 +1,5 @@
 ## ROUTINE INSIDE
+- [ ] phone routines !!
 - [ ] check calendar
 	- plan for upcoming med weekend and get others on board with plan
 	- get tops removed on Sunday
@@ -9,11 +10,13 @@
 	  use of time while multitasking
 - [ ] use USB key from pants to transfer data
 - [ ] is SD card from laptop somewhere here?  maybe it's outside?
-- [ ] fill tasks below based on goals farther below; do the tasks
+- [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
 - [ ] washcloth
+- [ ] toilet paper
 - [ ] annex drive
+- [ ] apples, vegetables
 
 - [ ] 12v charger for XO
 - [ ] change of clothes & pjs
@@ -23,6 +26,8 @@
 	swap batteries
 	bring water in
 	sync with github for katie
+- [ ] buy a microsd card with sd adapter
+- [ ] remove note from front door while I'm not getting calls
 - [ ] Call to see if they have sawdust
 	- [ ] Amherst Farm Supply
 	- [ ] Lashway Lumber on Rt 9
@@ -35,19 +40,23 @@
 - [ ] ? Get sawdust
 
 ## Projects
-- SAFE1: [ ] Food solution
-- SAFE1: [ ] Drinking solution
-- [ ] EEG solution
+- TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
+- REC: [ ] EEG solution
 	need device to record
-- [ ] Surveillance solution
+- REC: [ ] Surveillance solution
 	need to activate camera and store log roughly immutably
-- [ ] Communication solution
+- REC: [ ] Radio solution
+	run an rtl-sdr power log continuously
+- SAFE: [ ] Find noise generator and record its noise level
+- SAFE: [ ] Practice welding a stainless steel box
+- SUST: [ ] Communication solution
 	fiberoptice cable for now
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
-- [/] Pooping solution
+- SUST: [/] Pooping solution
+	need sawdust/shredded paper/cereal/biodegradable powder
 	need scooper for sawdust
-- [ ] Washing solution
+- RESPONS: [ ] Washing solution
 	need containers for greywater and freshwater
 	would like container for washing water with soap
 	would like washing tool such as cloth, sponge
@@ -55,22 +64,78 @@
 	would like soap
 
 ## Auxiliary Projects
-- [ ] way to boil water & make tannin solution to wash with
+- [ ] LIFE: way to boil water & make tannin solution to wash with
 
 ## Goals
 - [ ] RESPONS: maintain expectations, obligation, and appearances
-- [ ] TASKORG: plan and make use of time intentionally; comprehend all goals, tasks, values
+	- keep up daily routines & process calendar regularly
+	- [ ] engage in windhorse & household expectations until we come to an agreement to halt them
+	- [ ] find ways to be comfortable outside shielded room
+	- [ ] set up phone, e-mail
+	- [ ] make everywhere organized and sparkling clean
+	- [ ] handle my mail, debts, medical appointments, taxes, vehicles
+	- [ ] take care of all my possessions
+- [ ] TASKORG:
+	- [ ] plan and make use of time intentionally; comprehend all goals, tasks, values
+	- [ ] organize my papers and my history.  eventually figure out what happened to me
 - [ ] SUST: Never need to leave a more secure/safe space
-- [ ] SIG1: Identify SE of space
+- [ ] SAFE: Allow all people to be in a completely information-isolated space
+	- [ ] Be in an information-isolated space myself
+		- [ ] Identify SE of my space
+		- [ ] Increase the SE of my space
+	- [ ] Catalogue the SE of cheap resources; how can a TEMPEST room be made on a shoestring budget?
+		- [ ] Log experiments of spaces; record their construction and their measurement.  Keep them and measure later, too.
+	- [ ] Produce common resources for shielding and a common space.  Space may have separate anonymous and logged areas.
+	      Support TIs and activists.
+- [ ] LIFE: Practice habits that engage a thriving, spreading natural existence
+	- [ ] Practice forced new behaviors to sustain my life and that of others
+	- [ ] Do things that make me happy
+	- [ ] Exercise regularly, stay healthy in other ways
+	- [ ] Recover awareness practice & peacemaker habits
+	- [ ] Exercise habitually, and freely
+	- [ ] Recover other lost practices and values
+	- [ ] Cry over trauma; free habits
+	- [ ] Recover connections with friends
 - [ ] REC: Record & store video, audio, gps, eeg, and radio 24/7
-	- [ ] BRAIN1: Record EEG 24/7
-	- [ ] SSECU: Record video/audio/logs/keys 24/7
-	- [ ] SIG2: Record radio 24/7
-- [ ] SIG3: Identify all signals
+	- [ ] Record EEG 24/7
+	- [ ] Record video/audio/logs/keys 24/7
+	- [ ] Record radio 24/7
+	- [ ] Journal regularly
+- [ ] DEMO: Produce common resources to increase baseline of emissions security
+	- [ ] Identify most signals in some way
+	- [ ] Demonstrate van eck phreaking using cheap radio
+	- [ ] Demonstrate transmission attacks / demonstrate keystroke or ram reading / demonstrate biosignal reading
+- [ ] PUB: Share information in censorship-resistant ways.  Participate in relevent communities
+	- Communities: TI & EH, EF! etc, decentralized development
+	- [ ] Call in to phone conferences; learn, share resources, and determine truth
+	- [ ] Synchronize mastodon, ikiwiki, dat, scuttlebutt, etc
+	- [ ] Keep 1-3 blogs and resource sites up to date
+	- [ ] participate in online discussions
+- [ ] BACKEND: Tools to support other tools, to make things more efficient for me, and to share work with others
+	- [ ] Set up git connections between my qubes vms
+	- [ ] Build/find furniture for space
+	- [ ] Integrate emissions work into some general-purpose tool/library
+	- [ ] Synchronize in-use annex folders
+	- [ ] Synchronize _all_ annex folders
+	- [ ] Make general-purpose signals library
+	- [ ] Learn and use MATLab
+	- [ ] Use an immutable storage system for all data
+	- [ ] Organize system in a general way so others may use
+- [ ] MONEY: Exponentially increase my budget
+	- [ ] Mine bitcoins
+	- [ ] Automate bitcoin investment
+		- [ ] Log order tables
+		- [ ] Run simulations of bot traders to see how well they perform
+- [ ] EARTH: Live sustainably; protect those who protect all life
+	- [ ] Connect with & support radical energy resistors in area
 - [ ] BRAIN2: Teach a computer to identify my experiences
-- [ ] SIG3: Demonstrate emissions attacks with common hw
+- [ ] OTHER: Things I've forgotten or am unsure where goes
+	- psychosis work... brain2 steps
+	- what happened ??? I might need to figure this out.  How?  Does it affect others?  How do I save everybody?
 
 ## Done
+- SUST: [X] Food solution
+- SUST: [X] Drinking solution
 - [X] bowl / plate
 - [X] wastebin
 - [X] inverter
@@ -87,6 +152,3 @@
 - [X] Swap batteries; bring water in
 - [X] Add this to github
   -> need xo key added to github
-- [X] Do items from katie's email
-- [X] Buy 2 5-gal buckets; one for pooping, one for greywater
-- [X] Buy more eye lubricant
