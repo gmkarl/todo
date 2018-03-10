@@ -12,33 +12,21 @@
 - [ ] fill tasks below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [x] toothbrush etc
-- [x] washbowl
-- [X] greywater container
-- [ ] change of clothes & pjs
-- [X] soap
-- [X] eye lubricant
-- [x] meds
-- [x] cup for meds
-- [x] food
-- [X] fissure treatment
-- [x] sitz bath
 
 - [ ] 12v charger for XO
+- [ ] change of clothes & pjs
 
 ## DO OUTSIDE
-- [X] Swap batteries; bring water in
-- [X] Add this to github
-  -> need xo key added to github
-- [X] Do items from katie's email
-- [X] Buy 2 5-gal buckets; one for pooping, one for greywater
-- [X] Buy more eye lubricant
+- Routine:
+	swap batteries
+	bring water in
+	sync with github for katie
 
 - [ ] Assert that sawdust has arrived with mail on Saturday Mar 10 (Today)
 	-> had not arrived, 12:15 pm
 
 - [ ] ? Find a place to get fine sawdust / ash
-- [ ] ? Get 3 5-gal bucket & sawdust
+- [ ] ? Get sawdust
 
 ## Projects
 - SAFE1: [ ] Food solution
@@ -50,6 +38,7 @@
 - [ ] Communication solution
 	fiberoptice cable for now
 	need cable, way to receive, way to send, remote server hooked up
+	also want a sneakernet solution -- e.g. queue pages to download
 - [/] Pooping solution
 	need scooper for sawdust
 - [ ] Washing solution
@@ -76,17 +65,22 @@
 - [ ] SIG3: Demonstrate emissions attacks with common hw
 
 ## Done
-- [X] Update MVF log
-- [X] take photos of all my boxes so I can plan where to find things
-- [X] Order:
-	- fiberoptic cable
-- [X] Check arrival times:
-	- bucket / sawdust
-		sawdust: mar 10, usps
-		bucket: mar 13, ups
-	- gold wire
-		mar 14, usps
-- [X] alligator clips
-- [X] 12v batteries, usb charger, light
-- [X] XO power cable
-- [X] trash bags
+- [X] bowl / plate
+- [X] wastebin
+- [X] inverter
+- [x] toothbrush etc
+- [x] washbowl
+- [X] greywater container
+- [X] soap
+- [X] eye lubricant
+- [x] meds
+- [x] cup for meds
+- [x] food
+- [X] fissure treatment
+- [x] sitz bath
+- [X] Swap batteries; bring water in
+- [X] Add this to github
+  -> need xo key added to github
+- [X] Do items from katie's email
+- [X] Buy 2 5-gal buckets; one for pooping, one for greywater
+- [X] Buy more eye lubricant
