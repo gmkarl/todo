@@ -1,0 +1,9 @@
+
+I have a 12V unbranded "noise source" from ebay.
+The RF output matches the adapters I have for the ham-it-up upconverter.
+
+I'll need to power it, test it, and oscillate it.
+- screwdriver & tools to rig wires
+- controller to manage (arduino) (also order some more controllers, a couple good arduinos and a couple good rasperry pis)
+
+I'll add these tools to what to do outside of the shelter, then work on the receiving end.
