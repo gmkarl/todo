@@ -1,12 +1,10 @@
 ## ROUTINE INSIDE
 - [ ] phone routines !!
 - [ ] check calendar
-	- plan for upcoming med weekend and get others on board with plan
-	- get tops removed on Sunday
+- [ ] get tops removed on Sunday
 
 ## TASKS INSIDE
 - [ ] use USB key from pants to transfer data
-- [ ] is SD card from laptop somewhere here?  maybe it's outside?
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
@@ -157,8 +155,12 @@
 	- what happened ??? I might need to figure this out.  How?  Does it affect others?  How do I save everybody?
 	- high degrees of information security: encrypted ram, audited phone bootloaders
 	  & sharing such things with targeted groups
+  - merge freenet repos (backend? history?)
+  - recover & resolve all busted drives
 
 ## Done
+- [ ] is SD card from laptop somewhere here?  maybe it's outside?
+- [X] plan for upcoming med week and get others on board with plan
 - SAFE: [X] Find noise generator
 - [X] Make time-tracking script
 	- tracks how much time I spend on goals, to help me prioritize
