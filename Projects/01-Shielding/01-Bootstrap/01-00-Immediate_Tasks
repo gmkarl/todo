@@ -5,20 +5,22 @@
 
 ## TASKS INSIDE
 - [ ] use USB key from pants to transfer data
+- [ ] find clothes in bag
+- [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] labels (tape & marker)
-- [ ] washcloth
-- [ ] toilet paper
-- [ ] dental guard
-- [ ] toothpaste
-- [ ] annex drive
-- [ ] apples, vegetables
-- [ ] screwdrivers
-- [ ] wire cutters/strippers ... heat shrink tubing and solder setup
-- [ ] an arduino from robot box or electronics box
-- [ ] two table-like things, even milk crates
+- [X] labels (tape & marker)
+- [X] washcloth
+- [X] toilet paper
+- [X] dental guard
+- [X] toothpaste
+- [X] annex drive
+- [X] apples, vegetables
+- [X] screwdrivers
+- [X] wire cutters/strippers ... heat shrink tubing and solder setup
+- [X] an arduino from robot box or electronics box
+- [X] two table-like things, even milk crates
 
 - [ ] 12v charger for XO
 - [ ] change of clothes & pjs
@@ -29,32 +31,6 @@
 	bring water in
 	sync with github for katie
 	download email on iphone
-- [ ] charge a pack of batteries
-- [ ] check skinny trailer box in room -- is that a 12v battery charger?
-- [ ] check injured laptops box in room -- any XO charger stuff?
-- [ ] check electronics box in front hall -- any DC plugs/sockets or XO charger stuff?
-- [ ] order an XO plug if i couldn't find one
-- [ ] fill huge water jug with tapwater
-- [ ] remove note from front door while I'm not getting calls
-- [ ] check voicemail
-- [ ] order a DC LED bulb for lamp
-- [ ] order a 12v charger for dell laptop
-- [ ] buy a microsd card with sd adapter
-- [ ] buy some male and female 12v plugs
-- [ ] buy some big clips for battery terminals ... cigarette plugs tend to wear
-- [ ] buy 2 raspberry pis and 2 arduinos
-- [ ] buy breadboard and relay
-- [ ] buy a big 12v battery
-- [ ] Call to see if they have sawdust
-	- [ ] Amherst Farm Supply
-	- [ ] Lashway Lumber on Rt 9
-      If you find sawdust, you may pick it up.  Bring bucket or trashbag to hold.
-
-- [ ] Assert that sawdust has arrived with mail on Saturday Mar 10 (Today)
-	-> had not arrived, 12:15 pm
-
-- [ ] ? Find a place to get fine sawdust / ash
-- [ ] ? Get sawdust
 
 ## Projects
 - TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
@@ -159,27 +135,36 @@
   - recover & resolve all busted drives
 
 ## Done
+- [X] charge a pack of batteries
+- [X] check skinny trailer box in room -- is that a 12v battery charger?
+	-> it's the old one; moved near tent
+- [X] check injured laptops box in room -- any XO charger stuff?
+	-> there are flaky XOs but no chargers; found the transformer charger
+- [X] check electronics box in front hall -- any DC plugs/sockets or XO charger stuff?
+- [X] order an XO plug if i couldn't find one
+- [X] fill huge water jug with tapwater
+- [X] remove note from front door while I'm not getting calls
+- [X] check voicemail
+- [X] order a DC LED bulb for lamp
+- [X] order a 12v charger for dell laptop
+- [X] buy a microsd card with sd adapter
+- [X] buy some male and female 12v plugs
+- [X] buy some big clips for battery terminals ... cigarette plugs tend to wear
+- [X] buy 2 raspberry pis and 2 arduinos
+- [X] buy breadboard and relay
+- [X] buy a big 12v battery
+- [ ] Call to see if they have sawdust
+	- [ ] Amherst Farm Supply
+	- [ ] Lashway Lumber on Rt 9
+      If you find sawdust, you may pick it up.  Bring bucket or trashbag to hold.
+- [X] Assert that sawdust has arrived with mail on Saturday Mar 10 (Today)
+	-> had not arrived, 12:15 pm
+	-> arrived by sunday morning
+- [X] ? Find a place to get fine sawdust / ash
+- [X] ? Get sawdust
 - [ ] is SD card from laptop somewhere here?  maybe it's outside?
 - [X] plan for upcoming med week and get others on board with plan
 - SAFE: [X] Find noise generator
 - [X] Make time-tracking script
 	- tracks how much time I spend on goals, to help me prioritize
 	  use of time while multitasking
-- SUST: [X] Food solution
-- SUST: [X] Drinking solution
-- [X] bowl / plate
-- [X] wastebin
-- [X] inverter
-- [x] toothbrush etc
-- [x] washbowl
-- [X] greywater container
-- [X] soap
-- [X] eye lubricant
-- [x] meds
-- [x] cup for meds
-- [x] food
-- [X] fissure treatment
-- [x] sitz bath
-- [X] Swap batteries; bring water in
-- [X] Add this to github
-  -> need xo key added to github
