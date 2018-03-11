@@ -1,0 +1,185 @@
+## ROUTINE INSIDE
+- [ ] phone routines !!
+- [ ] check calendar
+- [ ] get tops removed on Sunday
+
+## TASKS INSIDE
+- [ ] use USB key from pants to transfer data
+- [ ] fill projects below based on goals farther below; do the tasks
+
+## BRING INSIDE
+- [ ] labels (tape & marker)
+- [ ] washcloth
+- [ ] toilet paper
+- [ ] dental guard
+- [ ] toothpaste
+- [ ] annex drive
+- [ ] apples, vegetables
+- [ ] screwdrivers
+- [ ] wire cutters/strippers ... heat shrink tubing and solder setup
+- [ ] an arduino from robot box or electronics box
+- [ ] two table-like things, even milk crates
+
+- [ ] 12v charger for XO
+- [ ] change of clothes & pjs
+
+## DO OUTSIDE
+- Routine:
+	swap batteries
+	bring water in
+	sync with github for katie
+	download email on iphone
+- [ ] charge a pack of batteries
+- [ ] check skinny trailer box in room -- is that a 12v battery charger?
+- [ ] check injured laptops box in room -- any XO charger stuff?
+- [ ] check electronics box in front hall -- any DC plugs/sockets or XO charger stuff?
+- [ ] order an XO plug if i couldn't find one
+- [ ] fill huge water jug with tapwater
+- [ ] remove note from front door while I'm not getting calls
+- [ ] check voicemail
+- [ ] order a DC LED bulb for lamp
+- [ ] order a 12v charger for dell laptop
+- [ ] buy a microsd card with sd adapter
+- [ ] buy some male and female 12v plugs
+- [ ] buy some big clips for battery terminals ... cigarette plugs tend to wear
+- [ ] buy 2 raspberry pis and 2 arduinos
+- [ ] buy breadboard and relay
+- [ ] buy a big 12v battery
+- [ ] Call to see if they have sawdust
+	- [ ] Amherst Farm Supply
+	- [ ] Lashway Lumber on Rt 9
+      If you find sawdust, you may pick it up.  Bring bucket or trashbag to hold.
+
+- [ ] Assert that sawdust has arrived with mail on Saturday Mar 10 (Today)
+	-> had not arrived, 12:15 pm
+
+- [ ] ? Find a place to get fine sawdust / ash
+- [ ] ? Get sawdust
+
+## Projects
+- TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
+- REC: [ ] EEG solution
+	need device to record
+- REC: [ ] Surveillance solution
+	need to activate camera and store log roughly immutably
+- REC: [ ] Radio solution
+	run an rtl-sdr power log continuously
+- SAFE: [ ] record noise generators noise level
+- SAFE: [ ] Practice welding a stainless steel box
+- SUST: [ ] Communication solution
+	fiberoptice cable for now
+	need cable, way to receive, way to send, remote server hooked up
+	also want a sneakernet solution -- e.g. queue pages to download
+- SUST: [/] Pooping solution
+	need sawdust/shredded paper/cereal/biodegradable powder
+	need scooper for sawdust
+- RESPONS: [/] Washing solution
+	need containers for greywater and freshwater
+	would like container for washing water with soap
+	would like washing tool such as cloth, sponge
+	would like way to wash without getting tent went
+	would like soap
+- BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
+
+## Auxiliary Projects
+- [ ] LIFE: way to boil water & make tannin solution to wash with
+
+## Goals
+- [ ] RESPONS: maintain expectations, obligation, and appearances
+	- keep up daily routines & process calendar regularly
+	- [ ] engage in windhorse & household expectations until we come to an agreement to halt them
+	- [ ] find ways to be comfortable outside shielded room
+	- [ ] set up phone, e-mail
+	- [ ] make everywhere organized and sparkling clean
+	- [ ] handle my mail, debts, medical appointments, taxes, vehicles
+	- [ ] take care of all my possessions
+- [ ] TASKORG:
+	- [ ] plan and make use of time intentionally; comprehend all goals, tasks, values
+	- [ ] organize my papers and my history.  eventually figure out what happened to me
+- [ ] SUST: Never need to leave a more secure/safe space
+- [ ] SAFE: Allow all people to be in a completely information-isolated space
+	- [ ] Be in an information-isolated space myself
+		- [ ] Identify SE of my space
+		- [ ] Increase the SE of my space
+			- [ ] Protect air vent
+		- [ ] Ensure emissions security within feasibility
+		- [ ] Ensure non-emissions security within feasibility
+	- [ ] Catalogue the SE of cheap resources; how can a TEMPEST room be made on a shoestring budget?
+		- [ ] Log experiments of spaces; record their construction and their measurement.  Keep them and measure later, too.
+	- [ ] Produce common resources for shielding and a common space.  Space may have separate anonymous and logged areas.
+	      Support TIs and activists.
+- [ ] LIFE: Practice habits that engage a thriving, spreading natural existence
+	- [ ] Practice forced new behaviors to sustain my life and that of others
+	- [ ] Do things that make me happy
+	- [ ] Exercise regularly, stay healthy in other ways
+	- [ ] Recover awareness practice & peacemaker habits
+	- [ ] Exercise habitually, and freely
+	- [ ] Recover other lost practices and values
+	- [ ] Cry over trauma; free habits
+	- [ ] Recover connections with friends
+- [ ] REC: Record & store video, audio, gps, eeg, and radio 24/7
+	- [ ] Record EEG 24/7
+	- [ ] Record video/audio/logs/keys 24/7
+	- [ ] Record radio 24/7
+	- [ ] Journal regularly
+- [ ] DEMO: Produce common resources to increase baseline of emissions security
+	- [ ] Identify most signals in some way
+	- [ ] Demonstrate van eck phreaking using cheap radio
+	- [ ] Demonstrate transmission attacks / demonstrate keystroke or ram reading / demonstrate biosignal reading
+- [ ] PUB: Share information in censorship-resistant ways.  Participate in relevent communities
+	- Communities: TI & EH, EF! etc, decentralized development
+	- [ ] Call in to phone conferences; learn, share resources, and determine truth
+	- [ ] Synchronize mastodon, ikiwiki, dat, scuttlebutt, etc
+	- [ ] Keep 1-3 blogs and resource sites up to date
+	- [ ] participate in online discussions
+- [ ] BACKEND: Tools to support other tools, to make things more efficient for me, and to share work with others
+	- [ ] Set up git connections between my qubes vms
+	- [ ] Build/find furniture for space
+	- [ ] Integrate emissions work into some general-purpose tool/library
+	- [ ] Synchronize in-use annex folders
+	- [ ] Synchronize _all_ annex folders
+	- [ ] Make general-purpose signals library
+	- [ ] Learn and use MATLab
+	- [ ] Use an immutable storage system for all data
+	- [ ] Organize system in a general way so others may use
+- [ ] MONEY: Exponentially increase my budget
+	- [ ] Mine bitcoins
+	- [ ] Automate bitcoin investment
+		- [ ] Log order tables
+		- [ ] Run simulations of bot traders to see how well they perform
+- [ ] EARTH: Live sustainably; protect those who protect all life
+	- [ ] Connect with & support radical energy resistors in area
+- [ ] BRAIN2: Teach a computer to identify my experiences
+- [ ] OTHER: Things I've forgotten or am unsure where goes
+	- psychosis work... brain2 steps
+	- what happened ??? I might need to figure this out.  How?  Does it affect others?  How do I save everybody?
+	- high degrees of information security: encrypted ram, audited phone bootloaders
+	  & sharing such things with targeted groups
+  - merge freenet repos (backend? history?)
+  - recover & resolve all busted drives
+
+## Done
+- [ ] is SD card from laptop somewhere here?  maybe it's outside?
+- [X] plan for upcoming med week and get others on board with plan
+- SAFE: [X] Find noise generator
+- [X] Make time-tracking script
+	- tracks how much time I spend on goals, to help me prioritize
+	  use of time while multitasking
+- SUST: [X] Food solution
+- SUST: [X] Drinking solution
+- [X] bowl / plate
+- [X] wastebin
+- [X] inverter
+- [x] toothbrush etc
+- [x] washbowl
+- [X] greywater container
+- [X] soap
+- [X] eye lubricant
+- [x] meds
+- [x] cup for meds
+- [x] food
+- [X] fissure treatment
+- [x] sitz bath
+- [X] Swap batteries; bring water in
+- [X] Add this to github
+  -> need xo key added to github

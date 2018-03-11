@@ -1,0 +1,8 @@
+I'd like to get some degree of handle on measuring the effectiveness of
+shielded enclosures.
+
+Goals:
+	- Jankety approach: find a super-cheap way of estimating SE using an
+	oscillating noise source
+	- Pro approach: buy real tools and verify that professional measurements
+	match my jankety measurements.

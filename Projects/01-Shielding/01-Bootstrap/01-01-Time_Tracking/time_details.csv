@@ -1,0 +1,45 @@
+Time,Action,Goal,Task
+1520722998.69,start,TASKORG,ttrack script
+1520723255.51,heartbeat,TASKORG,ttrack script
+1520723255.51,stop,TASKORG,ttrack script
+1520723294.43,start,TASKORG,ttrack script
+1520723301.93,heartbeat,TASKORG,ttrack script
+1520723303.21,stop,TASKORG,ttrack script
+1520723304.4,start,TASKORG,ttrack script
+1520723458.87,stop,TASKORG,ttrack script
+1520723462.8,start,TASKORG,ttrack script
+1520723587.08,stop,TASKORG,ttrack script
+1520723598.62,start,TASKORG,ttrack script
+1520724665.56,stop,TASKORG,ttrack script
+1520724666.88,start,TASKORG,ttrack script
+1520724668.18,heartbeat,TASKORG,ttrack script
+1520724669.65,stop,TASKORG,ttrack script
+1520724670.66,start,TASKORG,ttrack script
+1520724739.65,stop,TASKORG,ttrack script
+1520724876.34,start,TASKORG,ttrack script
+1520725700.34,stop,TASKORG,ttrack script
+1520725713.33,start,BACKEND,git
+1520725801.19,stop,BACKEND,git
+1520726162.56,start,BACKEND,git
+1520726336.17,heartbeat,BACKEND,git
+1520726478.67,stop,BACKEND,git
+1520726514.12,start,SAFE,noise
+1520727982.38,stop,SAFE,noise
+1520727867.85,start,TASKORG,updating
+1520727949.47,stop,TASKORG,updating
+1520727961.0,start,SUST,sneakernet
+1520728019.85,stop,SUST,sneakernet
+1520728311.48,start,SUST,sneakernet
+1520730289.87,stop,SUST,sneakernet
+1520730360.95,start,RESPONS,evening routine
+1520731264.05,stop,RESPONS,evening routine
+1520731399.08,start,SLEEP,
+1520754990.65,stop,SLEEP,
+1520755054.55,start,RESPONS,morning routine
+1520756995.68,stop,RESPONS,morning routine
+1520757393.86,start,BACKEND,ttrack script
+1520757507.14,stop,BACKEND,ttrack script
+1520757627.6,start,REC,eeg
+1520757747.55,stop,REC,eeg
+1520760923.71,start,SLEEP,
+1520772774.55,stop,SLEEP,
