@@ -41,3 +41,5 @@ Time,Action,Goal,Task
 1520757507.14,stop,BACKEND,ttrack script
 1520757627.6,start,REC,eeg
 1520757747.55,stop,REC,eeg
+1520760923.71,start,SLEEP,
+1520772774.55,stop,SLEEP,
