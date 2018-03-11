@@ -30,16 +30,23 @@
 	swap batteries
 	bring water in
 	sync with github for katie
-	download email
+	download email on iphone
+- [ ] charge a pack of batteries
+- [ ] check skinny trailer box in room -- is that a 12v battery charger?
+- [ ] check injured laptops box in room -- any XO charger stuff?
+- [ ] check electronics box in front hall -- any DC plugs/sockets or XO charger stuff?
+- [ ] order an XO plug if i couldn't find one
 - [ ] fill huge water jug with tapwater
 - [ ] remove note from front door while I'm not getting calls
 - [ ] check voicemail
 - [ ] order a DC LED bulb for lamp
+- [ ] order a 12v charger for dell laptop
 - [ ] buy a microsd card with sd adapter
 - [ ] buy some male and female 12v plugs
 - [ ] buy some big clips for battery terminals ... cigarette plugs tend to wear
 - [ ] buy 2 raspberry pis and 2 arduinos
 - [ ] buy breadboard and relay
+- [ ] buy a big 12v battery
 - [ ] Call to see if they have sawdust
 	- [ ] Amherst Farm Supply
 	- [ ] Lashway Lumber on Rt 9
@@ -68,12 +75,13 @@
 - SUST: [/] Pooping solution
 	need sawdust/shredded paper/cereal/biodegradable powder
 	need scooper for sawdust
-- RESPONS: [ ] Washing solution
+- RESPONS: [/] Washing solution
 	need containers for greywater and freshwater
 	would like container for washing water with soap
 	would like washing tool such as cloth, sponge
 	would like way to wash without getting tent went
 	would like soap
+- BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
 ## Auxiliary Projects
 - [ ] LIFE: way to boil water & make tannin solution to wash with

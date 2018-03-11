@@ -39,3 +39,5 @@ Time,Action,Goal,Task
 1520756995.68,stop,RESPONS,morning routine
 1520757393.86,start,BACKEND,ttrack script
 1520757507.14,stop,BACKEND,ttrack script
+1520757627.6,start,REC,eeg
+1520757747.55,stop,REC,eeg
