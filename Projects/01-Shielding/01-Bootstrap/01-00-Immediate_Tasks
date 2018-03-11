@@ -5,9 +5,6 @@
 	- get tops removed on Sunday
 
 ## TASKS INSIDE
-- [ ] Make time-tracking script
-	- tracks how much time I spend on goals, to help me prioritize
-	  use of time while multitasking
 - [ ] use USB key from pants to transfer data
 - [ ] is SD card from laptop somewhere here?  maybe it's outside?
 - [ ] fill projects below based on goals farther below; do the tasks
@@ -16,12 +13,14 @@
 - [ ] labels (tape & marker)
 - [ ] washcloth
 - [ ] toilet paper
+- [ ] dental guard
+- [ ] toothpaste
 - [ ] annex drive
 - [ ] apples, vegetables
 - [ ] screwdrivers
 - [ ] wire cutters/strippers ... heat shrink tubing and solder setup
 - [ ] an arduino from robot box or electronics box
-- [ ] some kind of table ?? even a milk crate? maybe two?
+- [ ] two table-like things, even milk crates
 
 - [ ] 12v charger for XO
 - [ ] change of clothes & pjs
@@ -31,12 +30,16 @@
 	swap batteries
 	bring water in
 	sync with github for katie
+	download email
 - [ ] fill huge water jug with tapwater
 - [ ] remove note from front door while I'm not getting calls
+- [ ] check voicemail
+- [ ] order a DC LED bulb for lamp
 - [ ] buy a microsd card with sd adapter
 - [ ] buy some male and female 12v plugs
 - [ ] buy some big clips for battery terminals ... cigarette plugs tend to wear
 - [ ] buy 2 raspberry pis and 2 arduinos
+- [ ] buy breadboard and relay
 - [ ] Call to see if they have sawdust
 	- [ ] Amherst Farm Supply
 	- [ ] Lashway Lumber on Rt 9
@@ -56,7 +59,7 @@
 	need to activate camera and store log roughly immutably
 - REC: [ ] Radio solution
 	run an rtl-sdr power log continuously
-- SAFE: [ ] Find noise generator and record its noise level
+- SAFE: [ ] record noise generators noise level
 - SAFE: [ ] Practice welding a stainless steel box
 - SUST: [ ] Communication solution
 	fiberoptice cable for now
@@ -92,6 +95,9 @@
 	- [ ] Be in an information-isolated space myself
 		- [ ] Identify SE of my space
 		- [ ] Increase the SE of my space
+			- [ ] Protect air vent
+		- [ ] Ensure emissions security within feasibility
+		- [ ] Ensure non-emissions security within feasibility
 	- [ ] Catalogue the SE of cheap resources; how can a TEMPEST room be made on a shoestring budget?
 		- [ ] Log experiments of spaces; record their construction and their measurement.  Keep them and measure later, too.
 	- [ ] Produce common resources for shielding and a common space.  Space may have separate anonymous and logged areas.
@@ -145,6 +151,10 @@
 	  & sharing such things with targeted groups
 
 ## Done
+- SAFE: [X] Find noise generator
+- [X] Make time-tracking script
+	- tracks how much time I spend on goals, to help me prioritize
+	  use of time while multitasking
 - SUST: [X] Food solution
 - SUST: [X] Drinking solution
 - [X] bowl / plate
