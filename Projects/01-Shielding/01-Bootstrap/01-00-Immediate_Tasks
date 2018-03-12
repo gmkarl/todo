@@ -1,29 +1,18 @@
-## ROUTINE INSIDE
-- [ ] phone routines !!
-- [ ] check calendar
-- [ ] get tops removed on Sunday
-
 ## TASKS INSIDE
-- [ ] use USB key from pants to transfer data
-- [ ] find clothes in bag
+- Routine:
+	- Phone routines
+	- Check calendar
+  - Check battery voltage
+- [ ] turn bedside table around so drawer is accessible
 - [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] labels (tape & marker)
-- [X] washcloth
-- [X] toilet paper
-- [X] dental guard
-- [X] toothpaste
-- [X] annex drive
-- [X] apples, vegetables
-- [X] screwdrivers
-- [X] wire cutters/strippers ... heat shrink tubing and solder setup
-- [X] an arduino from robot box or electronics box
-- [X] two table-like things, even milk crates
-
-- [ ] 12v charger for XO
-- [ ] change of clothes & pjs
+- [ ] laundry hamper
+- [ ] handkerchief
+- [ ] paperclip to get sd card out of phone
+- [ ] mobile vacuum
+- [ ] holder to angle water jug
 
 ## DO OUTSIDE
 - Routine:
@@ -31,6 +20,31 @@
 	bring water in
 	sync with github for katie
 	download email on iphone
+	swap eeg batteries for now
+	increase the organization of 1 box or item
+- [ ] change out toilet?
+- [ ] charge laptops and cell phones
+- [ ] put cans from tent in cupboard
+- [ ] take out big black charger on top of bookshelf; bring in small charger
+- [ ] move laundry from wash to dryer
+- [ ] take a shower
+- [ ] order:
+   - [ ] working xo plug
+- [ ] order/find:
+   - [ ] low-gauge alligator clips for inverter
+- [ ] buy now:
+   - [ ] big 12v deep cycle battery
+   - [ ] another chunk of rechargeable AAs (to charge in tent)
+- [ ] look into Anderson Powerpole as alternative to cigarette lighter plug
+- [ ] install soapy_power prereqs on dell laptop
+	- [ ] git clone https://github.com/xmikos/simple_soapy
+	- [ ] git clone https://github.com/xmikos/simplespectral
+	- ?[ ] pip3 install? check src/simple_soapy/README.rst
+	- [ ] sudo setup.py install
+	- [ ] run soapy_power
+- [ ] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
+- [ ] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
+
 
 ## Projects
 - TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
@@ -46,9 +60,6 @@
 	fiberoptice cable for now
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
-- SUST: [/] Pooping solution
-	need sawdust/shredded paper/cereal/biodegradable powder
-	need scooper for sawdust
 - RESPONS: [/] Washing solution
 	need containers for greywater and freshwater
 	would like container for washing water with soap
@@ -135,36 +146,34 @@
   - recover & resolve all busted drives
 
 ## Done
+- SUST: [X] Pooping solution
+	need sawdust/shredded paper/cereal/biodegradable powder
+	need scooper for sawdust
+- [X] buy lithium-ion battery for openbci
+- [X] find microsd card or physically purchase new one
+- [X] buy better usb keys
+- [ ] swap EEG batteries
+- [X] multimeter (basement)
+- [X] box cutting knife (basement?)
+- [ ] packing tape (if easy to find)
+- [X] bookshelf (in workroom)
+- [X] transformerbook & charger
+
+- [X] 12v charger for XO
+- [X] change of cloths & pjs
+- [ ] use USB key from pants to transfer data
+- [X] find clothes in bag
+	-> just pajamas
+- [X] get tops removed on Sunday
+- [X] labels (tape & marker)
+- [X] washcloth
+- [X] toilet paper
+- [X] dental guard
+- [X] toothpaste
+- [X] annex drive
+- [X] apples, vegetables
+- [X] screwdrivers
+- [X] wire cutters/strippers ... heat shrink tubing and solder setup
+- [X] an arduino from robot box or electronics box
+- [X] two table-like things, even milk crates
 - [X] charge a pack of batteries
-- [X] check skinny trailer box in room -- is that a 12v battery charger?
-	-> it's the old one; moved near tent
-- [X] check injured laptops box in room -- any XO charger stuff?
-	-> there are flaky XOs but no chargers; found the transformer charger
-- [X] check electronics box in front hall -- any DC plugs/sockets or XO charger stuff?
-- [X] order an XO plug if i couldn't find one
-- [X] fill huge water jug with tapwater
-- [X] remove note from front door while I'm not getting calls
-- [X] check voicemail
-- [X] order a DC LED bulb for lamp
-- [X] order a 12v charger for dell laptop
-- [X] buy a microsd card with sd adapter
-- [X] buy some male and female 12v plugs
-- [X] buy some big clips for battery terminals ... cigarette plugs tend to wear
-- [X] buy 2 raspberry pis and 2 arduinos
-- [X] buy breadboard and relay
-- [X] buy a big 12v battery
-- [ ] Call to see if they have sawdust
-	- [ ] Amherst Farm Supply
-	- [ ] Lashway Lumber on Rt 9
-      If you find sawdust, you may pick it up.  Bring bucket or trashbag to hold.
-- [X] Assert that sawdust has arrived with mail on Saturday Mar 10 (Today)
-	-> had not arrived, 12:15 pm
-	-> arrived by sunday morning
-- [X] ? Find a place to get fine sawdust / ash
-- [X] ? Get sawdust
-- [ ] is SD card from laptop somewhere here?  maybe it's outside?
-- [X] plan for upcoming med week and get others on board with plan
-- SAFE: [X] Find noise generator
-- [X] Make time-tracking script
-	- tracks how much time I spend on goals, to help me prioritize
-	  use of time while multitasking
