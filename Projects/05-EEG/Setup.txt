@@ -1,0 +1,4 @@
+2018-03-11: five leads
+	Current configuration, from above with connections below to openbci,
+	bottom row, is:
+		green ... ... orange purple grey blue
