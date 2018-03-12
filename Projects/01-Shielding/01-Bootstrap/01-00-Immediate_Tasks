@@ -2,17 +2,16 @@
 - Routine:
 	- Phone routines
 	- Check calendar
+    -> visit pene
   - Check battery voltage
 - [ ] turn bedside table around so drawer is accessible
 - [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] laundry hamper
 - [ ] handkerchief
 - [ ] paperclip to get sd card out of phone
 - [ ] mobile vacuum
-- [X] holder to angle water jug
 
 ## DO OUTSIDE
 - Routine:
@@ -25,29 +24,9 @@
 - [ ] buy/get now:
    - [ ] a fixed mirror
 - [ ] schedule transdermals
+- [ ] determine when penelope is in haven next
 - [ ] cancel piano moving via uhaul
-- [X] change out toilet?
-- [X] charge laptops and cell phones
-- [X] put cans from tent in cupboard
-- [X] take out big black charger on top of bookshelf; bring in small charger
-- [X] take laundry from dryer
-- [X] take a shower
-- [X] order:
-   - [X] working xo plug
-- [X] order/find:
-   - [X] low-gauge alligator clips for inverter
-- [X] buy now:
-   - [X] big 12v deep cycle battery
-   - [X] another chunk of rechargeable AAs (to charge in tent)
-- [X] look into Anderson Powerpole as alternative to cigarette lighter plug
-- [X] install soapy_power prereqs on dell laptop
-	- [X] git clone https://github.com/xmikos/simple_soapy
-	- [X] git clone https://github.com/xmikos/simplespectral
-	- ?[X] pip3 install? check src/simple_soapy/README.rst
-	- [X] sudo setup.py install
-	- [X] run soapy_power
-- [X] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
-- [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
+- [ ] collect mail
 
 
 ## Projects
@@ -150,6 +129,30 @@
   - recover & resolve all busted drives
 
 ## Done
+- [X] change out toilet?
+- [X] charge laptops and cell phones
+- [X] put cans from tent in cupboard
+- [X] take out big black charger on top of bookshelf; bring in small charger
+- [X] take laundry from dryer
+- [X] take a shower
+- [X] order:
+   - [X] working xo plug
+- [X] order/find:
+   - [X] low-gauge alligator clips for inverter
+- [X] buy now:
+   - [X] big 12v deep cycle battery
+   - [X] another chunk of rechargeable AAs (to charge in tent)
+- [X] look into Anderson Powerpole as alternative to cigarette lighter plug
+- [X] install soapy_power prereqs on dell laptop
+	- [X] git clone https://github.com/xmikos/simple_soapy
+	- [X] git clone https://github.com/xmikos/simplespectral
+	- ?[X] pip3 install? check src/simple_soapy/README.rst
+	- [X] sudo setup.py install
+	- [X] run soapy_power
+- [X] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
+- [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
+- [X] laundry hamper
+- [X] holder to angle water jug
 - SUST: [X] Pooping solution
 	need sawdust/shredded paper/cereal/biodegradable powder
 	need scooper for sawdust
@@ -171,13 +174,3 @@
 - [X] get tops removed on Sunday
 - [X] labels (tape & marker)
 - [X] washcloth
-- [X] toilet paper
-- [X] dental guard
-- [X] toothpaste
-- [X] annex drive
-- [X] apples, vegetables
-- [X] screwdrivers
-- [X] wire cutters/strippers ... heat shrink tubing and solder setup
-- [X] an arduino from robot box or electronics box
-- [X] two table-like things, even milk crates
-- [X] charge a pack of batteries
