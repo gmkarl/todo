@@ -8,11 +8,11 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] laundry hamper
+- [X] laundry hamper
 - [ ] handkerchief
 - [ ] paperclip to get sd card out of phone
 - [ ] mobile vacuum
-- [ ] holder to angle water jug
+- [X] holder to angle water jug
 
 ## DO OUTSIDE
 - Routine:
@@ -22,28 +22,30 @@
 	download email on iphone
 	swap eeg batteries for now
 	increase the organization of 1 box or item
-- [ ] change out toilet?
-- [ ] charge laptops and cell phones
-- [ ] put cans from tent in cupboard
-- [ ] take out big black charger on top of bookshelf; bring in small charger
-- [ ] move laundry from wash to dryer
-- [ ] take a shower
-- [ ] order:
-   - [ ] working xo plug
-- [ ] order/find:
-   - [ ] low-gauge alligator clips for inverter
-- [ ] buy now:
-   - [ ] big 12v deep cycle battery
-   - [ ] another chunk of rechargeable AAs (to charge in tent)
-- [ ] look into Anderson Powerpole as alternative to cigarette lighter plug
-- [ ] install soapy_power prereqs on dell laptop
-	- [ ] git clone https://github.com/xmikos/simple_soapy
-	- [ ] git clone https://github.com/xmikos/simplespectral
-	- ?[ ] pip3 install? check src/simple_soapy/README.rst
-	- [ ] sudo setup.py install
-	- [ ] run soapy_power
-- [ ] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
-- [ ] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
+- [ ] buy/get now:
+   - [ ] a fixed mirror
+- [X] change out toilet?
+- [X] charge laptops and cell phones
+- [X] put cans from tent in cupboard
+- [X] take out big black charger on top of bookshelf; bring in small charger
+- [X] take laundry from dryer
+- [X] take a shower
+- [X] order:
+   - [X] working xo plug
+- [X] order/find:
+   - [X] low-gauge alligator clips for inverter
+- [X] buy now:
+   - [X] big 12v deep cycle battery
+   - [X] another chunk of rechargeable AAs (to charge in tent)
+- [X] look into Anderson Powerpole as alternative to cigarette lighter plug
+- [X] install soapy_power prereqs on dell laptop
+	- [X] git clone https://github.com/xmikos/simple_soapy
+	- [X] git clone https://github.com/xmikos/simplespectral
+	- ?[X] pip3 install? check src/simple_soapy/README.rst
+	- [X] sudo setup.py install
+	- [X] run soapy_power
+- [X] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
+- [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
 
 
 ## Projects
