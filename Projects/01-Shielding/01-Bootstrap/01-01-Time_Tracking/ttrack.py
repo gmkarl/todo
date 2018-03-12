@@ -3,7 +3,7 @@
 import argparse, time, sys, tty
 
 parser = argparse.ArgumentParser(description='Tracks time')
-parser.add_argument('-d', '--details', default='hours_details.csv', type=argparse.FileType('a+'), help='csv to store details in')
+parser.add_argument('-d', '--details', default='time_details.csv', type=argparse.FileType('a+'), help='csv to store details in')
 parser.add_argument('-p', '--priorities', default='goals_priorities.csv', type=argparse.FileType('a+'), help='csv to read priorities from')
 pgroup = parser.add_mutually_exclusive_group(required=True)
 pgroup.add_argument('-w', '--work', metavar=('GOAL', 'TASK'), nargs='+', help='track work towards a goal')
@@ -103,7 +103,9 @@ class Data():
     
     def do_report(self):
         self.cumulate()
-        for goal in self.cumulated:
+        order = self.cumulated.keys()
+        order.sort(lambda a, b: cmp(self.cumulated[b], self.cumulated[a]))
+        for goal in order:
             print('%s: %g hours (%f%% vs goal of %f%%)' % (goal, self.cumulated[goal]/60/60, self.cumulated[goal]*100/self.total, self.prios[goal]*100/self.prios_total))
 
     def do_suggest(self):

@@ -1,23 +1,26 @@
 ## ROUTINE INSIDE
 - [ ] phone routines !!
 - [ ] check calendar
-	- plan for upcoming med weekend and get others on board with plan
-	- get tops removed on Sunday
+- [ ] get tops removed on Sunday
 
 ## TASKS INSIDE
-- [ ] Make time-tracking script
-	- tracks how much time I spend on goals, to help me prioritize
-	  use of time while multitasking
 - [ ] use USB key from pants to transfer data
-- [ ] is SD card from laptop somewhere here?  maybe it's outside?
+- [ ] find clothes in bag
+- [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] labels (tape & marker)
-- [ ] washcloth
-- [ ] toilet paper
-- [ ] annex drive
-- [ ] apples, vegetables
+- [X] labels (tape & marker)
+- [X] washcloth
+- [X] toilet paper
+- [X] dental guard
+- [X] toothpaste
+- [X] annex drive
+- [X] apples, vegetables
+- [X] screwdrivers
+- [X] wire cutters/strippers ... heat shrink tubing and solder setup
+- [X] an arduino from robot box or electronics box
+- [X] two table-like things, even milk crates
 
 - [ ] 12v charger for XO
 - [ ] change of clothes & pjs
@@ -27,19 +30,7 @@
 	swap batteries
 	bring water in
 	sync with github for katie
-- [ ] fill huge water jug with tapwater
-- [ ] buy a microsd card with sd adapter
-- [ ] remove note from front door while I'm not getting calls
-- [ ] Call to see if they have sawdust
-	- [ ] Amherst Farm Supply
-	- [ ] Lashway Lumber on Rt 9
-      If you find sawdust, you may pick it up.  Bring bucket or trashbag to hold.
-
-- [ ] Assert that sawdust has arrived with mail on Saturday Mar 10 (Today)
-	-> had not arrived, 12:15 pm
-
-- [ ] ? Find a place to get fine sawdust / ash
-- [ ] ? Get sawdust
+	download email on iphone
 
 ## Projects
 - TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
@@ -49,7 +40,7 @@
 	need to activate camera and store log roughly immutably
 - REC: [ ] Radio solution
 	run an rtl-sdr power log continuously
-- SAFE: [ ] Find noise generator and record its noise level
+- SAFE: [ ] record noise generators noise level
 - SAFE: [ ] Practice welding a stainless steel box
 - SUST: [ ] Communication solution
 	fiberoptice cable for now
@@ -58,12 +49,13 @@
 - SUST: [/] Pooping solution
 	need sawdust/shredded paper/cereal/biodegradable powder
 	need scooper for sawdust
-- RESPONS: [ ] Washing solution
+- RESPONS: [/] Washing solution
 	need containers for greywater and freshwater
 	would like container for washing water with soap
 	would like washing tool such as cloth, sponge
 	would like way to wash without getting tent went
 	would like soap
+- BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
 ## Auxiliary Projects
 - [ ] LIFE: way to boil water & make tannin solution to wash with
@@ -85,6 +77,9 @@
 	- [ ] Be in an information-isolated space myself
 		- [ ] Identify SE of my space
 		- [ ] Increase the SE of my space
+			- [ ] Protect air vent
+		- [ ] Ensure emissions security within feasibility
+		- [ ] Ensure non-emissions security within feasibility
 	- [ ] Catalogue the SE of cheap resources; how can a TEMPEST room be made on a shoestring budget?
 		- [ ] Log experiments of spaces; record their construction and their measurement.  Keep them and measure later, too.
 	- [ ] Produce common resources for shielding and a common space.  Space may have separate anonymous and logged areas.
@@ -134,23 +129,42 @@
 - [ ] OTHER: Things I've forgotten or am unsure where goes
 	- psychosis work... brain2 steps
 	- what happened ??? I might need to figure this out.  How?  Does it affect others?  How do I save everybody?
+	- high degrees of information security: encrypted ram, audited phone bootloaders
+	  & sharing such things with targeted groups
+  - merge freenet repos (backend? history?)
+  - recover & resolve all busted drives
 
 ## Done
-- SUST: [X] Food solution
-- SUST: [X] Drinking solution
-- [X] bowl / plate
-- [X] wastebin
-- [X] inverter
-- [x] toothbrush etc
-- [x] washbowl
-- [X] greywater container
-- [X] soap
-- [X] eye lubricant
-- [x] meds
-- [x] cup for meds
-- [x] food
-- [X] fissure treatment
-- [x] sitz bath
-- [X] Swap batteries; bring water in
-- [X] Add this to github
-  -> need xo key added to github
+- [X] charge a pack of batteries
+- [X] check skinny trailer box in room -- is that a 12v battery charger?
+	-> it's the old one; moved near tent
+- [X] check injured laptops box in room -- any XO charger stuff?
+	-> there are flaky XOs but no chargers; found the transformer charger
+- [X] check electronics box in front hall -- any DC plugs/sockets or XO charger stuff?
+- [X] order an XO plug if i couldn't find one
+- [X] fill huge water jug with tapwater
+- [X] remove note from front door while I'm not getting calls
+- [X] check voicemail
+- [X] order a DC LED bulb for lamp
+- [X] order a 12v charger for dell laptop
+- [X] buy a microsd card with sd adapter
+- [X] buy some male and female 12v plugs
+- [X] buy some big clips for battery terminals ... cigarette plugs tend to wear
+- [X] buy 2 raspberry pis and 2 arduinos
+- [X] buy breadboard and relay
+- [X] buy a big 12v battery
+- [ ] Call to see if they have sawdust
+	- [ ] Amherst Farm Supply
+	- [ ] Lashway Lumber on Rt 9
+      If you find sawdust, you may pick it up.  Bring bucket or trashbag to hold.
+- [X] Assert that sawdust has arrived with mail on Saturday Mar 10 (Today)
+	-> had not arrived, 12:15 pm
+	-> arrived by sunday morning
+- [X] ? Find a place to get fine sawdust / ash
+- [X] ? Get sawdust
+- [ ] is SD card from laptop somewhere here?  maybe it's outside?
+- [X] plan for upcoming med week and get others on board with plan
+- SAFE: [X] Find noise generator
+- [X] Make time-tracking script
+	- tracks how much time I spend on goals, to help me prioritize
+	  use of time while multitasking
