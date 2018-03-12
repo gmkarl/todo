@@ -6,6 +6,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [ ] laundry hamper
+- [ ] paperclip to get sd card out of phone
+- [ ] mobile vacuum
+- [ ] holder to angle water jug
 
 ## DO OUTSIDE
 - Routine:
@@ -13,7 +17,30 @@
 	bring water in
 	sync with github for katie
 	download email on iphone
+	swap eeg batteries for now
+	increase the organization of 1 box or item
+- [ ] change out toilet
+- [ ] put cans from tent in cupboard
+- [ ] take out big black charger on top of bookshelf; bring in small charger
+- [ ] move laundry from wash to dryer
+- [ ] take a shower
+- [ ] order:
+   - [ ] working xo plug
+- [ ] order/find:
+   - [ ] low-gauge alligator clips for inverter
+- [ ] buy now:
+   - [ ] big 12v deep cycle battery
+   - [ ] another chunk of rechargeable AAs (to charge in tent)
 - [ ] look into Anderson Powerpole as alternative to cigarette lighter plug
+- [ ] install soapy_power prereqs on dell laptop
+	- [ ] git clone https://github.com/xmikos/simple_soapy
+	- [ ] git clone https://github.com/xmikos/simplespectral
+	- ?[ ] pip3 install? check src/simple_soapy/README.rst
+	- [ ] sudo setup.py install
+	- [ ] run soapy_power
+- [ ] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
+- [ ] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
+
 
 ## Projects
 - TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
@@ -29,9 +56,6 @@
 	fiberoptice cable for now
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
-- SUST: [/] Pooping solution
-	need sawdust/shredded paper/cereal/biodegradable powder
-	need scooper for sawdust
 - RESPONS: [/] Washing solution
 	need containers for greywater and freshwater
 	would like container for washing water with soap
@@ -118,6 +142,9 @@
   - recover & resolve all busted drives
 
 ## Done
+- SUST: [X] Pooping solution
+	need sawdust/shredded paper/cereal/biodegradable powder
+	need scooper for sawdust
 - [X] buy lithium-ion battery for openbci
 - [X] find microsd card or physically purchase new one
 - [X] buy better usb keys
@@ -146,7 +173,3 @@
 - [X] an arduino from robot box or electronics box
 - [X] two table-like things, even milk crates
 - [X] charge a pack of batteries
-- [X] check skinny trailer box in room -- is that a 12v battery charger?
-	-> it's the old one; moved near tent
-- [X] check injured laptops box in room -- any XO charger stuff?
-	-> there are flaky XOs but no chargers; found the transformer charger
