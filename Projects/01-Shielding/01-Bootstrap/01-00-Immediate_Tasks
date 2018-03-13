@@ -9,7 +9,7 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] handkerchief
+- [X] handkerchief
 - [ ] paperclip to get sd card out of phone
 - [ ] mobile vacuum
 
@@ -29,6 +29,7 @@
 - [ ] download bugs from tempestsdr to organize contributions
 - [ ] download msbuild to test vcxproj files
 - [ ] look up what the tempestsdr .project files are
+- [ ] mirror the holland shielding site
 
 
 ## Projects
