@@ -10,9 +10,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] paperclip to get sd card out of phone
 - [ ] mobile vacuum from trailer
-- [ ] ethernet cable
+- [ ] ethernet cable & usb-ethernet for xo
+- [ ] hdmi display
+- [ ] usb mouse
 
 ## DO OUTSIDE
 - Routine:
@@ -24,16 +25,18 @@
 	increase the organization of 1 box or item
 - [ ] buy a fixed mirror
 - [ ] buy a photodiode
+- [ ] buy a relay
+- [ ] take out blue buckets without lids & the 3 extra lids
 - [ ] bring airclean bag down to vacuum cleaner
 - [ ] download msbuild to test vcxproj files
-- [ ] look up what the tempestsdr .project files are
+- [ ] look up what the tempestsdr .project files are (Eclipse?)
 - [ ] mirror https://hollandshielding.com/
 - [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
 - [ ] sign up for an at&t landline
 
 
 ## Projects
-- TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
+- TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
 	need device to record
 - REC: [ ] Surveillance solution
@@ -132,6 +135,8 @@
   - recover & resolve all busted drives
 
 ## Done
+- [ ] paperclip to get sd card out of phone
+- TASKORG: [X] Script to log hours, report time usage, and suggest tasks given goal time usage
 - [X] handkerchief
 - [ ] schedule transdermals
 - [X] determine when penelope is in haven next
@@ -164,10 +169,3 @@
 - [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
 - [X] laundry hamper
 - [X] holder to angle water jug
-- SUST: [X] Pooping solution
-	need sawdust/shredded paper/cereal/biodegradable powder
-	need scooper for sawdust
-- [X] buy lithium-ion battery for openbci
-- [X] find microsd card or physically purchase new one
-- [X] buy better usb keys
-- [ ] swap EEG batteries
