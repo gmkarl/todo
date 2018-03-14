@@ -25,23 +25,24 @@
 	sync with github for katie
 	download email on iphone
 	increase the organization of 1 box or item
-- [ ] change 240v bitcoin wiring back
+- [X] change 240v bitcoin wiring back
 - [X] buy a fixed mirror
-- [ ] send jeremy $15.26; he e-mailed bitcoin address
+- [X] send jeremy $15.26; he e-mailed bitcoin address
 - [X] buy a photodiode
 - [X] buy a relay
-- [ ] call 617-732-7005 to change insurance with brigham&women's
-- [ ] take out trash and recycling
-- [ ] take out blue buckets without lids & the 3 extra lids
-- [ ] bring airclean bag down to vacuum cleaner
+- [X] call 617-732-7005 to change insurance with brigham&women's
+- [X] take out trash and recycling
+- [X] take out blue buckets without lids & the 3 extra lids
+- [X] bring airclean bag down to vacuum cleaner
+- [ ] buy apples, carrots, food bars, anything else to eat
 - [ ] download msbuild to test vcxproj files
-- [ ] look up what the tempestsdr .project files are (Eclipse?)
-- [ ] apt-get install
-	- [ ] libgl1-mesa-dri-dbgsym
-	- [ ] libsdl2-2.0-0-dbgsym
-	- [ ] gdb-doc
-	- [ ] gnuradio-doc
-- [ ] mirror https://hollandshielding.com/
+- [X] look up what the tempestsdr .project files are (Eclipse?)
+- [X] apt-get install
+	- [X] libgl1-mesa-dri-dbgsym
+	- [X] libsdl2-2.0-0-dbgsym
+	- [X] gdb-doc
+	- [X] gnuradio-doc
+- [X] mirror https://hollandshielding.com/
 - [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
 - [ ] take a shower & finish morning routine
 - [ ] sign up for an at&t landline
