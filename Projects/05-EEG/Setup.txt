@@ -1,4 +1,9 @@
 2018-03-11: five leads
-	Current configuration, from above with connections below to openbci,
+	Current configuration, from above (battery connector away) with connections below to openbci,
 	bottom row, is:
 		green ... ... orange purple grey blue
+
+2018-03-12: four leads
+  Blue popped out of my head.
+    green ... ... purple grey orange
+  Should schedule transdermals and see piercer to get wires replaced.
