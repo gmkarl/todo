@@ -2,7 +2,7 @@
 - Routine:
 	- Phone routines
 	- Check calendar
-    -> visit pene
+    -> visit penelope o
   - Check battery voltage
 - [ ] turn bedside table around so drawer is accessible
 - [ ] get a phone in hands-free mode
@@ -10,33 +10,47 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] handkerchief
-- [ ] paperclip to get sd card out of phone
-- [ ] mobile vacuum
+- [ ] mobile vacuum from trailer
+- [ ] ethernet cable & usb-ethernet for xo
+- [ ] hdmi display
+- [ ] usb mouse
+- [ ] photoresitors & relays
+- [ ] mirror
 
 ## DO OUTSIDE
 - Routine:
 	swap batteries
 	bring water in
+	change out toilet
 	sync with github for katie
 	download email on iphone
 	increase the organization of 1 box or item
-	change out toilet?
-- [ ] buy a fixed mirror
-- [ ] schedule transdermals
-- [ ] determine when penelope is in haven next
-- [ ] install libitpp-doc on dev-whonix
-- [ ] cancel piano moving via uhaul
-- [ ] collect mail
-- [ ] download bugs from tempestsdr to organize contributions
+- [X] change 240v bitcoin wiring back
+- [X] buy a fixed mirror
+- [X] send jeremy $15.26; he e-mailed bitcoin address
+- [X] buy a photodiode
+- [X] buy a relay
+- [X] call 617-732-7005 to change insurance with brigham&women's
+- [X] take out trash and recycling
+- [X] take out blue buckets without lids & the 3 extra lids
+- [X] bring airclean bag down to vacuum cleaner
+- [ ] buy apples, carrots, food bars, anything else to eat
 - [ ] download msbuild to test vcxproj files
-- [ ] look up what the tempestsdr .project files are
-- [ ] mirror the holland shielding site
-- [ ] sign up for a comcast landline (that is non-internet-based), and internet
+- [X] look up what the tempestsdr .project files are (Eclipse?)
+- [X] apt-get install
+	- [X] libgl1-mesa-dri-dbgsym
+	- [X] libsdl2-2.0-0-dbgsym
+	- [X] gdb-doc
+	- [X] gnuradio-doc
+- [X] mirror https://hollandshielding.com/
+- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
+- [ ] take a shower & finish morning routine
+- [ ] sign up for an at&t landline
+- [ ] go to NVC group
 
 
 ## Projects
-- TASKORG: [ ] Script to log hours, report time usage, and suggest tasks given goal time usage
+- TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
 	need device to record
 - REC: [ ] Surveillance solution
@@ -55,6 +69,7 @@
 	would like washing tool such as cloth, sponge
 	would like way to wash without getting tent went
 	would like soap
+- BACKEND: [ ] put everything in shelves and whatnot, including some clothes
 - BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
 ## Auxiliary Projects
@@ -75,6 +90,7 @@
 - [ ] SUST: Never need to leave a more secure/safe space
 - [ ] SAFE: Allow all people to be in a completely information-isolated space
 	- [ ] Be in an information-isolated space myself
+		- [ ] Move to Green Bank, WV near the radio telescope
 		- [ ] Identify SE of my space
 		- [ ] Increase the SE of my space
 			- [ ] Protect air vent
@@ -84,6 +100,7 @@
 		- [ ] Log experiments of spaces; record their construction and their measurement.  Keep them and measure later, too.
 	- [ ] Produce common resources for shielding and a common space.  Space may have separate anonymous and logged areas.
 	      Support TIs and activists.
+		- [ ] Get land for shielded community in Green Bank, WV
 - [ ] LIFE: Practice habits that engage a thriving, spreading natural existence
 	- [ ] Practice forced new behaviors to sustain my life and that of others
 	- [ ] Do things that make me happy
@@ -105,7 +122,7 @@
 - [ ] PUB: Share information in censorship-resistant ways.  Participate in relevent communities
 	- Communities: TI & EH, EF! etc, decentralized development
 	- [ ] Call in to phone conferences; learn, share resources, and determine truth
-	- [ ] Synchronize mastodon, ikiwiki, dat, scuttlebutt, etc
+	- [ ] Synchronize mastodon, ikiwiki, dat, scuttlebutt, freenet, etc
 	- [ ] Keep 1-3 blogs and resource sites up to date
 	- [ ] participate in online discussions
 - [ ] BACKEND: Tools to support other tools, to make things more efficient for me, and to share work with others
@@ -114,7 +131,7 @@
 	- [ ] Integrate emissions work into some general-purpose tool/library
 	- [ ] Synchronize in-use annex folders
 	- [ ] Synchronize _all_ annex folders
-	- [ ] Make general-purpose signals library
+	- [ ] Make general-purpose signals library (matlab is good but we also want to be mobile & embedded)
 	- [ ] Learn and use MATLab
 	- [ ] Use an immutable storage system for all data
 	- [ ] Organize system in a general way so others may use
@@ -125,16 +142,31 @@
 		- [ ] Run simulations of bot traders to see how well they perform
 - [ ] EARTH: Live sustainably; protect those who protect all life
 	- [ ] Connect with & support radical energy resistors in area
-- [ ] BRAIN2: Teach a computer to identify my experiences
+- [ ] MVF: Gain understanding and control over my psychosis and my volition.  Ensure my behavior matches my desires.
+	- [ ] Mobile device that both lets me report experience and prompts me to respond, and records things remotely
+    - [ ] Way to report experiences when they happen and correlate with EEG
+    - [ ] System that checks in with me and records responses
+	- [ ] Teach a computer to identify my experiences (in advance?)
+	- [ ] EEG logging synchronized with event markers and video/audio record
+	- [ ] review MVF log for goals and projects
 - [ ] OTHER: Things I've forgotten or am unsure where goes
-	- psychosis work... brain2 steps
 	- what happened ??? I might need to figure this out.  How?  Does it affect others?  How do I save everybody?
 	- high degrees of information security: encrypted ram, audited phone bootloaders
 	  & sharing such things with targeted groups
-  - merge freenet repos (backend? history?)
+  - merge freenet repos (could belong in backend? history?)
   - recover & resolve all busted drives
 
 ## Done
+- [ ] paperclip to get sd card out of phone
+- TASKORG: [X] Script to log hours, report time usage, and suggest tasks given goal time usage
+- [X] handkerchief
+- [ ] schedule transdermals
+- [X] determine when penelope is in haven next
+	-> tue & sun afternoons
+- [X] install libitpp-doc on dev-whonix
+- [X] cancel piano moving via uhaul
+- [X] collect mail
+- [X] download bugs from tempestsdr to organize contributions
 - [X] change out toilet?
 - [X] charge laptops and cell phones
 - [X] put cans from tent in cupboard
@@ -159,24 +191,3 @@
 - [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
 - [X] laundry hamper
 - [X] holder to angle water jug
-- SUST: [X] Pooping solution
-	need sawdust/shredded paper/cereal/biodegradable powder
-	need scooper for sawdust
-- [X] buy lithium-ion battery for openbci
-- [X] find microsd card or physically purchase new one
-- [X] buy better usb keys
-- [ ] swap EEG batteries
-- [X] multimeter (basement)
-- [X] box cutting knife (basement?)
-- [ ] packing tape (if easy to find)
-- [X] bookshelf (in workroom)
-- [X] transformerbook & charger
-
-- [X] 12v charger for XO
-- [X] change of cloths & pjs
-- [ ] use USB key from pants to transfer data
-- [X] find clothes in bag
-	-> just pajamas
-- [X] get tops removed on Sunday
-- [X] labels (tape & marker)
-- [X] washcloth
