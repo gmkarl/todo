@@ -7,15 +7,11 @@
 - [ ] turn bedside table around so drawer is accessible
 - [ ] get a phone in hands-free mode
 - [ ] index some outdoor maintenance tasks
+- [ ] where is the xo usb ethernet?
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] mobile vacuum from trailer
 - [ ] ethernet cable & usb-ethernet for xo
-- [ ] hdmi display
-- [ ] usb mouse
-- [ ] photoresitors & relays
-- [ ] mirror
 
 ## DO OUTSIDE
 - Routine:
@@ -23,30 +19,10 @@
 	bring water in
 	change out toilet
 	sync with github for katie
-	download email on iphone
+	download email
 	increase the organization of 1 box or item
-- [X] change 240v bitcoin wiring back
-- [X] buy a fixed mirror
-- [X] send jeremy $15.26; he e-mailed bitcoin address
-- [X] buy a photodiode
-- [X] buy a relay
-- [X] call 617-732-7005 to change insurance with brigham&women's
-- [X] take out trash and recycling
-- [X] take out blue buckets without lids & the 3 extra lids
-- [X] bring airclean bag down to vacuum cleaner
-- [ ] buy apples, carrots, food bars, anything else to eat
 - [ ] download msbuild to test vcxproj files
-- [X] look up what the tempestsdr .project files are (Eclipse?)
-- [X] apt-get install
-	- [X] libgl1-mesa-dri-dbgsym
-	- [X] libsdl2-2.0-0-dbgsym
-	- [X] gdb-doc
-	- [X] gnuradio-doc
-- [X] mirror https://hollandshielding.com/
-- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
-- [ ] take a shower & finish morning routine
 - [ ] sign up for an at&t landline
-- [ ] go to NVC group
 
 
 ## Projects
@@ -157,6 +133,32 @@
   - recover & resolve all busted drives
 
 ## Done
+- [ ] usb mouse
+- [X] mobile vacuum from trailer
+- [X] hdmi display
+- [X] photoresistors & relays
+- [X] mirror
+- [X] change 240v bitcoin wiring back
+- [X] buy a fixed mirror
+- [X] send jeremy $15.26; he e-mailed bitcoin address
+- [X] buy a photodiode
+- [X] buy a relay
+- [X] call 617-732-7005 to change insurance with brigham&women's
+- [X] take out trash and recycling
+- [X] take out blue buckets without lids & the 3 extra lids
+- [X] bring airclean bag down to vacuum cleaner
+- [X] buy apples, carrots, food bars, anything else to eat
+- [X] buy trashbags
+- [X] look up what the tempestsdr .project files are (Eclipse?)
+- [X] apt-get install
+	- [X] libgl1-mesa-dri-dbgsym
+	- [X] libsdl2-2.0-0-dbgsym
+	- [X] gdb-doc
+	- [X] gnuradio-doc
+- [X] mirror https://hollandshielding.com/
+- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
+- [X] take a shower & finish morning routine
+- [X] go to NVC group
 - [ ] paperclip to get sd card out of phone
 - TASKORG: [X] Script to log hours, report time usage, and suggest tasks given goal time usage
 - [X] handkerchief
@@ -172,22 +174,3 @@
 - [X] put cans from tent in cupboard
 - [X] take out big black charger on top of bookshelf; bring in small charger
 - [X] take laundry from dryer
-- [X] take a shower
-- [X] order:
-   - [X] working xo plug
-- [X] order/find:
-   - [X] low-gauge alligator clips for inverter
-- [X] buy now:
-   - [X] big 12v deep cycle battery
-   - [X] another chunk of rechargeable AAs (to charge in tent)
-- [X] look into Anderson Powerpole as alternative to cigarette lighter plug
-- [X] install soapy_power prereqs on dell laptop
-	- [X] git clone https://github.com/xmikos/simple_soapy
-	- [X] git clone https://github.com/xmikos/simplespectral
-	- ?[X] pip3 install? check src/simple_soapy/README.rst
-	- [X] sudo setup.py install
-	- [X] run soapy_power
-- [X] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
-- [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
-- [X] laundry hamper
-- [X] holder to angle water jug
