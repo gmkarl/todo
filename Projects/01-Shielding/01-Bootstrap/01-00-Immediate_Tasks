@@ -3,10 +3,10 @@
 	- Phone routines
 	- Check calendar
     -> visit penelope o
-  - Check battery voltage
-- [ ] turn bedside table around so drawer is accessible
-- [ ] get a phone in hands-free mode
+  - Check 12v battery voltage
+  - Change batteries on openbci
 - [ ] index some outdoor maintenance tasks
+- [ ] where is the xo usb ethernet?
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
@@ -17,10 +17,7 @@
 - [ ] pure sine wave inverter
 - [ ] mobile vacuum from trailer
 - [ ] ethernet cable & usb-ethernet for xo
-- [ ] hdmi display
-- [ ] usb mouse
-- [ ] photoresitors & relays
-- [ ] mirror
+- [ ] hot glue
 
 ## DO OUTSIDE
 - Routine:
@@ -37,25 +34,9 @@
 - [ ] sync dev-whonix todo with github
 - [ ] update qvms
 - [ ] determine what size powerpole connectors I purchased and buy some of the lowest matching gauge wire
-- [ ] change 240v bitcoin wiring back
-- [X] buy a fixed mirror
-- [ ] send jeremy $15.26; he e-mailed bitcoin address
-- [X] buy a photodiode
-- [X] buy a relay
-- [ ] call 617-732-7005 to change insurance with brigham&women's
 - [ ] take out trash and recycling
-- [ ] take out blue buckets without lids & the 3 extra lids
-- [ ] bring airclean bag down to vacuum cleaner
-- [ ] download msbuild to test vcxproj files
-- [ ] look up what the tempestsdr .project files are (Eclipse?)
-- [ ] apt-get install
-	- [ ] libgl1-mesa-dri-dbgsym
-	- [ ] libsdl2-2.0-0-dbgsym
-	- [ ] gdb-doc
-	- [ ] gnuradio-doc
-- [ ] mirror https://hollandshielding.com/
-- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
 - [ ] sign up for an at&t landline
+- [ ] buy superglue
 
 
 ## Projects
@@ -166,37 +147,41 @@
   - recover & resolve all busted drives
 
 ## Done
-- [ ] paperclip to get sd card out of phone
-- TASKORG: [X] Script to log hours, report time usage, and suggest tasks given goal time usage
-- [X] handkerchief
-- [ ] schedule transdermals
-- [X] determine when penelope is in haven next
-	-> tue & sun afternoons
-- [X] install libitpp-doc on dev-whonix
-- [X] cancel piano moving via uhaul
-- [X] collect mail
-- [X] download bugs from tempestsdr to organize contributions
-- [X] change out toilet?
-- [X] charge laptops and cell phones
-- [X] put cans from tent in cupboard
-- [X] take out big black charger on top of bookshelf; bring in small charger
-- [X] take laundry from dryer
-- [X] take a shower
-- [X] order:
-   - [X] working xo plug
-- [X] order/find:
-   - [X] low-gauge alligator clips for inverter
-- [X] buy now:
-   - [X] big 12v deep cycle battery
-   - [X] another chunk of rechargeable AAs (to charge in tent)
-- [X] look into Anderson Powerpole as alternative to cigarette lighter plug
-- [X] install soapy_power prereqs on dell laptop
-	- [X] git clone https://github.com/xmikos/simple_soapy
-	- [X] git clone https://github.com/xmikos/simplespectral
-	- ?[X] pip3 install? check src/simple_soapy/README.rst
-	- [X] sudo setup.py install
-	- [X] run soapy_power
-- [X] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
-- [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
-- [X] laundry hamper
-- [X] holder to angle water jug
+- [X] turn bedside table around so drawer is accessible
+- [X] get a phone in hands-free mode
+- [X] change 240v bitcoin wiring back
+- [X] buy a fixed mirror
+- [X] send jeremy $15.26; he e-mailed bitcoin address
+- [X] buy a photodiode
+- [X] buy a relay
+- [X] call 617-732-7005 to change insurance with brigham&women's
+- [X] take out blue buckets without lids & the 3 extra lids
+- [X] bring airclean bag down to vacuum cleaner
+- [X] download msbuild to test vcxproj files
+- [X] take dish & tupperware out and wash them; bring a new dish in
+- [X] clone gdb repo
+- [ ] usb mouse
+- [X] mobile vacuum from trailer
+- [X] hdmi display
+- [X] photoresistors & relays
+- [X] mirror
+- [X] change 240v bitcoin wiring back
+- [X] buy a fixed mirror
+- [X] send jeremy $15.26; he e-mailed bitcoin address
+- [X] buy a photodiode
+- [X] buy a relay
+- [X] call 617-732-7005 to change insurance with brigham&women's
+- [X] take out trash and recycling
+- [X] take out blue buckets without lids & the 3 extra lids
+- [X] bring airclean bag down to vacuum cleaner
+- [X] buy apples, carrots, food bars, anything else to eat
+- [X] buy trashbags
+- [X] look up what the tempestsdr .project files are (Eclipse?)
+- [X] apt-get install
+	- [X] libgl1-mesa-dri-dbgsym
+	- [X] libsdl2-2.0-0-dbgsym
+	- [X] gdb-doc
+	- [X] gnuradio-doc
+- [X] mirror https://hollandshielding.com/
+- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
+- [X] take a shower & finish morning routine
