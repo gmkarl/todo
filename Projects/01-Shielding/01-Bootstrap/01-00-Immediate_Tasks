@@ -2,7 +2,8 @@
 - Routine:
 	- Phone routines
 	- Check calendar
-  - Check battery voltage
+  - Check 12v battery voltage
+  - Change batteries on openbci
 - [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
@@ -11,13 +12,17 @@
 ## DO OUTSIDE
 - Routine:
 	swap batteries
+  charge light if needed
 	bring water in
 	change out toilet
+  empty trash and recycling
 	sync with github for katie
 	download email
+  check snailmail
 	increase the organization of 1 box or item
+  do an extra sitz bath & fissure treatment with warm water
 - [ ] sign up for an at&t landline
-- [ ] clone gdb repo
+- [ ] buy superglue
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
@@ -137,17 +142,27 @@
 - [ ] hot glue
     -> visit penelope o
 - [ ] usb mouse
+- [X] wash hands with soap since I didn't have soap in there last night
+- [X] sync dev-whonix todo with github
+- [X] update qvms
+- [X] determine what size powerpole connectors I purchased and buy some of the lowest matching gauge wire
+- [X] take out trash and recycling
+- [X] XO computer
+- [X] another bucket lid for 4th bucket
+- [X] blackberry priv
+- [X] did I leave the soap in the downstairs bathroom or what? find alternative soap, tray, and washbowl if old soap is not to be found
+- [X] pure sine wave inverter
 - [X] mobile vacuum from trailer
-- [X] hdmi display
-- [X] photoresistors & relays
-- [X] mirror
+- [ ] ethernet cable & usb-ethernet for xo
+- [X] hot glue
+- [X] turn bedside table around so drawer is accessible
+- [X] get a phone in hands-free mode
 - [X] change 240v bitcoin wiring back
 - [X] buy a fixed mirror
 - [X] send jeremy $15.26; he e-mailed bitcoin address
 - [X] buy a photodiode
 - [X] buy a relay
 - [X] call 617-732-7005 to change insurance with brigham&women's
-- [X] take out trash and recycling
 - [X] take out blue buckets without lids & the 3 extra lids
 - [X] bring airclean bag down to vacuum cleaner
 - [X] buy apples, carrots, food bars, anything else to eat
@@ -170,3 +185,11 @@
 	-> tue & sun afternoons
 - [X] install libitpp-doc on dev-whonix
 - [X] cancel piano moving via uhaul
+- [X] download msbuild to test vcxproj files
+- [X] take dish & tupperware out and wash them; bring a new dish in
+- [X] clone gdb repo
+- [ ] usb mouse
+- [X] mobile vacuum from trailer
+- [X] hdmi display
+- [X] photoresistors & relays
+- [X] mirror
