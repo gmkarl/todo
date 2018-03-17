@@ -2,17 +2,11 @@
 - Routine:
 	- Phone routines
 	- Check calendar
-    -> visit penelope o
   - Check battery voltage
-- [X] turn bedside table around so drawer is accessible
-- [X] get a phone in hands-free mode
 - [ ] index some outdoor maintenance tasks
-- [ ] where is the xo usb ethernet?
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] ethernet cable & usb-ethernet for xo
-- [ ] hot glue
 
 ## DO OUTSIDE
 - Routine:
@@ -22,12 +16,8 @@
 	sync with github for katie
 	download email
 	increase the organization of 1 box or item
-- [ ] download msbuild to test vcxproj files
 - [ ] sign up for an at&t landline
-- [ ] take dish & tupperware out and wash them; bring a new dish in
 - [ ] clone gdb repo
-- [ ] buy superglue
-
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
@@ -137,6 +127,15 @@
   - recover & resolve all busted drives
 
 ## Done
+- [X] download msbuild to test vcxproj files
+- [X] take dish & tupperware out and wash them; bring a new dish in
+- [ ] buy superglue
+- [X] turn bedside table around so drawer is accessible
+- [X] get a phone in hands-free mode
+- [ ] ethernet cable & usb-ethernet for xo
+- [ ] where is the xo usb ethernet?
+- [ ] hot glue
+    -> visit penelope o
 - [ ] usb mouse
 - [X] mobile vacuum from trailer
 - [X] hdmi display
@@ -171,10 +170,3 @@
 	-> tue & sun afternoons
 - [X] install libitpp-doc on dev-whonix
 - [X] cancel piano moving via uhaul
-- [X] collect mail
-- [X] download bugs from tempestsdr to organize contributions
-- [X] change out toilet?
-- [X] charge laptops and cell phones
-- [X] put cans from tent in cupboard
-- [X] take out big black charger on top of bookshelf; bring in small charger
-- [X] take laundry from dryer
