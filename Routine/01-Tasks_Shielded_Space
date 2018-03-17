@@ -22,6 +22,7 @@
 	download email
 	check snailmail
 	increase the organization of 1 box or item
+  	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
 - [ ] apt-get build-dep gr-fosphor
 - [ ] apt-get install
@@ -33,11 +34,11 @@
 - [ ] buy superglue
 - [ ] buy an adapter for pure sine wave inverter (it has a big Y-shaped 120v plug for high current)
 - [ ] buy another microsd card for when the existing one is copying
+- [ ] it would be nice to have enough packages on the xo to build emap
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
-	need device to record
 - REC: [ ] Surveillance solution
 	need to activate camera and store log roughly immutably
 - REC: [ ] Radio solution
@@ -49,12 +50,7 @@
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
 - RESPONS: [/] Washing solution
-	need containers for greywater and freshwater
-	would like container for washing water with soap
-	would like washing tool such as cloth, sponge
-	would like way to wash without getting tent went
-	would like soap
-- BACKEND: [ ] put everything in shelves and whatnot, including some clothes
+- BACKEND: [ ] no laundry bag while it's in the wash; stop washing it until I get a second one
 - BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
 ## Auxiliary Projects
@@ -152,6 +148,13 @@
 - [ ] hot glue
     -> visit penelope o
 - [ ] usb mouse
+- BACKEND: [X] put everything in shelves and whatnot, including some clothes
+	need containers for greywater and freshwater
+	would like container for washing water with soap
+	would like washing tool such as cloth, sponge
+	would like way to wash without getting tent went
+	would like soap
+	need device to record
 - [X] wash hands with soap since I didn't have soap in there last night
 - [X] sync dev-whonix todo with github
 - [X] update qvms
