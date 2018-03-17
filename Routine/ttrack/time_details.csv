@@ -90,4 +90,6 @@ Time,Action,Goal,Task
 1521283500.26,start,TASKORG,ttrack script
 1521284594.67,stop,TASKORG,ttrack script
 1521284660.21,start,SLEEP,
+1521290193,start,RESPONS,Eye Lubricant
+1521290328,stop,RESPONS,Eye Lubricant
 1521290705.51,stop,SLEEP,
