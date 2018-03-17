@@ -1,16 +1,18 @@
-#!/bin/env python2
+#!/usr/bin/env python2
 
 import argparse, time, sys, tty
 
 parser = argparse.ArgumentParser(description='Tracks time')
 parser.add_argument('-d', '--details', default='time_details.csv', type=argparse.FileType('a+'), help='csv to store details in')
 parser.add_argument('-p', '--priorities', default='goals_priorities.csv', type=argparse.FileType('a+'), help='csv to read priorities from')
+parser.add_argument('-u', '--routines', default='routines.csv', type=argparse.FileType('a+'), help='csv to read routines from')
 pgroup = parser.add_mutually_exclusive_group(required=True)
 pgroup.add_argument('-w', '--work', metavar=('GOAL', 'TASK'), nargs='+', help='track work towards a goal')
 pgroup.add_argument('-r', '--report', action='store_true', help='report on time usage')
 pgroup.add_argument('-s', '--suggest', action='store_true', help='recommend goal to work toward')
 
 TIME_COL = 'Time'
+HOURS_COL = 'Hours'
 EVENT_COL = 'Action'
 GOAL_COL = 'Goal'
 TASK_COL = 'Task'
@@ -55,6 +57,7 @@ class Format1(CSV):
 class Data():
     def __init__(self, args):
         self.csv_details = Format1(args.details)
+
         self.csv_prio = CSV(args.priorities, [GOAL_COL, RATIO_COL])
         self.prios = {}
         self.prios_total = 0
@@ -64,6 +67,14 @@ class Data():
             prio = float(prio[RATIO_COL])
             self.prios[goal] = prio
             self.prios_total += prio
+
+        self.csv_rout = CSV(args.routines, [GOAL_COL, TASK_COL, HOURS_COL])
+        self.rout_hours = {}
+        self.rout_goals = {}
+        for rout in self.csv_rout.read_all():
+            task = rout[TASK_COL]
+            self.rout_goals[task] = rout[GOAL_COL]
+            self.rout_hours[task] = float(rout[HOURS_COL])
 
         if args.work:
             goal = args.work.pop(0)
@@ -76,6 +87,9 @@ class Data():
             self.do_suggest()
 
     def cumulate(self):
+        self.rout_time = {}
+        for task in self.rout_hours:
+            self.rout_time[task] = 0
         self.total = 0
         self.cumulated = {}
         started = {}
@@ -84,6 +98,7 @@ class Data():
         for detail in self.csv_details.read_all():
             goal = detail[GOAL_COL]
             event = detail[EVENT_COL]
+            task = detail[TASK_COL]
             time = float(detail[TIME_COL])
             amt = 0
             if event == EVENT_START:
@@ -96,6 +111,8 @@ class Data():
                 amt = time - started[goal]
                 started[goal] = time
             elif event == EVENT_STOP:
+                if task in self.rout_time:
+                    self.rout_time[task] = started[goal]
                 amt = time - started[goal]
                 del started[goal]
             self.total += amt
@@ -106,10 +123,14 @@ class Data():
         order = self.cumulated.keys()
         order.sort(lambda a, b: cmp(self.cumulated[b], self.cumulated[a]))
         for goal in order:
-            print('%s: %g hours (%f%% vs goal of %f%%)' % (goal, self.cumulated[goal]/60/60, self.cumulated[goal]*100/self.total, self.prios[goal]*100/self.prios_total))
+            print('%s: %.2f hours (%.2f%% vs goal of %.2f%%)' % (goal, self.cumulated[goal]/60/60, self.cumulated[goal]*100/self.total, self.prios[goal]*100/self.prios_total))
 
     def do_suggest(self):
         self.cumulate()
+        for task in self.rout_time:
+            since = time.time() - self.rout_time[task]
+            if (since  / 60 / 60 >= self.rout_hours[task]):
+                print('%.2f hours since %s for %s' % (since, task, self.rout_goals[task]))
         needed = {}
         for goal in self.cumulated:
             #needed[goal] = self.prios[goal]*self.total/self.prios_total - self.cumulated[goal]
@@ -118,7 +139,7 @@ class Data():
         order = needed.keys()
         order.sort(lambda a, b: cmp(needed[b], needed[a]))
         for goal in order[0:4]:
-            print('%s needs at least %f more hours' % (goal, needed[goal] / 60 / 60))
+            print('%s needs at least %.2f more hours' % (goal, needed[goal] / 60 / 60))
 
     def do_work(self, goal, tasks):
         fd = sys.stdin.fileno()
