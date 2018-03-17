@@ -8,21 +8,28 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [ ] DC AA battery charger (just the big one with an AC adapter)
+- [ ] manual for big inverter
 
 ## DO OUTSIDE
 - Routine:
 	swap batteries
-  charge light if needed
+	charge light if needed
 	bring water in
 	change out toilet
-  empty trash and recycling
+	empty trash and recycling
 	sync with github for katie
 	download email
-  check snailmail
+	check snailmail
 	increase the organization of 1 box or item
-  do an extra sitz bath & fissure treatment with warm water
+	do an extra sitz bath & fissure treatment with warm water
+- [ ] apt-get build-dep gr-fosphor
+- [ ] mirror gnuradio.org
 - [ ] sign up for an at&t landline
+- [ ] get dish soap / castile soap
 - [ ] buy superglue
+- [ ] buy an adapter for pure sine wave inverter (it has a big Y-shaped 120v plug for high current)
+- [ ] buy another microsd card for when the existing one is copying
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
