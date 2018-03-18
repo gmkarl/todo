@@ -18,7 +18,7 @@
 	empty trash and recycling
 	sync with github for katie
 	download email
-	check snailmail
+	check snailmail (both porch and hanging)
 	increase the organization of 1 box or item
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
@@ -30,6 +30,8 @@
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
+	[ ] mod firmware further to record upon bootup, but still blink
+	[ ] compact, watertight case
 - REC: [ ] Surveillance solution
 	need to activate camera and store log roughly immutably
 - REC: [ ] Radio solution
