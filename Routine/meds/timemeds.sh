@@ -33,7 +33,7 @@ csv="${year}-meds.csv"
 			fulldosage="${line%%,*}"
 			dosage="${fulldosage%% *}"
 			notes="${line#*, }"
-			if (( $(shuf -i 0-8 --random-source=/dev/random | head -n 1) == 0 ))
+			if (( $(shuf -i 0-7 --random-source=/dev/random | head -n 1) == 0 ))
 			then
 				echo "I recommend SKIPPING the next med if you want !" > /dev/tty
 			fi
