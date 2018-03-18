@@ -8,8 +8,6 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] DC AA battery charger (just the big one with an AC adapter)
-- [ ] manual for big inverter
 
 ## DO OUTSIDE
 - Routine:
@@ -24,15 +22,8 @@
 	increase the organization of 1 box or item
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
-- [ ] apt-get build-dep gr-fosphor
-- [ ] apt-get install
-	- [ ] qt5-default
-	- [ ] extra-cmake-modules
 - [ ] mirror gnuradio.org
 - [ ] sign up for an at&t landline
-- [ ] get dish soap / castile soap
-- [ ] buy superglue
-- [ ] buy an adapter for pure sine wave inverter (it has a big Y-shaped 120v plug for high current)
 - [ ] buy another microsd card for when the existing one is copying
 - [ ] it would be nice to have enough packages on the xo to build emap
 
@@ -138,6 +129,15 @@
   - recover & resolve all busted drives
 
 ## Done
+- [X] DC AA battery charger (just the big one with an AC adapter)
+- [X] manual for big inverter
+- [X] apt-get build-dep gr-fosphor
+- [X] apt-get install
+	- [X] qt5-default
+	- [X] extra-cmake-modules
+- [X] get dish soap / castile soap
+- [X] buy superglue
+- [X] buy an adapter for pure sine wave inverter (it has a big Y-shaped 120v plug for high current)
 - [X] download msbuild to test vcxproj files
 - [X] take dish & tupperware out and wash them; bring a new dish in
 - [ ] buy superglue
@@ -175,34 +175,3 @@
 - [X] send jeremy $15.26; he e-mailed bitcoin address
 - [X] buy a photodiode
 - [X] buy a relay
-- [X] call 617-732-7005 to change insurance with brigham&women's
-- [X] take out blue buckets without lids & the 3 extra lids
-- [X] bring airclean bag down to vacuum cleaner
-- [X] buy apples, carrots, food bars, anything else to eat
-- [X] buy trashbags
-- [X] look up what the tempestsdr .project files are (Eclipse?)
-- [X] apt-get install
-	- [X] libgl1-mesa-dri-dbgsym
-	- [X] libsdl2-2.0-0-dbgsym
-	- [X] gdb-doc
-	- [X] gnuradio-doc
-- [X] mirror https://hollandshielding.com/
-- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
-- [X] take a shower & finish morning routine
-- [X] go to NVC group
-- [ ] paperclip to get sd card out of phone
-- TASKORG: [X] Script to log hours, report time usage, and suggest tasks given goal time usage
-- [X] handkerchief
-- [ ] schedule transdermals
-- [X] determine when penelope is in haven next
-	-> tue & sun afternoons
-- [X] install libitpp-doc on dev-whonix
-- [X] cancel piano moving via uhaul
-- [X] download msbuild to test vcxproj files
-- [X] take dish & tupperware out and wash them; bring a new dish in
-- [X] clone gdb repo
-- [ ] usb mouse
-- [X] mobile vacuum from trailer
-- [X] hdmi display
-- [X] photoresistors & relays
-- [X] mirror
