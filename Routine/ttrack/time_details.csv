@@ -132,3 +132,5 @@ Time,Action,Goal,Task
 1521393235.07,stop,BLOCKED,
 1521393820,start,RESPONS,Brush Teeth
 1521394571,stop,RESPONS,Brush Teeth
+1521394583,start,RESPONS,Fissure Treatment
+1521395530,stop,RESPONS,Fissure Treatment
