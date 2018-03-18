@@ -115,7 +115,8 @@ class Data():
                     self.rout_time[task] = started[goal]
                 amt = time - started[goal]
                 del started[goal]
-            self.total += amt
+            if self.prios[goal] > 0:
+                self.total += amt
             self.cumulated[goal] += amt
     
     def do_report(self):
