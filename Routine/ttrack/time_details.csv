@@ -103,3 +103,14 @@ Time,Action,Goal,Task
 1521298804,stop,RESPONS,Fissure Treatment
 1521298969,start,RESPONS,Eye Lubricant
 1521299109,stop,RESPONS,Eye Lubricant
+1521300042.41,start,REC,eeg battery
+1521302619.01,stop,REC,eeg battery
+1521302792.89,start,BACKEND,gnuradio
+1521303563.6,heartbeat,BACKEND,gnuradio
+1521306042.74,stop,BACKEND,gnuradio
+1521306726.76,start,BACKEND,gnuradio
+1521307323.53,stop,BACKEND,gnuradio
+1521309774.86,start,BACKEND,gnuradio
+1521312406.56,stop,BACKEND,gnuradio
+1521336301.53,start,RESPONS,Fissure Treatment
+1521337470.37,stop,RESPONS,Fissure Treatment
