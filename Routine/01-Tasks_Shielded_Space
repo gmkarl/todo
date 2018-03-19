@@ -8,6 +8,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [ ] towel
+- [ ] another openbci dongle
+- [ ] usb camera(s)
+- [ ] welding supplies for steel box
 
 ## DO OUTSIDE
 - Routine:
@@ -22,9 +26,15 @@
 	increase the organization of 1 box or item
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
+- [ ] reacquire mirrors using httrack/webhttrack/httraqt
 - [ ] mirror gnuradio.org
+- [ ] apt-get install gsl-doc-info/gsl-doc-pdf/gsl-ref-html
+- [ ] run the updates in the gstreamer git src
+- [ ] buy another big battery (can swap in one of my small ones)
 - [ ] sign up for an at&t landline
-- [ ] buy another microsd card for when the existing one is copying
+- [X] buy another microsd card for when the existing one is copying (or check that one is in the mail)
+	-> there's one in my openbci box
+- [ ] it would be nice to have a newer gstreamer on the xo
 - [ ] it would be nice to have enough packages on the xo to build emap
 
 ## Projects
@@ -36,13 +46,13 @@
 	need to activate camera and store log roughly immutably
 - REC: [ ] Radio solution
 	run an rtl-sdr power log continuously
+- SAFE: [ ] see if holland shielding has modular enclosures with a vestibule that will fit a box truck
 - SAFE: [ ] record noise generators noise level
 - SAFE: [ ] Practice welding a stainless steel box
 - SUST: [ ] Communication solution
 	fiberoptice cable for now
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
-- RESPONS: [/] Washing solution
 - BACKEND: [ ] no laundry bag while it's in the wash; stop washing it until I get a second one
 - BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
@@ -130,7 +140,8 @@
   - merge freenet repos (could belong in backend? history?)
   - recover & resolve all busted drives
 
-## Done
+h# Done
+- RESPONS: [X] Washing solution
 - [X] DC AA battery charger (just the big one with an AC adapter)
 - [X] manual for big inverter
 - [X] apt-get build-dep gr-fosphor
