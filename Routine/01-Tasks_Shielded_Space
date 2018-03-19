@@ -2,57 +2,43 @@
 - Routine:
 	- Phone routines
 	- Check calendar
-    -> visit penelope o
-  - Check battery voltage
-- [ ] turn bedside table around so drawer is accessible
-- [ ] get a phone in hands-free mode
+  - Check 12v battery voltage
+  - Change batteries on openbci
 - [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] mobile vacuum from trailer
-- [ ] ethernet cable & usb-ethernet for xo
-- [ ] hdmi display
-- [ ] usb mouse
-- [ ] photoresitors & relays
-- [ ] mirror
+- [ ] DC AA battery charger (just the big one with an AC adapter)
+- [ ] manual for big inverter
 
 ## DO OUTSIDE
 - Routine:
 	swap batteries
+	charge light if needed
 	bring water in
 	change out toilet
+	empty trash and recycling
 	sync with github for katie
-	download email on iphone
+	download email
+	check snailmail
 	increase the organization of 1 box or item
-- [X] change 240v bitcoin wiring back
-- [X] buy a fixed mirror
-- [X] send jeremy $15.26; he e-mailed bitcoin address
-- [X] buy a photodiode
-- [X] buy a relay
-- [X] call 617-732-7005 to change insurance with brigham&women's
-- [X] take out trash and recycling
-- [X] take out blue buckets without lids & the 3 extra lids
-- [X] bring airclean bag down to vacuum cleaner
-- [ ] buy apples, carrots, food bars, anything else to eat
-- [ ] download msbuild to test vcxproj files
-- [X] look up what the tempestsdr .project files are (Eclipse?)
-- [X] apt-get install
-	- [X] libgl1-mesa-dri-dbgsym
-	- [X] libsdl2-2.0-0-dbgsym
-	- [X] gdb-doc
-	- [X] gnuradio-doc
-- [X] mirror https://hollandshielding.com/
-- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
-- [ ] take a shower & finish morning routine
+  	move laundry along
+	do an extra sitz bath & fissure treatment with warm water
+- [ ] apt-get build-dep gr-fosphor
+- [ ] apt-get install
+	- [ ] qt5-default
+	- [ ] extra-cmake-modules
+- [ ] mirror gnuradio.org
 - [ ] sign up for an at&t landline
-- [ ] go to NVC group
-
+- [ ] get dish soap / castile soap
+- [ ] buy superglue
+- [ ] buy an adapter for pure sine wave inverter (it has a big Y-shaped 120v plug for high current)
+- [ ] buy another microsd card for when the existing one is copying
+- [ ] it would be nice to have enough packages on the xo to build emap
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
-	need device to record
 - REC: [ ] Surveillance solution
 	need to activate camera and store log roughly immutably
 - REC: [ ] Radio solution
@@ -64,12 +50,7 @@
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
 - RESPONS: [/] Washing solution
-	need containers for greywater and freshwater
-	would like container for washing water with soap
-	would like washing tool such as cloth, sponge
-	would like way to wash without getting tent went
-	would like soap
-- BACKEND: [ ] put everything in shelves and whatnot, including some clothes
+- BACKEND: [ ] no laundry bag while it's in the wash; stop washing it until I get a second one
 - BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
 ## Auxiliary Projects
@@ -157,6 +138,58 @@
   - recover & resolve all busted drives
 
 ## Done
+- [X] download msbuild to test vcxproj files
+- [X] take dish & tupperware out and wash them; bring a new dish in
+- [ ] buy superglue
+- [X] turn bedside table around so drawer is accessible
+- [X] get a phone in hands-free mode
+- [ ] ethernet cable & usb-ethernet for xo
+- [ ] where is the xo usb ethernet?
+- [ ] hot glue
+    -> visit penelope o
+- [ ] usb mouse
+- BACKEND: [X] put everything in shelves and whatnot, including some clothes
+	need containers for greywater and freshwater
+	would like container for washing water with soap
+	would like washing tool such as cloth, sponge
+	would like way to wash without getting tent went
+	would like soap
+	need device to record
+- [X] wash hands with soap since I didn't have soap in there last night
+- [X] sync dev-whonix todo with github
+- [X] update qvms
+- [X] determine what size powerpole connectors I purchased and buy some of the lowest matching gauge wire
+- [X] take out trash and recycling
+- [X] XO computer
+- [X] another bucket lid for 4th bucket
+- [X] blackberry priv
+- [X] did I leave the soap in the downstairs bathroom or what? find alternative soap, tray, and washbowl if old soap is not to be found
+- [X] pure sine wave inverter
+- [X] mobile vacuum from trailer
+- [ ] ethernet cable & usb-ethernet for xo
+- [X] hot glue
+- [X] turn bedside table around so drawer is accessible
+- [X] get a phone in hands-free mode
+- [X] change 240v bitcoin wiring back
+- [X] buy a fixed mirror
+- [X] send jeremy $15.26; he e-mailed bitcoin address
+- [X] buy a photodiode
+- [X] buy a relay
+- [X] call 617-732-7005 to change insurance with brigham&women's
+- [X] take out blue buckets without lids & the 3 extra lids
+- [X] bring airclean bag down to vacuum cleaner
+- [X] buy apples, carrots, food bars, anything else to eat
+- [X] buy trashbags
+- [X] look up what the tempestsdr .project files are (Eclipse?)
+- [X] apt-get install
+	- [X] libgl1-mesa-dri-dbgsym
+	- [X] libsdl2-2.0-0-dbgsym
+	- [X] gdb-doc
+	- [X] gnuradio-doc
+- [X] mirror https://hollandshielding.com/
+- [ ] mirror http://www.raspberrypi.org/learning/hardware-guide
+- [X] take a shower & finish morning routine
+- [X] go to NVC group
 - [ ] paperclip to get sd card out of phone
 - TASKORG: [X] Script to log hours, report time usage, and suggest tasks given goal time usage
 - [X] handkerchief
@@ -165,29 +198,11 @@
 	-> tue & sun afternoons
 - [X] install libitpp-doc on dev-whonix
 - [X] cancel piano moving via uhaul
-- [X] collect mail
-- [X] download bugs from tempestsdr to organize contributions
-- [X] change out toilet?
-- [X] charge laptops and cell phones
-- [X] put cans from tent in cupboard
-- [X] take out big black charger on top of bookshelf; bring in small charger
-- [X] take laundry from dryer
-- [X] take a shower
-- [X] order:
-   - [X] working xo plug
-- [X] order/find:
-   - [X] low-gauge alligator clips for inverter
-- [X] buy now:
-   - [X] big 12v deep cycle battery
-   - [X] another chunk of rechargeable AAs (to charge in tent)
-- [X] look into Anderson Powerpole as alternative to cigarette lighter plug
-- [X] install soapy_power prereqs on dell laptop
-	- [X] git clone https://github.com/xmikos/simple_soapy
-	- [X] git clone https://github.com/xmikos/simplespectral
-	- ?[X] pip3 install? check src/simple_soapy/README.rst
-	- [X] sudo setup.py install
-	- [X] run soapy_power
-- [X] download info of osmocom_fft/fosphor to figure out how to use opencl without gpu
-- [X] update xloem bountysource gr-osmosdr bug to note that osmosdr provides a common configuration interface for all devices; see for example osmocom_fft
-- [X] laundry hamper
-- [X] holder to angle water jug
+- [X] download msbuild to test vcxproj files
+- [X] take dish & tupperware out and wash them; bring a new dish in
+- [X] clone gdb repo
+- [ ] usb mouse
+- [X] mobile vacuum from trailer
+- [X] hdmi display
+- [X] photoresistors & relays
+- [X] mirror

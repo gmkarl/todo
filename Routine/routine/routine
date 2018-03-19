@@ -4,9 +4,22 @@
 
 FILE="${1}"
 routine="${FILE%.routine}"
+ttrackdir="../ttrack"
 
 cat "$FILE" | while read code name
 do
+  ttrackline="$(grep "$name" ${ttrackdir}/routines.csv)"
+  if [ "x$ttrackline" != "x" ]
+  then
+    echo '(connecting with ttrack for this one: '"$ttrackline"')'
+    ttrackline="${ttrackline%,*}"
+    ttrackgoal="${ttrackline%,*}"
+    ttracktask="${ttrackline#*,}"
+    ttrackfile="${ttrackdir}/time_details.csv"
+    ttrack=1
+  else
+    ttrack=0
+  fi
 	while true
 	do
 		echo " == $name == " | tr a-z A-Z
@@ -20,11 +33,22 @@ do
 		then
 			echo "Already completed."
 			echo $code, $routine, , $(date -Is -d @$start), "$name", "finished earlier" >> routinedata.csv
+      if ((ttrack))
+      then
+      #  echo "$(date +%s),start,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+      #  echo "$(date +%s),stop,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+        echo 'ttrack skipped because we want the data accurate ...'
+      fi
 		elif [ "x$skip" = "x" ]
 		then
 			echo
 			echo " $name ... "
 			echo
+      if ((ttrack))
+      then
+        echo "$(date +%s),start,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+        echo 'updated with ttrack!'
+      fi
 			while true
 			do
 				echo "Press enter when completed, or 'abort' to give up."
@@ -37,6 +61,11 @@ do
 				elif [ "x$abort" = "x" ]
 				then
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", >> routinedata.csv
+          if ((ttrack))
+          then
+            echo "$(date +%s),stop,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+            echo 'updated with ttrack!'
+          fi
 				else
 					echo "I couldn't recognize '$abort' ... try again?"
 					continue
@@ -51,9 +80,10 @@ do
 		break
 	done
 	git add routinedata.csv
+  git add "$ttrackdir"
 	git commit -m "$(date -I) $routine $name"
 	{
-		torify git pull --no-edit &&
-		torify git push >/dev/null 2>&1
+		git pull --no-edit &&
+		git push >/dev/null 2>&1
 	} &
 done
