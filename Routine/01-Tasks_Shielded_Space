@@ -8,10 +8,6 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] dish sponge / cloth
-- [X] jacket/coat
-- [X] bowl for small wash water
-- [X] dell charger to grab tip from
 
 ## DO OUTSIDE
 - Routine:
@@ -27,15 +23,8 @@
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
 	bring in 1 welding item at least, until enough for steel box
-- [ ] leave fivecounty card and iphone outside
-- [ ] download the soapy gnuradio alternative
-- [ ] email tacfit regarding primal stress number of repetitions for AFAP-T
 - [ ] buy another big battery (can swap in one of my small ones)
 	- [ ] look into batteries for off-grid home power systems
-- [ ] buy some inline fuse holders and e.g. 10A fuses
-- [ ] buy a huge harddrive (at least 2 TB) for annex, rec, archive, and mirror
-- [ ] see if I can order a free-standing pullup bar that's not too tall
-- [ ] sign up for an at&t landline
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
@@ -141,32 +130,18 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] leave fivecounty card and iphone outside
+- [X] dish sponge / cloth
+- [X] jacket/coat
+- [X] bowl for small wash water
+- [X] dell charger to grab tip from
+- [X] download the soapy gnuradio alternative
+- [X] email tacfit regarding primal stress number of repetitions for AFAP-T
+- [X] buy some inline fuse holders and e.g. 10A fuses
+- [X] buy a huge harddrive (at least 2 TB) for annex, rec, archive, and mirror
+- [X] see if I can order a free-standing pullup bar that's not too tall
+- [ ] sign up for an at&t landline
 - [X] reacquire mirrors using httrack/webhttrack/httraqt
 - [X] towel
 - [X] another openbci dongle
 - [X] usb camera(s)
-- [X] clothes
-	- [X] warm long underwear
-	- [X] pj pants
-	- [X] boxers
-	- [X] handkerchiefs
-	- [X] a shirt
-	- [X] a pair of pants
-- [X] dc heaters (trailer?)
-- [X] mirror gnuradio.org
-- [X] apt-get install gsl-doc-info/gsl-doc-pdf/gsl-ref-html
-- [X] run the updates in the gstreamer git src
-- [X] buy another microsd card for when the existing one is copying (or check that one is in the mail)
-	-> there's one in my openbci box
-- [ ] should probably get a recent sugar-on-a-stick
-	- [ ] and maybe mirror the package db
-- RESPONS: [X] Washing solution
-- [X] DC AA battery charger (just the big one with an AC adapter)
-- [X] manual for big inverter
-- [X] apt-get build-dep gr-fosphor
-- [X] apt-get install
-	- [X] qt5-default
-	- [X] extra-cmake-modules
-- [X] get dish soap / castile soap
-- [X] buy superglue
-- [X] buy an adapter for pure sine wave inverter (it has a big Y-shaped 120v plug for high current)
