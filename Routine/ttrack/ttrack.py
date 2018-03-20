@@ -115,7 +115,8 @@ class Data():
                     self.rout_time[task] = started[goal]
                 amt = time - started[goal]
                 del started[goal]
-            self.total += amt
+            if self.prios[goal] > 0:
+                self.total += amt
             self.cumulated[goal] += amt
     
     def do_report(self):
@@ -129,7 +130,8 @@ class Data():
         self.cumulate()
         for task in self.rout_time:
             since = time.time() - self.rout_time[task]
-            if (since  / 60 / 60 >= self.rout_hours[task]):
+            since = since / 60 / 60
+            if (since >= self.rout_hours[task]):
                 print('%.2f hours since %s for %s' % (since, task, self.rout_goals[task]))
         needed = {}
         for goal in self.cumulated:
