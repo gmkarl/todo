@@ -187,3 +187,10 @@ Time,Action,Goal,Task
 1521556393.35,stop,RESPONS,Meds
 1521557846,start,RESPONS,Brush Teeth
 1521558501,stop,RESPONS,Brush Teeth
+1521590022.86,start,BACKEND,power
+1521596427.19,stop,BACKEND,power
+1521597984.48,start,RESP,Eye Lubricant
+1521598018.91,start,RESPONS,Eye Lubricant
+1521598090.16,stop,RESPONS,Eye Lubricant
+1521634964.21,start,RESPONS,dermal care
+1521635028.55,stop,RESPONS,dermal care
