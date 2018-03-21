@@ -194,3 +194,10 @@ Time,Action,Goal,Task
 1521598090.16,stop,RESPONS,Eye Lubricant
 1521634964.21,start,RESPONS,dermal care
 1521635028.55,stop,RESPONS,dermal care
+1521635147.66,start,REC,eeg battery
+1521635314.92,stop,REC,eeg battery
+1521635371.74,start,SAFE,noise
+1521635386.49,stop,SAFE,noise
+1521635544.59,start,SAFE,noise
+1521641027.26,stop,SAFE,noise
+1521641036.27,start,BLOCKED,
