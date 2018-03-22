@@ -8,8 +8,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [X] bandaids; put them in the toothbrushing drawer
 
 ## DO OUTSIDE
+- [X] in pothos folders, `git submodule update --init --recursive`
 - Routine:
 	swap batteries
 	charge light if needed
@@ -23,6 +25,10 @@
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
 	bring in 1 welding item at least, until enough for steel box
+- [X] order a dc charger specific for dell latitude
+- [X] order some more powerpole connectors
+- [X] get a 2amp 5v dc charger for raspberry pi
+- [X] check tracking information for 12 guage wire, maybe buy some locally
 - [ ] buy another big battery (can swap in one of my small ones)
 	- [ ] look into batteries for off-grid home power systems
 
