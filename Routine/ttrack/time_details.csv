@@ -233,3 +233,7 @@ Time,Action,Goal,Task
 1521734667,start,RESPONS,Meds
 1521734683,stop,RESPONS,Meds
 1521734702.67,start,RESPONS,routine
+1521735373.77,stop,RESPONS,routine
+1521737232.89,start,RESPONS,routine
+1521737240,start,RESPONS,Brush Teeth
+1521738803,stop,RESPONS,Brush Teeth
