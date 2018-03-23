@@ -241,3 +241,16 @@ Time,Action,Goal,Task
 1521741512,stop,RESPONS,Fissure Treatment
 1521742070,start,RESPONS,Eye Lubricant
 1521742224,stop,RESPONS,Eye Lubricant
+1521743865.23,stop,RESPONS,routine
+1521748971.35,start,RESPONS,meetings
+1521752174.57,stop,RESPONS,meetings
+1521752236.11,start,RESPONS,dermal care
+1521752324.9,stop,RESPONS,dermal care
+1521752450.47,start,SUST,fiber
+1521757073.28,heartbeat,SUST,fiber
+1521769482.94,stop,SUST,fiber
+1521770283.83,start,RESPONS,Eye Lubricant
+1521770349.04,stop,RESPONS,Eye Lubricant
+1521770362.68,start,SLEEP,
+1521800759.7,stop,SLEEP,
+1521800777.94,start,RESPONS,routine
