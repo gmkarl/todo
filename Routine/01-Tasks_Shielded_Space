@@ -8,15 +8,16 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] usb cable with square connector for arduino uno (or buy one)
+- [X] usb cable with square connector for arduino uno (or buy one)
 
 ## DO OUTSIDE
-- [ ] build src/arduino-builder
+- [X] build src/arduino-builder
 - Routine:
 	swap batteries
 	charge light if needed
 	bring water in
 	change out toilet
+	water house plants
 	empty trash and recycling
 	sync with github for katie
 	download email
@@ -29,9 +30,12 @@
 - [ ] get a couple usb-ethernet adapters, or find mine
 - [ ] verify dana farber appointments are in calendar
 - [ ] set up fan ??? please ?
-- [ ] update card with aws
+- [X] update card with aws
+- [ ] look into tax apps for linux
 - [ ] buy another big battery (can swap in one of my small ones)
 	- [ ] look into batteries for off-grid home power systems
+		-> note that my ebay battery is 90Ah and it seems to last
+		-> my store battery has a reserve capacity of 175 =~ 73Ah
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
