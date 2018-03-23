@@ -254,3 +254,5 @@ Time,Action,Goal,Task
 1521770362.68,start,SLEEP,
 1521800759.7,stop,SLEEP,
 1521800777.94,start,RESPONS,routine
+1521801539,start,RESPONS,Eye Lubricant
+1521801605,stop,RESPONS,Eye Lubricant
