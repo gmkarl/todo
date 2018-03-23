@@ -102,19 +102,26 @@ class Data():
             time = float(detail[TIME_COL])
             amt = 0
             if event == EVENT_START:
-                started[goal] = time
+                if goal not in started:
+                    started[goal] = [0, set()]
+                started[goal][0] = time
+                started[goal][1].add(task)
                 if goal not in self.cumulated:
                     self.cumulated[goal] = 0
                 if goal not in self.prios:
                     self.prios[goal] = 0
             elif event == EVENT_HEARTBEAT:
-                amt = time - started[goal]
-                started[goal] = time
+                amt = time - started[goal][0]
+                started[goal][0] = time
             elif event == EVENT_STOP:
                 if task in self.rout_time:
-                    self.rout_time[task] = started[goal]
-                amt = time - started[goal]
-                del started[goal]
+                    self.rout_time[task] = started[goal][0]
+                amt = time - started[goal][0]
+                started[goal][1].discard(task)
+                if len(started[goal][1]) > 0:
+                    started[goal][0] = time 
+                else:
+                    started[goal][0] = 0
             if self.prios[goal] > 0:
                 self.total += amt
             self.cumulated[goal] += amt
