@@ -8,10 +8,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] bandaids; put them in the toothbrushing drawer
+- [ ] usb cable with square connector for arduino uno (or buy one)
 
 ## DO OUTSIDE
-- [X] in pothos folders, `git submodule update --init --recursive`
+- [ ] build src/arduino-builder
 - Routine:
 	swap batteries
 	charge light if needed
@@ -25,13 +25,9 @@
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
 	bring in 1 welding item at least, until enough for steel box
-- [X] order a dc charger specific for dell latitude
-- [X] order some more powerpole connectors
-- [X] get a 2amp 5v dc charger for raspberry pi
-- [X] check tracking information for 12 guage wire, maybe buy some locally
+- [ ] get another raspberry pi/zero or two
+- [ ] get a couple usb-ethernet adapters, or find mine
 - [ ] verify dana farber appointments are in calendar
-- [ ] get essential oil diffuser (tj max, acadia herbals)
-- [ ] get baking soda
 - [ ] set up fan ??? please ?
 - [ ] update card with aws
 - [ ] buy another big battery (can swap in one of my small ones)
@@ -141,6 +137,14 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] get essential oil diffuser (tj max, acadia herbals)
+- [X] get baking soda
+- [X] bandaids; put them in the toothbrushing drawer
+- [X] in pothos folders, `git submodule update --init --recursive`
+- [X] order a dc charger specific for dell latitude
+- [X] order some more powerpole connectors
+- [X] get a 2amp 5v dc charger for raspberry pi
+- [X] check tracking information for 12 guage wire, maybe buy some locally
 - [X] leave fivecounty card and iphone outside
 - [X] dish sponge / cloth
 - [X] jacket/coat
@@ -152,7 +156,3 @@
 - [X] buy a huge harddrive (at least 2 TB) for annex, rec, archive, and mirror
 - [X] see if I can order a free-standing pullup bar that's not too tall
 - [ ] sign up for an at&t landline
-- [X] reacquire mirrors using httrack/webhttrack/httraqt
-- [X] towel
-- [X] another openbci dongle
-- [X] usb camera(s)
