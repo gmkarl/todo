@@ -8,10 +8,8 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] usb cable with square connector for arduino uno (or buy one)
 
 ## DO OUTSIDE
-- [X] build src/arduino-builder
 - Routine:
 	swap batteries
 	charge light if needed
@@ -26,16 +24,19 @@
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
 	bring in 1 welding item at least, until enough for steel box
-- [ ] get another raspberry pi/zero or two
-- [ ] get a couple usb-ethernet adapters, or find mine
-- [ ] verify dana farber appointments are in calendar
-- [ ] set up fan ??? please ?
-- [X] update card with aws
-- [ ] look into tax apps for linux
 - [ ] buy another big battery (can swap in one of my small ones)
 	- [ ] look into batteries for off-grid home power systems
 		-> note that my ebay battery is 90Ah and it seems to last
 		-> my store battery has a reserve capacity of 175 =~ 73Ah
+	-> maybe try interstte batteries
+		230 chauncey walker st
+		belchertown, ma 01007
+		mon-fri 8a-5p
+		sat 9a-12p
+		sun closed
+- [ ] check email from samppa
+- [ ] check email from holland shielding
+- [ ] check with katie re box truck
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
@@ -141,6 +142,16 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] build src/arduino-builder
+- [X] usb cable with square connector for arduino uno (or buy one)
+- [X] get another raspberry pi/zero or two
+- [X] get a couple usb-ethernet adapters, or find mine
+- [X] verify dana farber appointments are in calendar
+- [ ] set up fan ??? please ?
+	-> the back of the tent is delicate ... I ripped out a tie and a hook looking into this !!
+- [X] update card with aws
+- [X] look into tax apps for linux
+	-> there are none, you use e.g. turbotax website
 - [X] get essential oil diffuser (tj max, acadia herbals)
 - [X] get baking soda
 - [X] bandaids; put them in the toothbrushing drawer
@@ -150,13 +161,3 @@
 - [X] get a 2amp 5v dc charger for raspberry pi
 - [X] check tracking information for 12 guage wire, maybe buy some locally
 - [X] leave fivecounty card and iphone outside
-- [X] dish sponge / cloth
-- [X] jacket/coat
-- [X] bowl for small wash water
-- [X] dell charger to grab tip from
-- [X] download the soapy gnuradio alternative
-- [X] email tacfit regarding primal stress number of repetitions for AFAP-T
-- [X] buy some inline fuse holders and e.g. 10A fuses
-- [X] buy a huge harddrive (at least 2 TB) for annex, rec, archive, and mirror
-- [X] see if I can order a free-standing pullup bar that's not too tall
-- [ ] sign up for an at&t landline
