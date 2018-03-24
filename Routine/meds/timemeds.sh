@@ -6,6 +6,11 @@ export TZ=America/New_York
 today="$(date +"%F %Z")"
 year="${today%%-*}"
 
+ttrackdir="../ttrack"
+ttrackfile="${ttrackdir}/time_details.csv"
+
+echo "$(date +%s),start,RESPONS,Meds" >> "$ttrackfile"
+
 csv="${year}-meds.csv"
 
 {
@@ -33,7 +38,7 @@ csv="${year}-meds.csv"
 			fulldosage="${line%%,*}"
 			dosage="${fulldosage%% *}"
 			notes="${line#*, }"
-			if (( $(shuf -i 0-7 --random-source=/dev/random | head -n 1) == 0 ))
+			if (( $(shuf -i 0-5 --random-source=/dev/random | head -n 1) == 0 ))
 			then
 				echo "I recommend SKIPPING the next med if you want !" > /dev/tty
 			fi
@@ -60,6 +65,7 @@ csv="${year}-meds.csv"
 				if [ "x$skip" == "x" ]
 				then
 					echo "$medid" "$dosage" "$notes"
+					echo "$(date +%s),heartbeat,RESPONS,Meds" >> "$ttrackfile"
 				elif [ "x$skip" == "skip" ]
 				then
 					echo "SKIPPED!" > /dev/tty
@@ -71,4 +77,5 @@ csv="${year}-meds.csv"
 			sleep 0.3
 		done
 	}
+	echo "$(date +%s),stop,RESPONS,Meds" >> "$ttrackfile"
 } | "$(dirname "$0")/havemed.sh" | grep -v 'ID Dosage'
