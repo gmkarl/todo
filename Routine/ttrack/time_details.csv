@@ -290,3 +290,10 @@ Time,Action,Goal,Task
 1521999555,stop,RESPONS,Fissure Treatment
 1521999671,start,RESPONS,Eye Lubricant
 1521999754,stop,RESPONS,Eye Lubricant
+1521999919.01,stop,RESPONS,routine
+1521999945.16,start,RESPONS,dermal care
+1522000008.82,stop,RESPONS,dermal care
+1522000126.07,start,SAFE,noise
+1522008066.65,stop,SAFE,noise
+1522008075.93,start,BLOCKED,
+1522014170.72,stop,BLOCKED,
