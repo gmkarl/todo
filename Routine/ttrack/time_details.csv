@@ -280,3 +280,7 @@ Time,Action,Goal,Task
 1521987648.61,start,RESPONS,routine
 1521988006,start,RESPONS,Eye Lubricant
 1521988103,stop,RESPONS,Eye Lubricant
+1521992289,start,RESPONS,Meds
+1521992336,heartbeat,RESPONS,Meds
+1521992400,heartbeat,RESPONS,Meds
+1521995622,stop,RESPONS,Meds
