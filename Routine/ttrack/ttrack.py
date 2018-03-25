@@ -151,9 +151,21 @@ class Data():
             print('%s needs at least %.2f more hours' % (goal, needed[goal] / 60 / 60))
 
     def do_work(self, goal, tasks):
+        gotchar = False
         fd = sys.stdin.fileno()
         old = tty.tcgetattr(fd)
         tty.setcbreak(fd)
+        def getchar():
+            global gotchar
+            gotchar = False
+            signal.setitimer(signal.ITIMER_REAL, 2*60*60, 0.1)
+            ret = sys.stdin.read(1)
+            gotchar = True
+            return ret
+        def alarm(a,b):
+            global gotchar
+            sys.stdout.write("\\x07")
+
         getchar = lambda: sys.stdin.read(1)
         try:
             ts = time.time()
@@ -169,7 +181,7 @@ class Data():
                 if key == '\n':
                     break
                 if key != ' ':
-                    print('!! Unrecognized keypress.  Working on %s for %s.  Press enter to stop, space to continue.' % (tasks, goal))
+                    print('\x07!! Unrecognized keypress.  Working on %s for %s.  Press enter to stop, space to continue.' % (tasks, goal))
                     continue
                 ts = time.time()
                 print('Still working on %s towards %s at %s' % (tasks, goal, time.ctime(ts)))
