@@ -264,3 +264,17 @@ Time,Action,Goal,Task
 1521804051,stop,RESPONS,Meds
 1521804612,start,RESPONS,Brush Teeth
 1521805557,stop,RESPONS,Brush Teeth
+1521900699.48,start,RESPONS,Eye Lubricant
+1521900759.54,stop,RESPONS,Eye Lubricant
+1521900777.28,start,REC,eeg battery
+1521901152.07,stop,REC,eeg battery
+1521901169.71,start,SUST,fiber
+1521903280.0,stop,SUST,fiber
+1521903730.98,start,SUST,fiber
+1521905097.93,stop,SUST,fiber
+1521905585.93,start,SUST,fiber
+1521906511.41,stop,SUST,fiber
+1521906707.69,start,SUST,fiber
+1521986262.74,start,REC,eeg
+1521987609.9,stop,REC,eeg
+1521987648.61,start,RESPONS,routine
