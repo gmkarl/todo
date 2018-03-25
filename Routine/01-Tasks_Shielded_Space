@@ -4,12 +4,20 @@
 	- Check calendar
   - Check 12v battery voltage
   - Change batteries on openbci
+  [ ] turn voiceover back on on iphone
 - [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [ ] backup openbci dongle
+- [X] wrench for connecting to grey battery
+- [X] bag of carrots
 
 ## DO OUTSIDE
+- [ ] pkg install termux-api on blackberry
+- [ ] push openemissions and sync annex
+- [ ] apt-get install feh
+- [ ] wash body
 - Routine:
 	swap batteries
 	charge light if needed
@@ -24,7 +32,7 @@
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
 	bring in 1 welding item at least, until enough for steel box
-- [ ] buy another big battery (can swap in one of my small ones)
+- [X] buy another big battery (can swap in one of my small ones)
 	- [ ] look into batteries for off-grid home power systems
 		-> note that my ebay battery is 90Ah and it seems to last
 		-> my store battery has a reserve capacity of 175 =~ 73Ah
@@ -34,13 +42,34 @@
 		mon-fri 8a-5p
 		sat 9a-12p
 		sun closed
+- [X] check tracking information for daylight bulbs
+	-> april 10
 - [ ] check email from samppa
 - [ ] check email from holland shielding
 - [ ] check with katie re box truck
+- [ ] look on ebay for fiberoptic plugs/etc to convert between electricity
+- [ ] look on ebay for fiberoptic cable with no metal
+- [ ] look up that library for communcation via laser light; be great to use an existing work
+- [ ] try finishing that credit app with the truck place in NH; they say they
+ work with a lender who always approves
+- [ ] try to order another openbci dongle
+- [ ] order a small display for pi zero
+- [ ] order some disassembled powerpoles
+- [X] order soylent
+- [ ] order 1020 paste and electrodes for openbci
+
+## Things for BA counselors to help with
+- Move things into tent via vestibule
+- Check emails and texts I'm waiting for
+- Grocery shopping
+- Change toilet, water, batteries, trash
+- [ ] structural materials for welding area (and bathroom)
+- [ ] printer
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
+	[ ] get used to using 10-20 paste until we have transdermals
 	[ ] mod firmware further to record upon bootup, but still blink
 	[ ] compact, watertight case
 - REC: [ ] Surveillance solution
