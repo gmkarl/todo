@@ -307,3 +307,5 @@ Time,Action,Goal,Task
 1522036840.81,stop,REC,eeg battery
 1522037944.98,start,RESPONS,Eye Lubricant
 1522064731.2,start,RESPONS,routine
+1522065727,start,RESPONS,Eye Lubricant
+1522066034,stop,RESPONS,Eye Lubricant
