@@ -309,3 +309,6 @@ Time,Action,Goal,Task
 1522064731.2,start,RESPONS,routine
 1522065727,start,RESPONS,Eye Lubricant
 1522066034,stop,RESPONS,Eye Lubricant
+1522069237,start,RESPONS,Meds
+1522069280,heartbeat,RESPONS,Meds
+1522075046,stop,RESPONS,Meds
