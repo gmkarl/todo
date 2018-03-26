@@ -314,3 +314,5 @@ Time,Action,Goal,Task
 1522075046,stop,RESPONS,Meds
 1522075107,start,RESPONS,Brush Teeth
 1522075939,stop,RESPONS,Brush Teeth
+1522076237.75,start,RESPONS,dermal care
+1522076314.32,stop,RESPONS,dermal care
