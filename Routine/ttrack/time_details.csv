@@ -326,3 +326,6 @@ Time,Action,Goal,Task
 1522159268,heartbeat,RESPONS,Meds
 1522159332,heartbeat,RESPONS,Meds
 1522163116,stop,RESPONS,Meds
+1522167347.5,start,RESPONS,dermal care
+1522167350,start,RESPONS,Brush Teeth
+1522167354,stop,RESPONS,Brush Teeth
