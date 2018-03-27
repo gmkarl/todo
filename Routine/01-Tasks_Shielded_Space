@@ -9,15 +9,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] backup openbci dongle
-- [X] wrench for connecting to grey battery
-- [X] bag of carrots
+- [ ] dental guard
 
 ## DO OUTSIDE
-- [ ] pkg install termux-api on blackberry
-- [ ] push openemissions and sync annex
-- [ ] apt-get install feh
-- [ ] wash body
+- [ ] get litlog annex data
 - Routine:
 	swap batteries
 	charge light if needed
@@ -32,31 +27,23 @@
   	move laundry along
 	do an extra sitz bath & fissure treatment with warm water
 	bring in 1 welding item at least, until enough for steel box
-- [X] buy another big battery (can swap in one of my small ones)
-	- [ ] look into batteries for off-grid home power systems
-		-> note that my ebay battery is 90Ah and it seems to last
-		-> my store battery has a reserve capacity of 175 =~ 73Ah
-	-> maybe try interstte batteries
-		230 chauncey walker st
-		belchertown, ma 01007
-		mon-fri 8a-5p
-		sat 9a-12p
-		sun closed
-- [X] check tracking information for daylight bulbs
-	-> april 10
 - [ ] check email from samppa
-- [ ] check email from holland shielding
-- [ ] check with katie re box truck
-- [ ] look on ebay for fiberoptic plugs/etc to convert between electricity
-- [ ] look on ebay for fiberoptic cable with no metal
-- [ ] look up that library for communcation via laser light; be great to use an existing work
-- [ ] try finishing that credit app with the truck place in NH; they say they
- work with a lender who always approves
-- [ ] try to order another openbci dongle
-- [ ] order a small display for pi zero
-- [ ] order some disassembled powerpoles
-- [X] order soylent
-- [ ] order 1020 paste and electrodes for openbci
+	-> none yet, sun 3/25
+- [ ] pursue next box truck
+- [ ] mention on soapy_power pr that new header is output every packet
+- [ ] Buy some rtl-sdr antenna bases
+- [ ] Look around for some rtl-sdr antenna bases
+- [ ] make or buy a new dental guard
+- [ ] push litelog
+- [ ] get solder
+- [ ] buy at least 2 photodiodes.  photoresistors are slow.
+- [ ] buy wire and powerpoles for 50 A or 25 A for inverter.
+- [ ] try finishing that credit app with the truck place in NH; they say they work with a lender who always approves
+- [ ] buy 12V soldering iron suitable for both low and very high gauge wire (or two)
+- [ ] sew tent corner
+- [ ] replace charger under warrantee at advanced auto parts
+- [ ] buy cheese from grace hill farm at river valley or farmer's market
+- [ ] get information portland storage units
 
 ## Things for BA counselors to help with
 - Move things into tent via vestibule
@@ -171,22 +158,20 @@
   - recover & resolve all busted drives
 
 # Done
-- [X] build src/arduino-builder
-- [X] usb cable with square connector for arduino uno (or buy one)
-- [X] get another raspberry pi/zero or two
-- [X] get a couple usb-ethernet adapters, or find mine
-- [X] verify dana farber appointments are in calendar
-- [ ] set up fan ??? please ?
-	-> the back of the tent is delicate ... I ripped out a tie and a hook looking into this !!
-- [X] update card with aws
-- [X] look into tax apps for linux
-	-> there are none, you use e.g. turbotax website
-- [X] get essential oil diffuser (tj max, acadia herbals)
-- [X] get baking soda
-- [X] bandaids; put them in the toothbrushing drawer
-- [X] in pothos folders, `git submodule update --init --recursive`
-- [X] order a dc charger specific for dell latitude
-- [X] order some more powerpole connectors
-- [X] get a 2amp 5v dc charger for raspberry pi
-- [X] check tracking information for 12 guage wire, maybe buy some locally
-- [X] leave fivecounty card and iphone outside
+- [X] apt-get install testdisk (to recover openbci logs)
+- [X] check email from holland shielding
+	-> none yet, sun 3/25
+	-> i can sew the tent up
+- [ ] pick up banjo
+- [X] buy equisetum powder, calcium carbonate
+- [X] download alexandros's soapy fork
+- [X] buy more band-aids !!
+- [X] buy nature's miracle odor remover / urine destroyer (available at dave's soda and pet city near big y)
+- [X] buy sewing kit
+- [X] backup openbci dongle
+- [X] wrench for connecting to grey battery
+- [X] bag of carrots
+- [X] pkg install termux-api on blackberry
+- [X] push openemissions and sync annex
+- [X] apt-get install feh
+- [X] wash body
