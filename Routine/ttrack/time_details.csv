@@ -334,3 +334,11 @@ Time,Action,Goal,Task
 1522168598,stop,RESPONS,Fissure Treatment
 1522168976,start,RESPONS,Eye Lubricant
 1522169070,stop,RESPONS,Eye Lubricant
+1522173824.73,start,REC,eeg battery
+1522175198.83,stop,REC,eeg battery
+1522175231.52,start,REC,soapy_power
+1522176391.16,stop,REC,soapy_power
+1522179772.42,start,REC,soapy_power
+1522180233.27,stop,REC,soapy_power
+1522181850.26,start,REC,soapy_power
+1522185751.78,stop,REC,soapy_power
