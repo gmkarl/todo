@@ -20,3 +20,7 @@
   New arrangement:
     AGND BIAS ... N2    N1     SRB
               ... green orange grey
+
+2018-03-26: two leads
+  Green has popped out of the left middle of my scalp.
+  Just recording orange (back left) relative to grey (front right)
