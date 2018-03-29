@@ -9,7 +9,8 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] eating bowl
+Get counselors to help with these items !!!
+- [ ] AA NiMH battery pack
 - [ ] extra washbowl
 - [ ] dental guard
 
@@ -27,33 +28,27 @@
 	check snailmail (both porch and hanging)
 	increase the organization of 1 box or item
   	move laundry along
-	do an extra sitz bath & fissure treatment with warm water
 	bring in 1 welding item at least, until enough for steel box
-- [ ] !!!! DEPOSIT MONEY IN FIVECOUNTY TO GET BALANCE BACK UP !!!
+	do an extra sitz bath & fissure treatment with warm water
+- [X] !!!! DEPOSIT MONEY IN FIVECOUNTY TO GET BALANCE BACK UP !!!
   -> acct no 1050518
-- [ ] check out ebay
 - [ ] check email from samppa
 	-> none yet, sun 3/25
+- [X] contribute soapy_power max_buffers timing fix
+- [X] get soapysdr git sources
+- [X] buy inline fuse holders for 12 and 10 gauge wire
 - [ ] pursue next box truck
-- [X] mention on soapy_power pr that new header is output every packet
-- [ ] Buy some rtl-sdr antenna bases
+- [X] buy soap (local, vegan)
+- [ ] buy more premade powerpoles
+	-> i added some to my ebay cart but should wait to have more money in checking
 - [ ] Look around for some rtl-sdr antenna bases
 - [ ] make or buy a new dental guard
-- [X] get blackberry phone from living room
-- [ ] buy larger batteries for openbci
-- [X] push litelog
-- [X] get solder
-- [ ] buy at least 2 photodiodes.  photoresistors are slow.
-- [ ] buy wire and powerpoles for 50 A or 25 A for inverter.
-  -> the 12 gauge wire is supposed to be 30 A
-  -> there are 45 A powerpole contacts for the same housings I have
-  -> got 10 gauge wire to go with the 45 A contacts
 - [ ] try finishing that credit app with the truck place in NH; they say they work with a lender who always approves
-- [X] buy 12V soldering iron suitable for both low and very high gauge wire (or two)
-- [ ] sew tent corner
+	-> who was this?  I think they wanted me to finish within 2 days ...
 - [ ] replace charger under warrantee at advanced auto parts
 - [ ] buy cheese from grace hill farm at river valley or farmer's market
-- [ ] get information portland storage units
+- [X] get information portland storage units
+- [ ] answer my dad's e-mails
 
 ## Things for BA counselors to help with
 - Move things into tent via vestibule
@@ -168,6 +163,21 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] eating bowl
+- [X] check out ebay
+- [X] mention on soapy_power pr that new header is output every packet
+- [X] Buy some rtl-sdr antenna bases
+- [X] get blackberry phone from living room
+- [X] buy larger batteries for openbci
+- [X] push litelog
+- [X] get solder
+- [X] buy at least 2 photodiodes.  photoresistors are slow.
+- [X] buy wire and powerpoles for 50 A or 25 A for inverter.
+  -> the 12 gauge wire is supposed to be 30 A
+  -> there are 45 A powerpole contacts for the same housings I have
+  -> got 10 gauge wire to go with the 45 A contacts
+- [X] buy 12V soldering iron suitable for both low and very high gauge wire (or two)
+- [X] sew tent corner
 - [X] apt-get install testdisk (to recover openbci logs)
 - [X] check email from holland shielding
 	-> none yet, sun 3/25
