@@ -366,3 +366,7 @@ Time,Action,Goal,Task
 1522329835.38,stop,REC,soapy_power
 1522330397,start,RESPONS,Eye Lubricant
 1522330572,stop,RESPONS,Eye Lubricant
+1522330609,start,RESPONS,Meds
+1522330668,heartbeat,RESPONS,Meds
+1522330727,heartbeat,RESPONS,Meds
+1522335037,stop,RESPONS,Meds
