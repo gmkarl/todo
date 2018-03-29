@@ -374,3 +374,5 @@ Time,Action,Goal,Task
 1522345546,stop,RESPONS,Fissure Treatment
 1522345726,start,RESPONS,Eye Lubricant
 1522345767,stop,RESPONS,Eye Lubricant
+1522345869.3,start,RESPONS,dermal care
+1522345897.06,stop,RESPONS,dermal care
