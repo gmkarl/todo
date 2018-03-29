@@ -360,3 +360,5 @@ Time,Action,Goal,Task
 1522302210,stop,RESPONS,Brush Teeth
 1522302690,start,RESPONS,Eye Lubricant
 1522302775,stop,RESPONS,Eye Lubricant
+1522326335.28,start,REC,eeg battery
+1522327664.54,stop,REC,eeg battery
