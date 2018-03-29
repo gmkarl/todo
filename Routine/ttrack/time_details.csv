@@ -370,3 +370,5 @@ Time,Action,Goal,Task
 1522330668,heartbeat,RESPONS,Meds
 1522330727,heartbeat,RESPONS,Meds
 1522335037,stop,RESPONS,Meds
+1522344815,start,RESPONS,Fissure Treatment
+1522345546,stop,RESPONS,Fissure Treatment
