@@ -5,7 +5,7 @@ STOPWATCH="./stopwatch.sh"
 
 PLAYFOR()
 {
-	local rate="$(python -c "print($($DURATION "$1") / $2)")"
+	local rate="$(python -c "print(max($($DURATION "$1") / $2, 1))")"
 	$PLAYONCE --rate "$rate" "$1"
 }
 
