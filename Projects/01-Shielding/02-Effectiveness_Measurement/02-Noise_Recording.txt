@@ -1,0 +1,22 @@
+I'm having trouble determining how to approach noise recording.
+
+I'd like a running service that monitors the SE.
+
+I've set up soapy_power with litelog so that it will record psd's all day.  It would be nice to combine noise measurements with that service.
+I'm not sure the right approach given my current limitations and difficulties.
+
+1. I could randomize soapy_power's run so that sometimes it records the real FFT, sometimes the PSD, and use the real FFT recordings to measurement the noise strength.
+  This would be the quickest solution, except I haven't solved the problem of how to log which mode soapy_power would be in.  I'm using alexnask's recording extensions, and if I add a new field it could break the format.
+  I'm also getting a number of buffer overflow and timeout problems using soapy_power.  These aren't being recorded.  The simplest way to record all these things would of course to simply be to store the log output.
+
+2. A better solution would be to create a gnuradio or sdr device that mirrors an existing device in a read-only way.  This would be helpful for a variety of other tasks, and more general to be better accepted by the rest of the sdr development community.
+  A. SoapyServer would be a good candidate for this.  I would need it to be modified to share 1 read-write view of the device, and many read-only views of the device.  I'd also want to fix a bug I noted when running it with soapy_power.  
+
+3. My ideal solution would be to create a device proxy which broadcasts a complete description of the device state and data as a dat stream.
+  I guess this would be two apps -- a server which connects sdr devices to dat streams, and clients which broadcast the information as if it
+  came from a normal sdr device.  A good client candidate would be a gnuradio block, so that the tag conventions can be used to include tuning
+  information.  Another one would be a soapysdr device, so that normal sdr apps can be used.
+    The ecosystem isn't quite set up for this.
+
+So, for the quick approach, let's log the commandline and log output for soapy_power, and randomize whether it uses the magnitude or not.
+For the long term approach, let's up our backend priority, and add a routine to post bounties that move towards the dat goals.

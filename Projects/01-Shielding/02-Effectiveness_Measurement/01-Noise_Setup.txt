@@ -1,3 +1,17 @@
+The noise source is wired up to broadcast at a configurable frequency.
+
+The noise can be isolated as a spike at its broadcast frequency if the absolute magnitude is taken of IQ data prior to performing the FFT.
+
+The code for running the noise on a raspberry pi is in the openemissions repository.  I'd like to upgrade it to use the gpio server, so the same
+pi can be used for other tasks too.
+
+[ ] I still need to make my noise generator a 'permanent setup' -- right now it's hanging off a breadboard.  The pi runs at 5V aned the noise generator at 12V, so a component is needed to convert power.
+
+[ ] I'd like to try adjusting the power provided to the noise generator and seeing how the recorded magnitude changes.  This will help me verify I am measuring the power correctly.
+
+[ ] Obviously the measurement technique should be compared to pro methods.
+
+-- old:
 
 I have a 12V unbranded "noise source" from ebay.
 The RF output matches the adapters I have for the ham-it-up upconverter.
