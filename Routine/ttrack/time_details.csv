@@ -418,3 +418,7 @@ Time,Action,Goal,Task
 1522615456,stop,RESPONS,Meds
 1522615718,start,RESPONS,Fissure Treatment
 1522616624,stop,RESPONS,Fissure Treatment
+1522616656.14,start,SAFE,noise
+1522625725.8,stop,SAFE,noise
+1522626523.43,start,SAFE,noise
+1522627268.79,stop,SAFE,noise
