@@ -24,10 +24,10 @@ do
 	kill $playpid
 done
 
-$PLAYONCE resources/gong1.mp3 &
 $STOPWATCH 40 "Check the clock, then write your final heart rate, time elapsed, technique, effort, and discomfort."
 notify "One round of cooldown" "Do each compensation drill once over 6 minutes."
 
+$PLAYONCE resources/gong1.mp3 &
 playalloncefor "$dir"/02-cooldown $((18*60/3))
 $PLAYONCE resource/gong2.mp3 &
 
