@@ -10,12 +10,14 @@
 
 ## BRING INSIDE
 - [X] extra washbowl
+- [ ] nimh charger & batteries
+- [ ] cardboard flooring
 - [ ] printer and everything needed for color printing (paper, cartridges)
 - [ ] dental guard
 
 ## DO OUTSIDE
-- [ ] pay 183 chestnut st rent
-- [ ] apt-get install gnuplot gimp
+- [X] pay 183 chestnut st rent
+- [X] apt-get install gnuplot gimp
 - [ ] get litlog annex data
 - Routine:
 	swap batteries
@@ -34,7 +36,7 @@
 	do an extra sitz bath & fissure treatment with warm water
 - [ ] check email from samppa
 	-> none yet, sun 3/25
-- [ ] patch tent
+- [X] patch tent
 - [ ] download samppa's description of 3d printing titanium transdermals
 - [ ] mention to penelope situation re samppa, continuing to work with brian, and getting remaining anchors pulled out
 - [ ] look up the TI PI with TSCM expertise, write down name & info
@@ -59,10 +61,15 @@ future compatibiliy.  perhaps should be used?
 - [ ] open a pr with soapy_power for readinto branch
 - [ ] open a pr with gimp for png-image-limits branch
 - [ ] order some jst y-cables to swap openbci battery without opening case
+	and jst plugs to repair batteries
 	maybe also some kind of jst socket to test voltage
 	-> let's plan to have two openbcis for when one freezes up
 	   should probably run them off separate batteries since those can run out
 - [ ] order some short female jumper wires to make y-cables and possibly plugs with
+	for two-is-one openbci approach
+- [ ] order another noise source to test background impact on noise peak measurements
+- [ ] order a 12V pot in case it is desired to adjust noise source power
+- [ ] verify with holland shielding patching method
 - [ ] patch tent; hole near door outside on floor
 - [ ] buy bananas
 - [ ] buy vegetables!  kale? cabbage? carrots.
