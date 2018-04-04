@@ -9,15 +9,11 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] extra washbowl
-- [ ] nimh charger & batteries
-- [ ] cardboard flooring
+- [ ] can opener
 - [ ] printer and everything needed for color printing (paper, cartridges)
 - [ ] dental guard
 
 ## DO OUTSIDE
-- [X] pay 183 chestnut st rent
-- [X] apt-get install gnuplot gimp
 - [ ] get litlog annex data
 - Routine:
 	swap batteries
@@ -32,56 +28,20 @@
 	check snailmail (both porch and hanging)
 	increase the organization of 1 box or item
   	move laundry along
-	bring in 1 welding item at least, until enough for steel box
+	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
-- [ ] check email from samppa
-	-> none yet, sun 3/25
-- [X] patch tent
-- [ ] download samppa's description of 3d printing titanium transdermals
-- [ ] mention to penelope situation re samppa, continuing to work with brian, and getting remaining anchors pulled out
-- [ ] look up the TI PI with TSCM expertise, write down name & info
-	-> if this hard at all, maybe katherine can hang out with me while it happens, and then
-	   take over a little
-- [ ] mention concerns regarding recording_settings work
-	-> SDRFF version field was not updated, appears is intended to provide
-future compatibiliy.  perhaps should be used?
-	-> actual device sample rate is not recorded
-	-> software version is not recorded
-	-> buffer overflow count not recorded
-	-> field format is fixed which means adding new fields breaks compatibility
-	-> consider: perhaps a string for commandline invocation, and fields that represent actual data and device state?
-- [ ] for the pothosware repos, clone the wikis
-- [ ] message jessica will miss hv due to beliefs workshop
-- [ ] look up hv workshop, might make more sense than beliefs
-- [ ] open a pr with alexnask for my program version branch of soapypower
-- [ ] open a pr with simplesoapy for version_strings branch
+- [ ] check for Bill Taylor in ti credibility reports
+	-> sent an email to mcforums
 - [ ] check soapy_power statu of my existing pr
-- [ ] open a pr with soapy_power for handle_timeout branch
-- [ ] open a pr with soapy_power for random branch
-- [ ] open a pr with soapy_power for readinto branch
-- [ ] open a pr with gimp for png-image-limits branch
-- [ ] order some jst y-cables to swap openbci battery without opening case
-	and jst plugs to repair batteries
-	maybe also some kind of jst socket to test voltage
-	-> let's plan to have two openbcis for when one freezes up
-	   should probably run them off separate batteries since those can run out
-- [ ] order some short female jumper wires to make y-cables and possibly plugs with
-	for two-is-one openbci approach
-- [ ] order another noise source to test background impact on noise peak measurements
-- [ ] order a 12V pot in case it is desired to adjust noise source power
-- [ ] verify with holland shielding patching method
-- [ ] patch tent; hole near door outside on floor
-- [ ] buy bananas
-- [ ] buy vegetables!  kale? cabbage? carrots.
-- [ ] pursue next box truck
-- [ ] buy more premade powerpoles
-	-> i added some to my ebay cart but should wait to have more money in checking
+	-> no reply yet after 5 days
+	url is https://github.com/xmiko/soapy_power/pull/11
+- [ ] review pedal people plan with eric
+- [ ] get pedal people mail bills to mary
 - [ ] Look around for some rtl-sdr antenna bases
 - [ ] make or buy a new dental guard
 	-> new one with instructions on dresser in bag
 - [ ] replace charger under warrantee at advanced auto parts
 - [ ] buy cheese from grace hill farm at river valley or farmer's market
-- [ ] answer my dad's starred e-mails
 
 ## Things for BA counselors to help with
 - Move things into tent via vestibule
@@ -196,6 +156,58 @@ future compatibiliy.  perhaps should be used?
   - recover & resolve all busted drives
 
 # Done
+- [X] verify with holland shielding patching method
+- [X] for the pothosware repos, clone the wikis
+- [X] extra washbowl
+- [X] nimh charger & batteries
+- [X] cardboard flooring
+- [X] pay 183 chestnut st rent
+- [X] apt-get install gnuplot gimp
+- [x] check email from samppa
+	-> none yet, sun 3/25
+	-> gave up waiting and messaged penelope on 4/2
+- [X] patch tent
+- [X] download samppa's description of 3d printing titanium transdermals
+- [X] mention to penelope situation re samppa, continuing to work with brian, and getting remaining anchors pulled out
+- [X] look up the TI PI with TSCM expertise, write down name & info
+	-> if this hard at all, maybe katherine can hang out with me while it happens, and then
+	   take over a little
+	-> there are a number of PI's that help TI's and do TSCM.
+	   This guy was William J. Taylor. I downloaded the interview at www.mitchellefect.com/bill_taylor_interview.pdf linked from www.biggerthansnowden.com
+- [X] mention concerns regarding recording_settings work
+	-> SDRFF version field was not updated, appears is intended to provide
+future compatibiliy.  perhaps should be used?
+	-> actual device sample rate is not recorded
+	-> software version is not recorded
+	-> buffer overflow count not recorded
+	-> field format is fixed which means adding new fields breaks compatibility
+	-> consider: perhaps a string for commandline invocation, and fields that represent actual data and device state?
+- [X] message jessica will miss hv due to beliefs workshop
+- [X] look up hv workshop, might make more sense than beliefs
+- [X] open a pr with alexnask for my program version branch of soapypower
+- [X] open a pr with simplesoapy for version_strings branch
+- [X] open a pr with soapy_power for handle_timeout branch
+- [X] open a pr with soapy_power for random branch
+- [X] open a pr with soapy_power for readinto branch
+- [ ] open a pr with gimp for png-image-limits branch
+- [X] order some jst y-cables to swap openbci battery without opening case
+	and jst plugs to repair batteries
+	maybe also some kind of jst socket to test voltage
+	-> let's plan to have two openbcis for when one freezes up
+	   should probably run them off separate batteries since those can run out
+- [X] order some short female jumper wires to make y-cables and possibly plugs with
+	for two-is-one openbci approach
+- [X] order another noise source to test background impact on noise peak measurements
+- [X] order a 12V pot in case it is desired to adjust noise source power
+- [X] patch tent; hole near door outside on floor
+- [X] buy bananas
+- [X] reply sappa facebook message
+- [X] update penelope samppa contact
+- [X] buy vegetables!  kale? cabbage? carrots.
+- [ ] pursue next box truck
+- [X] buy more premade powerpoles
+	-> i added some to my ebay cart but should wait to have more money in checking
+- [X] answer my dad's starred e-mails
 - [ ] AA NiMH battery pack
 	-> i have one
 - [X] !!!! DEPOSIT MONEY IN FIVECOUNTY TO GET BALANCE BACK UP !!!
