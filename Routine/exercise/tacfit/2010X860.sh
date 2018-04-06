@@ -3,42 +3,43 @@
 dir="$1"
 . ./functions
 
-echo '=== 1 round of warmup =='
+$PLAYONCE resources/gong1.mp3 &
+notify "One round of warmup" "Do each mobility drill once over 6 minutes."
 playalloncefor "$dir"/00-warmup $((18*60/3))
+$PLAYONCE resource/gong2.mp3 &
 
-echo 'Warmup done, beginning workout in 20'
-$STOPWATCH 20
+$STOPWATCH 20 'You will be doing 8 sets each of 6 exercises, exercising for 20 seconds and resting for 10'
 
 for ex in "$dir"/01-*
 do
-	echo "=== 8 sets: $(readlink $ex) === "
 	playloopbg "$ex"
 	playpid=$!
 	for set in 1 2 3 4 5 6 7 8
 	do
-		echo "=== SET $set ==="
-		echo "Exercise for 20 seconds"
-		$STOPWATCH 20
+		$PLAYONCE resources/gong1.mp3 &
+		notify "$(basename "$(readlink $ex)") set $set"
+		$STOPWATCH 20 "Exercise for 20 seconds."
+		$PLAYONCE resources/gong2.mp3 &
 		if (( set != 8 ))
 		then
 			kill -stop $playpid
-			echo "Recover for 10 seconds; write your score"
-			$STOPWATCH 10
+			$STOPWATCH 10 "Recover for 10 seconds; write your score"
+			$PLAYONCE resources/gong1.mp3 &
 			kill -cont $playpid
 		fi
 	done
 	kill $playpid
 
-	echo "== RECOVERY =="
-	echo "Write down your last score, then your heart rate, then technique, effort, and discomfort"
-	$STOPWATCH 60
+	$STOPWATCH 60 "Write down your last score, then your heart rate, then technique, effort, and discomfort"
 done
 
 
-echo '=== 1 round of cooldown ==='
+$PLAYONCE resources/gong1.mp3 &
 playalloncefor "$dir"/02-cooldown $((18*60/3))
+$PLAYONCE resource/gong2.mp3 &
 
 echo '=== DONE ! ==='
 echo 'Write your final heart rate'
+$STOPWATCH 30 'Write your final heart rate'
 echo 'Sum your lowest set scores'
 echo 'Average your other metrics'

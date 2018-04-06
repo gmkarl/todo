@@ -1,0 +1,40 @@
+I made this folder to nail down ideas regarding backend data streaming work.
+
+I'd like a system for both archiving dat and working with live streams that is highly secure and interoperable.
+
+I think a good first data implementation for this would be dat, because it is designed as a secure distributed binary write-only stream.
+
+I would like dat streams to be interoperable with:
+- gnuradio & pothos (which are interoperable with each other so only one is needed)
+    -> I think pothos might be more productive to pursue because it is on github, so bountysource interoperates
+    -> but gnuradio is more popular, so if I can get results into there it could be more effective in many ways
+- gstreamer (for streaming video at different processing stages)
+- git & git-annex (for storing my previous archival work)
+- labstreaminglayer (for EEG work)
+    -> this is valuable because it shares a community with the dat community (scientific researchers)
+- connectordb (for event-based data and computation) or similar
+- syslog or some textual logging system
+- flat media files such as .mkv recordings etc
+
+I would like all the dat streams to be marked into one 'mother' dat stream which has its root hashes written to a blockchain for timestamping.
+
+I would like to ensure metadata about the data is also included.
+  - recording metadata (time, device, configuration, control events)
+    -> this is often contained in logfiles and file headers
+    -> perhaps each recording would have 1 or more streams, and 1 parent stream that enumerates the child streams and specifies their type
+       streams could be distinct dat streams or interleaved.
+  - processing and use metadata 
+    - ways to prioritize different time periods to choose what to drop when pruning is needed
+          -> connectordb could help with this
+    - ways to mark that data is mirrored in other systems (less archiving needed if mirror is live)
+          -> interoperability with git-annex could help this
+    - ways to mark that data streams are generated from other streams, and whether that generation is two-way (only one needs be archived) or one-way (one stream is a lossy compression of the other, and the uncompressed should be pruned first)
+    Might want to find existing systems that engage some of this stuff and find a way of representing them inside this system.
+
+Although I have concerns with node.js, it would be good to make this work integrated with hyperdb, because it is being actively developed and makes strides on some of the issues that would need to be dealt with.
+
+My dream would be to port dat to gnunet, which has a lot of advanced solutions to p2p communications issues, appears to have a deep attitude of generalizing things to be re-used in other ways, and I think it has had much more research and time put into p2p networking problems than has accumulated in the node.js community.
+
+Possible existing works:
+  - could check research data archival group I found in boston; what system are they using?
+  - could check other users of dat.  they must have created things in the node.js ecosystem
