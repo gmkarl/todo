@@ -9,9 +9,7 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] can opener
-- [ ] printer and everything needed for color printing (paper, cartridges)
-- [ ] dental guard
+- [X] printer and everything needed for color printing (paper, cartridges)
 
 ## DO OUTSIDE
 - [ ] get litlog annex data
@@ -27,20 +25,36 @@
 	post a bounty towards distributed dat logstreams
 	check snailmail (both porch and hanging)
 	increase the organization of 1 box or item
+		-> try labeling a box based on what's inside it
   	move laundry along
 	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
-- [X] check for Bill Taylor in ti credibility reports
-	-> sent an email to mcforums
-	<- not present in reports
 - [ ] check soapy_power statu of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
 - [ ] review pedal people plan with eric
-- [X] get pedal people mail bills to mary
+- [ ] order soylent using food card
+- [ ] buy more 10g powerpole terminals
+- [ ] buy a couple huge powerpole pdus
 - [ ] Look around for some rtl-sdr antenna bases
-- [X] make or buy a new dental guard
-	-> new one with instructions on dresser in bag
+- [ ] get camping stove
+- [ ] get some food using food card
+- [ ] get baking soda
+- [ ] get rolling pin (walmart has them probably other places too)
+- [ ] get benefiber and swap with metamucil
+- [ ] get biotene mouth rinse and put to rinse mouth regularly
+- [ ] get sugar-free gum with xylitol
+- [ ] get low-end sonicare electric toothbrush
+- [ ] get act lozenge for dry mouth
+- [ ] bring xylimelts in for night-time routine and add to routine
+- [ ] katrina said she can't text me to my number.  can I receive texts? what number was she texting?
+- [ ] message christine regarding nonviolent communication, maybe
+	"hey christine, have you ever learned nonviolent communication?
+	 this guy marshall rosenberg tried to formalize the way I feel people
+	 like us try to talk.  there are huge communities of people
+	 following his teachings and i found it so gratifying to begin
+	 to learn them, especially as my experience has taken so much of
+	 that away from me."
 - [ ] replace charger under warrantee at advanced auto parts
 - [ ] buy cheese from grace hill farm at river valley or farmer's market
 - [ ] find local sawdust`
@@ -158,6 +172,14 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] can opener
+- [X] dental guard
+- [X] check for Bill Taylor in ti credibility reports
+	-> sent an email to mcforums
+	<- not present in reports
+- [X] get pedal people mail bills to mary
+- [X] make or buy a new dental guard
+	-> new one with instructions on dresser in bag
 - [X] verify with holland shielding patching method
 - [X] for the pothosware repos, clone the wikis
 - [X] extra washbowl
@@ -214,23 +236,3 @@ future compatibiliy.  perhaps should be used?
 	-> i have one
 - [X] !!!! DEPOSIT MONEY IN FIVECOUNTY TO GET BALANCE BACK UP !!!
   -> acct no 1050518
-- [X] contribute soapy_power max_buffers timing fix
-- [X] get soapysdr git sources
-- [X] buy inline fuse holders for 12 and 10 gauge wire
-- [X] buy soap (local, vegan)
-- [ ] try finishing that credit app with the truck place in NH; they say they work with a lender who always approves
-	-> who was this?  I think they wanted me to finish within 2 days ...
-- [X] get information portland storage units
-- [X] eating bowl
-- [X] check out ebay
-- [X] mention on soapy_power pr that new header is output every packet
-- [X] Buy some rtl-sdr antenna bases
-- [X] get blackberry phone from living room
-- [X] buy larger batteries for openbci
-- [X] push litelog
-- [X] get solder
-- [X] buy at least 2 photodiodes.  photoresistors are slow.
-- [X] buy wire and powerpoles for 50 A or 25 A for inverter.
-  -> the 12 gauge wire is supposed to be 30 A
-  -> there are 45 A powerpole contacts for the same housings I have
-  -> got 10 gauge wire to go with the 45 A contacts
