@@ -533,3 +533,5 @@ Time,Action,Goal,Task
 1523333471,stop,RESPONS,Brush Teeth
 1523333473,start,RESPONS,Fissure Treatment
 1523334402,stop,RESPONS,Fissure Treatment
+1523334414,start,RESPONS,Eye Lubricant
+1523334480,stop,RESPONS,Eye Lubricant
