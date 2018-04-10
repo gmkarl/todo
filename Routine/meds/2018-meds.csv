@@ -3,6 +3,9 @@ Described Meds
 MF, Metamucil, 1 tablespoon
 MF, RECOMMENDED, 3 tablespoons daily
 MF, CONTAINS psyllium husk soluble fiber, 2.4 grams
+BF, Benefiber, 2 teaspoons
+MF, RECOMMENDED, 6 teaspoons daily
+BF, CONTAINS wheat dextrin fiber, 3 grams
 MX, MiraLAX Polyethylene Glycol 3350, 1 capful
 MX, CONTAINS polyethylene glycol, 17 grams
 CL, Citalopram Liquid, 6.0 milliliters
@@ -53,7 +56,7 @@ CB, Green Mountain CBD, 1 capsule
 CB, CONTAINS cannabidiol, 20 milligrams
 
 Morning Meds
-MF, Metamucil, 1 tablespoon, drink
+BF, Benefiber, 1 tablespoon, drink
 CL, Citalopram Liquid, 3.5 milliliters, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
@@ -63,12 +66,12 @@ LO, LifeExtension Super Omega-3, 1 softgel
 DF, Finished Liquid Drink, 0 milliliters
 
 Lunch Meds
-MF, Metamucil, 1 tablespoon, drink
+BF, Benefiber, 1 tablespoon, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 DF, Finished Liquid Drink, 0 milliliters
 
 Evening Meds
-MF, Metamucil, 1 tablespoon, drink
+BF, Benefiber, 1 tablespoon, drink
 MX, MiraLAX Polyethylene Glycol 3350, 1 capful, drink
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 CD, Colace Docusate Sodium, 1 capsule
@@ -858,3 +861,4 @@ Time, Med, Dosage, Notes
 2018-04-09T07:12:53-04:00,LO,1,
 2018-04-09T07:13:06-04:00,LO,1,
 2018-04-09T09:02:57-04:00,DF,0,
+2018-04-09T23:42:44-04:00,BF,1,"drink"
