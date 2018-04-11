@@ -8,7 +8,7 @@ $STOPWATCH 10 "You will find 5 tight spots in your back, and roll your hips to t
 for spot in 1 2 3 4 5
 do
 	$PLAYONCE ../tacfit/resources/gong1.mp3 &
-	$STOPWATCH 10 "Press a new tight spot into the lacrosse ball."
+	$STOPWATCH 14 "Press a new tight spot into the lacrosse ball."
 done
 $PLAYONCE ../tacfit/resources/gong2.mp3 &
 
