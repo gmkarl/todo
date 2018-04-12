@@ -569,3 +569,5 @@ Time,Action,Goal,Task
 1523545033,stop,RESPONS,Meds
 1523545054,start,RESPONS,Brush Teeth
 1523545928,stop,RESPONS,Brush Teeth
+1523546512,start,RESPONS,Fissure Treatment
+1523547310,stop,RESPONS,Fissure Treatment
