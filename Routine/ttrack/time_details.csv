@@ -557,3 +557,7 @@ Time,Action,Goal,Task
 1523467146,stop,RESPONS,Fissure Treatment
 1523467151,start,RESPONS,Eye Lubricant
 1523467427,stop,RESPONS,Eye Lubricant
+1523521198.1,start,RESPONS,taxes
+1523533072.76,stop,RESPONS,taxes
+1523533086.93,start,BLOCKED,
+1523541517.39,stop,BLOCKED,
