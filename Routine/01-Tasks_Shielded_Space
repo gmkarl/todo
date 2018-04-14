@@ -9,8 +9,11 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [X] belt or rope for hamstring stretch
 
 ## DO OUTSIDE
+- [ ] UPDATE OVH (5)
+	-> code is on ext4
 - [ ] get litlog annex data
 - Routine:
 	swap batteries
@@ -32,7 +35,43 @@
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
 	-> added comment 2018-04-08
+- [ ] open soapy power pr regarding sweep ceil bug
+- [ ] push openemissions (can put on xo)
+	-> but remember to fix noisewatch to sum the squares first
+- [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
+- [ ] send current state of taxes to father
+- [ ] download bch 2017 report for gdax for taxes
+- [ ] download exchange data for an exchange missing from my tax analysis: kraken, cex.io, bitfinex, bitstamp, localbitcoins ... will need pw from dell
+- [ ] received mail from tufts dated 4/9/2018 stating proof of residency still needed by 5/27/2018
+	determine if proof was provided before or after this date.  if before, situation may need addressing
+- [ ] activate UPS mychoice with code from mail
+- [ ] download sprouting books for reading
+- [ ] get new fresh water dispenser
+- [ ] go grocery shopping
+- [ ] email peter bullimore to get training dvd
+- [ ] set up nodejs-cyton on xo?
+- [ ] order more lifeextension super omega-3 EPA/DHA with Sesame Lignans & Olive Extract
+- [ ] become a monthly supporter of burning books
 - [ ] pursue box truck until I have one $15000 even if budget is smaller
+	-> [X] check in with katie regarding replies to her outreach
+	-> [ ] check e-mail forwarded from katie regarding nearby trucks
+- [ ] get higher quality usb keys and microsd cards
+- [X] clone repos:
+		openbci-cyton npm module
+		openbci-ganglion npm module
+		openbci-wifi npm module
+- [ ] clone repos:
+		mirror npm?
+		openbci-utilities
+- [ ] start a list of things to mention to PCP
+	- wound on ear not healing
+	- sleeping issues
+		04-12 past couple days I've woken up ~3 mam then tried to sleep after sunrise
+		      today I even took a melatonin in the morning
+		      when trying to leep during daytime now I am repeatedly jerked awake by
+		      suddenly moving or intense anxiety
+		      seems like some rhythm of mine is disconnected
+	- living in indoor tent; check vitamin D level?
 - [ ] Look around for some rtl-sdr antenna bases
 -.[ ] get baking soda
 - [ ] get lamp for organizing work room
@@ -47,7 +86,11 @@
 	 that away from me."
 - [ ] replace charger under warrantee at advanced auto parts
 - [ ] buy cheese from grace hill farm at river valley or farmer's market
-- [ ] find local sawdust`
+- [ ] find local sawdust
+- [X] get 75A powerpole ring terminals, alligator clips, & fuses
+- [X] get 45A / 10AWG powerpole alligator clips
+- [X] get powerpole meter (voltage, current, power?)
+- [ ] floor towel / bath mat
 
 ## Things for BA counselors to help with
 - Move things into tent via vestibule
@@ -60,6 +103,9 @@
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
+	[ ] set up to record impedance
+		[ ] software should read impedance live to check value of electrodes
+		[ ] device should enable signal generator while running for the log
 	[ ] get used to using 10-20 paste until we have transdermals
 	[ ] mod firmware further to record upon bootup, but still blink
 	[ ] compact, watertight case
@@ -74,6 +120,7 @@
 	fiberoptice cable for now
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
+- BACKEND: [ ] make a radio multistreaming solution using pothos
 - BACKEND: [ ] no laundry bag while it's in the wash; stop washing it until I get a second one
 - BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
