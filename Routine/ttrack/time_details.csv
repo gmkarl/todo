@@ -595,3 +595,6 @@ Time,Action,Goal,Task
 1523657452.87,stop,SAFE,noise
 1523670939,start,RESPONS,Eye Lubricant
 1523670999,stop,RESPONS,Eye Lubricant
+1523671034,start,RESPONS,Meds
+1523671122,heartbeat,RESPONS,Meds
+1523671362,stop,RESPONS,Meds
