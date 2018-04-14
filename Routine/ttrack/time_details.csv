@@ -604,3 +604,7 @@ Time,Action,Goal,Task
 1523673245,stop,RESPONS,Fissure Treatment
 1523675266,start,RESPONS,Eye Lubricant
 1523675413,stop,RESPONS,Eye Lubricant
+1523696711.29,start,SAFE,noise
+1523696732.23,start,BLOCKED,
+1523697344.51,stop,SAFE,noise
+1523701943.62,stop,BLOCKED,
