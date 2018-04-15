@@ -9,7 +9,7 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] belt or rope for hamstring stretch
+- [ ] eye lubricant and put in bathroom box
 
 ## DO OUTSIDE
 - [ ] UPDATE OVH (5)
@@ -31,38 +31,29 @@
   	move laundry along
 	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
-- [ ] check soapy_power statu of my existing pr
+- [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
 	-> added comment 2018-04-08
-- [ ] open soapy power pr regarding sweep ceil bug
-- [ ] push openemissions (can put on xo)
-	-> but remember to fix noisewatch to sum the squares first
+	-> added comment 2018-04-14 stating i would check back in a month
 - [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
-- [ ] send current state of taxes to father
-- [ ] download bch 2017 report for gdax for taxes
 - [ ] download exchange data for an exchange missing from my tax analysis: kraken, cex.io, bitfinex, bitstamp, localbitcoins ... will need pw from dell
+	-> got all localbitcoins
 - [ ] received mail from tufts dated 4/9/2018 stating proof of residency still needed by 5/27/2018
 	determine if proof was provided before or after this date.  if before, situation may need addressing
-- [ ] activate UPS mychoice with code from mail
-- [ ] download sprouting books for reading
+	-> katie will check in on monday; she has the date
 - [ ] get new fresh water dispenser
 - [ ] go grocery shopping
-- [ ] email peter bullimore to get training dvd
+- [ ] buy eye lubricant
 - [ ] set up nodejs-cyton on xo?
-- [ ] order more lifeextension super omega-3 EPA/DHA with Sesame Lignans & Olive Extract
+	-> nodesource doesn't provide 32-bit rpms due to nature of their build process
 - [ ] become a monthly supporter of burning books
 - [ ] pursue box truck until I have one $15000 even if budget is smaller
 	-> [X] check in with katie regarding replies to her outreach
 	-> [ ] check e-mail forwarded from katie regarding nearby trucks
-- [ ] get higher quality usb keys and microsd cards
-- [X] clone repos:
-		openbci-cyton npm module
-		openbci-ganglion npm module
-		openbci-wifi npm module
-- [ ] clone repos:
+- [ ] download:
 		mirror npm?
-		openbci-utilities
+		yum install pv
 - [ ] start a list of things to mention to PCP
 	- wound on ear not healing
 	- sleeping issues
@@ -87,9 +78,6 @@
 - [ ] replace charger under warrantee at advanced auto parts
 - [ ] buy cheese from grace hill farm at river valley or farmer's market
 - [ ] find local sawdust
-- [X] get 75A powerpole ring terminals, alligator clips, & fuses
-- [X] get 45A / 10AWG powerpole alligator clips
-- [X] get powerpole meter (voltage, current, power?)
 - [ ] floor towel / bath mat
 
 ## Things for BA counselors to help with
@@ -209,6 +197,29 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] order more lifeextension super omega-3 EPA/DHA with Sesame Lignans & Olive Extract
+- [X] get arduino 32-bit for xo
+- [X] get fiberoptic transcievers; even if they are complex, I can use their data channel via an optoisolator and check them for emissions
+- [X] get non-metallized fiberoptic network cable; remember I can check SE change when cable is in place to verify it is not an antenna
+- [X] get higher quality usb keys and microsd cards
+- [X] belt or rope for hamstring stretch
+- [X] open soapy power pr regarding sweep ceil bug
+- [X] push openemissions (can put on xo)
+	-> but remember to fix noisewatch to sum the squares first
+- [X] send current state of taxes to father
+- [X] download bch 2017 report for gdax for taxes
+	-> gdax_bch_2017.csv on the microsd card i brought out
+- [X] activate UPS mychoice with code from mail
+- [X] download sprouting books for reading
+- [X] email peter bullimore to get training dvd
+- [X] clone repos:
+		openbci-cyton npm module
+		openbci-ganglion npm module
+		openbci-wifi npm module
+		openbci-utilities
+- [X] get 75A powerpole ring terminals, alligator clips, & fuses
+- [X] get 45A / 10AWG powerpole alligator clips
+- [X] get powerpole meter (voltage, current, power?)
 - [X] check how many jst y-cables are incoming.  I'll need at least two for
 	both a backup battery and a backup openbci
 	-> 20 male and female connectors are coming.  I'll need to connect them in a Y myself.
