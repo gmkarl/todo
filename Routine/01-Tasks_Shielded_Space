@@ -10,6 +10,7 @@
 
 ## BRING INSIDE
 - [ ] eye lubricant and put in bathroom box
+- [ ] usb extension cables if i have any
 
 ## DO OUTSIDE
 - [ ] UPDATE OVH (5)
@@ -37,38 +38,38 @@
 	-> added comment 2018-04-08
 	-> added comment 2018-04-14 stating i would check back in a month
 - [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
+- [ ] mirror:
+	- npm
+	- raspian stretch
+		mirrordirector.raspbian.org/raspbian stretch main contrib non-free rpi
+		archive.raspberrypi.org/debian stretch main ui
+	- debian stable (stretch?)
 - [ ] download exchange data for an exchange missing from my tax analysis: kraken, cex.io, bitfinex, bitstamp, localbitcoins ... will need pw from dell
-	-> got all localbitcoins
+	- [ ] localbitcoins (already downloaded on desktop)
+	- [ ] old coinbase
+	- [ ] kraken
+	- [ ] more
 - [ ] received mail from tufts dated 4/9/2018 stating proof of residency still needed by 5/27/2018
 	determine if proof was provided before or after this date.  if before, situation may need addressing
 	-> katie will check in on monday; she has the date
-- [ ] get new fresh water dispenser
 - [ ] go grocery shopping
 - [ ] buy eye lubricant
 - [ ] set up nodejs-cyton on xo?
 	-> nodesource doesn't provide 32-bit rpms due to nature of their build process
-- [ ] become a monthly supporter of burning books
+- [ ] mail burning books donation form
+- [ ] deliver voter registration form
 - [ ] pursue box truck until I have one $15000 even if budget is smaller
 	-> [X] check in with katie regarding replies to her outreach
 	-> [ ] check e-mail forwarded from katie regarding nearby trucks
-- [ ] download:
-		mirror npm?
-		yum install pv
-- [ ] start a list of things to mention to PCP
-	- wound on ear not healing
-	- sleeping issues
-		04-12 past couple days I've woken up ~3 mam then tried to sleep after sunrise
-		      today I even took a melatonin in the morning
-		      when trying to leep during daytime now I am repeatedly jerked awake by
-		      suddenly moving or intense anxiety
-		      seems like some rhythm of mine is disconnected
-	- living in indoor tent; check vitamin D level?
 - [ ] Look around for some rtl-sdr antenna bases
+	-> they might turn up during organizing
 -.[ ] get baking soda
 - [ ] get lamp for organizing work room
 - [ ] order a DC soldering gun
+	-> probably need to look other than ebay
 - [ ] order a DC heat gun
-- [ ] message christine regarding nonviolent communication, maybe
+- [ ] message christine regarding nonviolent communication?
+	-> if you're uncomfortable with this, you could check in with her again first
 	"hey christine, have you ever learned nonviolent communication?
 	 this guy marshall rosenberg tried to formalize the way I feel people
 	 like us try to talk.  there are huge communities of people
@@ -76,7 +77,7 @@
 	 to learn them, especially as my experience has taken so much of
 	 that away from me."
 - [ ] replace charger under warrantee at advanced auto parts
-- [ ] buy cheese from grace hill farm at river valley or farmer's market
+- [ ] buy cheese from grace hill farm at river valley or farmer's market?
 - [ ] find local sawdust
 - [ ] floor towel / bath mat
 
@@ -197,6 +198,22 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] yum install pv
+- [X] download bch 2017 report for gdax for taxes
+	-> gdax_bch_2017.csv on the microsd card i brought out
+- [X] download sprouting books for reading
+- [X] get new fresh water dispenser
+- [X] order superspeed+ hub & expresscard
+	-> my laptop doesn't have an expresscard interface fast enough for superspeed+
+	 I ordered a normal superspeed one
+- [X] start a list of things to mention to PCP
+	- wound on ear not healing
+	- sleeping issues
+		04-12 past couple days I've woken up ~3 mam then tried to sleep after sunrise
+		      today I even took a melatonin in the morning
+		      when trying to leep during daytime now I am repeatedly jerked awake by
+		      suddenly moving or intense anxiety
+		      seems like some rhythm of mine is disconnected
 - [X] order more lifeextension super omega-3 EPA/DHA with Sesame Lignans & Olive Extract
 - [X] get arduino 32-bit for xo
 - [X] get fiberoptic transcievers; even if they are complex, I can use their data channel via an optoisolator and check them for emissions
@@ -207,10 +224,7 @@
 - [X] push openemissions (can put on xo)
 	-> but remember to fix noisewatch to sum the squares first
 - [X] send current state of taxes to father
-- [X] download bch 2017 report for gdax for taxes
-	-> gdax_bch_2017.csv on the microsd card i brought out
 - [X] activate UPS mychoice with code from mail
-- [X] download sprouting books for reading
 - [X] email peter bullimore to get training dvd
 - [X] clone repos:
 		openbci-cyton npm module
@@ -262,26 +276,3 @@
 	-> none yet, sun 3/25
 	-> gave up waiting and messaged penelope on 4/2
 - [X] patch tent
-- [X] download samppa's description of 3d printing titanium transdermals
-- [X] mention to penelope situation re samppa, continuing to work with brian, and getting remaining anchors pulled out
-- [X] look up the TI PI with TSCM expertise, write down name & info
-	-> if this hard at all, maybe katherine can hang out with me while it happens, and then
-	   take over a little
-	-> there are a number of PI's that help TI's and do TSCM.
-	   This guy was William J. Taylor. I downloaded the interview at www.mitchellefect.com/bill_taylor_interview.pdf linked from www.biggerthansnowden.com
-- [X] mention concerns regarding recording_settings work
-	-> SDRFF version field was not updated, appears is intended to provide
-future compatibiliy.  perhaps should be used?
-	-> actual device sample rate is not recorded
-	-> software version is not recorded
-	-> buffer overflow count not recorded
-	-> field format is fixed which means adding new fields breaks compatibility
-	-> consider: perhaps a string for commandline invocation, and fields that represent actual data and device state?
-- [X] message jessica will miss hv due to beliefs workshop
-- [X] look up hv workshop, might make more sense than beliefs
-- [X] open a pr with alexnask for my program version branch of soapypower
-- [X] open a pr with simplesoapy for version_strings branch
-- [X] open a pr with soapy_power for handle_timeout branch
-- [X] open a pr with soapy_power for random branch
-- [X] open a pr with soapy_power for readinto branch
-- [ ] open a pr with gimp for png-image-limits branch
