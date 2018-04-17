@@ -17,19 +17,20 @@ difficult:
 heart rate max 220-age, mobility min, mobity max, compensation range, medium range,  high intensity range
 186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8, 148.8 - 186
 date,       time,  day, day, intensity, level, drill,              bpm, reps
-
-2018-04-15, 15:39, 36, hotel, high, 1, primal 41X4, 84
+120
+2018-04-17, 10:39, 37, india, mobility, 1, primal EMOTM, 88
 136
 100, 136, 7, 3, 1
 0, 132, 0, 6, 3
 52, 128, 7, 4, 2
 26, 144, 5, 7, 4
-2018-04-14, 07:30, 35, hotel, medium, 1, primal 41X4, 787
 31
+2018-04-15, 15:39, 36, hotel, high, 1, primal 41X4, 84
 73, 128, 4, 5, 3
 12, 108, 2, 7, 4
 40.5, 124, 6, 6, 3
 52, 136, 6, 8, 2
+2018-04-14, 07:30, 35, hotel, medium, 1, primal 41X4, 787
 120
 2018-04-12, 10:25, 34, hotel, compensation, 1, primal 41X4, 92
 132
