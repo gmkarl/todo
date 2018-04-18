@@ -9,9 +9,12 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [X] printer and everything needed for color printing (paper, cartridges)
+- [ ] eye lubricant and put in bathroom box
+- [ ] usb extension cables if i have any
 
 ## DO OUTSIDE
+- [ ] 4/22: UPDATE OVH
+	-> xo has access
 - [ ] get litlog annex data
 - Routine:
 	swap batteries
@@ -29,26 +32,49 @@
   	move laundry along
 	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
-- [ ] check soapy_power statu of my existing pr
+- [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
-- [ ] review pedal people plan with eric
-- [ ] order soylent using food card
-- [ ] buy more 10g powerpole terminals
-- [ ] buy a couple huge powerpole pdus
+	-> added comment 2018-04-08
+	-> added comment 2018-04-14 stating i would check back in a month
+- [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
+- [ ] mirror:
+	- npm
+	- raspian stretch
+		mirrordirector.raspbian.org/raspbian stretch main contrib non-free rpi
+		archive.raspberrypi.org/debian stretch main ui
+	- debian stable (stretch?)
+- [ ] taxes:
+	$300 for turbotax
+	$15189 for federal
+	$10106 for state
+	total: $26000
+- [ ] download exchange data for an exchange missing from my tax analysis: kraken, cex.io, bitfinex, bitstamp, localbitcoins ... will need pw from dell
+	- [ ] localbitcoins (already downloaded on desktop)
+	- [ ] old coinbase
+	- [ ] kraken
+	- [ ] more
+- [ ] received mail from tufts dated 4/9/2018 stating proof of residency still needed by 5/27/2018
+	determine if proof was provided before or after this date.  if before, situation may need addressing
+	-> katie will check in on monday; she has the date
+- [x] go grocery shopping
+- [x] buy eye lubricant
+- [ ] set up nodejs-cyton on xo?
+	-> nodesource doesn't provide 32-bit rpms due to nature of their build process
+- [ ] mail burning books donation form
+- [ ] deliver voter registration form
+- [ ] pursue box truck until I have one $15000 even if budget is smaller
+	-> [X] check in with katie regarding replies to her outreach
+	-> [ ] check e-mail forwarded from katie regarding nearby trucks
 - [ ] Look around for some rtl-sdr antenna bases
-- [ ] get camping stove
-- [ ] get some food using food card
-- [ ] get baking soda
-- [ ] get rolling pin (walmart has them probably other places too)
-- [ ] get benefiber and swap with metamucil
-- [ ] get biotene mouth rinse and put to rinse mouth regularly
-- [ ] get sugar-free gum with xylitol
-- [ ] get low-end sonicare electric toothbrush
-- [ ] get act lozenge for dry mouth
-- [ ] bring xylimelts in for night-time routine and add to routine
-- [ ] katrina said she can't text me to my number.  can I receive texts? what number was she texting?
-- [ ] message christine regarding nonviolent communication, maybe
+	-> they might turn up during organizing
+-.[ ] get baking soda
+- [ ] get lamp for organizing work room
+- [ ] order a DC soldering gun
+	-> probably need to look other than ebay
+- [ ] order a DC heat gun
+- [ ] message christine regarding nonviolent communication?
+	-> if you're uncomfortable with this, you could check in with her again first
 	"hey christine, have you ever learned nonviolent communication?
 	 this guy marshall rosenberg tried to formalize the way I feel people
 	 like us try to talk.  there are huge communities of people
@@ -56,8 +82,9 @@
 	 to learn them, especially as my experience has taken so much of
 	 that away from me."
 - [ ] replace charger under warrantee at advanced auto parts
-- [ ] buy cheese from grace hill farm at river valley or farmer's market
-- [ ] find local sawdust`
+- [ ] buy cheese from grace hill farm at river valley or farmer's market?
+- [ ] find local sawdust
+- [ ] floor towel / bath mat
 
 ## Things for BA counselors to help with
 - Move things into tent via vestibule
@@ -70,6 +97,9 @@
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
 - REC: [ ] EEG solution
+	[ ] set up to record impedance
+		[ ] software should read impedance live to check value of electrodes
+		[ ] device should enable signal generator while running for the log
 	[ ] get used to using 10-20 paste until we have transdermals
 	[ ] mod firmware further to record upon bootup, but still blink
 	[ ] compact, watertight case
@@ -84,6 +114,7 @@
 	fiberoptice cable for now
 	need cable, way to receive, way to send, remote server hooked up
 	also want a sneakernet solution -- e.g. queue pages to download
+- BACKEND: [ ] make a radio multistreaming solution using pothos
 - BACKEND: [ ] no laundry bag while it's in the wash; stop washing it until I get a second one
 - BACKEND: [ ] make a shared binary stream system backed by dat and timestamped
 
@@ -172,6 +203,65 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] yum install pv
+- [X] download bch 2017 report for gdax for taxes
+	-> gdax_bch_2017.csv on the microsd card i brought out
+- [X] download sprouting books for reading
+- [X] get new fresh water dispenser
+- [X] order superspeed+ hub & expresscard
+	-> my laptop doesn't have an expresscard interface fast enough for superspeed+
+	 I ordered a normal superspeed one
+- [X] start a list of things to mention to PCP
+	- wound on ear not healing
+	- sleeping issues
+		04-12 past couple days I've woken up ~3 mam then tried to sleep after sunrise
+		      today I even took a melatonin in the morning
+		      when trying to leep during daytime now I am repeatedly jerked awake by
+		      suddenly moving or intense anxiety
+		      seems like some rhythm of mine is disconnected
+- [X] order more lifeextension super omega-3 EPA/DHA with Sesame Lignans & Olive Extract
+- [X] get arduino 32-bit for xo
+- [X] get fiberoptic transcievers; even if they are complex, I can use their data channel via an optoisolator and check them for emissions
+- [X] get non-metallized fiberoptic network cable; remember I can check SE change when cable is in place to verify it is not an antenna
+- [X] get higher quality usb keys and microsd cards
+- [X] belt or rope for hamstring stretch
+- [X] open soapy power pr regarding sweep ceil bug
+- [X] push openemissions (can put on xo)
+	-> but remember to fix noisewatch to sum the squares first
+- [X] send current state of taxes to father
+- [X] activate UPS mychoice with code from mail
+- [X] email peter bullimore to get training dvd
+- [X] clone repos:
+		openbci-cyton npm module
+		openbci-ganglion npm module
+		openbci-wifi npm module
+		openbci-utilities
+- [X] get 75A powerpole ring terminals, alligator clips, & fuses
+- [X] get 45A / 10AWG powerpole alligator clips
+- [X] get powerpole meter (voltage, current, power?)
+- [X] check how many jst y-cables are incoming.  I'll need at least two for
+	both a backup battery and a backup openbci
+	-> 20 male and female connectors are coming.  I'll need to connect them in a Y myself.
+- [X] get camping stove
+- [X] get some food using food card
+-.[X] get rolling pin (walmart has them probably other places too)
+-.[X] get benefiber and swap with metamucil
+-.[X] get biotene mouth rinse and put to rinse mouth regularly
+- [X] get sugar-free gum with xylitol
+- [X] get act lozenge for dry mouth
+- [X] bring xylimelts in for night-time routine and add to routine
+- [X] order 4x 45 A powerpole ring terminals with fuse (possibly 2 items with separate powerpole fuse)
+- [X] order a couple powerpole / cigarette lighter cables (both ways)
+- [X] order a couple 2 ft 45 A powerpole cables for convenience connecting batteries
+- [X] order a couple powerpole switches (or just switches)
+-.[X] get tape for wkroom labeling
+- [X] printer and everything needed for color printing (paper, cartridges)
+- [X] review pedal people plan with eric
+- [X] order soylent using food card
+- [X] buy more 10g powerpole terminals
+- [X] buy a couple huge powerpole pdus
+- [X] get low-end sonicare electric toothbrush
+- [X] katrina said she can't text me to my number.  can I receive texts? what number was she texting?
 - [X] can opener
 - [X] dental guard
 - [X] check for Bill Taylor in ti credibility reports
@@ -191,48 +281,3 @@
 	-> none yet, sun 3/25
 	-> gave up waiting and messaged penelope on 4/2
 - [X] patch tent
-- [X] download samppa's description of 3d printing titanium transdermals
-- [X] mention to penelope situation re samppa, continuing to work with brian, and getting remaining anchors pulled out
-- [X] look up the TI PI with TSCM expertise, write down name & info
-	-> if this hard at all, maybe katherine can hang out with me while it happens, and then
-	   take over a little
-	-> there are a number of PI's that help TI's and do TSCM.
-	   This guy was William J. Taylor. I downloaded the interview at www.mitchellefect.com/bill_taylor_interview.pdf linked from www.biggerthansnowden.com
-- [X] mention concerns regarding recording_settings work
-	-> SDRFF version field was not updated, appears is intended to provide
-future compatibiliy.  perhaps should be used?
-	-> actual device sample rate is not recorded
-	-> software version is not recorded
-	-> buffer overflow count not recorded
-	-> field format is fixed which means adding new fields breaks compatibility
-	-> consider: perhaps a string for commandline invocation, and fields that represent actual data and device state?
-- [X] message jessica will miss hv due to beliefs workshop
-- [X] look up hv workshop, might make more sense than beliefs
-- [X] open a pr with alexnask for my program version branch of soapypower
-- [X] open a pr with simplesoapy for version_strings branch
-- [X] open a pr with soapy_power for handle_timeout branch
-- [X] open a pr with soapy_power for random branch
-- [X] open a pr with soapy_power for readinto branch
-- [ ] open a pr with gimp for png-image-limits branch
-- [X] order some jst y-cables to swap openbci battery without opening case
-	and jst plugs to repair batteries
-	maybe also some kind of jst socket to test voltage
-	-> let's plan to have two openbcis for when one freezes up
-	   should probably run them off separate batteries since those can run out
-- [X] order some short female jumper wires to make y-cables and possibly plugs with
-	for two-is-one openbci approach
-- [X] order another noise source to test background impact on noise peak measurements
-- [X] order a 12V pot in case it is desired to adjust noise source power
-- [X] patch tent; hole near door outside on floor
-- [X] buy bananas
-- [X] reply sappa facebook message
-- [X] update penelope samppa contact
-- [X] buy vegetables!  kale? cabbage? carrots.
-- [ ] pursue next box truck
-- [X] buy more premade powerpoles
-	-> i added some to my ebay cart but should wait to have more money in checking
-- [X] answer my dad's starred e-mails
-- [ ] AA NiMH battery pack
-	-> i have one
-- [X] !!!! DEPOSIT MONEY IN FIVECOUNTY TO GET BALANCE BACK UP !!!
-  -> acct no 1050518
