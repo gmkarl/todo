@@ -13,8 +13,8 @@
 - [ ] usb extension cables if i have any
 
 ## DO OUTSIDE
-- [ ] UPDATE OVH (5)
-	-> code is on ext4
+- [ ] 4/22: UPDATE OVH
+	-> xo has access
 - [ ] get litlog annex data
 - Routine:
 	swap batteries
@@ -44,6 +44,11 @@
 		mirrordirector.raspbian.org/raspbian stretch main contrib non-free rpi
 		archive.raspberrypi.org/debian stretch main ui
 	- debian stable (stretch?)
+- [ ] taxes:
+	$300 for turbotax
+	$15189 for federal
+	$10106 for state
+	total: $26000
 - [ ] download exchange data for an exchange missing from my tax analysis: kraken, cex.io, bitfinex, bitstamp, localbitcoins ... will need pw from dell
 	- [ ] localbitcoins (already downloaded on desktop)
 	- [ ] old coinbase
@@ -52,8 +57,8 @@
 - [ ] received mail from tufts dated 4/9/2018 stating proof of residency still needed by 5/27/2018
 	determine if proof was provided before or after this date.  if before, situation may need addressing
 	-> katie will check in on monday; she has the date
-- [ ] go grocery shopping
-- [ ] buy eye lubricant
+- [x] go grocery shopping
+- [x] buy eye lubricant
 - [ ] set up nodejs-cyton on xo?
 	-> nodesource doesn't provide 32-bit rpms due to nature of their build process
 - [ ] mail burning books donation form
