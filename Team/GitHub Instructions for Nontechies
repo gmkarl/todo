@@ -19,7 +19,19 @@ How to Format Text
 
 Naming Conventions
 
-- use lowercase in headings
-- between independent words, use a hyphen when you would typically use a space
-- between connected words in a phrase, use an underscore (like this: 2018_routine_things-that-are-important)
+- use lowercase in headings, to make it easier for Karl to type them on his phone
+- between independent words in a phrase, use an underscore (_) where you would typically use a space
+- between categories, titles, or separate phrases, use a hyphen (-)
+- end filenames with '.md' if they include formatting and '.txt' if they do not
+For example, a typical file path and name might be
+	2018-fun_wildlife/elephants-lennys_family.txt
+The separate components of this are
+	2018: the year, which will define the sort order of the folder
+	fun wildlife: the topic of the folder
+	elephants: the category of the file, which will define the sort order
+	lenny's family: the content of the file (a group of elephants)
+	.txt: the file is plain text with no formatting
+	
+
+	for example, the fil
 
