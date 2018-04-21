@@ -57,7 +57,7 @@ CB, CONTAINS cannabidiol, 20 milligrams
 
 Morning Meds
 BF, Benefiber, 1 tablespoon, drink
-CL, Citalopram Liquid, 3.0 milliliters, drink
+CL, Citalopram Liquid, 2.5 milliliters, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
@@ -919,3 +919,4 @@ Time, Med, Dosage, Notes
 2018-04-18T16:19:23-04:00,BF,1,"drink ... skipped? 'skip' entered"
 2018-04-18T16:19:26-04:00,CL,3.0,"drink ... skipped? 'skip' entered"
 2018-04-18T16:29:34-04:00,DF,0,
+2018-04-21T08:24:09-04:00,BF,1,"drink ... skipped? 'skip' entered"
