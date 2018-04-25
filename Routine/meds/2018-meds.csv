@@ -3,6 +3,9 @@ Described Meds
 MF, Metamucil, 1 tablespoon
 MF, RECOMMENDED, 3 tablespoons daily
 MF, CONTAINS psyllium husk soluble fiber, 2.4 grams
+BF, Benefiber, 2 teaspoons
+MF, RECOMMENDED, 6 teaspoons daily
+BF, CONTAINS wheat dextrin fiber, 3 grams
 MX, MiraLAX Polyethylene Glycol 3350, 1 capful
 MX, CONTAINS polyethylene glycol, 17 grams
 CL, Citalopram Liquid, 6.0 milliliters
@@ -53,8 +56,8 @@ CB, Green Mountain CBD, 1 capsule
 CB, CONTAINS cannabidiol, 20 milligrams
 
 Morning Meds
-MF, Metamucil, 1 tablespoon, drink
-CL, Citalopram Liquid, 4.0 milliliters, drink
+BF, Benefiber, 1 tablespoon, drink
+CL, Citalopram Liquid, 3.0 milliliters, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
@@ -63,12 +66,12 @@ LO, LifeExtension Super Omega-3, 1 softgel
 DF, Finished Liquid Drink, 0 milliliters
 
 Lunch Meds
-MF, Metamucil, 1 tablespoon, drink
+BF, Benefiber, 1 tablespoon, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 DF, Finished Liquid Drink, 0 milliliters
 
 Evening Meds
-MF, Metamucil, 1 tablespoon, drink
+BF, Benefiber, 1 tablespoon, drink
 MX, MiraLAX Polyethylene Glycol 3350, 1 capful, drink
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 CD, Colace Docusate Sodium, 1 capsule
@@ -812,3 +815,100 @@ Time, Med, Dosage, Notes
 2018-04-03T07:56:54-04:00,LO,1,
 2018-04-03T07:57:15-04:00,LO,1,
 2018-04-03T08:00:31-04:00,DF,0,
+2018-04-04T10:27:31-04:00,MF,1,"drink"
+2018-04-04T10:30:12-04:00,CL,4.0,"drink"
+2018-04-04T10:30:34-04:00,LV,1,
+2018-04-04T10:31:06-04:00,MD,1,
+2018-04-04T10:31:27-04:00,VC,1,
+2018-04-04T10:31:47-04:00,LO,1,
+2018-04-04T10:32:02-04:00,LO,1,
+2018-04-05T10:32:52-04:00,DF,0,
+2018-04-05T10:36:28-04:00,MF,1,"drink"
+2018-04-05T10:36:32-04:00,CL,4.0,"drink ... skipped? 'skip' entered"
+2018-04-05T10:45:48-04:00,LV,1,
+2018-04-05T11:16:09-04:00,MD,1,
+2018-04-05T11:17:50-04:00,LO,1,
+2018-04-05T11:18:17-04:00,LO,1,
+2018-04-05T11:21:55-04:00,DF,0,
+2018-04-06T09:44:53-04:00,MF,1,"drink"
+2018-04-06T09:46:51-04:00,CL,3.5,"drink"
+2018-04-06T09:48:30-04:00,LV,1,
+2018-04-06T09:48:59-04:00,MD,1,
+2018-04-06T09:49:22-04:00,VC,1,
+2018-04-06T09:49:40-04:00,LO,1,
+2018-04-06T09:49:53-04:00,LO,1,
+2018-04-06T09:57:30-04:00,DF,0,
+2018-04-07T14:24:13-04:00,MF,1,"drink"
+2018-04-07T14:25:05-04:00,CL,3.5,"drink"
+2018-04-07T14:26:36-04:00,MD,1,
+2018-04-07T14:27:00-04:00,VC,1,
+2018-04-07T14:27:20-04:00,LO,1,
+2018-04-07T14:27:34-04:00,LO,1,
+2018-04-07T15:10:41-04:00,DF,0,
+2018-04-08T08:46:25-04:00,MF,1,"drink"
+2018-04-08T08:46:31-04:00,CL,3.5,"drink ... skipped? 'skip' entered"
+2018-04-08T08:48:48-04:00,LV,1,
+2018-04-08T08:49:25-04:00,MD,1,
+2018-04-08T08:49:48-04:00,VC,1,
+2018-04-08T08:50:06-04:00,LO,1,
+2018-04-08T08:50:19-04:00,LO,1,
+2018-04-08T10:32:05-04:00,DF,0,
+2018-04-09T07:11:01-04:00,MF,1,"drink"
+2018-04-09T07:11:44-04:00,CL,3.5,"drink"
+2018-04-09T07:12:03-04:00,LV,1,
+2018-04-09T07:12:23-04:00,MD,1,
+2018-04-09T07:12:40-04:00,VC,1,
+2018-04-09T07:12:53-04:00,LO,1,
+2018-04-09T07:13:06-04:00,LO,1,
+2018-04-09T09:02:57-04:00,DF,0,
+2018-04-09T23:42:44-04:00,BF,1,"drink"
+2018-04-09T23:43:47-04:00,MX,1,"drink"
+2018-04-09T23:58:36-04:00,DF,0,
+2018-04-10T10:52:08-04:00,BF,1,"drink"
+2018-04-10T10:56:04-04:00,CL,3.5,"drink"
+2018-04-10T11:04:50-04:00,LV,1,
+2018-04-10T11:06:06-04:00,MD,1,
+2018-04-10T11:06:56-04:00,LO,1,
+2018-04-10T11:08:31-04:00,LO,1,
+2018-04-10T12:14:07-04:00,DF,0,
+2018-04-11T11:10:52-04:00,BF,1,"drink"
+2018-04-11T11:13:14-04:00,CL,3.5,"drink"
+2018-04-11T11:15:00-04:00,LV,1,
+2018-04-11T11:15:25-04:00,MD,1,
+2018-04-11T11:15:57-04:00,LO,1,
+2018-04-11T11:42:14-04:00,DF,0,
+2018-04-12T10:32:33-04:00,BF,1,"drink"
+2018-04-12T10:33:38-04:00,CL,3.5,"drink"
+2018-04-12T10:35:20-04:00,LO,1,
+2018-04-12T10:35:35-04:00,LO,1,
+2018-04-12T10:57:12-04:00,DF,0,
+2018-04-13T10:41:47-04:00,BF,1,"drink"
+2018-04-13T10:42:53-04:00,CL,3.0,"drink"
+2018-04-13T10:44:43-04:00,LV,1,
+2018-04-13T10:45:14-04:00,VC,1,
+2018-04-13T10:45:34-04:00,LO,1,
+2018-04-13T10:45:47-04:00,LO,1,
+2018-04-13T11:01:02-04:00,DF,0,
+2018-04-13T21:58:42-04:00,BF,1,"drink"
+2018-04-13T21:58:47-04:00,MX,1,"drink ... skipped? 'skip' entered"
+2018-04-13T22:00:00-04:00,MM,1,
+2018-04-13T22:02:42-04:00,DF,0,
+2018-04-14T08:06:11-04:00,BF,1,"drink"
+2018-04-14T08:06:15-04:00,CL,3.0,"drink ... skipped? 'skip' entered"
+2018-04-14T08:08:30-04:00,MD,1,
+2018-04-14T08:08:56-04:00,LO,1,
+2018-04-14T08:09:10-04:00,LO,1,
+2018-04-14T08:22:38-04:00,DF,0,
+2018-04-15T16:20:14-04:00,BF,1,"drink"
+2018-04-15T16:20:18-04:00,CL,3.0,"drink ... skipped? 'skip' entered"
+2018-04-15T16:20:41-04:00,MD,1,
+2018-04-15T16:21:03-04:00,VC,1,
+2018-04-15T16:21:17-04:00,LO,1,
+2018-04-15T16:32:14-04:00,DF,0,
+2018-04-17T11:02:13-04:00,BF,1,"drink"
+2018-04-17T11:02:19-04:00,CL,3.0,"drink ... skipped? 'skip' entered"
+2018-04-17T11:05:03-04:00,MD,1,
+2018-04-17T11:05:27-04:00,VC,1,
+2018-04-17T11:05:48-04:00,LO,1,
+2018-04-17T11:05:51-04:00,LO,1,"skipped? 'skio' entered"
+2018-04-17T11:49:06-04:00,DF,0,
