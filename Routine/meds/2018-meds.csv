@@ -54,6 +54,10 @@ CX, Citalopram / Celexa 20 mg Pill, 1 pill
 CX, CONTAINS citalopram, 20 milligrams
 CB, Green Mountain CBD, 1 capsule
 CB, CONTAINS cannabidiol, 20 milligrams
+MN, Stress-Relax Melatonin, 1 tablet
+MN, CONTAINS melatonin, 10 milligrams
+LZ, Lorazepam, 1 tablet
+LZ, CONTAINS lorazepam, 0.5 milligrams
 
 Morning Meds
 BF, Benefiber, 1 tablespoon, drink
@@ -72,10 +76,12 @@ DF, Finished Liquid Drink, 0 milliliters
 
 Evening Meds
 BF, Benefiber, 1 tablespoon, drink
+MN, Stress-Relax Melatonin, 1 tablet
 MX, MiraLAX Polyethylene Glycol 3350, 1 capful, drink
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 CD, Colace Docusate Sodium, 1 capsule
 DF, Finished Liquid Drink, 0 milliliters
+LZ, Lorazepam As Needed, 1 tablet
 
 Time, Med, Dosage, Notes
 2018-01-01T19:00:39-0500,MF,1,"drink"
