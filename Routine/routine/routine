@@ -1,0 +1,89 @@
+#!/bin/bash
+
+# This script prompts me to do the items of a daily '.routine' file and keeps track of what I report doing.
+
+FILE="${1}"
+routine="${FILE%.routine}"
+ttrackdir="../ttrack"
+
+cat "$FILE" | while read code name
+do
+  ttrackline="$(grep "$name" ${ttrackdir}/routines.csv)"
+  if [ "x$ttrackline" != "x" ]
+  then
+    echo '(connecting with ttrack for this one: '"$ttrackline"')'
+    ttrackline="${ttrackline%,*}"
+    ttrackgoal="${ttrackline%,*}"
+    ttracktask="${ttrackline#*,}"
+    ttrackfile="${ttrackdir}/time_details.csv"
+    ttrack=1
+  else
+    ttrack=0
+  fi
+	while true
+	do
+		echo " == $name == " | tr a-z A-Z
+		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
+		read skip < /dev/tty
+		start=$(date +%s)
+		if [ "x$skip" = "xskip" ]
+		then
+			echo "SKIPPED !"
+		elif [ "x$skip" = "xalready" ]
+		then
+			echo "Already completed."
+			echo $code, $routine, , $(date -Is -d @$start), "$name", "finished earlier" >> routinedata.csv
+      if ((ttrack))
+      then
+      #  echo "$(date +%s),start,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+      #  echo "$(date +%s),stop,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+        echo 'ttrack skipped because we want the data accurate ...'
+      fi
+		elif [ "x$skip" = "x" ]
+		then
+			echo
+			echo " $name ... "
+			echo
+      if ((ttrack))
+      then
+        echo "$(date +%s),start,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+        echo 'updated with ttrack!'
+      fi
+			while true
+			do
+				echo "Press enter when completed, or 'abort' to give up."
+				read abort < /dev/tty
+				stop=$(date +%s)
+				if [ "x$abort" = "xabort" ]
+				then
+					echo ' ABORTED !'
+					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", UNFINISHED >> routinedata.csv
+				elif [ "x$abort" = "x" ]
+				then
+					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", >> routinedata.csv
+          if ((ttrack))
+          then
+            echo "$(date +%s),stop,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
+            echo 'updated with ttrack!'
+          fi
+				else
+					echo "I couldn't recognize '$abort' ... try again?"
+					continue
+	
+				fi
+				break
+			done
+		else
+			echo "I couldn't recognize '$skip' ... try again?"
+			continue
+		fi
+		break
+	done
+	git add routinedata.csv
+  git add "$ttrackdir"
+	git commit -m "$(date -I) $routine $name"
+	{
+		git pull --no-edit &&
+		git push >/dev/null 2>&1
+	} &
+done

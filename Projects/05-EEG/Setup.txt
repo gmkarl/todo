@@ -1,0 +1,26 @@
+2018-03-11: five leads
+	Current configuration, from above (battery connector away) with connections below to openbci,
+	bottom row, is:
+		green ... ... orange purple grey blue
+
+2018-03-12: four leads
+  Blue popped out of my head.
+    green ... ... purple grey orange
+  Should schedule transdermals and see piercer to get wires replaced.
+
+2018-03-25: three leads
+  A number of the leads are rejecting.
+  The purple one over my left eye has rejected completely.
+  The green one over the left top of my head has nearly rejected.  It was plugged into AGND, so wasn't doing anything anyway!
+  My understand is the bottom SRB pin is SRB2, which is by default used as reference (or ground) relative to the bottom row of N pins.
+  Grey: above right eyeball.  Seems to be connected well.
+  Orange: back left of head.  Also seems a little loose.
+  The dermal in the back right of my head with no wires connected seems to be staying fine.
+
+  New arrangement:
+    AGND BIAS ... N2    N1     SRB
+              ... green orange grey
+
+2018-03-26: two leads
+  Green has popped out of the left middle of my scalp.
+  Just recording orange (back left) relative to grey (front right)

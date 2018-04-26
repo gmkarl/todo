@@ -1,3 +1,29 @@
-this is where Karl's daily routine would go
+Files:
+  00-Overview
+    This file, summarizes folder contents
+  01-Tasks_Shielded_Space
+    todo list and goals descriptions while changing my life to live inside shielded enclosures
 
-TODO: explain files and unify naming conventions
+Subfolders:
+  exercise
+    scripts, logs and resources for doing scott sonnon's exercise programs
+  meds
+    scripts and logs for tracking my meds; includes a list of all meds
+  routine
+    scripts and logs for the routine system I was using prior to entering a shielded tent in 2018-03
+  ttrack
+    scripts and logs for tracking my progress and planning my time post-2018-03
+
+    The ttrack script reports on how much time I spend pursuing different goals and activities,
+    and recommends to me what to do next.
+
+    It uses short uppercase 'GOAL CODES' to identify goals, to make it quick to type them on my phone.
+    Descriptions of the goal codes are in the '## Goals' section of 01-Tasks_Shielded_Space .
+
+    The following files control what it recommends to me:
+
+    ttrack/goals_priorities.csv
+      Target average hours-per-day for each goal/activity
+
+    ttrack/routines.csv
+      Target hours to wait between each routine

@@ -1,0 +1,33 @@
+I'm having trouble determining how to approach noise recording.
+
+I'd like a running service that monitors the SE.
+
+I've set up soapy_power with litelog so that it will record psd's all day.  It would be nice to combine noise measurements with that service.
+I'm not sure the right approach given my current limitations and difficulties.
+
+1. I could randomize soapy_power's run so that sometimes it records the real FFT, sometimes the PSD, and use the real FFT recordings to measurement the noise strength.
+  This would be the quickest solution, except I haven't solved the problem of how to log which mode soapy_power would be in.  I'm using alexnask's recording extensions, and if I add a new field it could break the format.
+  I'm also getting a number of buffer overflow and timeout problems using soapy_power.  These aren't being recorded.  The simplest way to record all these things would of course to simply be to store the log output.
+
+1.5: I've also begun an implemention inside openemissions to handwrite some code to measure the noise magnitude with one connected device.
+  This approach has some simplicity values, and the organization of having been started.
+  Having a dedicated device to measure this also means it can give data without interruption, and tune the device as is needed specifically for the best measurement.
+  It would also be able to double as a logger.
+  Another advantage of this approach is that I relearn to use the more in-depth SDR apis by creating this software.
+  But a disadvantage is that I am creating it from scratch, which might take longer and makes it harder for others to share in the work.
+
+2. A better solution would be to create a gnuradio or sdr device that mirrors an existing device in a read-only way.  This would be helpful for a variety of other tasks, and more general to be better accepted by the rest of the sdr development community.
+  A. SoapyServer would be a good candidate for this.  I would need it to be modified to share 1 read-write view of the device, and many read-only views of the device.
+    I noticed a couple soapyserver issues: soapy_power got buffer underreads when using it, and there was a segfault when I connected multiple clients.
+
+3. My ideal solution would be a set of dat streams.  IQ data is shared as a dat stream and signed by the recorder.  Data produced by processing that data is also shared as dat streams.
+  I guess perhaps the way to do this would be to instrument gnuradio or pothos with dat stream blocks.
+  I would want to additionally augment these systems to ensure all relevant device metadata is included in these stream blocks.
+  Pothos would be easier to work with here, because it is stored on github which bountysource interconnects with.  Gnuradio is not on github.
+
+  Another approach would be to create dat replacements for the soapyserver approach; standalone apps that interoperate between SDR systems and dat streams.
+
+  An expansion on this concept is that I would like these streams to instrument other systems, such as labstreaminglayer and gstreamer.
+
+So, for the quick approach, let's log the commandline and log output for soapy_power, and randomize whether it uses the magnitude or not.
+For the long term approach, let's up our backend priority, and add a routine to post bounties that move towards the dat goals.
