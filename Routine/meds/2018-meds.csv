@@ -61,7 +61,7 @@ LZ, CONTAINS lorazepam, 0.5 milligrams
 
 Morning Meds
 BF, Benefiber, 1 tablespoon, drink
-CL, Citalopram Liquid, 2.5 milliliters, drink
+CL, Citalopram Liquid, 2.0 milliliters, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
@@ -79,7 +79,6 @@ BF, Benefiber, 1 tablespoon, drink
 MN, Stress-Relax Melatonin, 1 tablet
 MX, MiraLAX Polyethylene Glycol 3350, 1 capful, drink
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
-CD, Colace Docusate Sodium, 1 capsule
 DF, Finished Liquid Drink, 0 milliliters
 LZ, Lorazepam As Needed, 1 tablet
 
@@ -969,3 +968,4 @@ Time, Med, Dosage, Notes
 2018-05-03T08:49:09-04:00,LO,1,
 2018-05-03T09:02:55-04:00,DF,0,
 2018-05-03T12:16:14-04:00,LZ,1,
+2018-05-04T06:22:42-04:00,BF,1,"drink ... skipped? 'skip' entered"
