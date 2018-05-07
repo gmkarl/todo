@@ -52,7 +52,7 @@ do
 		echo "I'll note this with your med! $notes"
 	fi
 	echo "$time,$med,$dosage,$notes" >> "$csv"
-	git add "$csv"
+	git add .. 
 	git commit -qm "meds $med $dosage" &
 	echo ''
 	echo "You took $dosage $medunit of $medname at $time !  Yippee!"
