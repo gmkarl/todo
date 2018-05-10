@@ -60,8 +60,7 @@ LZ, Lorazepam, 1 tablet
 LZ, CONTAINS lorazepam, 0.5 milligrams
 
 Morning Meds
-BF, Benefiber, 1 tablespoon, drink
-CL, Citalopram Liquid, 2.0 milliliters, drink
+CL, Citalopram Liquid, 1.0 milliliters, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
@@ -70,14 +69,11 @@ LO, LifeExtension Super Omega-3, 1 softgel
 DF, Finished Liquid Drink, 0 milliliters
 
 Lunch Meds
-BF, Benefiber, 1 tablespoon, drink
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 DF, Finished Liquid Drink, 0 milliliters
 
 Evening Meds
-BF, Benefiber, 1 tablespoon, drink
 MN, Stress-Relax Melatonin, 1 tablet
-MX, MiraLAX Polyethylene Glycol 3350, 1 capful, drink
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 DF, Finished Liquid Drink, 0 milliliters
 LZ, Lorazepam As Needed, 1 tablet
