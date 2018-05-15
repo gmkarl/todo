@@ -62,8 +62,9 @@ DX, Doxycycline Hyclate, 1 tablet
 DX, CONTAINS doxycycline hyclate, 100 milligrams
 IB, Ibuprofen, 1 tablet
 IB, CONTAINS Ibuprofen USP, 200 milligrams
-BM, Sulfamethoxazole/Bactrim, 1 tablet
+BM, Bactrim DS, 1 tablet
 BM, CONTAINS sulfamethoxazole, 800 milligrams
+BM, CONTAINS trimethoprim, 160 milligrams
 AT, Atovaquone / Mepron, 5 milliliters
 AT, CONTAINS atovaquone, 150 milligrams
 
