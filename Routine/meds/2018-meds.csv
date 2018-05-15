@@ -58,19 +58,25 @@ MN, Stress-Relax Melatonin, 1 tablet
 MN, CONTAINS melatonin, 10 milligrams
 LZ, Lorazepam, 1 tablet
 LZ, CONTAINS lorazepam, 0.5 milligrams
+DX, Doxycycline Hyclate, 1 tablet
+DX, CONTAINS doxycycline hyclate, 100 milligrams
+IB, Ibuprofen, 1 tablet
+IB, CONTAINS Ibuprofen USP, 200 milligrams
+BM, Sulfamethoxazole/Bactrim, 1 tablet
+BM, CONTAINS sulfamethoxazole, 800 milligrams
+AT, Atovaquone / Mepron, 5 milliliters
+AT, CONTAINS atovaquone, 150 milligrams
 
 Morning Meds
-CL, Citalopram Liquid, 1.0 milliliters, drink
+DX, Doxycycline Hyclate, 1 tablet
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
 LO, LifeExtension Super Omega-3, 1 softgel
 LO, LifeExtension Super Omega-3, 1 softgel
-DF, Finished Liquid Drink, 0 milliliters
 
 Lunch Meds
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
-DF, Finished Liquid Drink, 0 milliliters
 
 Evening Meds
 MN, Stress-Relax Melatonin, 1 tablet
@@ -1012,3 +1018,4 @@ Time, Med, Dosage, Notes
 2018-05-13T10:51:29-04:00,DF,0,
 2018-05-14T11:17:52-04:00,LZ,1,
 2018-05-14T14:11:09-04:00,LZ,1,
+2018-05-15T15:14:41-04:00,DX,1,
