@@ -80,8 +80,9 @@ Lunch Meds
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 
 Evening Meds
-MN, Stress-Relax Melatonin, 1 tablet
+DX, Doxycycline Hyclate, 1 tablet
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
+MN, Stress-Relax Melatonin, 1 tablet
 DF, Finished Liquid Drink, 0 milliliters
 LZ, Lorazepam As Needed, 1 tablet
 
@@ -1024,3 +1025,4 @@ Time, Med, Dosage, Notes
 2018-05-15T15:15:59-04:00,MD,1,
 2018-05-15T15:18:32-04:00,LO,1,
 2018-05-15T15:18:44-04:00,LO,1,
+2018-05-15T21:01:23-04:00,DX,1,
