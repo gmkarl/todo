@@ -83,7 +83,6 @@ Evening Meds
 DX, Doxycycline Hyclate, 1 tablet
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 MN, Stress-Relax Melatonin, 1 tablet
-DF, Finished Liquid Drink, 0 milliliters
 LZ, Lorazepam As Needed, 1 tablet
 
 Time, Med, Dosage, Notes
@@ -1026,3 +1025,4 @@ Time, Med, Dosage, Notes
 2018-05-15T15:18:32-04:00,LO,1,
 2018-05-15T15:18:44-04:00,LO,1,
 2018-05-15T21:01:23-04:00,DX,1,
+2018-05-16T09:47:25-04:00,IB,1,
