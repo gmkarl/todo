@@ -1,0 +1,11 @@
+RTL-SDR articles may help me calculate measurement properly.
+
+[ ] http://hansvi.be/wordpress/?p=91
+	hobbyist makes handmade noise generator and measures bandpass filter impedance
+[ ] https://www.rtl-sdr.com/measuring-frequency-response-bandpass-filter-rtl-sdr
+	rtl-sdr.com apparently formalizes the process
+[ ] https://www.rtl-sdr.com/characterizing-rf-filters-noise-source-rtl-sdr-dongle
+	further article by rtl-sdr.com
+[ ] more articles starting with 'measuring-*' in rtl-sdr.com could be useful
+
+
