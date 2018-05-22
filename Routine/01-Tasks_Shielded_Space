@@ -9,13 +9,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] pink labeling tape
 - [ ] a couple more usb extension cables or buy them
 - [ ] theraband or buy one; mine was dark bluish green and broke
 
 ## DO OUTSIDE
-- [ ] put enough boxes in 'vestibule' to easily handle 2-4 5 gal buckets, washwater, drinking water, and small additional objects
-	-> that's ~5 large boxes and 1 small one I think
 - [ ] 4/22: UPDATE OVH
 	-> xo has access
 - [ ] process items in out box and add an entry for each one
@@ -26,54 +23,65 @@
 		-> probably need to use a printer to print forms out
 - Routine:
 	swap batteries
-	charge light if needed
-	bring water in
-	change out toilet
-	water house plants
-	empty trash and recycling
-	sync with github for katie
-	download email
-	post a bounty towards distributed dat logstreams
+	if needed, bring drinking water
+	if needed, bring washing water in
+	if needed, bring food in
+	if needed, empty trash and recycling
+	change toilets
+
 	check snailmail (both porch and hanging)
+	post a bounty towards distributed dat logstreams
 	increase the organization of 1 box or item
 		-> try labeling a box based on what's inside it
+	water house plants
+	sync with github for katie
+	download email
   	move laundry along
 	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
+
 - [ ] finish purchasing box truck
 	- [ ] get massachusetts drivings license
+		[x] get birth certificate (it's in filebox)
+		[ ] download & print application
+		[ ] enumerate what else is needed
 	- [ ] put title in accordion file
-	- [X] move vehicle to florence
-	- [ ] get vehicle inspected
+		- [ ] FIND title
+			- [ ] checking hanging folders
 	- [ ] get mechanic to check it out
-	- [X] register
-	- [X] drive back here
+		- [ ] drop it off at h&r industrial
+		- [ ] reecord here the date expected to be done, and check on htat date
+		- [ ] ensure they know about right window and floppy steering
+		- [ ] ask where to get inspected, record here
+	- [ ] get vehicle inspected
 	- [ ] get medical dot card
-- [ ] get non-pink duct tape to ease distinguishing labels
+		- [ ] look up medical dot cards online and record process needed
 - [ ] buy more powerpole cables and a couple hubs
+	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
 - [ ] message katie regarding obsessive-compulsive non-psych pill dr boubolis said might help my blocking
 - [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
 	-> added comment 2018-04-08
 	-> added comment 2018-04-14 stating i would check back in a month
-- [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
-	-> no reply after general question on #dat; try again
+- [ ] mirror websites in Projects/01-Shielding/02-Effectiveness_Measurement
 - [ ] mirror repos:
   - [ ] put mirror code in todo or openemissions, can clone from github
 		make it a dat?
+- [ ] water filter ... we'll want something that can process water in bulk and is low-power
+	- [ ] spend twenty minutes looking for such a thing
 - [ ] taxes:
 	$300 for turbotax
 	$15189 for federal
 	$10106 for state
 	total: $26000
+	- [ ] print out tax docs to file
 - [ ] received mail from tufts dated 4/9/2018 stating proof of residency still needed by 5/27/2018
 	determine if proof was provided before or after this date.  if before, situation may need addressing
 	-> katie will check in on monday; she has the date
-- [ ] set up nodejs-cyton on xo?
-	-> nodesource doesn't provide 32-bit rpms due to nature of their build process
+	[ ] check in if katie handle this
+- [ ] set up nodejs-cyton on xo
 - [ ] replace charger under warrantee at advanced auto parts
-- [ ] buy cheese from grace hill farm at river valley or farmer's market?
 - [ ] find local sawdust
 - [ ] floor towel / bath mat
 
@@ -195,6 +203,20 @@
   - recover & resolve all busted drives
 
 # Done
+- [ ] buy cheese from grace hill farm at river valley or farmer's market?
+- [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
+	-> no reply after general question on #dat; try again
+	-> i understand this better now; it snhould be done with a separate metadata file
+	- [X] register
+	- [X] drive back here
+- [X] get non-pink duct tape to ease distinguishing labels
+        - [X] move vehicle to florence
+- [ ] put enough boxes in 'vestibule' to easily handle 2-4 5 gal buckets, washwater, drinking water, and small additional objects
+	-> that's ~5 large boxes and 1 small one I think
+- [X] pink labeling tape
+- [ ] a pot (of yours!! you will likely forget if it's not yours)
+	there's likely one from portland
+- [X] a bowl and spoon
 - [X] dustpan and brush
 - [X] padlock for box
 - [X] buy more monument valley levels on your android phone.  you like the game
@@ -232,31 +254,3 @@
 -.[X] get baking soda
 - [X] eye lubricant and put in bathroom box
   - [X] [arch=all,arm] termux.net stable main
-  - [X] deb.whonix.org stretch main
-  - [X] [arch=amd64] http://deb.qubes-os.org/r3.2/vm stretch main
-  - [X] f-droid https://f-droid.org/repo
-                https://guardianproject.info/fdroid/repo
-                haven repo
-  - [X] github project containing haven
-  - [X] github project containing hypercore, hyperdb, dat, dat-next
-- [X] order some cheap microsds for 1-way insecure comm
-- [X] pay my pay-by-plate bill
-- [X] update altfolio values in iphone with real balances
-- [X] mail burning books donation form
-- [X] deliver voter registration form
-- [X] get lamp for organizing work room
-- [ ] order a DC soldering gun
-	-> probably need to look other than ebay
-	-> just ordered some propane tips instead
-- [ ] order a DC heat gun
-	-> propane tips
-- [X] message christine regarding nonviolent communication?
-	-> if you're uncomfortable with this, you could check in with her again first
-	"hey christine, have you ever learned nonviolent communication?
-	 this guy marshall rosenberg tried to formalize the way I feel people
-	 like us try to talk.  there are huge communities of people
-	 following his teachings and i found it so gratifying to begin
-	 to learn them, especially as my experience has taken so much of
-	 that away from me."
-- [x] go grocery shopping
-- [x] buy eye lubricant
