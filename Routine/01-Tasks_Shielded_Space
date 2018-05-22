@@ -9,15 +9,21 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] usb extension cables if i have any
+- [ ] usb extension cables or buy them
+- [ ] theraband or buy one; mine was dark bluish green and broke
+- [ ] dustpan and brush
 
 ## DO OUTSIDE
 - [ ] put enough boxes in 'vestibule' to easily handle 2-4 5 gal buckets, washwater, drinking water, and small additional objects
 	-> that's ~5 large boxes and 1 small one I think
 - [ ] 4/22: UPDATE OVH
 	-> xo has access
-- [ ] get litlog annex data
-	-> xo has access
+- [ ] process items in out box and add an entry for each one
+	- [ ] get manilla folders from windhorse to separate sentimental out
+              for hannah's art
+	- [ ] get a set of hanging folders for accordion file
+	- [ ] checkbook to pay state taxes; also need to pay federal
+		-> probably need to use a printer to print forms out
 - Routine:
 	swap batteries
 	charge light if needed
@@ -34,6 +40,16 @@
   	move laundry along
 	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
+- [ ] finish purchasing box truck
+	- [ ] get massachusetts drivings license
+	- [ ] put title in accordion file
+	- [ ] move vehicle to florence
+	- [ ] get vehicle inspected
+	- [ ] get mechanic to check it out
+	- [ ] register
+	- [ ] drive back here
+	- [ ] get medical dot card
+- [ ] buy carrots, apples
 - [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
@@ -54,12 +70,6 @@
 	-> katie will check in on monday; she has the date
 - [ ] set up nodejs-cyton on xo?
 	-> nodesource doesn't provide 32-bit rpms due to nature of their build process
-- [ ] pursue box truck until I have one $15000 even if budget is smaller
-	-> [X] check in with katie regarding replies to her outreach
-	-> [ ] check e-mail forwarded from katie regarding nearby trucks
-- [ ] Look around for some rtl-sdr antenna bases
-	-> they might turn up during organizing
--.[ ] get baking soda
 - [ ] replace charger under warrantee at advanced auto parts
 - [ ] buy cheese from grace hill farm at river valley or farmer's market?
 - [ ] find local sawdust
@@ -183,6 +193,36 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] get litlog annex data
+-> xo has access
+- [X] discard vacuum
+- [X] disability supplement is waiting on text from kkeach/bill
+	-> dad says probably look at it when vermont expires
+	-> have text waiting from maya
+- [X] a97 tip is in ebay cart and purchased
+- [X] buy 12v sonicare toothbrush charger
+-> ordered diamondcare toothbrush which has usb charging
+- [X] get driving record from registry as docment to send to insurance
+- [X] get insurance
+	-> ksk will call me back wed morning may 2
+		-> companies need commercial policy
+			ask rmv if they give me commercial plate or motor home plate
+			$3090 for collision and comp, down to $23xx for basic
+		title, mileage, signed over to me, no crossouts or errors
+		cash or check to save insuance, about $620
+		also soc sec # and license
+		then go to registry
+- [X] order A97 tip for busted usb charger cable
+- [X] get more eye ointment
+- [X] unload truck
+- [ ] prepare for sprouting event ... can do inside tent
+- [X] order two more knives (1 to replace lost one, 1 to do activities with counselors)
+- [X] pursue box truck until I have one $15000 even if budget is smaller
+-> [X] check in with katie regarding replies to her outreach
+-> [X] check e-mail forwarded from katie regarding nearby trucks
+- [ ] Look around for some rtl-sdr antenna bases
+-> they might turn up during organizing
+-.[X] get baking soda
 - [X] eye lubricant and put in bathroom box
   - [X] [arch=all,arm] termux.net stable main
   - [X] deb.whonix.org stretch main
@@ -232,31 +272,3 @@
 - [X] order superspeed+ hub & expresscard
 	-> my laptop doesn't have an expresscard interface fast enough for superspeed+
 	 I ordered a normal superspeed one
-- [X] start a list of things to mention to PCP
-	- wound on ear not healing
-	- sleeping issues
-		04-12 past couple days I've woken up ~3 mam then tried to sleep after sunrise
-		      today I even took a melatonin in the morning
-		      when trying to leep during daytime now I am repeatedly jerked awake by
-		      suddenly moving or intense anxiety
-		      seems like some rhythm of mine is disconnected
-- [X] order more lifeextension super omega-3 EPA/DHA with Sesame Lignans & Olive Extract
-- [X] get arduino 32-bit for xo
-- [X] get fiberoptic transcievers; even if they are complex, I can use their data channel via an optoisolator and check them for emissions
-- [X] get non-metallized fiberoptic network cable; remember I can check SE change when cable is in place to verify it is not an antenna
-- [X] get higher quality usb keys and microsd cards
-- [X] belt or rope for hamstring stretch
-- [X] open soapy power pr regarding sweep ceil bug
-- [X] push openemissions (can put on xo)
-	-> but remember to fix noisewatch to sum the squares first
-- [X] send current state of taxes to father
-- [X] activate UPS mychoice with code from mail
-- [X] email peter bullimore to get training dvd
-- [X] clone repos:
-		openbci-cyton npm module
-		openbci-ganglion npm module
-		openbci-wifi npm module
-		openbci-utilities
-- [X] get 75A powerpole ring terminals, alligator clips, & fuses
-- [X] get 45A / 10AWG powerpole alligator clips
-- [X] get powerpole meter (voltage, current, power?)
