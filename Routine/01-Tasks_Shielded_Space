@@ -65,7 +65,15 @@
 	-> added comment 2018-04-08
 	-> added comment 2018-04-14 stating i would check back in a month
 - [ ] mirror websites in Projects/01-Shielding/02-Effectiveness_Measurement
+- [ ] get requirements to design shielded room
+	- [ ] example drawing from holland shielding
+	- [ ] install freecad on tent computer
+	- [ ] download architectural freecad tutorial
 - [ ] mirror repos:
+  - [ ] add to deb mirrors: stretch/updates, stretch-backports, stretch-debug, testing
+	- [ ] security.debian.org stable/updates, testing/updates
+	- [ ] i386 arch
+	- [ ] debian/dists/stable/main/Contents-amd64 is missing?
   - [ ] put mirror code in todo or openemissions, can clone from github
 		make it a dat?
 - [ ] contact jessica to make sure we are still organizing
