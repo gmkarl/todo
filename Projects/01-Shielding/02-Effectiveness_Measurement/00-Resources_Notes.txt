@@ -20,6 +20,9 @@ These links are hand-typed and may contain typos.
 	This could help both with live updated reports of noise, and with working with
 	a calibrated sinusoidal source.
 	A commenter mentions https://www.rowetel.com/p?=5057 as well
+[ ] review amplificaion hardware.  note there is an 'lna4all' that is high
+	qual amplifier.  is helpful to use cables designed for frequency,
+	short runs
 [X] https://www.rtl-sdr.com/measuring-frequency-response-bandpass-filter-rtl-sdr
 	rtl-sdr.com just links to hans's site
 [X] https://www.rtl-sdr.com/characterizing-rf-filters-noise-source-rtl-sdr-dongle
