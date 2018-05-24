@@ -9,28 +9,20 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] a couple more usb extension cables or buy them
-- [ ] theraband or buy one; mine was dark bluish green and broke
+- [ ] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
 
 ## DO OUTSIDE
 - [ ] 4/22: UPDATE OVH
 	-> xo has access
 - [ ] process items in out box and add an entry for each one
-	- [ ] get manilla folders from windhorse to separate sentimental out
-              for hannah's art
-	- [ ] get a set of hanging folders for accordion file
-	- [ ] checkbook to pay state taxes; also need to pay federal
-		-> probably need to use a printer to print forms out
 - Routine:
-	swap batteries
-	if needed, bring drinking water
 	if needed, bring washing water in
 	if needed, bring food in
 	if needed, empty trash and recycling
 	change toilets
+	swap batteries
+	if needed, bring drinking water
 
-	check snailmail (both porch and hanging)
-	post a bounty towards distributed dat logstreams
 	increase the organization of 1 box or item
 		-> try labeling a box based on what's inside it
 	water house plants
@@ -39,15 +31,20 @@
   	move laundry along
 	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
+	check snailmail (both porch and hanging)
+	post a bounty towards distributed dat logstreams
 
+- [ ] Out of the house
+	- [ ] get manilla folders from windhorse to separate sentimental out
+              for hannah's art
+	- [ ] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
+- [ ] buy a couple more usb extension cables
+- [ ] buy theraband; mine was dark bluish green and broke
 - [ ] finish purchasing box truck
 	- [ ] get massachusetts drivings license
-		[x] get birth certificate (it's in filebox)
-		[ ] download & print application
-		[ ] enumerate what else is needed
 	- [ ] put title in accordion file
-		- [ ] FIND title
-			- [ ] checking hanging folders
+		-> 2018-05-23 title does not appear to have arrived yet
+		- [ ] check status online, need VIN from truck
 	- [ ] get mechanic to check it out
 		- [ ] drop it off at h&r industrial
 		- [ ] reecord here the date expected to be done, and check on htat date
@@ -58,6 +55,7 @@
 		- [ ] look up medical dot cards online and record process needed
 - [ ] buy more powerpole cables and a couple hubs
 	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
+- [ ] buy 4 SMA-male to BNC-male adaptors for new antennae
 - [ ] message katie regarding obsessive-compulsive non-psych pill dr boubolis said might help my blocking
 - [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
@@ -91,6 +89,7 @@
 	[ ] check in if katie handle this
 - [ ] set up nodejs-cyton on xo
 - [ ] replace charger under warrantee at advanced auto parts
+- [ ] check out ebay if ordered something
 - [ ] find local sawdust
 - [ ] floor towel / bath mat
 
@@ -212,6 +211,11 @@
   - recover & resolve all busted drives
 
 # Done
+	- [X] get a set of hanging folders for accordion file
+	- [ ] checkbook to pay state taxes; also need to pay federal
+		-> probably need to use a printer to print forms out
+		[x] get birth certificate (it's in filebox)
+		[X] enumerate what else is needed
 - [ ] buy cheese from grace hill farm at river valley or farmer's market?
 - [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
 	-> no reply after general question on #dat; try again
