@@ -8,9 +8,10 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
-- [ ] hanging file box
-- [ ] noise generator from downstairs desk
+- [X] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
+	-> in 'vestibule'
+- [X] hanging file box
+- [X] noise generator from downstairs desk
 
 ## DO OUTSIDE
 - [ ] 4/22: UPDATE OVH
@@ -19,10 +20,11 @@
 - Routine:
 	if needed, bring washing water in
 	if needed, bring food in
+	if needed, empty greywater
 	if needed, empty trash and recycling
-	change toilets
 	swap batteries
 	if needed, bring drinking water
+	change toilets
 
 	increase the organization of 1 box or item
 		-> try labeling a box based on what's inside it
@@ -35,12 +37,19 @@
 	check snailmail (both porch and hanging)
 	post a bounty towards distributed dat logstreams
 
+- [ ] buy an adjustable wideband amplifier with a BNC or SMA connector
+- [ ] buy more powerpole cables and a couple hubs
+	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
+- [ ] buy 4 SMA-male to BNC-male adaptors for new antennae
 - [ ] Out of the house
 	- [ ] get manilla folders from windhorse to separate sentimental out
               for hannah's art
 	- [ ] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
-- [ ] buy a couple more usb extension cables
-- [ ] buy theraband; mine was dark bluish green and broke
+	- [ ] buy:
+		- [ ] toilet paper
+		- [ ] nature's miracle odor remover
+		- [ ] theraband or order (mine was dark bluish)
+		- [ ] 2 usb extension cables or order
 - [ ] finish purchasing box truck
 	- [ ] get massachusetts drivings license
 	- [ ] put title in accordion file
@@ -54,10 +63,6 @@
 	- [ ] get vehicle inspected
 	- [ ] get medical dot card
 		- [ ] look up medical dot cards online and record process needed
-- [ ] buy more powerpole cables and a couple hubs
-	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
-- [ ] buy 4 SMA-male to BNC-male adaptors for new antennae
-- [ ] message katie regarding obsessive-compulsive non-psych pill dr boubolis said might help my blocking
 - [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
@@ -212,6 +217,7 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] message katie regarding obsessive-compulsive non-psych pill dr boubolis said might help my blocking
   [ ] turn voiceover back on on iphone
 	- [X] get a set of hanging folders for accordion file
 	- [ ] checkbook to pay state taxes; also need to pay federal
@@ -247,25 +253,3 @@
 - [X] buy 12v sonicare toothbrush charger
 -> ordered diamondcare toothbrush which has usb charging
 - [X] get driving record from registry as docment to send to insurance
-- [X] get insurance
-	-> ksk will call me back wed morning may 2
-		-> companies need commercial policy
-			ask rmv if they give me commercial plate or motor home plate
-			$3090 for collision and comp, down to $23xx for basic
-		title, mileage, signed over to me, no crossouts or errors
-		cash or check to save insuance, about $620
-		also soc sec # and license
-		then go to registry
-- [X] order A97 tip for busted usb charger cable
-- [X] get more eye ointment
-- [X] unload truck
-- [ ] prepare for sprouting event ... can do inside tent
-- [X] order two more knives (1 to replace lost one, 1 to do activities with counselors)
-- [X] pursue box truck until I have one $15000 even if budget is smaller
--> [X] check in with katie regarding replies to her outreach
--> [X] check e-mail forwarded from katie regarding nearby trucks
-- [ ] Look around for some rtl-sdr antenna bases
--> they might turn up during organizing
--.[X] get baking soda
-- [X] eye lubricant and put in bathroom box
-  - [X] [arch=all,arm] termux.net stable main
