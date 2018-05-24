@@ -1,6 +1,4 @@
 - FILL UP WATER before beginning
-- text is small and hard to see; can set terminal window to be behind all
-- can we overlay text on top of video?
 - would be nice to have time automatically entered
 - would be nice to have a way to pause everything and resume where left off
 - would be nice to keep video playing during break
@@ -17,6 +15,9 @@ difficult:
 heart rate max 220-age, mobility min, mobity max, compensation range, medium range,  high intensity range
 186,                    0,            74.4,       74.4 - 111.6,       111.6 - 148.8, 148.8 - 186
 date,       time,  day, day, intensity, level, drill,              bpm, reps
+114
+2018-05-24, 08:40, 38, india, compensation, 1, primal EMOTM, 82
+2018-04-24, 09:57, 38, india, compensation, 1, primal EMOTM, 
 120
 2018-04-17, 10:39, 37, india, mobility, 1, primal EMOTM, 88
 136
