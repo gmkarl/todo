@@ -615,3 +615,5 @@ Time,Action,Goal,Task
 1527002700,start,RESPONS,Fissure Treatment
 1527159534,start,RESPONS,Eye Lubricant
 1527160385,stop,RESPONS,Eye Lubricant
+1527173674,start,RESPONS,Brush Teeth
+1527174761,stop,RESPONS,Brush Teeth
