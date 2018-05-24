@@ -58,24 +58,31 @@ MN, Stress-Relax Melatonin, 1 tablet
 MN, CONTAINS melatonin, 10 milligrams
 LZ, Lorazepam, 1 tablet
 LZ, CONTAINS lorazepam, 0.5 milligrams
+DX, Doxycycline Hyclate, 1 tablet
+DX, CONTAINS doxycycline hyclate, 100 milligrams
+IB, Ibuprofen, 1 tablet
+IB, CONTAINS Ibuprofen USP, 200 milligrams
+BM, Bactrim DS, 1 tablet
+BM, CONTAINS sulfamethoxazole, 800 milligrams
+BM, CONTAINS trimethoprim, 160 milligrams
+AT, Atovaquone / Mepron, 5 milliliters
+AT, CONTAINS atovaquone, 150 milligrams
 
 Morning Meds
-CL, Citalopram Liquid, 1.0 milliliters, drink
+DX, Doxycycline Hyclate, 1 tablet
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
 VC, Vitamin C / Ascorbic Acid 500 mg pill, 1 pill
 LO, LifeExtension Super Omega-3, 1 softgel
 LO, LifeExtension Super Omega-3, 1 softgel
-DF, Finished Liquid Drink, 0 milliliters
 
 Lunch Meds
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
-DF, Finished Liquid Drink, 0 milliliters
 
 Evening Meds
-MN, Stress-Relax Melatonin, 1 tablet
+DX, Doxycycline Hyclate, 1 tablet
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
-DF, Finished Liquid Drink, 0 milliliters
+MN, Stress-Relax Melatonin, 1 tablet
 LZ, Lorazepam As Needed, 1 tablet
 
 Time, Med, Dosage, Notes
@@ -990,4 +997,72 @@ Time, Med, Dosage, Notes
 2018-05-09T13:34:46-04:00,VC,1,
 2018-05-09T13:35:13-04:00,LO,1,
 2018-05-09T13:48:09-04:00,DF,0,
-2018-05-18T11:00:56-0400,IB,,
+2018-05-11T09:02:59-04:00,CL,1.0,"drink ... skipped? 'skip' entered"
+2018-05-11T09:03:29-04:00,LV,1,
+2018-05-11T09:03:53-04:00,MD,1,
+2018-05-11T09:04:16-04:00,VC,1,
+2018-05-11T09:04:31-04:00,LO,1,
+2018-05-11T22:31:54-04:00,MN,1,
+2018-05-11T23:04:05-04:00,LZ,1,
+2018-05-12T08:43:40-04:00,CL,1.0,"drink"
+2018-05-12T08:44:09-04:00,LV,1,
+2018-05-12T08:44:29-04:00,MD,1,
+2018-05-12T08:44:48-04:00,VC,1,
+2018-05-12T08:45:06-04:00,LO,1,
+2018-05-12T08:45:21-04:00,LO,1,
+2018-05-12T09:11:26-04:00,DF,0,
+2018-05-13T10:29:03-04:00,CL,1.0,"drink"
+2018-05-13T10:29:27-04:00,LV,1,
+2018-05-13T10:30:06-04:00,MD,1,
+2018-05-13T10:30:31-04:00,VC,1,
+2018-05-13T10:30:57-04:00,LO,1,
+2018-05-13T10:51:29-04:00,DF,0,
+2018-05-14T11:17:52-04:00,LZ,1,
+2018-05-14T14:11:09-04:00,LZ,1,
+2018-05-15T15:14:41-04:00,DX,1,
+2018-05-15T15:15:37-04:00,LV,1,
+2018-05-15T15:15:59-04:00,MD,1,
+2018-05-15T15:18:32-04:00,LO,1,
+2018-05-15T15:18:44-04:00,LO,1,
+2018-05-15T21:01:23-04:00,DX,1,
+2018-05-16T09:47:25-04:00,IB,1,
+2018-05-16T09:47:28-04:00,LZ,1,
+2018-05-16T14:09:42-04:00,IB,1,
+2018-05-16T19:56:34-04:00,DX,1,
+2018-05-17T08:45:20-04:00,DX,1,
+2018-05-17T08:45:39-04:00,LV,1,
+2018-05-17T08:46:00-04:00,MD,1,
+2018-05-17T08:46:48-04:00,LO,1,
+2018-05-17T08:47:05-04:00,LO,1,
+2018-05-17T21:06:36-04:00,DX,1,
+2018-05-18T08:50:06-04:00,DX,1,
+2018-05-18T11:00:56-04:00,IB,1,
+2018-05-18T13:49:08-04:00,LZ,1,
+2018-05-18T20:58:52-04:00,DX,1,
+2018-05-19T06:58:06-04:00,CB,1,
+2018-05-19T07:00:04-04:00,LZ,1,
+2018-05-19T07:00:36-04:00,LZ,1,
+2018-05-19T07:01:10-04:00,IB,1,
+2018-05-19T07:23:52-04:00,CB,1,
+2018-05-19T07:24:28-04:00,IB,1,
+2018-05-19T09:15:13-04:00,DX,1,
+2018-05-19T21:53:15-04:00,DX,1,
+2018-05-20T09:08:39-04:00,DX,1,
+2018-05-20T15:37:43-04:00,IB,1,
+2018-05-20T16:51:17-04:00,IB,1,
+2018-05-20T19:44:35-04:00,IB,1,
+2018-05-20T20:54:56-04:00,DX,1,
+2018-05-21T09:31:16-04:00,DX,1,
+2018-05-21T18:57:11-04:00,IB,1,
+2018-05-21T22:17:13-04:00,DX,1,
+2018-05-22T10:06:42-04:00,DX,1,
+2018-05-22T10:07:27-04:00,MD,1,
+2018-05-22T10:07:57-04:00,LO,1,
+2018-05-22T23:07:05-04:00,DX,1,
+2018-05-23T05:53:14-04:00,IB,1,
+2018-05-23T09:05:34-04:00,DX,1,
+2018-05-23T09:05:56-04:00,MD,1,
+2018-05-23T09:06:23-04:00,VC,1,
+2018-05-23T09:06:52-04:00,LO,1,
+2018-05-23T09:07:05-04:00,LO,1,
+>>>>>>> 6eeaea412b789f8871a9cb325ce75cabcf596162
