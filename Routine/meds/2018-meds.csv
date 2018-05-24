@@ -67,6 +67,8 @@ BM, CONTAINS sulfamethoxazole, 800 milligrams
 BM, CONTAINS trimethoprim, 160 milligrams
 AT, Atovaquone / Mepron, 5 milliliters
 AT, CONTAINS atovaquone, 150 milligrams
+CW, Charlotte's Web Hemp, 1 capsule
+CW, CONTAINS hemp co2 extract, 15 milligrams
 
 Morning Meds
 DX, Doxycycline Hyclate, 1 tablet
@@ -1067,3 +1069,4 @@ Time, Med, Dosage, Notes
 2018-05-23T09:07:05-04:00,LO,1,
 2018-05-23T09:40:32-04:00,IB,1,
 2018-05-23T21:42:51-04:00,DX,1,
+2018-05-23T21:50:50-04:00,CW,1,
