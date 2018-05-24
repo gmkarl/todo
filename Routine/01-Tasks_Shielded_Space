@@ -4,12 +4,13 @@
 	- Check calendar
   - Check 12v battery voltage
   - Change batteries on openbci
-  [ ] turn voiceover back on on iphone
 - [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
 - [ ] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
+- [ ] hanging file box
+- [ ] noise generator from downstairs desk
 
 ## DO OUTSIDE
 - [ ] 4/22: UPDATE OVH
@@ -211,6 +212,7 @@
   - recover & resolve all busted drives
 
 # Done
+  [ ] turn voiceover back on on iphone
 	- [X] get a set of hanging folders for accordion file
 	- [ ] checkbook to pay state taxes; also need to pay federal
 		-> probably need to use a printer to print forms out
