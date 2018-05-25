@@ -620,3 +620,9 @@ Time,Action,Goal,Task
 1527175838,start,RESPONS,Fissure Treatment
 1527176270,start,RESPONS,Eye Lubricant
 1527176390,stop,RESPONS,Eye Lubricant
+1527177119.7699387,start,REC,eeg battery
+1527181035.6882672,stop,REC,eeg battery
+1527181695.2674716,start,RESPONS,dermal care
+1527181720.8720896,stop,RESPONS,dermal care
+1527181768.5003123,start,SUST,fiber
+1527182837.4164109,stop,SUST,fiber

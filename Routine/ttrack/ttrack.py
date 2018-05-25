@@ -1,5 +1,4 @@
-#
-tail -n +3 "$0" | python2 - "$@"; exit $?
+#!/usr/bin/python2
 
 import argparse, time, sys, tty
 
