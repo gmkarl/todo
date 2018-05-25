@@ -8,30 +8,32 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [ ] serving spoon
 - [X] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
 	-> in 'vestibule'
 - [X] hanging file box
 - [X] noise generator from downstairs desk
 
 ## DO OUTSIDE
-- [ ] determine when the boston neurotechx hacknight is and schedule going to it
+- [X] determine when the boston neurotechx hacknight is and schedule going to it
 	- [ ] ask on the meetup or chat if somebody could bring an openbci cyton setup to help me diagnose issues with mine
 	- measure impedance of microdermals from eeg box
 	- measure impedance of transdermal from eeg box
 	- diagnose my impedance measuring issues
 		- what area is the problem recording on my windows netbook?
 		- what area is the 256-sample square wave on my recordings?
-- [ ] 4/22: UPDATE OVH
-	-> xo has access
+- [ ] 4/22: UPDATE OVH (or the date on this item)
+	-> xo no longer has access
+	-> i guess only the dell does
 - [ ] process items in out box and add an entry for each one
 - Routine:
-	if needed, bring washing water in
 	if needed, bring food in
-	if needed, empty greywater
 	if needed, empty trash and recycling
 	swap batteries
 	if needed, bring drinking water
 	change toilets
+	if needed, bring washing water in
+	if needed, empty greywater
 
 	increase the organization of 1 box or item
 		-> try labeling a box based on what's inside it
@@ -44,28 +46,44 @@
 	check snailmail (both porch and hanging)
 	post a bounty towards distributed dat logstreams
 
-- [ ] buy an adjustable wideband amplifier with a BNC or SMA connector
-- [ ] buy high gain antenna
-- [ ] buy more powerpole cables and a couple hubs
+- [ ] buy pigtails to connect LNAs I ordered
+- [X] buy an adjustable wideband amplifier with a BNC or SMA connector
+	-> the boards I got are 5 V, 10-20dB
+- [X] buy high gain antenna
+- [X] download website regarding homemade noise source
+
+- [X] buy more powerpole cables and a couple hubs
 	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
-- [ ] buy 4 SMA-male to BNC-male adapters for new antennae
-- [ ] ask penelope time regarding removing tops from ears
+- [X] buy 4 SMA-male to BNC-male adapters for new antennae
+- [X] ask penelope time regarding removing tops from ears
 	- how long for healing again?
 	- do I need her to remove them for me?
-	- remove them
-- [ ] ask Samppa link to open-source biodevice project
+	- [ ] remove them
+- [X] ask Samppa link to open-source biodevice project
 - [ ] Out of the house
-	- [ ] get manilla folders from windhorse to separate sentimental out
+	- [X] get manilla folders from windhorse to separate sentimental out
               for hannah's art
+	- [ ] visit river valley and see if they will sell me milk crates
+		maybe get some carrots too
+		-> I got some cardboard boxes from uhaul because I'm scared
+		to try to get the milk crates.  Do I need milk crates for
+		anything?
+	- [ ] visit collective copies and check if they got the scanner going, get the model number of their scanner?
+		-> closes at 5
+	- [ ] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
+		-> rmv closes at 5
+	- [ ] replace tire on passat
+		-> schedule for fri 2:30
 	- [ ] buy:
+			- milk crates, carrots x2, apples, veggie broth, diced tomatoes
 		- [ ] toilet paper
-		- [ ] nature's miracle odor remover
+		- [X] nature's miracle odor remover
 		- [ ] theraband or order (mine was dark blue-green; I could bring patch of it)
 			sporting goods store?
 			could also go to synergy
 		- [ ] 2 usb extension cables or order
-	- [ ] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
-	- [ ] replace tire on passat
+- [ ] if step available, pursue learn to emit, detect, and drown all frequencies of all media
+	- [ ] 1 MHz audio
 - [ ] finish purchasing box truck
 	- [ ] get massachusetts drivings license
 	- [ ] put title in accordion file
@@ -86,14 +104,14 @@
 	-> added comment 2018-04-14 stating i would check back in a month
 - [ ] mirror websites in Projects/01-Shielding/02-Effectiveness_Measurement
 - [ ] get requirements to design shielded room
-	- [ ] example drawing from holland shielding
+	- [X] example drawing from holland shielding
 	- [ ] install freecad on tent computer
-	- [ ] download architectural freecad tutorial
+	- [X] download architectural freecad tutorial
 - [ ] mirror repos:
-  - [ ] add to deb mirrors: stretch/updates, stretch-backports, stretch-debug, testing
-	- [ ] security.debian.org stable/updates, testing/updates
-	- [ ] i386 arch
-	- [ ] debian/dists/stable/main/Contents-amd64 is missing?
+  - [X] add to deb mirrors: stretch/updates, stretch-backports, stretch-debug, testing
+	- [X] security.debian.org stable/updates, testing/updates
+	- [X] i386 arch
+	- [X] debian/dists/stable/main/Contents-amd64 is missing?
   - [ ] put mirror code in todo or openemissions, can clone from github
 		make it a dat?
 - [ ] contact jessica to make sure we are still organizing
