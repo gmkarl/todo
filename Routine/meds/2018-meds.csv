@@ -71,6 +71,7 @@ CW, Charlotte's Web Hemp, 1 capsule
 CW, CONTAINS hemp co2 extract, 15 milligrams
 
 Morning Meds
+AT, Atovaquone / Mepron, 1 teaspoon
 DX, Doxycycline Hyclate, 1 tablet
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 MD, Moss Nutrition Vitamin D+K 5000, 1 capsule
@@ -82,6 +83,7 @@ Lunch Meds
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 
 Evening Meds
+AT, Atovaquone / Mepron, 1 teaspoon
 DX, Doxycycline Hyclate, 1 tablet
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 MN, Stress-Relax Melatonin, 1 tablet
@@ -1075,3 +1077,4 @@ Time, Med, Dosage, Notes
 2018-05-24T09:22:51-04:00,VC,1,
 2018-05-24T09:23:21-04:00,LO,1,
 2018-05-24T09:23:40-04:00,LO,1,
+2018-05-24T22:07:00-04:00,AT,1,
