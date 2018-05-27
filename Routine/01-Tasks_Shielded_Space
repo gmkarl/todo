@@ -21,12 +21,12 @@
 - [X] process items in out and waiting boxes and add an entry for each one
 - Routine:
 	if needed, bring food in
-	if needed, empty trash and recycling
 	swap batteries
 	if needed, bring drinking water
-	change toilets
 	if needed, bring washing water in
 	if needed, empty greywater
+	change toilets
+	if needed, empty trash and recycling
 
 	increase the organization of 1 box or item
 		-> try labeling a box based on what's inside it
@@ -54,6 +54,8 @@
 		- dry lentils
 		- food bars
 		- apples
+		- carrota
+		- toasted wheatfuls
 - [ ] finish purchasing box truck
 	- [ ] get massachusetts drivings license
 	- [ ] get mechanic to check it out
