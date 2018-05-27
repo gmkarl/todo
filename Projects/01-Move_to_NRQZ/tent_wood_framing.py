@@ -1,4 +1,4 @@
-#/usr/bin/python
+#!/usr/bin/python2
 
 import math
 
@@ -91,25 +91,25 @@ class Frame:
 		self.studs = []
 		self.panels = []
 
-		# long studs for floor and ceiling, plus 4 for kick and top plates
+		# long end stud for floor and ceiling, plus 4 for kick and top plates
 		floor_dim = (self.dim[1 - self.long_dir], self.dim[self.long_dir])
 		self.studs.append(Stud(self.stud_dim, floor_dim[1], 4 + 4, 'end stubs & kick and top'))
 
-		# short studs for floor and ceiling
-		inner_len = floor_dim[1] - 2 * self.stud_dim[0]
+		# short joists for floor and ceiling
+		inner_len = floor_dim[0] - 2 * self.stud_dim[0]
 		# to calculate how many studs are needed for a wall (including the two
 		#  at the edges) divide the width by the spacing and add 1
-		inner_count = floor_dim[0] / self.stud_dist + 1
+		inner_count = floor_dim[1] / self.stud_dist + 1
 		self.studs.append(Stud(self.stud_dim, inner_len, math.ceil(inner_count) * 2, 'joist'))
 	
 		# kick and top plates for short wall
 		# NOTE kick and top plates need to be sideways to have correct wall depth
-		short_wall_len = floor_dim[0] - self.stud_dim[1]*2 - sheathe_depth*4
+		short_wall_len = floor_dim[0] - self.stud_dim[1]*2 - self.sheathe_depth*4
 		self.studs.append(Stud(self.stud_dim, short_wall_len, 4, '2 short kick & 2 short top'))
 
 		# tall studs for wall, assume floor and ceiling are sheathed before raising
 		inner_height = self.dim[2]
-		inner_height -= 2 * self.stud_dim[1] - 4 * self.sheathe_depth # floor and ceiling
+		inner_height -= 2 * self.stud_dim[1] + 4 * self.sheathe_depth # floor and ceiling
 		inner_height -= 2 * self.stud_dim[0] # kick and top plate
 		# inner studs, including 2 on each wall making 2-stud corners
 		wall1_stud_count = floor_dim[1] / self.stud_dist + 1
@@ -130,7 +130,7 @@ class Frame:
 		# long wall, inner and outer
 		self.panels.append(Panel(self.sheathe_depth, (floor_dim[1], wall_sheathe_height), 4, 'long wall'))
 	def __str__(self):
-		ret = ""
+		ret = "{}x{}x{}\n".format(self.dim[0], self.dim[1], self.dim[2])
 		for stud in self.studs:
 			ret = ret + str(stud) + "\n"
 		for panel in self.panels:

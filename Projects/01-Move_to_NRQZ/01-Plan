@@ -20,7 +20,12 @@ Leave on June 26
 		2.9 M wide
 		1.9 M deep
 		2.25 M tall (floor has no air space)
+- [ ] test tent frame dimensions
+- [ ] determine how to account for airflow.  could bust hole in front of truck box,
+-     or could direct air over top of tent
 - [ ] Plan outside tent behavior
+	- [ ] measure height of back of truck where tent will go
+	- [ ] put new height into script and purchase lumber to build frame
 	- [ ] Plan moving tent to truck.  Do this.
 		The tent will occupy the deeper end of the truck back.
 		The sides will be bunched up for it to fit.  With 2" spacing
