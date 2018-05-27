@@ -1,46 +1,55 @@
 Settle for the near future in West Virginia or Virginia near a highly regulated area of the National Radio Quiet Zone.
 
 PLAN:
-Leave on June 26
-- [X] find measurements of truck and of tent
-	I'm going to define a coordinate system for the truck.
-	Z is up
-	X is right and left
-	Y is front and back
-	(right, front, up)
-	truck: 14' 7/8" long
-	       7' 8" wide grows .5" wider at back
-	       6' 8 5/8" tall to door frame, 6' 9" tall to door
-	       door opening follows curve made by 15" segments hypotenuss at top
-	tent outer:
-		3 M wide
-		2 M deep
-		2.3 M tall
-	tent inner:
-		2.9 M wide
-		1.9 M deep
-		2.25 M tall (floor has no air space)
-- [ ] test tent frame dimensions
-- [ ] determine how to account for airflow.  could bust hole in front of truck box,
--     or could direct air over top of tent
-- [ ] Plan outside tent behavior
-	- [ ] measure height of back of truck where tent will go
-	- [ ] put new height into script and purchase lumber to build frame
-	- [ ] Plan moving tent to truck.  Do this.
-		The tent will occupy the deeper end of the truck back.
-		The sides will be bunched up for it to fit.  With 2" spacing
-		inbetween each, there is still 7' length to sleep with 2" buffer inside.
-		The depth of the tent will be under half of the length of the truck.
-		Power will likely be routed underside of truck.
-		Tent will not need hooking if an intertent frame is built. This will
-		take a small amount of plannable lumber.
-			perhaps 2x4s with thin plywood on front and back to push out to
-			<= 2"
-		i'm curious if tent is taller or shorter than truck
-		note also tent will be in back of truck so can be taller than door perhaps!
+Leave on June 26.  Move tent to box truck and live in there until I leave.
+- [ ] do adventure, then return
 		
-- [ ] Email Bill & Katie and send phone text from iphone
+- [X] Email Bill & Katie and send phone text from iphone
+	-> can't find text, perhaps overwritten by newer texts
+- [X] measure height of back of truck where tent will go
+	-> 7' 0.5" tallish
+	-> .5' bump at back corners
+	-> rails leave 5' 1.5" at back
+	-> door does not go back as far as rails and leave 7' 6" at back
+	-> can go farther forward, door will just not raise all the way
+	-> width should lose 1.75" for rails methinks
+- [X] check bank balance be sure I can afford lumber (>$3k in bank is fine)
+- [X] look for nearby source for lumber
+	-> there are a lot of nearby lumber stores but home depot is the
+	only place open after 5 on a sunday
+- [X] if possible enumerate what they have for plywood to find
+	      something just under 0.25"
+	-> cheap Ash Harboard Tempered Panel 1/8 in
+		$7.12 for 4x8
+	Note that the thicker the heavier.  I should probably use 1/8 in
+	for all but floor.
+- [X] if possible see what they have for ventilation stuff and review choice of cutting vs air-over-top
+	-> h-d has rectangular ducts that are 3.25 in tall
 - [ ] do 1 outer tent task
+- [ ] go to HW store
+	-> first look for ventilation stuff, find depth
+	-> subtract depth from total height
+	- [X] decide to either use decrased height
+	      and perhaps get ventilation
+	-     or bust hole and get cutoff wheel and grinder
+	- [ ] get these things
+		- [ ] 12x 3.25 in rectangular vent
+			need 2 for a complete vent; each is 3 ft long 10" wid
+		- [ ] 4x 3-1/4 in x 1 short way 90 degree rectangular elbow
+		- [ ] tin snips
+		- [ ] sheet metal screws
+		- [ ] 126x studs
+			cheapest are 1x2 8ft furring strip board
+			$1.32 each
+			0.656 in x 1.468 in
+		- [ ] 28x panels
+			cheapest are 1/8 in 4ft x 8ft ash hardboard tempered panel
+			$7.12
+		
+	- [ ] rerun script with height and get lumber
+	- [ ] cut lumber to lengths and sizes
+		-> note store may do this faster than you
+			they won't be as precise ... but it'll be ok
 - [ ] Determine what is felt to be _necessary_ prior to that deaadline
 	- [X] my desires
 	- [ ] WH/Katie's desires
@@ -106,6 +115,30 @@ NOTES:
 		[ ] whole wheat bread
 		[ ] redeveloping awareness / spirit
 
+- [X] find measurements of truck and of tent
+	I'm going to define a coordinate system for the truck.
+	Z is up
+	X is right and left
+	Y is front and back
+	(right, front, up)
+	truck: 14' 7/8" long
+	       7' 8" wide grows .5" wider at back
+	       6' 8 5/8" tall to door frame, 6' 9" tall to door
+	       door opening follows curve made by 15" segments hypotenuss at top
+	tent outer:
+		3 M wide
+		2 M deep
+		2.3 M tall
+	tent inner:
+		2.9 M wide
+		1.9 M deep
+		2.25 M tall (floor has no air space)
+- [X] test tent frame dimensions
+- [X] determine how to account for airflow.  could bust hole in front of truck box,
+      or could direct air over top of tent
+	-> leaning towards air over top
+- [X] Plan outside tent behavior
+- [X] put clothes on
 - [X] Come up with a deadline to go.
 - [X] Green Bank Observatory itself offers lodging for astronomers.  It's around $80/night.
 - [X] I contact one provider of mobile satellite service.  They seemed unfamiliar with the NRQZ, but stated their device was a transmitter and hence would not be allowed in Green Bank.  Elsewhere it is stated that highly directional transmitters may be okay.

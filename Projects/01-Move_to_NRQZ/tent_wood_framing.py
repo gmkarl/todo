@@ -11,7 +11,7 @@ in_ft = 12.0
 mm_in = cm_in * mm_cm
 mm_ft = mm_in * in_ft
 
-truck_mm = (7 * mm_ft + 8 * mm_in, 14 * mm_ft + 7./8 * mm_in, 6 * mm_ft + 9 * mm_in)
+truck_mm = (7 * mm_ft + 8 * mm_in - 1.75 * mm_in, 14 * mm_ft + 7./8 * mm_in, 7 * mm_ft + 0.5 * mm_in)
 tent_mm = (3 * mm_m, 2 * mm_m, 2.3 * mm_m)
 intertent_mm = 50
 
@@ -43,7 +43,7 @@ truck_in = [round(x*in_mm,10) for x in truck_mm]
 # two frames: intertent and inner
 # internet frame goes inbetween tent layers.
 
-intertent_frame_outer_in = (truck_in[0], tent_in[1], truck_in[2]) # note height is minimum
+intertent_frame_outer_in = (truck_in[0], tent_in[1], 7 * 12 + 0.5 - 3.25 - 0.25) # note height is minimum
 
 # these dimensions are all smaller than 8 ft (and greater than 6 ft)
 
@@ -71,15 +71,27 @@ class Stud:
 	def __str__(self):
 		return "{}x {} long {}x{} studs '{}'".format(self.count, self.dim[2], self.dim[0], self.dim[1], self.label)
 class Panel:
-	def __init__(self, depth, dim, count, label):
+	def __init__(self, depth, dim, count, label, cut_axis=0):
 		self.count = count
 		self.label = label
+		self.cut_axis = cut_axis
 		self.dim = (dim[0], dim[1], depth)
+		self.total = (int(self.dim[self.cut_axis] / 48) + 1) * self.count
 	def __str__(self):
-		return "{}x {}x{} {} thick panels '{}'".format(self.count, self.dim[0], self.dim[1], self.dim[2], self.label)
+		if self.dim[0] > 48 and self.dim[1] > 48:
+			cuts = self.dim[self.cut_axis] / 48.0
+			ret = ''
+			cut_dim = [self.dim[0], self.dim[1]]
+			cut_dim[self.cut_axis] = 48
+			ret += "{}x {}x{} {} thick panels '{}'".format(int(cuts) * self.count, cut_dim[0], cut_dim[1], self.dim[2], self.label + ' body')
+			cut_dim[self.cut_axis] = self.dim[self.cut_axis] - 48 * int(cuts)
+			ret += "\n{}x {}x{} {} thick panels '{}'".format(self.count, cut_dim[0], cut_dim[1], self.dim[2], self.label + ' edge')
+			return ret
+		else:
+			return "{}x {}x{} {} thick panels '{}'".format(self.count, self.dim[0], self.dim[1], self.dim[2], self.label)
 
 class Frame:
-	def __init__(self, x, y, z, stud_width = 3.5, stud_depth = 1.5, sheathe_depth = 0.25, stud_spacing = 16):
+	def __init__(self, x, y, z, stud_width = 3.5, stud_depth = 1.5, sheathe_depth = 0.125, stud_spacing = 12):
 		self.dim = (x,y,z)
 		self.stud_dim = (stud_width, stud_depth)
 		self.stud_dist = stud_spacing
@@ -109,8 +121,11 @@ class Frame:
 
 		# tall studs for wall, assume floor and ceiling are sheathed before raising
 		inner_height = self.dim[2]
+		print 'inner_height =', inner_height
 		inner_height -= 2 * self.stud_dim[1] + 4 * self.sheathe_depth # floor and ceiling
+		print 'inner_height =', inner_height
 		inner_height -= 2 * self.stud_dim[0] # kick and top plate
+		print 'inner_height =', inner_height
 		# inner studs, including 2 on each wall making 2-stud corners
 		wall1_stud_count = floor_dim[1] / self.stud_dist + 1
 		wall0_stud_count = short_wall_len / self.stud_dist + 1
@@ -120,15 +135,16 @@ class Frame:
 		# the wall outer sheathes do not cover (but are flush with) the kick/top
 		# plates, to ease assembly from the inside
 
-		# floor and ceiling, inner and outer
-		self.panels.append(Panel(self.sheathe_depth, (self.dim[0], self.dim[1]), 4, 'floor & ceiling'))
+		# floor and ceiling, 2 outer and 1 inner
+		self.panels.append(Panel(self.sheathe_depth, (self.dim[0], self.dim[1]), 3, 'floor & ceiling'))
 
-		# short wall, inner and outer
+		# short wall, outer
 		wall_sheathe_height = self.dim[2] - 2 * self.stud_dim[1] - 4 * self.sheathe_depth
-		self.panels.append(Panel(self.sheathe_depth, (short_wall_len, wall_sheathe_height), 4, 'short wall'))
+		print 'wall_sheathe_height =', wall_sheathe_height
+		self.panels.append(Panel(self.sheathe_depth, (short_wall_len, wall_sheathe_height), 2, 'short wall'))
 
-		# long wall, inner and outer
-		self.panels.append(Panel(self.sheathe_depth, (floor_dim[1], wall_sheathe_height), 4, 'long wall'))
+		# long wall, outer
+		self.panels.append(Panel(self.sheathe_depth, (floor_dim[1], wall_sheathe_height), 2, 'long wall'))
 	def __str__(self):
 		ret = "{}x{}x{}\n".format(self.dim[0], self.dim[1], self.dim[2])
 		for stud in self.studs:
@@ -137,5 +153,17 @@ class Frame:
 			ret = ret + str(panel) + "\n"
 		return ret
 
-print str(Frame(intertent_frame_outer_in[0], intertent_frame_outer_in[1], intertent_frame_outer_in[2]))
-print str(Frame(intertent_frame_outer_in[0] - 4, intertent_frame_outer_in[1] - 4, intertent_frame_outer_in[2] - 4))
+
+stud_width = 0.656
+stud_depth = 1.468
+sheathe_depth = 0.25
+panel_width = 4 * 12.0
+panel_length = 8 * 12.0
+
+outer = Frame(intertent_frame_outer_in[0], intertent_frame_outer_in[1], intertent_frame_outer_in[2], stud_width, stud_depth, sheathe_depth)
+print str(outer)
+inner = Frame(intertent_frame_outer_in[0] - 4, intertent_frame_outer_in[1] - 4, intertent_frame_outer_in[2] - 4, stud_width, stud_depth, sheathe_depth)
+print str(inner)
+
+print "{} studs".format(sum([x.count for x in outer.studs]) + sum([x.count for x in inner.studs]))
+print "{} panels".format(sum([x.total for x in outer.panels]) + sum([x.total for x in inner.panels]))
