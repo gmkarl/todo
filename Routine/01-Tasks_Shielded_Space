@@ -8,11 +8,6 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] serving spoon
-- [X] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
-	-> in 'vestibule'
-- [X] hanging file box
-- [X] noise generator from downstairs desk
 
 ## DO OUTSIDE
 - [X] determine when the boston neurotechx hacknight is and schedule going to it
@@ -22,9 +17,7 @@
 	- diagnose my impedance measuring issues
 		- what area is the problem recording on my windows netbook?
 		- what area is the 256-sample square wave on my recordings?
-- [ ] 4/22: UPDATE OVH (or the date on this item)
-	-> xo no longer has access
-	-> i guess only the dell does
+- [ ] 5/31: UPDATE OVH
 - [ ] process items in out box and add an entry for each one
 - Routine:
 	if needed, bring food in
@@ -47,41 +40,11 @@
 	post a bounty towards distributed dat logstreams
 
 - [ ] buy pigtails to connect LNAs I ordered
-- [X] buy an adjustable wideband amplifier with a BNC or SMA connector
-	-> the boards I got are 5 V, 10-20dB
-- [X] buy high gain antenna
-- [X] download website regarding homemade noise source
-
-- [X] buy more powerpole cables and a couple hubs
-	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
-- [X] buy 4 SMA-male to BNC-male adapters for new antennae
-- [X] ask penelope time regarding removing tops from ears
-	- how long for healing again?
-	- do I need her to remove them for me?
-	- [ ] remove them
-- [X] ask Samppa link to open-source biodevice project
 - [ ] Out of the house
-	- [X] get manilla folders from windhorse to separate sentimental out
-              for hannah's art
-	- [ ] visit river valley and see if they will sell me milk crates
-		maybe get some carrots too
-		-> I got some cardboard boxes from uhaul because I'm scared
-		to try to get the milk crates.  Do I need milk crates for
-		anything?
-	- [ ] visit collective copies and check if they got the scanner going, get the model number of their scanner?
-		-> closes at 5
 	- [ ] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
 		-> rmv closes at 5
-	- [X] replace tire on passat
-		-> schedule for fri 2:30
-	- [ ] buy:
-			- milk crates, carrots x2, apples, veggie broth, diced tomatoes
-		- [X] toilet paper
-		- [X] nature's miracle odor remover
-		- [X] theraband or order (mine was dark blue-green; I could bring patch of it)
-			sporting goods store?
-			could also go to synergy
-		- [ ] 2 usb extension cables or order
+	- [ ] visit collective copies and check if they got the scanner going, get the model number of their scanner?
+		-> closes at 5
 - [ ] if step available, pursue learn to emit, detect, block, and drown all frequencies of all media at all distances
 	- [ ] 1 MHz audio
 - [ ] finish purchasing box truck
@@ -103,18 +66,9 @@
 	-> added comment 2018-04-08
 	-> added comment 2018-04-14 stating i would check back in a month
 - [ ] mirror websites in Projects/01-Shielding/02-Effectiveness_Measurement
-- [ ] get requirements to design shielded room
-	- [X] example drawing from holland shielding
-	- [ ] install freecad on tent computer
-	- [X] download architectural freecad tutorial
 - [ ] mirror repos:
-  - [X] add to deb mirrors: stretch/updates, stretch-backports, stretch-debug, testing
-	- [X] security.debian.org stable/updates, testing/updates
-	- [X] i386 arch
-	- [X] debian/dists/stable/main/Contents-amd64 is missing?
   - [ ] put mirror code in todo or openemissions, can clone from github
 		make it a dat?
-- [X] contact jessica to make sure we are still organizing
 - [ ] water filter ... we'll want something that can process water in bulk and is low-power
 	- [ ] spend twenty minutes looking for such a thinge
 - [ ] taxes:
@@ -127,7 +81,6 @@
 	determine if proof was provided before or after this date.  if before, situation may need addressing
 	-> katie will check in on monday; she has the date
 	[ ] check in if katie handle this
-- [ ] set up nodejs-cyton on xo
 - [ ] replace charger under warrantee at advanced auto parts
 - [ ] check out ebay if ordered something
 - [ ] find local sawdust
@@ -251,6 +204,50 @@
   - recover & resolve all busted drives
 
 # Done
+- [X] ask penelope time regarding removing tops from ears
+	- how long for healing again?
+	- do I need her to remove them for me?
+	- [ ] remove them
+- [X] buy more powerpole cables and a couple hubs
+- [X] serving spoon
+- [X] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
+	-> in 'vestibule'
+- [X] hanging file box
+- [X] noise generator from downstairs desk
+- [X] buy an adjustable wideband amplifier with a BNC or SMA connector
+	-> the boards I got are 5 V, 10-20dB
+- [X] buy high gain antenna
+- [X] download website regarding homemade noise source
+	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
+- [X] buy 4 SMA-male to BNC-male adapters for new antennae
+- [X] ask Samppa link to open-source biodevice project
+	- [X] get manilla folders from windhorse to separate sentimental out
+              for hannah's art
+	- [ ] visit river valley and see if they will sell me milk crates
+		maybe get some carrots too
+		-> I got some cardboard boxes from uhaul because I'm scared
+		to try to get the milk crates.  Do I need milk crates for
+		anything?
+	- [X] replace tire on passat
+		-> schedule for fri 2:30
+	- [ ] buy:
+			- milk crates, carrots x2, apples, veggie broth, diced tomatoes
+		- [X] toilet paper
+		- [X] nature's miracle odor remover
+		- [X] theraband or order (mine was dark blue-green; I could bring patch of it)
+			sporting goods store?
+			could also go to synergy
+		- [ ] 2 usb extension cables or order
+- [ ] get requirements to design shielded room
+	- [X] example drawing from holland shielding
+	- [ ] install freecad on tent computer
+	- [X] download architectural freecad tutorial
+  - [X] add to deb mirrors: stretch/updates, stretch-backports, stretch-debug, testing
+	- [X] security.debian.org stable/updates, testing/updates
+	- [X] i386 arch
+	- [X] debian/dists/stable/main/Contents-amd64 is missing?
+- [X] contact jessica to make sure we are still organizing
+- [X] set up nodejs-cyton on xo
 - [X] message katie regarding obsessive-compulsive non-psych pill dr boubolis said might help my blocking
   [ ] turn voiceover back on on iphone
 	- [X] get a set of hanging folders for accordion file
@@ -266,24 +263,3 @@
 	- [X] drive back here
 - [X] get non-pink duct tape to ease distinguishing labels
         - [X] move vehicle to florence
-- [ ] put enough boxes in 'vestibule' to easily handle 2-4 5 gal buckets, washwater, drinking water, and small additional objects
-	-> that's ~5 large boxes and 1 small one I think
-- [X] pink labeling tape
-- [ ] a pot (of yours!! you will likely forget if it's not yours)
-	there's likely one from portland
-- [X] a bowl and spoon
-- [X] dustpan and brush
-- [X] padlock for box
-- [X] buy more monument valley levels on your android phone.  you like the game
-- [X] buy carrots, apples
-- [X] buy charlotte's web cbd
-- [X] get litlog annex data
--> xo has access
-- [X] discard vacuum
-- [X] disability supplement is waiting on text from kkeach/bill
-	-> dad says probably look at it when vermont expires
-	-> have text waiting from maya
-- [X] a97 tip is in ebay cart and purchased
-- [X] buy 12v sonicare toothbrush charger
--> ordered diamondcare toothbrush which has usb charging
-- [X] get driving record from registry as docment to send to insurance
