@@ -1,8 +1,41 @@
 Settle for the near future in West Virginia or Virginia near a highly regulated area of the National Radio Quiet Zone.
 
 PLAN:
-- [ ] Come up with a deadline to go.
-	-> Considering June 26
+Leave on June 26
+- [X] find measurements of truck and of tent
+	I'm going to define a coordinate system for the truck.
+	Z is up
+	X is right and left
+	Y is front and back
+	(right, front, up)
+	truck: 14' 7/8" long
+	       7' 8" wide grows .5" wider at back
+	       6' 8 5/8" tall to door frame, 6' 9" tall to door
+	       door opening follows curve made by 15" segments hypotenuss at top
+	tent outer:
+		3 M wide
+		2 M deep
+		2.3 M tall
+	tent inner:
+		2.9 M wide
+		1.9 M deep
+		2.25 M tall (floor has no air space)
+- [ ] Plan outside tent behavior
+	- [ ] Plan moving tent to truck.  Do this.
+		The tent will occupy the deeper end of the truck back.
+		The sides will be bunched up for it to fit.  With 2" spacing
+		inbetween each, there is still 7' length to sleep with 2" buffer inside.
+		The depth of the tent will be under half of the length of the truck.
+		Power will likely be routed underside of truck.
+		Tent will not need hooking if an intertent frame is built. This will
+		take a small amount of plannable lumber.
+			perhaps 2x4s with thin plywood on front and back to push out to
+			<= 2"
+		i'm curious if tent is taller or shorter than truck
+		note also tent will be in back of truck so can be taller than door perhaps!
+		
+- [ ] Email Bill & Katie and send phone text from iphone
+- [ ] do 1 outer tent task
 - [ ] Determine what is felt to be _necessary_ prior to that deaadline
 	- [X] my desires
 	- [ ] WH/Katie's desires
@@ -68,6 +101,7 @@ NOTES:
 		[ ] whole wheat bread
 		[ ] redeveloping awareness / spirit
 
+- [X] Come up with a deadline to go.
 - [X] Green Bank Observatory itself offers lodging for astronomers.  It's around $80/night.
 - [X] I contact one provider of mobile satellite service.  They seemed unfamiliar with the NRQZ, but stated their device was a transmitter and hence would not be allowed in Green Bank.  Elsewhere it is stated that highly directional transmitters may be okay.
 - [X] Look into the most highly-regulated hotel in the area.  I could stay there until I can get land.
