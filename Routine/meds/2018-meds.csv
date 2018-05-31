@@ -73,6 +73,8 @@ B2, Nature's Truth B-12 1000 mcg, 1 tablet
 B2, CONTAINS cyanocobalamin, 1000 mcg
 LD, Low-Dose-Naltrexone, 1 capsule
 LD, CONTAINS naltrexone, 4.5 mg
+TB, Klaire Labs Ther-Biotic Complete, 1 capsule
+TB, CONTAINS probiotic blend, 25 billion CFU
 
 Morning Meds
 AT, Atovaquone / Mepron, 1 teaspoon
@@ -92,6 +94,7 @@ B2, Nature's Truth B-12 1000 mcg, 1 tablet
 LD, Low-Dose-Naltrexone, 1 capsule
 
 Lunch Meds
+TB, Klaire Labs Ther-Biotic Complete, 1 capsule
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 
@@ -1147,3 +1150,4 @@ Time, Med, Dosage, Notes
 2018-05-30T22:35:31-04:00,MN,1,
 2018-05-31T08:55:28-04:00,AT,1,
 2018-05-31T08:56:01-04:00,DX,1,
+2018-05-31T15:12:21-04:00,TB,1,
