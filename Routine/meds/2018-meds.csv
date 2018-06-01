@@ -101,6 +101,7 @@ LV, LifeExtension Two-Per-Day High Potency Supplement, 1 capsule
 
 Evening Meds
 AT, Atovaquone / Mepron, 1 teaspoon
+BM, Bactrim DS, 1 tablet
 DX, Doxycycline Hyclate, 1 tablet
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
@@ -1154,3 +1155,4 @@ Time, Med, Dosage, Notes
 2018-05-31T15:12:21-04:00,TB,1,
 2018-05-31T20:26:29-04:00,AT,1,
 2018-05-31T20:27:25-04:00,DX,1,
+2018-05-31T20:28:34-04:00,BM,1,
