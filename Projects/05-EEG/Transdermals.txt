@@ -1,0 +1,40 @@
+2018-06-07
+	Samppa Transdermal: DC resistance w/ multimeter
+	
+	Resting:
+		probe-probe (short) 0.3 Ohm
+		extension-extension (short) jumps around
+	Alligator clips to probes:
+		clip-clip (short): 0.4 Ohm
+		transdermal base shaft - transdermal top: 0.7 Ohm
+		when screwed tightly: 0.5 Ohm
+		top to hydroxyapetite: insulator
+		top to wire pressed through hole: 0.5 Ohm !!
+			the pressure of the alligator clip is pressing
+			the wire into the edge of the corner of the hole
+		different arrangement of bottom wire: 0.7 Ohm
+		move clip up to decrease pressure: 2.6 Ohm and rising
+
+	It looks like these things might work as is, if the skin bonds tightly
+	enough to them through the holes.
+
+	I'll try drilling out a hole to see if it increases the conductivity,
+	and e-mail Brian to schedule piercing and get the other to drill it too.
+
+	I drilled one of the holes out to a 16th of an inch and am getting 1.1
+	Ohms just resting in it.  It seemed to help a lot.
+	With the clip on I get 0.3 ohms.
+
+	The holes appear to be more along the lines of a 32nd of an inch.
+	I should get some jewelry bits.
+		
+	I've measured the DC resistance of one of Samppa's transdermals.
+	I'm not seeing any resistance at the shaft, and the threads seem
+	to conduct.
+	However, the base is coated in grey chalky hydroxyapatite, which
+	gives around 4MOhm depending on pressure.  Pressing hard enough
+	seems to be able to eliminate the resistance completely, at least
+	on the hole corner I tried.
+	Simply resting a lead against any part seems to show no conductivity.
+		
+	Resting a lead in a hole showed no conductivity

@@ -1,0 +1,12 @@
+- Need public plans to produce emissions-secure SCIF
+
+- People are very concerned regarding privacy nowadays, e.g. mobile phones
+
+True digital security needs a SCIF at this time, due to e.g. Van Eck
+Phreaking and backdoors in provider chips.
+
+Solving these somewhat limited issues is doable at the moment, but
+- There is no even-handed public discourse on specifically how
+		Just a bunch of closed products with no details
+- The available products do not cover everything.  It seems a complete
+	SCIF is classified, although I should ask another company.

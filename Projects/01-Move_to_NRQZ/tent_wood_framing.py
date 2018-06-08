@@ -63,13 +63,25 @@ intertent_frame_outer_in = (truck_in[0], tent_in[1], 7 * 12 + 0.5 - 3.25 - 0.25)
 # studs are typically 16" on center, sometimes dropped to 12" on center
 # I'll do 16" on center studs
 
+def nicelength(decimal):
+	whole = int(decimal)
+	denom = 32
+	num = int(round((decimal - whole) * denom))
+	if num > 0:
+		while num & 1 == 0:
+			denom /= 2
+			num /= 2
+		return str(whole) + "_" + str(num) + '/' + str(denom) + '"'
+	else:
+		return str(whole) + '"'
+
 class Stud:
 	def __init__(self, dim, length, count, label):
 		self.count = int(math.ceil(count))
 		self.label = label
 		self.dim = (dim[0], dim[1], length)
 	def __str__(self):
-		return "{}x {} long {}x{} studs '{}'".format(self.count, self.dim[2], self.dim[0], self.dim[1], self.label)
+		return "{}x {} long {}x{} studs '{}'".format(self.count, nicelength(self.dim[2]), self.dim[0], self.dim[1], self.label)
 class Panel:
 	def __init__(self, depth, dim, count, label, cut_axis=0):
 		self.count = count
@@ -83,9 +95,9 @@ class Panel:
 			ret = ''
 			cut_dim = [self.dim[0], self.dim[1]]
 			cut_dim[self.cut_axis] = 48
-			ret += "{}x {}x{} {} thick panels '{}'".format(int(cuts) * self.count, cut_dim[0], cut_dim[1], self.dim[2], self.label + ' body')
+			ret += "{}x {}x{} {} thick panels '{}'".format(int(cuts) * self.count, nicelength(cut_dim[0]), nicelength(cut_dim[1]), self.dim[2], self.label + ' body')
 			cut_dim[self.cut_axis] = self.dim[self.cut_axis] - 48 * int(cuts)
-			ret += "\n{}x {}x{} {} thick panels '{}'".format(self.count, cut_dim[0], cut_dim[1], self.dim[2], self.label + ' edge')
+			ret += "\n{}x {}x{} {} thick panels '{}'".format(self.count, nicelength(cut_dim[0]), nicelength(cut_dim[1]), self.dim[2], self.label + ' edge')
 			return ret
 		else:
 			return "{}x {}x{} {} thick panels '{}'".format(self.count, self.dim[0], self.dim[1], self.dim[2], self.label)
@@ -135,8 +147,8 @@ class Frame:
 		# the wall outer sheathes do not cover (but are flush with) the kick/top
 		# plates, to ease assembly from the inside
 
-		# floor and ceiling, 2 outer and 1 inner
-		self.panels.append(Panel(self.sheathe_depth, (self.dim[0], self.dim[1]), 3, 'floor & ceiling'))
+		# floor and ceiling, inner
+		self.panels.append(Panel(self.sheathe_depth, (self.dim[0], self.dim[1]), 2, 'floor & ceiling'))
 
 		# short wall, outer
 		wall_sheathe_height = self.dim[2] - 2 * self.stud_dim[1] - 4 * self.sheathe_depth
@@ -162,8 +174,8 @@ panel_length = 8 * 12.0
 
 outer = Frame(intertent_frame_outer_in[0], intertent_frame_outer_in[1], intertent_frame_outer_in[2], stud_width, stud_depth, sheathe_depth)
 print str(outer)
-inner = Frame(intertent_frame_outer_in[0] - 4, intertent_frame_outer_in[1] - 4, intertent_frame_outer_in[2] - 4, stud_width, stud_depth, sheathe_depth)
-print str(inner)
+#inner = Frame(intertent_frame_outer_in[0] - 4, intertent_frame_outer_in[1] - 4, intertent_frame_outer_in[2] - 4, stud_width, stud_depth, sheathe_depth)
+#print str(inner)
 
-print "{} studs".format(sum([x.count for x in outer.studs]) + sum([x.count for x in inner.studs]))
-print "{} panels".format(sum([x.total for x in outer.panels]) + sum([x.total for x in inner.panels]))
+print "{} studs".format(sum([x.count for x in outer.studs]))# + sum([x.count for x in inner.studs]))
+print "{} panels".format(sum([x.total for x in outer.panels]))# + sum([x.total for x in inner.panels]))

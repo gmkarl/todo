@@ -8,15 +8,22 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [ ] female-to-female SMA adapter (the big one I have really is sma)
+	-> I hooked a male-female BNC/SMA to a female-female SMA/BNC
+	   and am using that, but it means no use of the upconverter,
+	   but I'm not using the upconverter
 
 ## DO OUTSIDE
 - [X] determine when the boston neurotechx hacknight is and schedule going to it
 	- [ ] ask on the meetup or chat if somebody could bring an openbci cyton setup to help me diagnose issues with mine
-	- measure impedance of microdermals from eeg box
-	- measure impedance of transdermal from eeg box
-	- diagnose my impedance measuring issues
+	-> measure impedance of microdermals from eeg box
+	-> measure impedance of transdermal from eeg box
+	-> diagnose my impedance measuring issues
 		- what area is the problem recording on my windows netbook?
 		- what area is the 256-sample square wave on my recordings?
+		- what area is the signal leakage and instability between leads?
+		- [ ] try out these measurements myself again to determine
+		      what I need from others
 - [ ] 5/31: UPDATE OVH
 - [X] process items in out and waiting boxes and add an entry for each one
 - Routine:
@@ -39,17 +46,19 @@
 	check snailmail (both porch and hanging)
 	post a bounty towards distributed dat logstreams
 
-- [ ] buy sonicare usb charging base
+- [X] buy sonicare usb charging base
 	the replacement diamondclean base I got inductively charges.
 	It's possible it could be good to get a whole brush because the head
 	  mating shapes differ.
-- [ ] buy pigtails to connect LNAs I ordered
+- [X] buy UHF Male (SO-239?) Connector for discone antenna
+- [X] buy female-to-female SMA cable / adapters for antenna
+- [X] buy pigtails to connect LNAs I ordered
 - [ ] Out of the house
-	- [ ] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
+	- [X] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
 		-> rmv closes at 5
 	- [ ] visit collective copies and check if they got the scanner going, get the model number of their scanner?
 		-> closes at 5
-	- [ ] buy:
+	- [X] buy:
 		- steel pot
 		- dry lentils
 		- food bars
@@ -57,12 +66,20 @@
 		- carrota
 		- toasted wheatfuls
 - [ ] finish purchasing box truck
-	- [ ] get massachusetts drivings license
+	- [X] get massachusetts drivings license
 	- [ ] get mechanic to check it out
-		- [ ] drop it off at h&r industrial
+		- [X] drop it off at h&r industrial
 		- [ ] record here the date expected to be done, and check on that date
-		- [ ] ensure they know about right window and floppy steering
-		- [ ] ask where to get inspected, record here
+			- [ ] they say they'll know today or tomorrow
+				(Fri 2018-06-08 or Sat 2018-06-09)
+		- [X] ensure they know about right window and floppy steering
+		- [X] ask about extra controls, or where to learn to drive it
+		      safely, record here
+		- [X] ask where to get inspected, record here
+			-> they can inspect it
+	- [ ] look into getting a rearview cam at Long Radio
+	- [ ] get the owner's manual, possibly at Nutmeg International
+	                                         in west springfield
 	- [ ] get vehicle inspected
 	- [ ] get medical dot card
 		- [ ] look up medical dot cards online and record process needed
@@ -100,7 +117,7 @@
 - Grocery shopping
 - Change toilet, water, batteries, trash
 - [ ] structural materials for welding area (and bathroom)
-- [ ] printer
+- [X] printer
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
