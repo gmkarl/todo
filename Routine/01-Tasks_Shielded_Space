@@ -4,74 +4,110 @@
 	- Check calendar
   - Check 12v battery voltage
   - Change batteries on openbci
-  [ ] turn voiceover back on on iphone
 - [ ] index some outdoor maintenance tasks
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
-- [ ] usb extension cables or buy them
-- [ ] theraband or buy one; mine was dark bluish green and broke
-- [ ] dustpan and brush
+- [ ] female-to-female SMA adapter (the big one I have really is sma)
+	-> I hooked a male-female BNC/SMA to a female-female SMA/BNC
+	   and am using that, but it means no use of the upconverter,
+	   but I'm not using the upconverter
 
 ## DO OUTSIDE
-- [ ] put enough boxes in 'vestibule' to easily handle 2-4 5 gal buckets, washwater, drinking water, and small additional objects
-	-> that's ~5 large boxes and 1 small one I think
-- [ ] 4/22: UPDATE OVH
-	-> xo has access
-- [ ] process items in out box and add an entry for each one
-	- [ ] get manilla folders from windhorse to separate sentimental out
-              for hannah's art
-	- [ ] get a set of hanging folders for accordion file
-	- [ ] checkbook to pay state taxes; also need to pay federal
-		-> probably need to use a printer to print forms out
+- [X] determine when the boston neurotechx hacknight is and schedule going to it
+	- [ ] ask on the meetup or chat if somebody could bring an openbci cyton setup to help me diagnose issues with mine
+	-> measure impedance of microdermals from eeg box
+	-> measure impedance of transdermal from eeg box
+	-> diagnose my impedance measuring issues
+		- what area is the problem recording on my windows netbook?
+		- what area is the 256-sample square wave on my recordings?
+		- what area is the signal leakage and instability between leads?
+		- [ ] try out these measurements myself again to determine
+		      what I need from others
+- [ ] 5/31: UPDATE OVH
+- [X] process items in out and waiting boxes and add an entry for each one
 - Routine:
+	if needed, bring food in
 	swap batteries
-	charge light if needed
-	bring water in
-	change out toilet
-	water house plants
-	empty trash and recycling
-	sync with github for katie
-	download email
-	post a bounty towards distributed dat logstreams
-	check snailmail (both porch and hanging)
+	if needed, bring drinking water
+	if needed, bring washing water in
+	if needed, empty greywater
+	change toilets
+	if needed, empty trash and recycling
+
 	increase the organization of 1 box or item
 		-> try labeling a box based on what's inside it
+	water house plants
+	sync with github for katie
+	download email
   	move laundry along
 	bring in 1 welding item at least, until enough for steel box?
 	do an extra sitz bath & fissure treatment with warm water
+	check snailmail (both porch and hanging)
+	post a bounty towards distributed dat logstreams
+
+- [X] buy sonicare usb charging base
+	the replacement diamondclean base I got inductively charges.
+	It's possible it could be good to get a whole brush because the head
+	  mating shapes differ.
+- [X] buy UHF Male (SO-239?) Connector for discone antenna
+- [X] buy female-to-female SMA cable / adapters for antenna
+- [X] buy pigtails to connect LNAs I ordered
+- [ ] Out of the house
+	- [X] go to rmv with birth certificate, wallet, auto insurance policy, and credit card statement to get MA driver's license
+		-> rmv closes at 5
+	- [ ] visit collective copies and check if they got the scanner going, get the model number of their scanner?
+		-> closes at 5
+	- [X] buy:
+		- steel pot
+		- dry lentils
+		- food bars
+		- apples
+		- carrota
+		- toasted wheatfuls
 - [ ] finish purchasing box truck
-	- [ ] get massachusetts drivings license
-	- [ ] put title in accordion file
-	- [ ] move vehicle to florence
-	- [ ] get vehicle inspected
+	- [X] get massachusetts drivings license
 	- [ ] get mechanic to check it out
-	- [ ] register
-	- [ ] drive back here
+		- [X] drop it off at h&r industrial
+		- [ ] record here the date expected to be done, and check on that date
+			- [ ] they say they'll know today or tomorrow
+				(Fri 2018-06-08 or Sat 2018-06-09)
+		- [X] ensure they know about right window and floppy steering
+		- [X] ask about extra controls, or where to learn to drive it
+		      safely, record here
+		- [X] ask where to get inspected, record here
+			-> they can inspect it
+	- [ ] look into getting a rearview cam at Long Radio
+	- [ ] get the owner's manual, possibly at Nutmeg International
+	                                         in west springfield
+	- [ ] get vehicle inspected
 	- [ ] get medical dot card
-- [ ] buy carrots, apples
+		- [ ] look up medical dot cards online and record process needed
+- [ ] if step available, pursue learn to emit, detect, block, and drown all frequencies of all media at all distances
+	- [ ] 1 MHz audio
 - [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
 	-> added comment 2018-04-08
 	-> added comment 2018-04-14 stating i would check back in a month
-- [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
-	-> no reply after general question on #dat; try again
+- [ ] mirror websites in Projects/01-Shielding/02-Effectiveness_Measurement
 - [ ] mirror repos:
   - [ ] put mirror code in todo or openemissions, can clone from github
 		make it a dat?
+- [ ] water filter ... we'll want something that can process water in bulk and is low-power
+	- [ ] spend twenty minutes looking for such a thinge
 - [ ] taxes:
 	$300 for turbotax
 	$15189 for federal
 	$10106 for state
 	total: $26000
+	- [ ] print out tax docs to file
 - [ ] received mail from tufts dated 4/9/2018 stating proof of residency still needed by 5/27/2018
 	determine if proof was provided before or after this date.  if before, situation may need addressing
 	-> katie will check in on monday; she has the date
-- [ ] set up nodejs-cyton on xo?
-	-> nodesource doesn't provide 32-bit rpms due to nature of their build process
+	[ ] check in if katie handle this
 - [ ] replace charger under warrantee at advanced auto parts
-- [ ] buy cheese from grace hill farm at river valley or farmer's market?
+- [ ] check out ebay if ordered something
 - [ ] find local sawdust
 - [ ] floor towel / bath mat
 
@@ -81,7 +117,7 @@
 - Grocery shopping
 - Change toilet, water, batteries, trash
 - [ ] structural materials for welding area (and bathroom)
-- [ ] printer
+- [X] printer
 
 ## Projects
 - TASKORG: [ ] integrate script with readme.md, routine, and katie's system
@@ -193,82 +229,65 @@
   - recover & resolve all busted drives
 
 # Done
-- [X] get litlog annex data
--> xo has access
-- [X] discard vacuum
-- [X] disability supplement is waiting on text from kkeach/bill
-	-> dad says probably look at it when vermont expires
-	-> have text waiting from maya
-- [X] a97 tip is in ebay cart and purchased
-- [X] buy 12v sonicare toothbrush charger
--> ordered diamondcare toothbrush which has usb charging
-- [X] get driving record from registry as docment to send to insurance
-- [X] get insurance
-	-> ksk will call me back wed morning may 2
-		-> companies need commercial policy
-			ask rmv if they give me commercial plate or motor home plate
-			$3090 for collision and comp, down to $23xx for basic
-		title, mileage, signed over to me, no crossouts or errors
-		cash or check to save insuance, about $620
-		also soc sec # and license
-		then go to registry
-- [X] order A97 tip for busted usb charger cable
-- [X] get more eye ointment
-- [X] unload truck
-- [ ] prepare for sprouting event ... can do inside tent
-- [X] order two more knives (1 to replace lost one, 1 to do activities with counselors)
-- [X] pursue box truck until I have one $15000 even if budget is smaller
--> [X] check in with katie regarding replies to her outreach
--> [X] check e-mail forwarded from katie regarding nearby trucks
-- [ ] Look around for some rtl-sdr antenna bases
--> they might turn up during organizing
--.[X] get baking soda
-- [X] eye lubricant and put in bathroom box
-  - [X] [arch=all,arm] termux.net stable main
-  - [X] deb.whonix.org stretch main
-  - [X] [arch=amd64] http://deb.qubes-os.org/r3.2/vm stretch main
-  - [X] f-droid https://f-droid.org/repo
-                https://guardianproject.info/fdroid/repo
-                haven repo
-  - [X] github project containing haven
-  - [X] github project containing hypercore, hyperdb, dat, dat-next
-- [X] order some cheap microsds for 1-way insecure comm
-- [X] pay my pay-by-plate bill
-- [X] update altfolio values in iphone with real balances
-- [X] mail burning books donation form
-- [X] deliver voter registration form
-- [X] get lamp for organizing work room
-- [ ] order a DC soldering gun
-	-> probably need to look other than ebay
-	-> just ordered some propane tips instead
-- [ ] order a DC heat gun
-	-> propane tips
-- [X] message christine regarding nonviolent communication?
-	-> if you're uncomfortable with this, you could check in with her again first
-	"hey christine, have you ever learned nonviolent communication?
-	 this guy marshall rosenberg tried to formalize the way I feel people
-	 like us try to talk.  there are huge communities of people
-	 following his teachings and i found it so gratifying to begin
-	 to learn them, especially as my experience has taken so much of
-	 that away from me."
-- [x] go grocery shopping
-- [x] buy eye lubricant
-- [ ] download exchange data for an exchange missing from my tax analysis: kraken, cex.io, bitfinex, bitstamp, localbitcoins ... will need pw from dell
-	- [ ] localbitcoins (already downloaded on desktop)
-	- [ ] old coinbase
-	- [ ] kraken
-	- [ ] more
-- [ ] mirror:
-	- npm
-	- raspian stretch
-		mirrordirector.raspbian.org/raspbian stretch main contrib non-free rpi
-		archive.raspberrypi.org/debian stretch main ui
-	- debian stable (stretch?)
-- [X] yum install pv
-- [X] download bch 2017 report for gdax for taxes
-	-> gdax_bch_2017.csv on the microsd card i brought out
-- [X] download sprouting books for reading
-- [X] get new fresh water dispenser
-- [X] order superspeed+ hub & expresscard
-	-> my laptop doesn't have an expresscard interface fast enough for superspeed+
-	 I ordered a normal superspeed one
+	- [X] put title in accordion file
+		-> 2018-05-23 title does not appear to have arrived yet
+		- [ ] check status online, need VIN from truck
+- [X] ask penelope time regarding removing tops from ears
+	- how long for healing again?
+	- do I need her to remove them for me?
+	- [ ] remove them
+- [X] buy more powerpole cables and a couple hubs
+- [X] serving spoon
+- [X] microusb ethernet for rasp pi zero.  should be in the rasp pi microcontrollers box
+	-> in 'vestibule'
+- [X] hanging file box
+- [X] noise generator from downstairs desk
+- [X] buy an adjustable wideband amplifier with a BNC or SMA connector
+	-> the boards I got are 5 V, 10-20dB
+- [X] buy high gain antenna
+- [X] download website regarding homemade noise source
+	let's get 2x 12AWG/30A, 2x 10AWG/45A, 2x big hubs, maybe 2x small hubs
+- [X] buy 4 SMA-male to BNC-male adapters for new antennae
+- [X] ask Samppa link to open-source biodevice project
+	- [X] get manilla folders from windhorse to separate sentimental out
+              for hannah's art
+	- [ ] visit river valley and see if they will sell me milk crates
+		maybe get some carrots too
+		-> I got some cardboard boxes from uhaul because I'm scared
+		to try to get the milk crates.  Do I need milk crates for
+		anything?
+	- [X] replace tire on passat
+		-> schedule for fri 2:30
+	- [ ] buy:
+			- milk crates, carrots x2, apples, veggie broth, diced tomatoes
+		- [X] toilet paper
+		- [X] nature's miracle odor remover
+		- [X] theraband or order (mine was dark blue-green; I could bring patch of it)
+			sporting goods store?
+			could also go to synergy
+		- [ ] 2 usb extension cables or order
+- [ ] get requirements to design shielded room
+	- [X] example drawing from holland shielding
+	- [ ] install freecad on tent computer
+	- [X] download architectural freecad tutorial
+  - [X] add to deb mirrors: stretch/updates, stretch-backports, stretch-debug, testing
+	- [X] security.debian.org stable/updates, testing/updates
+	- [X] i386 arch
+	- [X] debian/dists/stable/main/Contents-amd64 is missing?
+- [X] contact jessica to make sure we are still organizing
+- [X] set up nodejs-cyton on xo
+- [X] message katie regarding obsessive-compulsive non-psych pill dr boubolis said might help my blocking
+  [ ] turn voiceover back on on iphone
+	- [X] get a set of hanging folders for accordion file
+	- [ ] checkbook to pay state taxes; also need to pay federal
+		-> probably need to use a printer to print forms out
+		[x] get birth certificate (it's in filebox)
+		[X] enumerate what else is needed
+- [ ] buy cheese from grace hill farm at river valley or farmer's market?
+- [ ] check mafintosh regarding a recommendation for including timestamps in streams (block hashes)
+	-> no reply after general question on #dat; try again
+	-> i understand this better now; it snhould be done with a separate metadata file
+	- [X] register
+	- [X] drive back here
+- [X] get non-pink duct tape to ease distinguishing labels
+        - [X] move vehicle to florence

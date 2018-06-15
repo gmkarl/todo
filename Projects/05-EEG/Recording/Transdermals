@@ -1,0 +1,44 @@
+Notes:
+	Transdermals are M1.6 internal threads.
+	Steve Haworth is the guy to contact to move up to subdermals.
+	Could get medical implant in another country.
+	Samppa would like to be updated how my project goes.
+	I have 3 pics on my phone notes from Samppa but have only reviewed 2
+		on blackberry priv
+
+I'm measuring the impedance of my electrodes before continuing.
+
+- [ ] determine impedance of ear dermals
+- [ ] determine conductivity of transdermal shaft, base, and hole
+	- [ ] DC
+	- [ ] 32 HZ
+- [ ] ream hole wider to remove coating
+	- [ ] prep to do this; find a tool and bit
+		-> probably want a fine polish to reduce microscopic cracking
+	- [ ] if waiting, move on to next larger step
+	- [ ] do it
+	- [ ] measure impedance of hole with coating removed
+	- [ ] document steps
+- [ ] contact brian
+	- [ ] get the other one he ordered to ream out a hole in it too
+	- [ ] schedule transdermal placement, including two i've added holes
+	- [ ] ask if I could test post conductivity of existing piercing
+	- [ ] ask regarding legality
+- [ ] wear cap
+- [ ] modify firmware to engage impedance measuring
+- [ ] start posting openbci issues and offering small bounties.
+      check in with AJ about this first.
+- [ ] read impedance from recording using SIMPLE TECHNIQUE
+	- [ ] recommend RMS
+		- [ ] AFTER you implement RMS, compare noise level
+                      to signal level in order to determine best meaurement
+                      method and accuracy of result
+- [ ] set up to check impedance whenever I store a log
+- [ ] set up second device for redundancy
+
+Backburner:
+- [ ] switch to transdermals
+- [ ] get off wireless; use serial
+- [ ] hook up raspberry pi to record directly
+- [ ] stream data via e.g. openrealrecord
+
