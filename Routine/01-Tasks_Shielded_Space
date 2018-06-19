@@ -8,9 +8,14 @@
 - [ ] fill projects below based on goals farther below; do the tasks
 
 ## BRING INSIDE
+- [X] I think the EEG box is on the table between the lights in the wkroom
+- [X] multimeter
+- [X] Blue powerpole crimpers
+- [X] pi zero or pi 3.  if no pi zero perhaps order one
+- [X] square usb cable for arduino uno, or order one
 
 ## DO OUTSIDE
-- [ ] 5/31: UPDATE OVH
+- [ ] 6/24: UPDATE OVH
 - Routine:
 	if needed, bring food in
 	swap batteries
@@ -31,23 +36,41 @@
 	check snailmail (both porch and hanging)
 	post a bounty towards distributed dat logstreams
 
+- [ ] look up voltage for LNAs: 3x 28V035
+- [ ] check shipping status on noise generators
+- [ ] order replacement fuse for low-gauge wires on inverter.  Blew a 50A
+	fuse; I think the connectors are 75A.  I have a couple more connectors
+	but no wire thicker than 10 gauge in the tent.
 - [ ] order short male-male SMA adapter; like the wires I ordered but compact
+- [ ] get a mortar and pestle
 - [ ] Out of the house
+	- [ ] get prescription fluoride gel from serios (could bring old)
+	      katie is on this but she's also on the insurance address call
 	- [ ] visit collective copies and check if they got the scanner going, get the model number of their scanner?
 		-> closes at 5
 - [ ] finish purchasing box truck
+	- [ ] get medical dot card
+		- [ ] look up medical dot cards online and record process needed
 	- [ ] get mechanic to check it out
-		- [ ] record here the date expected to be done, and check on that date
-			- [ ] they say they'll know today or tomorrow
+		- [X] record here the date expected to be done, and check on that date
+			- [X] they say they'll know today or tomorrow
 				(Fri 2018-06-08 or Sat 2018-06-09)
+		- [ ] Price is >$3400 .  Get money in account.
+		- [ ] Estimated completion is by Thu 2018-06-21 but he said
+		      he hadn't checked every single state inspection
+		      requirement.  Update status here.
 	- [ ] look into getting a rearview cam at Long Radio
 	- [ ] get the owner's manual, possibly at Nutmeg International
 	                                         in west springfield
-	- [ ] get vehicle inspected
-	- [ ] get medical dot card
-		- [ ] look up medical dot cards online and record process needed
+	- [X] get vehicle inspected
+		-> mechanic will do inspection
 - [ ] if step available, pursue learn to emit, detect, block, and drown all frequencies of all media at all distances
 	- [ ] 1 MHz audio
+		-> Look up freq range of ultrasound devices
+		- [ ] emit
+		- [ ] detect
+		- [ ] block
+		- [ ] drown
 - [ ] On 2018-05-14, check soapy_power status of my existing pr
 	-> no reply yet after 5 days
 	url is https://github.com/xmiko/soapy_power/pull/11
@@ -57,8 +80,6 @@
 - [ ] mirror repos:
   - [ ] put mirror code in todo or openemissions, can clone from github
 		make it a dat?
-- [ ] water filter ... we'll want something that can process water in bulk and is low-power
-	- [ ] spend twenty minutes looking for such a thinge
 - [ ] taxes:
 	$300 for turbotax
 	$15189 for federal
@@ -192,6 +213,9 @@
   - recover & resolve all busted drives
 
 # Done
+- [ ] water filter ... we'll want something that can process water in bulk and is low-power
+	- [ ] spend twenty minutes looking for such a thinge
+	-> no longer using a water filter
 		- [X] drop it off at h&r industrial
 		- [X] ensure they know about right window and floppy steering
 		- [X] ask about extra controls, or where to learn to drive it
