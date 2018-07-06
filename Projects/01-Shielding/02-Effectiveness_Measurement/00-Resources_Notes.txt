@@ -1,0 +1,48 @@
+RTL-SDR articles may help me calculate measurement properly.
+These links are hand-typed and may contain typos.
+
+[ ] http://hansvi.be/wordpress/?p=91
+	hobbyist makes handmade noise generator and measures bandpass filter impedance
+[ ] https://www.youtube.com/channel/ucavUTk2MKVM5uDmh-BBBHqQ
+    https://www.youtube.com/watch?v=X_gd2gWyGi4
+    https://www.youtube.com/watch?v=UvaURc01Ts
+	Adam Alicajic has videos showing how to measure frequency response with noise gens
+[ ] blog.dxers.info
+	Tim Havens builds a mobile tool for measuring relative noise floors
+	Is happy for others to get in touch with him
+	a commenter mentioned airspies would work better than rtl-sdrs for this
+		makes since if they have higher samplerate.  tuning bandwidth could be
+		adjusted for with converters if it differs
+[ ] http://www.arrl.org/power-line-noise-mitigation-handbook-for-naval-and-other-receiving-sites
+	bible from navy postgraduate school regarding power line noise & possibly noise floors.  should consider getting the whole website.
+[ ] https://www.rowetel.com/?p=5867
+	Rowetel creates a live real-time measurement of the "noise figure" of an arbitrary SDR setup, using a calibrated signal generator.
+	This could help both with live updated reports of noise, and with working with
+	a calibrated sinusoidal source.
+	A commenter mentions https://www.rowetel.com/p?=5057 as well
+[ ] review amplificaion hardware.  note there is an 'lna4all' that is high
+	qual amplifier.  is helpful to use cables designed for frequency,
+	short runs
+[X] https://www.rtl-sdr.com/measuring-frequency-response-bandpass-filter-rtl-sdr
+	rtl-sdr.com just links to hans's site
+[X] https://www.rtl-sdr.com/characterizing-rf-filters-noise-source-rtl-sdr-dongle
+	Links to Adam's vidoes
+	Mentions the noise source may be built with diode circuit,
+	or parts may be purchased and combined with upconverter
+[X] more articles starting with 'measuring-*' in rtl-sdr.com could be useful
+[X] measuring-frequency-eviation-fm-transmitter-rtl-sdr
+	This is difficult to understand but appears to be about measuring the bandwidth
+	used by an fm transmitter to carry its signal.
+[X] https://www.rtl-sdr.com/measuring-power-line-noise-neighbourhood-rtl-sdr-driveby-system
+	This is worth grokking all the comments and links.
+	Tim states that rtl-sdr's don't measure the noise floor reliably until 5 min of
+	warmup time.
+	Uses Odroid XU3 which has power for 5 simultaneous dongles.
+	His writings are on blog.dxers.info
+[X] measuring-the-input-impedance-of-the-rtl28382u-direct-sampling-input-pins
+	some references regarding actually using the direct sampling pins of rtl-sdr to
+	record <14MHz
+
+
+
+
