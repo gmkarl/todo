@@ -83,14 +83,13 @@ Kitchen
 Living Room
   - ?
   - [ ] Final review
-Guest Room
+Guest Room / Side Hall
   - ?
+  - [ ] Final review
 Front Hall
   - [ ] Final review
 Garage
-  - ?
-  - Lumber
-  - Screws
+  - [X] Empty
   - [ ] Final review
 Upstairs Work Room
   - [ ] Final review
@@ -99,6 +98,10 @@ Upstairs Tent Room
 Downstairs Bethroom
   - [ ] Final review
 VW Passat
+  - [ ] Final review
+Small Trailer
+  - staple gun, many items
+  - lumber, tarps
   - [ ] Final review
 
 Truck
