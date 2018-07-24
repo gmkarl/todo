@@ -25,7 +25,7 @@ rm bt-routine.csv
 # accumulate toothbrushes/wk
 cat bt.csv | while read day
 do
-  wk=$(date -d "$day" +%G-%V)
+  wk=$(date -d "$day" +%G-wk%V)
   mkdir -p "$wk"
   if ! [ -e "$wk"/brushes ]
   then
@@ -40,7 +40,7 @@ rm bt.csv
 # accumulate n2/wk
 tr , ' ' < n2-meds.csv | while read day n2
 do
-  wk=$(date -d "$day" +%G-%V)
+  wk=$(date -d "$day" +%G-wk%V)
   cn2=$(($(printf %0.2f "$n2" | sed 's/^0//g; s/\.//g')))
   mkdir -p "$wk"
   if ! [ -e "$wk"/n2ct ]
