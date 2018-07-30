@@ -23,7 +23,7 @@ done
 rm bt-routine.csv
 
 # make folders for separating data
-for ((yr=2018; yr < $(date +%Y); yr ++))
+for ((yr=2018; yr < $(date +%G); yr ++))
 do
 	for ((wk=1; wk <=52; wk ++))
 	do
@@ -34,7 +34,7 @@ curwk=$(date +%V)
 curwk=${curwk#0}
 for ((wk=1; wk < curwk; wk ++))
 do
-	mkdir -p $(date +%Y)-wk$(printf %02d $wk)
+	mkdir -p $(date +%G)-wk$(printf %02d $wk)
 done
 
 # accumulate toothbrushes/wk
@@ -71,11 +71,28 @@ do
 done
 rm n2-meds.csv
 
+
 # consolidate data
 echo "Week" '"Recorded Brushes per Week"' '"2mg Nicotine Lozenge % per Brush"' > "Toothbrushing and Nicotine".data
+lastyear=0
 for dir in 20*-*/
 do
   label=${dir%/}
+  if [ "$label" = "$(date +%G-wk%V)" ]
+  then
+    continue
+  fi
+  yr="${label%-*}"
+  startsecs=$(date -d "$yr"-01-01 +%s)
+  wk="${label#*-wk}"
+  wk="${wk#0}"
+  if [ "$yr" == "$lastyear" ]
+  then
+    label="$(date -d @$((startsecs+wk*60*60*24*7-60*60*24)) +'"%b %-d"')"
+  else
+    lastyear="$yr"
+    label="$(date -d @$((startsecs+wk*60*60*24*7-60*60*24)) +'"%Y %b %-d"')"
+  fi
   if [ -e "$dir"n2ct ]
   then
     n2ct=$(($(<"$dir"n2ct)))
