@@ -1,6 +1,7 @@
 - PCP
 	-> neurologist? neuro etc?
 		-> cognitive decline
+    -> have to concentrate really hard to do things that used to be easy
 		-> huge holes in sensory perception
 		-> hand issue
 		-> no reflexes
@@ -34,7 +35,7 @@
 - Hand Specialiast / Specific Nerve Specialist
 
 - Records
-	NH neurologist
+	NH neurologist -> dartmouth hitchcock
 	Western MA
 		Valley Medical Group
 			Katherine Walton-Vecchio, Nurse, main careperson

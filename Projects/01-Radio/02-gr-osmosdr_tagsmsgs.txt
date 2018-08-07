@@ -1,0 +1,11 @@
+- gnuradio uses tag streams / stream tags for data synchronous with samples
+- gnuradio uses messages for asynchronous data
+
+We'll want to make sure both of these are implemented for the interfaces we use.
+This appears to be done for uhd/usrp
+
+- there are also tagged stream bocks; tags are use to identify packet boundaries
+  these appear to just be blocks that take special stream tags, but seem to have
+  innate differences too
+
+- gnuradio uses VOLK for vectorization
