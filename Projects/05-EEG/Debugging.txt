@@ -1,0 +1,42 @@
+2018-08-07 7:19 PM EST5EDT
+
+I'm accessing my OpenBCI while swishing my nicotine toothpaste.
+
+I found two; there are more.
+
+- [ ] Label it
+- [ ] Try it out following official instructions
+- [ ] Try removing the hot glue?
+- [ ] If glue is removable and still does not work, prepare to mail to Riley
+- [ ] Prepare a message to support regarding any issues
+- [ ] Try to debug it by hand
+- [ ] Measure the impedance of a resistor
+
+- [ ] Find a nearby piercer
+- [ ] Contact them and ask:
+    - Do they do microdermals?
+    - Do they know about figure-8 microdermals?  I've heard they don't come out -- does that mean they can't be removed easily, or does it mean they don't reject?
+    - If they don't reject, would they place them in me?
+    - Do they know who the nearest 3d body modifier is?
+- [ ]
+    - If microdermal success, get one and measure impedance; add tasks here
+    - If microdermal failure, contact body modifier and continue transdermal pursuit.  Inform Brian for politeness.
+
+- [ ] Ask at post office how to get a passport
+
+- [ ] Find someone out of country to place a device on my brain to record it.  This has been done for others.
+
+- [ ] Contact PCP and find the nearest neurologist
+
+
+
+
+Next:
+- [X] label
+- [ ] add piercer finding to internet todo
+- [ ] add post office request to town todo
+- [ ] add telescope planning to town todo.  note that it is valuable to try even if I forgot my toothpaste (I can also put toothpaste in bag)
+- [ ] add ecog search to internet todo
+- [ ] add label & bundle openbci repos to truck todo
+- [ ] add updating openbci repos to internet todo
+- [ ] try an openbci
