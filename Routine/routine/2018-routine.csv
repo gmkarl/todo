@@ -4,14 +4,29 @@ Date      , Time,Actua,Goal ,T,EY,,MB,,PT  ,    ,  JE,    ,MD,,FD,,BT,,  SH,,FT,
           ,     ,     ,     , , , , , ,    ,    ,    ,    , , , , , , ,   , , , , , , , , , ,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
 
 # want to get from library info on gaussian distributions: std dev if multiple samples are summed or averaged, and how to calculate % likelihood to/from deviation within
-# -> sum of two distributions has a distribution equal to the convolution of the two
+# [ ]	-> sum of two distributions has a distribution equal to the convolution of the two
 #	-> convolution in time space is the same as pointwise-product in frequency space !
-# -> sum of two normal distributions shares the sum of their means and variances
+# [ ] 	-> sum of two normal distributions shares the sum of their means and variances
 #	-> (one can infer the mean of many samples from a normal distribution would have variance divided by the number of samples, and the same mean ^_^ =D)
-# -> to find the std dev % given the probability, use the quantile function
+#	-> general formula is that var_sum = (n1 * var1 + n2 * var2) / (n1 + n2) ie general mean weighted by count
+# [X] 	-> to find the std dev % given the probability, use the quantile function
 #	-> quantile specifies the maximum value of the variable provided a given probability
 #	-> so, we'd subtract the mean, and divide by the standard deviation
 #	-> it's just erf_inv !
+
+# [X] call katie other payphone
+
+# [x] contact jim reese to meet
+# 6328 potomac highlands dr
+# 304 456-4525
+
+# [X] visit gwin after 6p
+# 
+# [X] add to todo list, get call from katie on frontier payphone, tuesday 7pm
+# [X] add to todo list, make system to quickly sync with phone, for a todo system that's stored reliably
+	e.g. git push pull
+	be nice if it handled sd cards too
+
 # Don't forget to check your written todo as well, and plan the day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
           ,     ,     ,     , , , , , ,    ,    ,    ,    , , , , , , ,   , , , , , , , , , ,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
           ,     ,     ,     , , , , , ,    ,    ,    ,    , , , , , , ,   , , , , , , , , , ,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
