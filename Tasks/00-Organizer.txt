@@ -1,3 +1,16 @@
+# CALENDAR
+
+# ACTIONABLE TASKS
+- [ ] add these items to paper for now, and add items elsewhere to paper
+- [ ] create calendar above
+- [ ] sort cruft below
+- [ ] make script to sync with phone
+- [ ] import paper items
+- [ ] scan docs, even if that means slowly unpacking the truck
+
+# CRUF TO SORT UP
+
+
 ## do today
 
 
