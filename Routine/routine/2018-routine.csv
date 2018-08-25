@@ -3,19 +3,20 @@ Date      , Time,Actua,Goal ,T,EY,,MB,,PT  ,    ,  JE,    ,MD,,FD,,BT,,  SH,,FT,
           ,     ,     ,     , ,A,G,A,G,Actu,Goal,Actu,Goal,A,G,A,G,A,G,  A,G,A,G,A,G,A,G,A,G,Act,Goa,A,G,A,G,Act,Goa,A,G,Act,Goa,Act,Goa,A,G,A,G,A,G,A,G,A,G,A,G,A,G,Actu,Goal,Actu,Goal,A,G,A,G,     ,A,G,
           ,     ,     ,     , , , , , ,    ,    ,    ,    , , , , , , ,   , , , , , , , , , ,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
 
+# [X] add to todo for frontier installation
+	my acct/phone # is 304 456 5564
+	8a - 12p Fri Aug 31 must be present
 # [ ]	-> sum of two distributions has a distribution equal to the convolution of the two
 #	-> convolution in time space is the same as pointwise-product in frequency space !
 # [ ] 	-> sum of two normal distributions shares the sum of their means and variances
 #	-> (one can infer the mean of many samples from a normal distribution would have variance divided by the number of samples, and the same mean ^_^ =D)
 #	-> general formula is that var_sum = (n1 * var1 + n2 * var2) / (n1 + n2) ie general mean weighted by count
-# jim reese tiny hose
-# 6328 potomac highlands dr
-# 304 456-4525
 
-# Don't forget to check your written todo as well, and plan the day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
+# Don't forget to check your written todo and Tasks/00-Organizer as well, and plan the day,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
           ,     ,     ,     , , , , , ,    ,    ,    ,    , , , , , , ,   , , , , , , , , , ,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
           ,     ,     ,     , , , , , ,    ,    ,    ,    , , , , , , ,   , , , , , , , , , ,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , , , , ,    ,    ,    ,    , , , , ,     , , ,
-2018-08-24,06:24,     ,     , ,1,1,0, , 0.2,    ,   0,    ,1,1,1,1,1,1,  1,1,0, ,1,1, , ,1,1,   ,   , , , , ,   ,  1, , ,   ,   ,   ,   , , , , , , , , , , , ,1, , ,    ,    ,    ,    , ,1, ,1,     , ,2,O:SETI tour 1pm; start internet at tiny house -- think about what to bring to shower; what to bring to tour; what to bring to reese's place
+2018-08-25,10:22,     ,     , , ,1, ,1,    ,    ,    ,    , ,1, ,1, ,1,   ,1, , , ,1, , , ,1,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , , , , , ,1, , ,    ,    ,    ,    , ,1, ,1,     , ,2,O:prep for convergent facilitation; call father
+2018-08-24,06:24,     ,     , ,1,1,0, , 0.2,    ,   0,    ,1,1,1,1,1,1,  1,1,0, ,1,1, , ,1,1,   ,   , , , , ,  1,  1, , ,   ,   ,   ,   , , , , , , , , , , ,1,1, , ,    ,    ,    ,    ,1,1,0,1,     ,2,2,O:SETI tour 1pm; start internet at tiny house -- think about what to bring to shower; what to bring to tour; what to bring to reese's place
 2018-08-23,06:51,     ,     ,1,1,1,0, , 0.2, 0.2,   0,    ,1,1,1,1,1,1,  0, ,0, ,1,1,0, ,1,1,  1,   ,0, ,0, ,  1,   ,0, ,  0,   ,   ,   , , ,0, , , ,1, ,0, ,1,1,0, ,   0,    ,   0,    ,1,1,1,1,     ,2,2,O:call Katie 11a; get gaussian stats from library (and maybe a stats textbook?)
 2018-08-22,     ,     ,     ,1,1, ,0, ,   0,    ,   0,    ,0, ,1, ,1, ,  0, ,0, ,1, , , ,1, ,  1,   ,0, ,0, ,  1,   ,0, ,  0,   ,   ,   , , ,0, ,1, ,1, ,0, ,0, ,0, ,   0,    ,   0,    ,1, ,0, ,     , , ,drove bert&diane to roanoke; went to dinner with diane; went to bible study with diane
 2018-08-21,07:56,     ,     , ,1,1,1, , 0.1,    ,    ,    ,1,1,1,1,1,1,  0, ,0, ,1,1, , ,1,1,   ,   , , , , ,   ,   , , ,   ,   ,   ,   , , , , , , , ,1, ,1, ,1, , ,    ,    ,    ,    , ,1, ,1,     , ,5,O: mail registration; look up items for tara; order cam cable; call jeremy; work on noise gen
