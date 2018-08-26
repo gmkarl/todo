@@ -14,10 +14,15 @@
 
 - [ ] 2018-08-26 Sun
 	- [ ] Convergent Facilitation training
+	- [X] Clean house a little
+	- [X] Preserve some apples
+	- [ ] Work on noiscillate detection
+	- [X] Work on this sync script
 
 - [ ] 2018-08-27 Mon
 	- [ ] After 2 PM: Help Gwin set up her computers.
 			("please go to e.g. a job interview rather than my house")
+		- [ ] WIPE GWIN'S COMPUTER (due 2018-08-31)
 		-> she has wireless router, new comp, and may physically move old comp
 		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
 		-> I have a router untested 
@@ -37,7 +42,6 @@
 
 # UPCOMING
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
-- [ ] WIPE GWIN'S COMPUTER (due 2018-08-31)
 
 # ACTIONABLE TASKS
 
@@ -53,7 +57,12 @@
 		- [ ] information items
 		- [ ] other items
 
+## dollar store
+- [ ] get stout tank of gas for stove
+- [ ] get scale for nicotine
+
 ## internet
+- [ ] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've nearly made one myself)
 - [ ] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
 		David T. Frayer
 		SCIENTIST
