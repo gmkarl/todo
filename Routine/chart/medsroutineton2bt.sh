@@ -6,10 +6,10 @@ cut -d , -f 1,18 ../routine/2018-routine.csv | grep ....-..-..,1 > bt-routine.cs
 cut -d , -f 1,54 ../routine/2018-routine.csv | grep ....-..-..,1 >> bt-routine.csv
 
 # store recorded times nicotine taken
-grep N2 ../meds/2018-meds.csv | tr T , | cut -d , -f 1,4 | grep ....-..-.., > n2-meds.csv
+grep N[24] ../meds/2018-meds.csv | tr T , | cut -d , -f 1,3,4 | grep ....-..-.., > n-meds.csv
 
 # remove nicotine times from routine times
-cut -d , -f 1 n2-meds.csv | while read date
+cut -d , -f 1 n-meds.csv | while read date
 do
   grep -v "$date" bt-routine.csv > bt-routine-2.csv
   mv bt-routine-2.csv bt-routine.csv
@@ -18,7 +18,7 @@ done
 # create list of toothbrush times
 {
   cut -d , -f 1 bt-routine.csv
-  cut -d , -f 1 n2-meds.csv
+  cut -d , -f 1 n-meds.csv
 } | sort > bt.csv
 rm bt-routine.csv
 
@@ -52,28 +52,30 @@ do
 done
 rm bt.csv
 
-# accumulate n2/wk
-tr , ' ' < n2-meds.csv | while read day n2
+# accumulate nmg/wk
+tr , ' ' < n-meds.csv | while read day ntype nratio
 do
   wk=$(date -d "$day" +%G-wk%V)
-  cn2=$(($(printf %0.2f "$n2" | sed 's/^0//g; s/\.//g')))
+  npct=$(($(printf %0.2f "$nratio" | sed 's/^0//g; s/\.//g')))
+  ntotalmg=$(($(echo "$ntype" | sed 's/[^0-9]//g')))
+  nmicrog=$((npct * ntotalmg * 10))
   mkdir -p "$wk"
-  if ! [ -e "$wk"/n2ct ]
+  if ! [ -e "$wk"/nct ]
   then
-    n2ct=1
-    n2accum=$((cn2))
+    nct=1
+    naccum=$((nmicrog))
   else
-    n2ct=$(($(<"$wk"/n2ct) + 1))
-    n2accum=$(($(<"$wk"/n2accum) + cn2))
+    nct=$(($(<"$wk"/nct) + 1))
+    naccum=$(($(<"$wk"/naccum) + nmicrog))
   fi
-  echo $((n2ct)) > "$wk"/n2ct
-  echo $((n2accum)) > "$wk"/n2accum
+  echo $((nct)) > "$wk"/nct
+  echo $((naccum)) > "$wk"/naccum
 done
-rm n2-meds.csv
+rm n-meds.csv
 
 
 # consolidate data
-echo "Week" '"Recorded Brushes per Week"' '"2mg Nicotine Lozenge % per Brush"' > "Toothbrushing and Nicotine".data
+echo "Week" '"Recorded Brushes per Week"' '"Micrograms Nicotine per Brush"' > "Toothbrushing and Nicotine".data
 lastyear=0
 for dir in 20*-*/
 do
@@ -93,13 +95,13 @@ do
     lastyear="$yr"
     label="$(date -d @$((startsecs+wk*60*60*24*7-60*60*24)) +'"%Y %b %-d"')"
   fi
-  if [ -e "$dir"n2ct ]
+  if [ -e "$dir"nct ]
   then
-    n2ct=$(($(<"$dir"n2ct)))
-    n2accum=$(($(<"$dir"n2accum)))
-    n2brush=$((n2accum/n2ct))
+    nct=$(($(<"$dir"nct)))
+    naccum=$(($(<"$dir"naccum)))
+    nbrush=$((naccum/nct))
   else
-    n2brush=0
+    nbrush=0
   fi
   if [ -e "$dir"brushes ]
   then
@@ -108,7 +110,7 @@ do
     brushes=0
   fi
   rm -rf "$dir"
-  echo "$label" $((brushes)) $((n2brush))
+  echo "$label" $((brushes)) $((nbrush))
 done | tee -a "Toothbrushing and Nicotine".data
 
 cat <<EOF | gnuplot
