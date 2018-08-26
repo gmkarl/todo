@@ -1,4 +1,4 @@
-Week "Recorded Brushes per Week" "2mg Nicotine Lozenge % per Brush"
+Week "Recorded Brushes per Week" "Micrograms Nicotine per Brush"
 "2018 Jan 7" 4 0
 "Jan 14" 5 0
 "Jan 21" 12 0
@@ -22,10 +22,13 @@ Week "Recorded Brushes per Week" "2mg Nicotine Lozenge % per Brush"
 "May 27" 2 0
 "Jun 3" 2 0
 "Jun 10" 2 0
-"Jun 17" 4 25
-"Jun 24" 3 25
-"Jul 1" 4 31
-"Jul 8" 4 25
-"Jul 15" 5 35
-"Jul 22" 5 50
-"Jul 29" 8 46
+"Jun 17" 4 500
+"Jun 24" 3 500
+"Jul 1" 4 625
+"Jul 8" 4 500
+"Jul 15" 5 700
+"Jul 22" 5 1000
+"Jul 29" 8 937
+"Aug 5" 6 1000
+"Aug 12" 7 1000
+"Aug 19" 10 1836
