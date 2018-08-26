@@ -4,14 +4,23 @@
 	- [ ] Diane would like a visit again soon.
 	      I also need to tell her I have moved.
 
-- [X] 2018-08-24 Fri		
-	- [X] 1:00 pm SETI tour ! 
 - [ ] 2018-08-25 Sat
-	- [ ] Get time for Convergent Facilitation training: how?  maybe check phone?
-	- [ ] Do Convergent Facilitation homework
+	- [X] Get time for Convergent Facilitation training: how?  maybe check phone?
+		-> I found this in my written TODO but do not recall it
+		-> 10:30 AM?
+	- [/] Do Convergent Facilitation homework
+	- [X] Call father
+	- [/] Get charging cable for 2nd-factor phone and SoC box and NVC book
 
 - [ ] 2018-08-26 Sun
 	- [ ] Convergent Facilitation training
+
+- [ ] 2018-08-27 Mon
+	- [ ] After 2 PM: Help Gwin set up her computers.
+			("please go to e.g. a job interview rather than my house")
+		-> she has wireless router, new comp, and may physically move old comp
+		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
+		-> I have a router untested 
 
 - [ ] 2018-08-28 Tue
 	- [ ] 7:00 PM Call Katie
@@ -34,8 +43,10 @@
 
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
-	- [X] create calendar above
 	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
+		- [ ] install adb for sys-net
+		- [ ] set up syncing between vms on qubes
+			-> src/gitbundleautosync on dev-whonix
 	- [ ] sort cruft below
 	- [ ] import paper items from the 2 notebooks
 		- [ ] todo items
@@ -183,5 +194,8 @@ put heat shrink tubing on my electrodes
 
 
 # DONE
+	- [X] create calendar above
+- [X] 2018-08-24 Fri		
+	- [X] 1:00 pm SETI tour ! 
 - [X] add these items to paper for now, and add items elsewhere to paper
 	-> paper already has a truck item for making a todo sync system for tracking
