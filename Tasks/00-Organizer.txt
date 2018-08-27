@@ -4,28 +4,14 @@
 	- [ ] Diane would like a visit again soon.
 	      I also need to tell her I have moved.
 
-- [ ] 2018-08-25 Sat
-	- [X] Get time for Convergent Facilitation training: how?  maybe check phone?
-		-> I found this in my written TODO but do not recall it
-		-> 10:30 AM?
-	- [/] Do Convergent Facilitation homework
-	- [X] Call father
-	- [/] Get charging cable for 2nd-factor phone and SoC box and NVC book
-
-- [ ] 2018-08-26 Sun
-	-x[-]-Convergent Facilitation training
-	- [X] Clean house a little
-	- [X] Preserve some apples
-	- [/] Work on noiscillate detection
-	- [X] Work on this sync script
-
 - [ ] 2018-08-27 Mon
 	- [ ] After 2 PM: Help Gwin set up her computers.
 			("please go to e.g. a job interview rather than my house")
 		- [ ] WIPE GWIN'S COMPUTER (due 2018-08-31)
 		-> she has wireless router, new comp, and may physically move old comp
 		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
-		-> I have a router untested 
+		-> I have a router untested, and a couple possible ethernet cables
+	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something)
 
 - [ ] 2018-08-28 Tue
 	- [ ] 7:00 PM Call Katie
@@ -204,6 +190,21 @@ put heat shrink tubing on my electrodes
 
 
 # DONE
+
+- [X] 2018-08-25 Sat
+	- [X] Get time for Convergent Facilitation training: how?  maybe check phone?
+		-> I found this in my written TODO but do not recall it
+		-> 10:30 AM?
+	- [/] Do Convergent Facilitation homework
+	- [X] Call father
+	- [/] Get charging cable for 2nd-factor phone and SoC box and NVC book
+
+- [X] 2018-08-26 Sun
+	-x[-]-Convergent Facilitation training
+	- [X] Clean house a little
+	- [X] Preserve some apples
+	- [/] Work on noiscillate detection
+	- [X] Work on this sync script
 	- [X] create calendar above
 - [X] 2018-08-24 Fri		
 	- [X] 1:00 pm SETI tour ! 
