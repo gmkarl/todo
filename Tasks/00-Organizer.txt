@@ -13,10 +13,10 @@
 	- [/] Get charging cable for 2nd-factor phone and SoC box and NVC book
 
 - [ ] 2018-08-26 Sun
-	- [ ] Convergent Facilitation training
+	-x[-]-Convergent Facilitation training
 	- [X] Clean house a little
 	- [X] Preserve some apples
-	- [ ] Work on noiscillate detection
+	- [/] Work on noiscillate detection
 	- [X] Work on this sync script
 
 - [ ] 2018-08-27 Mon
@@ -59,7 +59,6 @@
 
 ## dollar store
 - [ ] get stout tank of gas for stove
-- [ ] get scale for nicotine
 
 ## internet
 - [ ] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've nearly made one myself)
@@ -69,6 +68,8 @@
 		dfrayer@nrao.edu
 		greenbankobservatory.org/~dfrayer
 		304-456-2223
+- [ ] sign up for another nvcacademy course; I couldn't make all the content for the convergent facilitation one
+- [ ] order scale for nicotine
 
 
 ## truck
