@@ -4,16 +4,17 @@
 	- [ ] Diane would like a visit again soon.
 	      I also need to tell her I have moved.
 
-- [ ] 2018-08-27 Mon
-	- [ ] After 2 PM: Help Gwin set up her computers.
+- [!] 2018-08-27 Mon 
+	- [X] After 2 PM: Help Gwin set up her computers.
 			("please go to e.g. a job interview rather than my house")
-		- [ ] WIPE GWIN'S COMPUTER (due 2018-08-31)
+		- [X] WIPE GWIN'S COMPUTER (due 2018-08-31)
 		-> she has wireless router, new comp, and may physically move old comp
 		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
 		-> I have a router untested, and a couple possible ethernet cables
-	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something)
+	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something; a stack of papers from dump?)
 
 - [ ] 2018-08-28 Tue
+	- [ ] midday/morning? Gwyn: bring laundry;
 	- [ ] 7:00 PM Call Katie
 
 - [ ] 2018-08-31 Fri
@@ -26,13 +27,21 @@
 			9:45 AM
 			1300 Jefferson Park Ave 2nd floor, Charlottesville
 
+- [ ] 2018-12-05
+	- [ ] 3:00 PM dental filling, Dr Joshua Abbott
+
+- [ ] 2019-02-14
+	- [ ] 1:00 PM dental cleaning
+
 # UPCOMING
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
+- [ ] fill out records request for opthalmology.  it's in the black folder
 
 # ACTIONABLE TASKS
 
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
+	- [ ] fill out opthalmology request, above
 	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
 		- [ ] install adb for sys-net
 		- [ ] set up syncing between vms on qubes
@@ -47,7 +56,8 @@
 - [ ] get stout tank of gas for stove
 
 ## internet
-- [ ] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've nearly made one myself)
+- [ ] get date/time for tech tour
+- [ ] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
 - [ ] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
 		David T. Frayer
 		SCIENTIST
