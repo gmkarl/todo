@@ -4,7 +4,7 @@
 	- [ ] Diane would like a visit again soon.
 	      I also need to tell her I have moved.
 
-- [!] 2018-08-27 Mon 
+- [X] 2018-08-27 Mon 
 	- [X] After 2 PM: Help Gwin set up her computers.
 			("please go to e.g. a job interview rather than my house")
 		- [X] WIPE GWIN'S COMPUTER (due 2018-08-31)
@@ -18,6 +18,7 @@
 		-> laundry
 		-> wiring tools
 		-> computer accessories?
+	- [ ] fix laptop charging cable
 	- [ ] have fire to relax & make ash ????
 	- [ ] 7:00 PM Call Katie
 
@@ -60,6 +61,7 @@
 - [ ] get stout tank of gas for stove
 
 ## internet
+- [ ] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
 - [ ] get date/time for tech tour
 - [ ] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
 - [ ] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
