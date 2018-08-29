@@ -13,16 +13,17 @@
 		-> I have a router untested, and a couple possible ethernet cables
 	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something; a stack of papers from dump?)
 
-- [ ] 2018-08-28 Tue
+- [X] 2018-08-28 Tue
 	- [X] midday/morning? Gwyn: bring laundry;
 		-> laundry
 		-> wiring tools
 		-> computer accessories?
-	- [ ] fix laptop charging cable
-	- [ ] have fire to relax & make ash ????
+	- [X] fix laptop charging cable
+	- [X] have fire to relax & make ash ????
 	- [X] 7:00 PM Call Katie
 
-- [ ] 2018-08-29 Wed
+- [!] 2018-08-29 Wed
+	- [ ] 12p call Dr Mooney
 	- [ ] Try to get $1800 for Reese rental.  It's going into five county.
 
 - [ ] 2018-08-30 Thu
