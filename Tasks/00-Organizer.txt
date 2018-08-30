@@ -1,0 +1,253 @@
+# CALENDAR
+
+- [ ] 2018-08-22 Wed
+	- [ ] Diane would like a visit again soon.
+	      I also need to tell her I have moved.
+
+- [X] 2018-08-27 Mon 
+	- [X] After 2 PM: Help Gwin set up her computers.
+			("please go to e.g. a job interview rather than my house")
+		- [X] WIPE GWIN'S COMPUTER (due 2018-08-31)
+		-> she has wireless router, new comp, and may physically move old comp
+		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
+		-> I have a router untested, and a couple possible ethernet cables
+	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something; a stack of papers from dump?)
+
+- [X] 2018-08-28 Tue
+	- [X] midday/morning? Gwyn: bring laundry;
+		-> laundry
+		-> wiring tools
+		-> computer accessories?
+	- [X] fix laptop charging cable
+	- [X] have fire to relax & make ash ????
+	- [X] 7:00 PM Call Katie
+
+- [X] 2018-08-29 Wed
+	- [X] 12p call Dr Mooney
+
+- [ ] 2018-08-30 Thu
+	- [ ] Try to get $1800 for Reese rental.  It's going into five county.
+	- [ ] get noise gen equip from truck 
+	- [ ] order sawdust
+	- [ ] read e-mail katie
+
+- [ ] 2018-08-31 Fri
+	- [ ] 8:00 AM - 12:00 PM be present for frontier installation
+	- [ ] Visit Gwyn
+		- clean electrodes on phone box
+		- install web-browsers on comp
+		- clean out devices?
+		- debug internet?
+
+- [ ] 2018-09-03 Mon
+	- [ ] 11:00 AM Call Katie
+
+- [ ] 2018-09-05 Wed
+	- [ ] 1:00 PM Dr Mooney
+
+- [ ] 2018-09-09 Sun
+	- [ ] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
+
+- [ ] 2018-09-14
+	- [ ] Get piercing consult
+	- [ ] 7:00 am Leave for Opthalmology Appt
+			9:45 AM
+			1300 Jefferson Park Ave 2nd floor, Charlottesville
+
+- [ ] 2018-09-19 Wed
+	- [ ] 12:00 pm Dr Mooney
+
+- [ ] 2018-12-05
+	- [ ] 3:00 PM dental filling, Dr Joshua Abbott
+
+- [ ] 2019-02-14
+	- [ ] 1:00 PM dental cleaning
+
+# UPCOMING
+- [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
+- [ ] fill out records request for opthalmology.  it's in the black folder
+
+# ACTIONABLE TASKS
+
+## computer
+- [ ] Organization / Todo (feel free to REORDER)
+	- [ ] fill out opthalmology request, above
+	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
+		- [ ] install adb for sys-net
+		- [ ] set up syncing between vms on qubes
+			-> src/gitbundleautosync on dev-whonix
+	- [ ] sort cruft below
+	- [ ] import paper items from the 2 notebooks
+		- [ ] todo items
+		- [ ] information items
+		- [ ] other items
+
+## dollar store
+- [ ] get stout tank of gas for stove
+
+## internet
+- [ ] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
+- [ ] get date/time for tech tour
+- [ ] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
+- [ ] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
+		David T. Frayer
+		SCIENTIST
+		dfrayer@nrao.edu
+		greenbankobservatory.org/~dfrayer
+		304-456-2223
+- [ ] sign up for another nvcacademy course; I couldn't make all the content for the convergent facilitation one
+- [ ] order scale for nicotine
+
+
+## truck
+- [ ] GET CHARGE CABLE FOR SECURITY TOKEN
+- [ ] slowly unpack the truck in order to scan docs (or find other scanning solution)
+
+# CRUFT TO SORT UP
+
+
+## do today
+
+
+
+## purchase / create / find today
+
+
+
+## every shift 10 minutes:
+- [ ] weld
+- [ ] trailer
+- [ ] eeg
+- [ ] moving
+- [ ] unpacking
+- [ ] shielding
+
+- [ ] interpersonal notes
+- [ ] starred emails and todo items
+- [ ] chores
+- [ ] academic
+- [ ] radio
+
+- [ ] nature
+- [ ] chores
+- [ ] bitcoin
+- [ ] papers and planning
+- [ ] solar
+
+
+
+## do this week
+
+
+
+
+
+## purchase / create / find this week
+
+
+
+
+
+## done this week!
+
+
+
+
+
+
+
+## doable task ideas
+get piano
+organize papers 
+replace cell phone
+design tent interior
+investigate volunteer work
+purchase items for tent
+try no-cell phone week, starting Mon 3.19 or 3.26
+set a date to sort and retreive belongings from Portland
+return furniture to bridge st
+practice welding
+set up internet
+set up landline
+put heat shrink tubing on my electrodes
+ clean and sterilize the electrodes
+ expand "Project" organization system: make an "activities" folder and give each activity priority items from the projects. Activities should mesh with my phone tasks system.
+ Make a project for working on these organization systems.
+ work on EE lab report for 6 hours total
+ make door for trailer
+ build simple trailer (1 alu layer)
+ hire tech-savvy researcher, worker, executive assistant
+ review local resources from activist planner; zine place only opens for events
+ make haven phone work
+ finish backup of old drive data, remember my annex is in there!
+ buy truck
+ update trailer sticker
+ get a new eye doctor
+ visit mill180
+ visit artsy place katie found
+ visit makerspace to the south
+ restaple walls trailer
+ sync inventory list with this repo
+ resume symptom log; staff can help
+ figure out if mt.gox will give me my money or if I am too late
+
+## confusing task ideas
+- [ ] submit job posting, could mention familiarity with linux command line and neuroscience or machine learning
+- [ ] clean laptop using high concentration rubbing alcohol
+- [ ] check bridge st packages
+- [ ] get dermal tops removed
+- [ ] get ears pierced
+- [ ] get more dermals, replace any dermals not working
+- [ ] put bounty on prereq for hyperdb improvement
+- [ ] run bounty updater and keep it running always
+- [ ] put bounty on rest of tasks needed to create dat sensor and video streams, databases, websites, and archives that are timestamped on blockchain
+- [ ] put bounties on openbci issues
+- [ ] do my morning routine
+- [ ] get my cbd oil from the car, take it, and mark having took it
+- [ ] put salt water on my piercings
+- [ ] open the mail I got from the eastern mass
+- [ ] open the mail on the table downstairs
+- [ ] do something with my AAA card on the stairs
+- [ ] open the mail I have stored in my possessions
+- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
+- [ ] build & test a small box
+- [ ] Find trailer registration
+- [ ] consolidate possessions
+- [ ] learn about shielded vestibules
+- [ ] learn to weld
+- [ ] find person to build room for me
+- [ ] organize notes for shielding goals somewhere
+- [ ] brass used for knife edge on door; how to connect this to wall?
+    -> probably you could bolt it into threaded holes and seal the joint
+  - [ ] how do existing structures do it?
+  - [ ] what attenuation properties provided by high conductivity of brass?
+  - [ ] what materials will work for 200dB walls?
+- [ ] follow up neurologist dartmouth hitchcock; include question re white matter
+      note: katie found local neurologist
+- [ ] remember + consolidate in writing importance of shielding using common or scavanged materials (e.g. say i can't receive mail or cannot phone or email or have no money)
+- [ ] Finish EE lab report
+- [ ] Add items for tasks not on this list
+- [ ] figure out junk in passat
+
+
+# DONE
+
+- [X] 2018-08-25 Sat
+	- [X] Get time for Convergent Facilitation training: how?  maybe check phone?
+		-> I found this in my written TODO but do not recall it
+		-> 10:30 AM?
+	- [/] Do Convergent Facilitation homework
+	- [X] Call father
+	- [/] Get charging cable for 2nd-factor phone and SoC box and NVC book
+
+- [X] 2018-08-26 Sun
+	-x[-]-Convergent Facilitation training
+	- [X] Clean house a little
+	- [X] Preserve some apples
+	- [/] Work on noiscillate detection
+	- [X] Work on this sync script
+	- [X] create calendar above
+- [X] 2018-08-24 Fri		
+	- [X] 1:00 pm SETI tour ! 
+- [X] add these items to paper for now, and add items elsewhere to paper
+	-> paper already has a truck item for making a todo sync system for tracking
