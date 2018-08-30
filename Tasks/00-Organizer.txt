@@ -22,27 +22,40 @@
 	- [X] have fire to relax & make ash ????
 	- [X] 7:00 PM Call Katie
 
-- [!] 2018-08-29 Wed
-	- [ ] 12p call Dr Mooney
-	- [ ] Try to get $1800 for Reese rental.  It's going into five county.
+- [X] 2018-08-29 Wed
+	- [X] 12p call Dr Mooney
 
 - [ ] 2018-08-30 Thu
-	- [ ] Visit Gwyn
-		- clean out devices
-		- clean electrodes on phone box
+	- [ ] Try to get $1800 for Reese rental.  It's going into five county.
+	- [ ] get noise gen equip from truck 
+	- [ ] order sawdust
+	- [ ] read e-mail katie
 
 - [ ] 2018-08-31 Fri
-	- [ ] Gwin would like her mother's computer wiped BEFORE this day.
 	- [ ] 8:00 AM - 12:00 PM be present for frontier installation
+	- [ ] Visit Gwyn
+		- clean electrodes on phone box
+		- install web-browsers on comp
+		- clean out devices?
+		- debug internet?
 
 - [ ] 2018-09-03 Mon
 	- [ ] 11:00 AM Call Katie
+
+- [ ] 2018-09-05 Wed
+	- [ ] 1:00 PM Dr Mooney
+
+- [ ] 2018-09-09 Sun
+	- [ ] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
 
 - [ ] 2018-09-14
 	- [ ] Get piercing consult
 	- [ ] 7:00 am Leave for Opthalmology Appt
 			9:45 AM
 			1300 Jefferson Park Ave 2nd floor, Charlottesville
+
+- [ ] 2018-09-19 Wed
+	- [ ] 12:00 pm Dr Mooney
 
 - [ ] 2018-12-05
 	- [ ] 3:00 PM dental filling, Dr Joshua Abbott
