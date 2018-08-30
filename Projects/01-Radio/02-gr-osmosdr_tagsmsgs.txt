@@ -9,3 +9,5 @@ This appears to be done for uhd/usrp
   innate differences too
 
 - gnuradio uses VOLK for vectorization
+
+- !!! gr-osmosdr already appears to use some messages, but no tags
