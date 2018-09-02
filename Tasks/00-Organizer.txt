@@ -3,42 +3,53 @@
 - [ ] 2018-08-22 Wed
 	- [ ] Diane would like a visit again soon.
 	      I also need to tell her I have moved.
+		-> note bert is back and they went to iowa for a couple days, 9/01
 
+- [X] 2018-09-01 Sat
+	- [X] order pocket notepad
+	- [X] check in about internet/phone installation 
+		library open 10a - 4p
+		check e-mail & voicemail regarding frontier
+		get frontier #, call from payphone
 
-- [X] 2018-08-30 Thu
-	- [X] Try to get $1800 for Reese rental.  It's going into five county.
-	- [X] get noise gen equip from truck 
-	- [X] order sawdust
-	- [X] get ashes after 4:30
-	- [X] read e-mail katie
-
-- [ ] 2018-08-31 Fri
-	- [ ] 8:00 AM - 12:00 PM be present for frontier installation
-	- [ ] 1:00 PM psychotherapy jeremy
-	- [ ] Get bank check from mail.
-		- [ ] open bank account & get $1800 cash for rent
-		- [ ] get 2 receipts for rent, 
-			- 1 for $1200 for the first and last month's rent
-			- 1 for $600 for the security deposit
-	- [ ] Visit Gwyn
-		- bring ethernet cable i took by accident
-		- clean electrodes on phone box
-		- install web-browsers on comp
-		- clean out devices?
-		- debug internet?
-
-- [ ] 2018-09-02 Sun
-	- [ ] Is there convergent facilitation this day?  What is the schedule?
+- [!] 2018-09-02 Sun
+	- [X] Is there convergent facilitation this day?  What is the schedule?
+		- I think it might be not till the ninth, not sure !
+	- [ ] buy size 3 box to upgrade toiletries
+	- [ ] go to place with internet; sync wigle & lookup FFT precision
 
 - [ ] 2018-09-03 Mon
 	- [ ] 11:00 AM Call Katie
+	- [ ] get wrench and wire brush?
+
+- [ ] 2018-09-04 Tue
+	- [ ] Call Frontier to get router provisioned (assignments having time to get line card set up?)
+		800-239-4430 is provisioning number i think
+		877-669-5535 is general frontier umber
 
 - [ ] 2018-09-05 Wed
+	- [ ] Withdraw money for rent w/ two receipts
+			- 1 for $1200 for the first and last month's rent
+			- 1 for $600 for the security deposit
+	- [ ] MID-MORNING to noon Jim Taggart visits through Thursday morning.
 	- [ ] 1:00 PM Dr Mooney
-	- [ ] 12:00 PM Jim Taggart visits through Thursday morning.
 		- get box truck out
 		- solidfy/interview PCAs
 		- think of what else we can accomplish -- packing / organizing?
+
+Thu
+	- [ ] 10:00a meet with professional services with Jim Taggart
+
+Fri
+	- [ ] 1:00 PM psychotherapy jeremy
+	- [ ] maybe gwyn, check e-mail or somesuch
+	- [ ] Work towards speeding up Gwyn's computer
+		- concepts on the table:
+			- figuring internet usage out and how it compares to available bandwidth
+			- cleaning/replacing phone connectors
+		- Bring:
+			- laptop + ethernet adapter + cable
+			- things to clean & replace contacts with (wrench? wire brush?)
 
 - [ ] 2018-09-09 Sun
 	- [ ] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
@@ -47,10 +58,10 @@
 	- [ ] 3:30 PM High-tech tour of observatory
 
 - [ ] 2018-09-14
-	- [ ] Get piercing consult
 	- [ ] 7:00 am Leave for Opthalmology Appt
 			9:45 AM
 			1300 Jefferson Park Ave 2nd floor, Charlottesville
+	- [ ] Get piercing consult
 
 - [ ] 2018-09-19 Wed
 	- [ ] 12:00 pm Dr Mooney
@@ -69,13 +80,17 @@
 
 # ACTIONABLE TASKS
 
+## store
+- [ ] buy size 3 box to upgrade toiletries
+
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
 	- [X] fill out opthalmology request, above
 	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
 		- [X] install adb for sys-net
-		- [ ] set up syncing between vms on qubes
+		- [X] set up syncing between vms on qubes
 			-> src/gitbundleautosync on dev-whonix
+		- [ ] autosync everything when device plugged
 	- [ ] sort cruft below
 	- [ ] import paper items from the 2 notebooks
 		- [ ] todo items
@@ -83,22 +98,18 @@
 		- [ ] other items
 
 ## internet
+- [ ] look up interpolating two fft results to get a more precise frequency
+	-> useful: trig identity for sin(x)*sin(x+b) or similar
+- [ ] look up sending a desktop notification from a system service
+	no xdg stuff set up, xsession for user
+	basically nofify-send from systemd
+	could also user systemd, but systemd --user isn't running [debian, maybe fedora]
+- [ ] get an awareness class
+- [ ] get matlab license file
+	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
 - [ ] order noise generator (x2 if affordable)
 - [ ] order iphone cable & iphone battery case
-- [ ] order pocket-sized notebook (write-in-the-rain?)
-- [X] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
-- [x] get date/time for tech tour
-- [X] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
-	-> nah it's a new thing
-- [X] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
-		David T. Frayer
-		SCIENTIST
-		dfrayer@nrao.edu
-		greenbankobservatory.org/~dfrayer
-		304-456-2223
-	sent an e-mail 2018-08-30
 - [ ] sign up for another nvcacademy course; I couldn't make all the content for the convergent facilitation one
-- [X] order scale for nicotine
 - [ ] share my gitbundleautosync projects; they're useful tools
 
 
@@ -234,7 +245,39 @@ put heat shrink tubing on my electrodes
 
 
 # DONE
+- [X] order scale for nicotine
+- [X] order pocket-sized notebook (write-in-the-rain?)
+- [X] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
+- [x] get date/time for tech tour
+- [X] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
+	-> nah it's a new thing
+- [X] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
+		David T. Frayer
+		SCIENTIST
+		dfrayer@nrao.edu
+		greenbankobservatory.org/~dfrayer
+		304-456-2223
+	sent an e-mail 2018-08-30
+- [X] 2018-08-30 Thu
+	- [X] Try to get $1800 for Reese rental.  It's going into five county.
+	- [X] get noise gen equip from truck 
+	- [X] order sawdust
+	- [X] get ashes after 4:30
+	- [X] read e-mail katie
 
+- [X] 2018-08-31 Fri
+	- [?] 8:00 AM - 12:00 PM be present for frontier installation
+		-> moved to before 5 pm
+	- [X] 1:00 PM psychotherapy jeremy
+	- [X] Get bank check from mail.
+		- [X] open bank account & get $1800 cash for rent
+		- [ ] get 2 receipts for rent, 
+	- [X] Visit Gwyn
+		- bring ethernet cable i took by accident
+		- clean electrodes on phone box
+		- install web-browsers on comp
+		- clean out devices?
+		- debug internet?
 ## dollar store
 --[_]-get stout tank of gas for stove
 	no stove, fire hazard
