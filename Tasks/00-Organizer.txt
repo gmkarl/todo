@@ -15,7 +15,7 @@
 - [!] 2018-09-02 Sun
 	- [X] Is there convergent facilitation this day?  What is the schedule?
 		- I think it might be not till the ninth, not sure !
-	- [ ] buy size 3 box to upgrade toiletries
+	- [ ] get paper file box
 	- [ ] go to place with internet; sync wigle & lookup FFT precision
 
 - [ ] 2018-09-03 Mon
@@ -80,8 +80,8 @@ Fri
 
 # ACTIONABLE TASKS
 
-## store
-- [ ] buy size 3 box to upgrade toiletries
+## wavr
+- [ ] get paper file box
 
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
@@ -99,18 +99,21 @@ Fri
 
 ## internet
 - [ ] look up interpolating two fft results to get a more precise frequency
-	-> useful: trig identity for sin(x)*sin(x+b) or similar
+	-> useful: trig identity for sin(a) * sin(b) or similar  (for sin sin case)
+	->         trig identitify for sin(a) + sin(b)  (for sin sqwv case, after expansion)
+			goal is to only have 1 trig func =S
+- [ ] get matlab license file
+	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
+- [ ] get an awareness class
+- [ ] order noise generator (x2 if affordable)
+- [ ] order iphone cable & iphone battery case
 - [ ] look up sending a desktop notification from a system service
 	no xdg stuff set up, xsession for user
 	basically nofify-send from systemd
 	could also user systemd, but systemd --user isn't running [debian, maybe fedora]
-- [ ] get an awareness class
-- [ ] get matlab license file
-	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
-- [ ] order noise generator (x2 if affordable)
-- [ ] order iphone cable & iphone battery case
-- [ ] sign up for another nvcacademy course; I couldn't make all the content for the convergent facilitation one
+	found I can set DISPLAY and notify-send works, but how to set DISPLAY robustly?
 - [ ] share my gitbundleautosync projects; they're useful tools
+- [ ] sign up for another nvcacademy course
 
 
 ## truck
