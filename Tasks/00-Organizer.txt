@@ -12,11 +12,11 @@
 		check e-mail & voicemail regarding frontier
 		get frontier #, call from payphone
 
-- [!] 2018-09-02 Sun
+- [X] 2018-09-02 Sun
 	- [X] Is there convergent facilitation this day?  What is the schedule?
 		- I think it might be not till the ninth, not sure !
-	- [ ] buy size 3 box to upgrade toiletries
-	- [ ] go to place with internet; sync wigle & lookup FFT precision
+	- [X] get paper file box
+	- [X] go to place with internet; sync wigle & lookup FFT precision
 
 - [ ] 2018-09-03 Mon
 	- [ ] 11:00 AM Call Katie
@@ -80,8 +80,8 @@ Fri
 
 # ACTIONABLE TASKS
 
-## store
-- [ ] buy size 3 box to upgrade toiletries
+## wavr
+- [ ] get paper file box
 
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
@@ -98,23 +98,41 @@ Fri
 		- [ ] other items
 
 ## internet
-- [ ] look up interpolating two fft results to get a more precise frequency
-	-> useful: trig identity for sin(x)*sin(x+b) or similar
-- [ ] look up sending a desktop notification from a system service
+- [X] look up interpolating two fft results to get a more precise frequency
+	-> useful: trig identity for sin(a) * sin(b) or similar  (for sin sin case)
+	->         trig identitify for sin(a) + sin(b)  (for sin sqwv case, after expansion)
+			goal is to only have 1 trig func =S
+- [X] get matlab license file
+	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
+	-> the network needs to be attached for it to detect the host id and start up.  it's activated.
+- [ ] get an awareness class
+	-> awakening the senses costs $600 ....
+- [X] order noise generator (x2 if affordable)
+	
+- [X] order iphone cable & iphone battery case
+- [X] look up sending a desktop notification from a system service
 	no xdg stuff set up, xsession for user
 	basically nofify-send from systemd
 	could also user systemd, but systemd --user isn't running [debian, maybe fedora]
-- [ ] get an awareness class
-- [ ] get matlab license file
-	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
-- [ ] order noise generator (x2 if affordable)
-- [ ] order iphone cable & iphone battery case
-- [ ] sign up for another nvcacademy course; I couldn't make all the content for the convergent facilitation one
+	found I can set DISPLAY and notify-send works, but how to set DISPLAY robustly?
+function notify-send() {
+    #Detect the name of the display in use
+    local display=":$(ls /tmp/.X11-unix/* | sed 's#/tmp/.X11-unix/X##' | head -n 1)"
+
+    #Detect the user using such display
+    local user=$(who | grep '('$display')' | awk '{print $1}')
+
+    #Detect the id of the user
+    local uid=$(id -u $user)
+
+    sudo -u $user DISPLAY=$display DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$uid/bus notify-send "$@"
+}
 - [ ] share my gitbundleautosync projects; they're useful tools
+- [ ] sign up for another nvcacademy course
 
 
 ## truck
-- [ ] GET CHARGE CABLE FOR SECURITY TOKEN
+- [X] GET CHARGE CABLE FOR SECURITY TOKEN
 - [ ] slowly unpack the truck in order to scan docs (or find other scanning solution)
 
 # CRUFT TO SORT UP
