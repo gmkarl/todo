@@ -5,42 +5,31 @@
 	      I also need to tell her I have moved.
 		-> note bert is back and they went to iowa for a couple days, 9/01
 
-- [X] 2018-09-01 Sat
-	- [X] order pocket notepad
-	- [X] check in about internet/phone installation 
-		library open 10a - 4p
-		check e-mail & voicemail regarding frontier
-		get frontier #, call from payphone
-
-- [X] 2018-09-02 Sun
-	- [X] Is there convergent facilitation this day?  What is the schedule?
-		- I think it might be not till the ninth, not sure !
-	- [X] get paper file box
-	- [X] go to place with internet; sync wigle & lookup FFT precision
-
-- [ ] 2018-09-03 Mon
+- [!] 2018-09-03 Mon
 	- [ ] 11:00 AM Call Katie
-	- [ ] get wrench and wire brush?
 
 - [ ] 2018-09-04 Tue
 	- [ ] Call Frontier to get router provisioned (assignments having time to get line card set up?)
 		800-239-4430 is provisioning number i think
 		877-669-5535 is general frontier umber
+	- [ ] 4:00P Call Katie
 
 - [ ] 2018-09-05 Wed
 	- [ ] Withdraw money for rent w/ two receipts
 			- 1 for $1200 for the first and last month's rent
 			- 1 for $600 for the security deposit
+	- [ ] get wrench and wire brush?
 	- [ ] MID-MORNING to noon Jim Taggart visits through Thursday morning.
 	- [ ] 1:00 PM Dr Mooney
 		- get box truck out
 		- solidfy/interview PCAs
 		- think of what else we can accomplish -- packing / organizing?
 
-Thu
+- [ ] 2018-09-06 Thu
 	- [ ] 10:00a meet with professional services with Jim Taggart
 
-Fri
+- [ ] 2018-09-07 Fri
+	- [ ] 11:00A call Katie -- note next wk likely won't work because of opthalmology
 	- [ ] 1:00 PM psychotherapy jeremy
 	- [ ] maybe gwyn, check e-mail or somesuch
 	- [ ] Work towards speeding up Gwyn's computer
@@ -92,41 +81,19 @@ Fri
 			-> src/gitbundleautosync on dev-whonix
 		- [ ] autosync everything when device plugged
 	- [ ] sort cruft below
+		- [ ] DEAL WITH 'design tent interior' -- this is related to the goal of immediately increasing personal shielding
+					not as important as having a tool to measure SE in general, but a goal I had, that should at least get organized
 	- [ ] import paper items from the 2 notebooks
 		- [ ] todo items
 		- [ ] information items
 		- [ ] other items
 
 ## internet
-- [X] look up interpolating two fft results to get a more precise frequency
-	-> useful: trig identity for sin(a) * sin(b) or similar  (for sin sin case)
-	->         trig identitify for sin(a) + sin(b)  (for sin sqwv case, after expansion)
-			goal is to only have 1 trig func =S
-- [X] get matlab license file
-	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
-	-> the network needs to be attached for it to detect the host id and start up.  it's activated.
+- [ ] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
+	can live in front 'closet' maybe
+- [ ] identify cookie & kate ingreds
 - [ ] get an awareness class
 	-> awakening the senses costs $600 ....
-- [X] order noise generator (x2 if affordable)
-	
-- [X] order iphone cable & iphone battery case
-- [X] look up sending a desktop notification from a system service
-	no xdg stuff set up, xsession for user
-	basically nofify-send from systemd
-	could also user systemd, but systemd --user isn't running [debian, maybe fedora]
-	found I can set DISPLAY and notify-send works, but how to set DISPLAY robustly?
-function notify-send() {
-    #Detect the name of the display in use
-    local display=":$(ls /tmp/.X11-unix/* | sed 's#/tmp/.X11-unix/X##' | head -n 1)"
-
-    #Detect the user using such display
-    local user=$(who | grep '('$display')' | awk '{print $1}')
-
-    #Detect the id of the user
-    local uid=$(id -u $user)
-
-    sudo -u $user DISPLAY=$display DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$uid/bus notify-send "$@"
-}
 - [ ] share my gitbundleautosync projects; they're useful tools
 - [ ] sign up for another nvcacademy course
 
@@ -135,64 +102,57 @@ function notify-send() {
 - [X] GET CHARGE CABLE FOR SECURITY TOKEN
 - [ ] slowly unpack the truck in order to scan docs (or find other scanning solution)
 
+
+#### BACKBURNER
+
+# important
+- [ ] open-source cell phone
+
+# fun
+- [ ] get a piano (upright still exists)
+
+#### ONGOING TASKS
+
+# active
+- pursue shielding
+
+# really important
+- household chores
+- unpack & organize
+- papers (collate, scan)
+- new emails, starred emails, voicemails & such life obligations
+- old todo items
+- finances: automate bitcoin investments?
+
+# important
+- learn to weld
+- pursue 24/7 EEG
+- pursue video surveillance / self-recording
+- learn emissions of sound & EM
+- learn EE, Physics, Math
+- learn radios, 24/7 radio logging
+
+# fun
+- live without imports, money, or causing suffering in other life (instead nurture surrounding life); relearn awareness & connect with others
+	- solar
+
 # CRUFT TO SORT UP
 
 
-## do today
-
-
-
-## purchase / create / find today
-
-
-
 ## every shift 10 minutes:
-- [ ] weld
-- [ ] trailer
-- [ ] eeg
-- [ ] moving
-- [ ] unpacking
-- [ ] shielding
-
 - [ ] interpersonal notes
-- [ ] starred emails and todo items
-- [ ] chores
-- [ ] academic
-- [ ] radio
-
-- [ ] nature
-- [ ] chores
-- [ ] bitcoin
+	^-- what did I mean by interpersonal here?  judging by surrounding items, I might be working with existing objects that I have ... or I might be practivcing taking them
 - [ ] papers and planning
-- [ ] solar
-
-
-
-## do this week
-
-
-
-
-
-## purchase / create / find this week
-
-
-
-
-
-## done this week!
-
-
+	-- note this was separate from interpersonal notes ...
+ ====>		there might be clues in the history, e.g. my 'daily tasks' goal of my morning routne.  these were likely separate tasks
 
 
 
 
 
 ## doable task ideas
-get piano
-organize papers 
-replace cell phone
 design tent interior
+	^=====<=== DEAL WITH THIS NEXT
 investigate volunteer work
 purchase items for tent
 try no-cell phone week, starting Mon 3.19 or 3.26
@@ -263,6 +223,45 @@ put heat shrink tubing on my electrodes
 
 
 # DONE
+- [X] look up sending a desktop notification from a system service
+	no xdg stuff set up, xsession for user
+	basically nofify-send from systemd
+	could also user systemd, but systemd --user isn't running [debian, maybe fedora]
+	found I can set DISPLAY and notify-send works, but how to set DISPLAY robustly?
+function notify-send() {
+    #Detect the name of the display in use
+    local display=":$(ls /tmp/.X11-unix/* | sed 's#/tmp/.X11-unix/X##' | head -n 1)"
+
+    #Detect the user using such display
+    local user=$(who | grep '('$display')' | awk '{print $1}')
+
+    #Detect the id of the user
+    local uid=$(id -u $user)
+
+    sudo -u $user DISPLAY=$display DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$uid/bus notify-send "$@"
+}
+- [X] 2018-09-01 Sat
+	- [X] order pocket notepad
+	- [X] check in about internet/phone installation 
+		library open 10a - 4p
+		check e-mail & voicemail regarding frontier
+		get frontier #, call from payphone
+- [X] 2018-09-02 Sun
+	- [X] Is there convergent facilitation this day?  What is the schedule?
+		- I think it might be not till the ninth, not sure !
+	- [X] get paper file box
+	- [X] go to place with internet; sync wigle & lookup FFT precision
+
+- [X] look up interpolating two fft results to get a more precise frequency
+	-> useful: trig identity for sin(a) * sin(b) or similar  (for sin sin case)
+	->         trig identitify for sin(a) + sin(b)  (for sin sqwv case, after expansion)
+			goal is to only have 1 trig func =S
+- [X] get matlab license file
+	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
+	-> the network needs to be attached for it to detect the host id and start up.  it's activated.
+- [X] order noise generator (x2 if affordable)
+	
+- [X] order iphone cable & iphone battery case
 - [X] order scale for nicotine
 - [X] order pocket-sized notebook (write-in-the-rain?)
 - [X] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
@@ -296,46 +295,3 @@ put heat shrink tubing on my electrodes
 		- install web-browsers on comp
 		- clean out devices?
 		- debug internet?
-## dollar store
---[_]-get stout tank of gas for stove
-	no stove, fire hazard
-- [X] 2018-08-27 Mon 
-	- [X] After 2 PM: Help Gwin set up her computers.
-			("please go to e.g. a job interview rather than my house")
-		- [X] WIPE GWIN'S COMPUTER (due 2018-08-31)
-		-> she has wireless router, new comp, and may physically move old comp
-		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
-		-> I have a router untested, and a couple possible ethernet cables
-	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something; a stack of papers from dump?)
-
-- [X] 2018-08-28 Tue
-	- [X] midday/morning? Gwyn: bring laundry;
-		-> laundry
-		-> wiring tools
-		-> computer accessories?
-	- [X] fix laptop charging cable
-	- [X] have fire to relax & make ash ????
-	- [X] 7:00 PM Call Katie
-
-- [X] 2018-08-29 Wed
-	- [X] 12p call Dr Mooney
-- [X] fill out records request for opthalmology.  it's in the black folder
-- [X] 2018-08-25 Sat
-	- [X] Get time for Convergent Facilitation training: how?  maybe check phone?
-		-> I found this in my written TODO but do not recall it
-		-> 10:30 AM?
-	- [/] Do Convergent Facilitation homework
-	- [X] Call father
-	- [/] Get charging cable for 2nd-factor phone and SoC box and NVC book
-
-- [X] 2018-08-26 Sun
-	-x[-]-Convergent Facilitation training
-	- [X] Clean house a little
-	- [X] Preserve some apples
-	- [/] Work on noiscillate detection
-	- [X] Work on this sync script
-	- [X] create calendar above
-- [X] 2018-08-24 Fri		
-	- [X] 1:00 pm SETI tour ! 
-- [X] add these items to paper for now, and add items elsewhere to paper
-	-> paper already has a truck item for making a todo sync system for tracking
