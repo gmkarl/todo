@@ -5,10 +5,10 @@
 	      I also need to tell her I have moved.
 		-> note bert is back and they went to iowa for a couple days, 9/01
 
-- [!] 2018-09-03 Mon
-	- [ ] 11:00 AM Call Katie
+- [X] 2018-09-03 Mon
+	- [X] 11:00 AM Call Katie
 
-- [ ] 2018-09-04 Tue
+- [!] 2018-09-04 Tue
 	- [ ] Call Frontier to get router provisioned (assignments having time to get line card set up?)
 		800-239-4430 is provisioning number i think
 		877-669-5535 is general frontier umber
