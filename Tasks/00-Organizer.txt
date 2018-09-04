@@ -5,9 +5,6 @@
 	      I also need to tell her I have moved.
 		-> note bert is back and they went to iowa for a couple days, 9/01
 
-- [X] 2018-09-03 Mon
-	- [X] 11:00 AM Call Katie
-
 - [!] 2018-09-04 Tue
 	- [ ] Call Frontier to get router provisioned (assignments having time to get line card set up?)
 		800-239-4430 is provisioning number i think
@@ -81,7 +78,7 @@
 			-> src/gitbundleautosync on dev-whonix
 		- [ ] autosync everything when device plugged
 	- [ ] sort cruft below
-		- [ ] DEAL WITH 'design tent interior' -- this is related to the goal of immediately increasing personal shielding
+		- [X] DEAL WITH 'design tent interior' -- this is related to the goal of immediately increasing personal shielding
 					not as important as having a tool to measure SE in general, but a goal I had, that should at least get organized
 	- [ ] import paper items from the 2 notebooks
 		- [ ] todo items
@@ -91,6 +88,7 @@
 ## internet
 - [ ] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
 	can live in front 'closet' maybe
+- [ ] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
 - [ ] identify cookie & kate ingreds
 - [ ] get an awareness class
 	-> awakening the senses costs $600 ....
@@ -106,7 +104,10 @@
 #### BACKBURNER
 
 # important
+- [ ] design modular solution for holding possessions and arranging day-to-day life (drawers? sink? compost? etc)
 - [ ] open-source cell phone
+- [ ] put tent/modular room/etc in truck
+- [ ] look for volunteer work (telescope? nearby city?)
 
 # fun
 - [ ] get a piano (upright still exists)
@@ -114,7 +115,9 @@
 #### ONGOING TASKS
 
 # active
-- pursue shielding
+- pursue proper shielding
+- pursue short-term increased shielding
+	- put tent in truck
 
 # really important
 - household chores
@@ -127,6 +130,7 @@
 # important
 - learn to weld
 - pursue 24/7 EEG
+	- pursue dermals and transdermals
 - pursue video surveillance / self-recording
 - learn emissions of sound & EM
 - learn EE, Physics, Math
@@ -151,19 +155,9 @@
 
 
 ## doable task ideas
-design tent interior
-	^=====<=== DEAL WITH THIS NEXT
-investigate volunteer work
-purchase items for tent
-try no-cell phone week, starting Mon 3.19 or 3.26
-set a date to sort and retreive belongings from Portland
-return furniture to bridge st
-practice welding
 set up internet
-set up landline
-put heat shrink tubing on my electrodes
- clean and sterilize the electrodes
  expand "Project" organization system: make an "activities" folder and give each activity priority items from the projects. Activities should mesh with my phone tasks system.
+ ^====<=== PROCESS THIS TASK NEXT
  Make a project for working on these organization systems.
  work on EE lab report for 6 hours total
  make door for trailer
@@ -223,6 +217,16 @@ put heat shrink tubing on my electrodes
 
 
 # DONE
+- [X] 2018-09-03 Mon
+	- [X] 11:00 AM Call Katie
+_ put heat shrink tubing on my electrodes
+_ clean and sterilize the electrodes
+practice welding
+set up landline
+purchase items for tent
+return furniture to bridge st
+try no-cell phone week, starting Mon 3.19 or 3.26
+set a date to sort and retreive belongings from Portland
 - [X] look up sending a desktop notification from a system service
 	no xdg stuff set up, xsession for user
 	basically nofify-send from systemd
@@ -268,30 +272,3 @@ function notify-send() {
 - [x] get date/time for tech tour
 - [X] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
 	-> nah it's a new thing
-- [X] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
-		David T. Frayer
-		SCIENTIST
-		dfrayer@nrao.edu
-		greenbankobservatory.org/~dfrayer
-		304-456-2223
-	sent an e-mail 2018-08-30
-- [X] 2018-08-30 Thu
-	- [X] Try to get $1800 for Reese rental.  It's going into five county.
-	- [X] get noise gen equip from truck 
-	- [X] order sawdust
-	- [X] get ashes after 4:30
-	- [X] read e-mail katie
-
-- [X] 2018-08-31 Fri
-	- [?] 8:00 AM - 12:00 PM be present for frontier installation
-		-> moved to before 5 pm
-	- [X] 1:00 PM psychotherapy jeremy
-	- [X] Get bank check from mail.
-		- [X] open bank account & get $1800 cash for rent
-		- [ ] get 2 receipts for rent, 
-	- [X] Visit Gwyn
-		- bring ethernet cable i took by accident
-		- clean electrodes on phone box
-		- install web-browsers on comp
-		- clean out devices?
-		- debug internet?
