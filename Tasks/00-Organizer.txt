@@ -5,11 +5,10 @@
 	      I also need to tell her I have moved.
 		-> note bert is back and they went to iowa for a couple days, 9/01
 
-- [!] 2018-09-04 Tue
-	- [ ] Call Frontier to get router provisioned (assignments having time to get line card set up?)
-		800-239-4430 is provisioning number i think
-		877-669-5535 is general frontier umber
-	- [ ] 4:00P Call Katie
+- [X] 2018-09-04 Tue
+	- [X] Call Frontier to get router provisioned (assignments having time to get line card set up?)
+	- [X] 12:17 call back venetia
+	- [X] 4:00P Call Katie
 
 - [ ] 2018-09-05 Wed
 	- [ ] Withdraw money for rent w/ two receipts
@@ -21,6 +20,8 @@
 		- get box truck out
 		- solidfy/interview PCAs
 		- think of what else we can accomplish -- packing / organizing?
+	- [ ] eve: Gwyn / call to plan next visit
+			304 456 5300
 
 - [ ] 2018-09-06 Thu
 	- [ ] 10:00a meet with professional services with Jim Taggart
@@ -28,17 +29,23 @@
 - [ ] 2018-09-07 Fri
 	- [ ] 11:00A call Katie -- note next wk likely won't work because of opthalmology
 	- [ ] 1:00 PM psychotherapy jeremy
-	- [ ] maybe gwyn, check e-mail or somesuch
+	- [ ] 2-3 PM maybe gwyn, check e-mail or somesuch
 	- [ ] Work towards speeding up Gwyn's computer
 		- concepts on the table:
 			- figuring internet usage out and how it compares to available bandwidth
 			- cleaning/replacing phone connectors
+			- xbox live?
 		- Bring:
 			- laptop + ethernet adapter + cable
 			- things to clean & replace contacts with (wrench? wire brush?)
 
 - [ ] 2018-09-09 Sun
 	- [ ] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
+
+- [ ] 2018-09-10 Mon
+	- [ ] Schedule DSL installation is this day; call and pursue internet functionality.
+		800-239-4430 is provisioning number i think
+		877-669-5535 is general frontier umber
 
 - [ ] 2018-09-13
 	- [ ] 3:30 PM High-tech tour of observatory
