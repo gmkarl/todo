@@ -10,7 +10,7 @@
 	- [X] 12:17 call back venetia
 	- [X] 4:00P Call Katie
 
-- [ ] 2018-09-05 Wed
+- [X] 2018-09-05 Wed
 	- [X] Withdraw money for rent w/ two receipts
 			- 1 for $1200 for the first and last month's rent
 			- 1 for $600 for the security deposit
@@ -22,12 +22,14 @@
 	- [X] eve: Gwyn / call to plan next visit
 			304 456 5300
 
-- [ ] 2018-09-06 Thu
+- [!] 2018-09-06 Thu
 	- Other mechanics:
 		April Diffenbal's husband only charges $25/hrish.  she works at starlight cafe, I think
 		Tom Dickenson on other side of north fork similar price, but often very busy
 	- [ ] 10:00a meet with professional services with Jim Taggart
 	- [ ] get wrench and wire brush?
+	- [ ] do laundry
+	- [ ] health food store in elkins; get remaining groceries for soup & breakfast
 
 - [ ] 2018-09-07 Fri
 	- [ ] 11:00A call Katie -- note next wk likely won't work because of opthalmology
@@ -99,6 +101,14 @@
 		- [ ] todo items
 		- [ ] information items
 		- [ ] other items
+	- [ ] unify projects & tasks systems into this repo
+		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL
+		- information and tracking of activities and projects is stored in folders regarding them
+			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Katie's desire to distinguish between these.
+			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.  
+		- projects/activities concept: activites == actionable tasks == each fits in time alloction system on phone
+		- use PROJECTS folder to organize what needs to be done in general
+			- activities folder
 
 ## internet
 - [ ] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
@@ -182,6 +192,7 @@ Green Bank, WV 24944
 set up internet
  expand "Project" organization system: make an "activities" folder and give each activity priority items from the projects. Activities should mesh with my phone tasks system.
  ^====<=== PROCESS THIS TASK NEXT
+		===-> I tried to add this to list at top but it got tough.  also taking too much nicotine
  Make a project for working on these organization systems.
  work on EE lab report for 6 hours total
  make door for trailer
