@@ -22,27 +22,30 @@
 	- [X] eve: Gwyn / call to plan next visit
 			304 456 5300
 
-- [!] 2018-09-06 Thu
+- [X] 2018-09-06 Thu
 	- Other mechanics:
 		April Diffenbal's husband only charges $25/hrish.  she works at starlight cafe, I think
 		Tom Dickenson on other side of north fork similar price, but often very busy
-	- [ ] 10:00a meet with professional services with Jim Taggart
-	- [ ] get wrench and wire brush?
-	- [ ] do laundry
+	- [X] 10:00a-11:00a meet with professional services with Jim Taggart
+	- [ ] 11a-1p prepare storage unit space
+		-> cleaned toilet spill instead
+	- [X] do laundry
 	- [ ] health food store in elkins; get remaining groceries for soup & breakfast
+		-> slept on floor and then not sure instead ... ended up doing laundry through midnight
 
-- [ ] 2018-09-07 Fri
+- [X] 2018-09-07 Fri
 	- [ ] 11:00A call Katie -- note next wk likely won't work because of opthalmology
 	- [ ] 1:00 PM psychotherapy jeremy
-
+	- [ ] get wrench and wire brush?
 	- [ ] 2-3 PM gwyn Work towards speeding up Gwyn's computer
 		- concepts on the table:
 			- figuring internet usage out and how it compares to available bandwidth
 			- cleaning/replacing phone connectors
 			- xbox live?
 		- Bring:
-			- laptop + ethernet adapter + cable
-			- things to clean & replace contacts with (wrench? wire brush?)
+			- [ ] laptop + ethernet adapter + cable
+			- [ ] things to clean & replace contacts with (wrench? wire brush?)
+
 
 - [ ] 2018-09-08 Sat
 	- [ ] maybe gwyn in afternoon
@@ -52,9 +55,11 @@
 	- [ ] gwyn may visit in afternoon
 
 - [ ] 2018-09-10 Mon
+	- 8a-10a Benita, Antibiotics
 	- [ ] Schedule DSL installation is this day; call and pursue internet functionality.
 		800-239-4430 is provisioning number i think
 		877-669-5535 is general frontier umber
+	- 7p-9p Benita, Antibiotics
 
 - [ ] 2018-09-13
 	- [ ] 3:30 PM High-tech tour of observatory
@@ -114,14 +119,17 @@
 - [ ] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
 - [ ] set up google voice to forward to my phone # (304) 456-5564
 - [ ] send bank information to father (in checks in paper file) ... but note that I may still want to get deposits in other accounts as I have auto-withdrawals
-- [ ] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
+- [X] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
 	can live in front 'closet' maybe
+- [ ] get carpet attachment for my kenmore vacuum
 - [ ] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
 - [ ] identify cookie & kate ingreds
+- [ ] order new lifeextension two-per-day
 - [ ] get an awareness class
 	-> awakening the senses costs $600 ....
 - [ ] share my gitbundleautosync projects; they're useful tools
-- [ ] sign up for another nvcacademy course
+- [_] sign up for another nvcacademy course
+	-> still doing convergent fac
 
 
 ## truck
@@ -173,6 +181,24 @@
 (304) 456-5564
 6330 Potomac Highlands Trail
 Green Bank, WV 24944
+
+Health food stores:
+- Good Energy Foods? in Elkins (small)
+- A couple in Lewisburg
+
+Varner 304-456-4505
+	Towing, Commercial Mechanic
+
+
+Benita Via 8p, 7p
+	304-456-5598 but professional services would rather office be called
+
+Cancer Places
+	- WVU Medicines, Morgantown
+	- UHC United Health Center, Bridgeport
+	- UVA is excellent but a couple hours away
+	something small in elkins
+	
 
 # CRUFT TO SORT UP
 
