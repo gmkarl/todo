@@ -5,54 +5,34 @@
 	      I also need to tell her I have moved.
 		-> note bert is back and they went to iowa for a couple days, 9/01
 
-- [X] 2018-09-04 Tue
-	- [X] Call Frontier to get router provisioned (assignments having time to get line card set up?)
-	- [X] 12:17 call back venetia
-	- [X] 4:00P Call Katie
-
-- [X] 2018-09-05 Wed
-	- [X] Withdraw money for rent w/ two receipts
-			- 1 for $1200 for the first and last month's rent
-			- 1 for $600 for the security deposit
-	- [X] MID-MORNING to noon Jim Taggart visits through Thursday morning.
-		- get box truck out
-		- solidfy/interview PCAs
-		- think of what else we can accomplish -- packing / organizing?
-	- [X] 1:00 PM Dr Mooney
-	- [X] eve: Gwyn / call to plan next visit
-			304 456 5300
-
-- [X] 2018-09-06 Thu
-	- Other mechanics:
-		April Diffenbal's husband only charges $25/hrish.  she works at starlight cafe, I think
-		Tom Dickenson on other side of north fork similar price, but often very busy
-	- [X] 10:00a-11:00a meet with professional services with Jim Taggart
-	- [ ] 11a-1p prepare storage unit space
-		-> cleaned toilet spill instead
-	- [X] do laundry
-	- [ ] health food store in elkins; get remaining groceries for soup & breakfast
-		-> slept on floor and then not sure instead ... ended up doing laundry through midnight
-
 - [X] 2018-09-07 Fri
-	- [ ] 11:00A call Katie -- note next wk likely won't work because of opthalmology
-	- [ ] 1:00 PM psychotherapy jeremy
-	- [ ] get wrench and wire brush?
-	- [ ] 2-3 PM gwyn Work towards speeding up Gwyn's computer
+	- [X] 11:00A call Katie -- note next wk likely won't work because of opthalmology
+	- [X] 1:00 PM psychotherapy jeremy
+	- [X] 2-3 PM gwyn Work towards speeding up Gwyn's computer
+		- fix LOGIN
+		- wipe PHONE
 		- concepts on the table:
 			- figuring internet usage out and how it compares to available bandwidth
 			- cleaning/replacing phone connectors
 			- xbox live?
 		- Bring:
 			- [ ] laptop + ethernet adapter + cable
-			- [ ] things to clean & replace contacts with (wrench? wire brush?)
+			- less important [ ] things to clean & replace contacts with (wrench? wire brush?)
+			- [ ] microusb cable, lightning cable if have
+			- [ ] microsd card (soc box)
 
 
-- [ ] 2018-09-08 Sat
-	- [ ] maybe gwyn in afternoon
+- [!] 2018-09-08 Sat
+	- [ ]O Study convergent facilitation to prepare for next day
+	- [ ]O TRASH !!
+	- [ ]O get wrench and wire brush
+	- [ ] get organization to current baseline
+	- [ ] noiscillate?
 
 - [ ] 2018-09-09 Sun
 	- [ ] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
-	- [ ] gwyn may visit in afternoon
+	- [ ] gwyn may visit in afternoon, or call
+
 
 - [ ] 2018-09-10 Mon
 	- 8a-10a Benita, Antibiotics
@@ -60,6 +40,10 @@
 		800-239-4430 is provisioning number i think
 		877-669-5535 is general frontier umber
 	- 7p-9p Benita, Antibiotics
+
+- [ ] 2018-09-12 Wed
+	- [ ] 11a call Katie
+	
 
 - [ ] 2018-09-13
 	- [ ] 3:30 PM High-tech tour of observatory
@@ -83,6 +67,7 @@
 # UPCOMING
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
+- [ ] Reconnect with Dr Bouboulis as I am tarting treatment
 - [ ] Call Dr Nathenson's office (617) 632-5204
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 
@@ -116,6 +101,7 @@
 			- activities folder
 
 ## internet
+- [ ] buy 2x AAA for scale
 - [ ] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
 - [ ] set up google voice to forward to my phone # (304) 456-5564
 - [ ] send bank information to father (in checks in paper file) ... but note that I may still want to get deposits in other accounts as I have auto-withdrawals
@@ -123,6 +109,7 @@
 	can live in front 'closet' maybe
 - [ ] get carpet attachment for my kenmore vacuum
 - [ ] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
+- [ ] get a knife for whittling
 - [ ] identify cookie & kate ingreds
 - [ ] order new lifeextension two-per-day
 - [ ] get an awareness class
@@ -192,6 +179,8 @@ Varner 304-456-4505
 
 Benita Via 8p, 7p
 	304-456-5598 but professional services would rather office be called
+		Professional Care Services P.O. Box 1731 Ekins, WV 26241
+		Wendy Collins: (304) 591-1834 wendy26collins@gmail.com
 
 Cancer Places
 	- WVU Medicines, Morgantown
@@ -278,6 +267,31 @@ set up internet
 
 
 # DONE
+- [X] 2018-09-04 Tue
+	- [X] Call Frontier to get router provisioned (assignments having time to get line card set up?)
+	- [X] 12:17 call back venetia
+	- [X] 4:00P Call Katie
+- [X] 2018-09-05 Wed
+	- [X] Withdraw money for rent w/ two receipts
+			- 1 for $1200 for the first and last month's rent
+			- 1 for $600 for the security deposit
+	- [X] MID-MORNING to noon Jim Taggart visits through Thursday morning.
+		- get box truck out
+		- solidfy/interview PCAs
+		- think of what else we can accomplish -- packing / organizing?
+	- [X] 1:00 PM Dr Mooney
+	- [X] eve: Gwyn / call to plan next visit
+			304 456 5300
+- [X] 2018-09-06 Thu
+	- Other mechanics:
+		April Diffenbal's husband only charges $25/hrish.  she works at starlight cafe, I think
+		Tom Dickenson on other side of north fork similar price, but often very busy
+	- [X] 10:00a-11:00a meet with professional services with Jim Taggart
+	- [ ] 11a-1p prepare storage unit space
+		-> cleaned toilet spill instead
+	- [X] do laundry
+	- [ ] health food store in elkins; get remaining groceries for soup & breakfast
+		-> slept on floor and then not sure instead ... ended up doing laundry through midnight
 - [X] 2018-09-03 Mon
 	- [X] 11:00 AM Call Katie
 _ put heat shrink tubing on my electrodes
