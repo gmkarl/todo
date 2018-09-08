@@ -3,7 +3,8 @@
 # UPCOMING
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-- [ ] Reconnect with Dr Bouboulis as I am tarting treatment
+- [ ] Talk Jim re Gwyn & caregiving
+- [ ] Reconnect with Dr Bouboulis as I am starting treatment
 - [ ] Call Dr Nathenson's office (617) 632-5204
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 
@@ -26,8 +27,9 @@
 
 - [!] 2018-09-08 Sat
 	- [ ]O Study convergent facilitation to prepare for next day
-	- [ ]O TRASH !!
-	- [ ]O get wrench and wire brush
+	- [X]O TRASH !!
+		-> I missed the bags that Jim moved to the back seat from the front
+	- [X]O get wrench and wire brush and scale
 	- [ ] get organization to current baseline
 	- [ ] noiscillate?
 
