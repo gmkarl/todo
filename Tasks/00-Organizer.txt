@@ -1,9 +1,11 @@
 # CALENDAR
 
-- [ ] 2018-08-22 Wed
-	- [ ] Diane would like a visit again soon.
-	      I also need to tell her I have moved.
-		-> note bert is back and they went to iowa for a couple days, 9/01
+# UPCOMING
+- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
+	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
+- [ ] Reconnect with Dr Bouboulis as I am tarting treatment
+- [ ] Call Dr Nathenson's office (617) 632-5204
+- [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 
 - [X] 2018-09-07 Fri
 	- [X] 11:00A call Katie -- note next wk likely won't work because of opthalmology
@@ -64,13 +66,6 @@
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
 
-# UPCOMING
-- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
-	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-- [ ] Reconnect with Dr Bouboulis as I am tarting treatment
-- [ ] Call Dr Nathenson's office (617) 632-5204
-- [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
-
 # ACTIONABLE TASKS
 
 ## wavr
@@ -101,7 +96,9 @@
 			- activities folder
 
 ## internet
+- [ ] buy eye gel
 - [ ] buy 2x AAA for scale
+- [ ] buy more small microSD cards.  I'm out.
 - [ ] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
 - [ ] set up google voice to forward to my phone # (304) 456-5564
 - [ ] send bank information to father (in checks in paper file) ... but note that I may still want to get deposits in other accounts as I have auto-withdrawals
