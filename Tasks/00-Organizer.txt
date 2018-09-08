@@ -3,56 +3,65 @@
 - [ ] 2018-08-22 Wed
 	- [ ] Diane would like a visit again soon.
 	      I also need to tell her I have moved.
+		-> note bert is back and they went to iowa for a couple days, 9/01
 
-- [X] 2018-08-27 Mon 
-	- [X] After 2 PM: Help Gwin set up her computers.
-			("please go to e.g. a job interview rather than my house")
-		- [X] WIPE GWIN'S COMPUTER (due 2018-08-31)
-		-> she has wireless router, new comp, and may physically move old comp
-		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
-		-> I have a router untested, and a couple possible ethernet cables
-	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something; a stack of papers from dump?)
+- [X] 2018-09-01 Sat
+	- [X] order pocket notepad
+	- [X] check in about internet/phone installation 
+		library open 10a - 4p
+		check e-mail & voicemail regarding frontier
+		get frontier #, call from payphone
 
-- [X] 2018-08-28 Tue
-	- [X] midday/morning? Gwyn: bring laundry;
-		-> laundry
-		-> wiring tools
-		-> computer accessories?
-	- [X] fix laptop charging cable
-	- [X] have fire to relax & make ash ????
-	- [X] 7:00 PM Call Katie
-
-- [X] 2018-08-29 Wed
-	- [X] 12p call Dr Mooney
-
-- [ ] 2018-08-30 Thu
-	- [ ] Try to get $1800 for Reese rental.  It's going into five county.
-	- [ ] get noise gen equip from truck 
-	- [ ] order sawdust
-	- [ ] read e-mail katie
-
-- [ ] 2018-08-31 Fri
-	- [ ] 8:00 AM - 12:00 PM be present for frontier installation
-	- [ ] Visit Gwyn
-		- clean electrodes on phone box
-		- install web-browsers on comp
-		- clean out devices?
-		- debug internet?
+- [!] 2018-09-02 Sun
+	- [X] Is there convergent facilitation this day?  What is the schedule?
+		- I think it might be not till the ninth, not sure !
+	- [ ] buy size 3 box to upgrade toiletries
+	- [ ] go to place with internet; sync wigle & lookup FFT precision
 
 - [ ] 2018-09-03 Mon
 	- [ ] 11:00 AM Call Katie
+	- [ ] get wrench and wire brush?
+
+- [ ] 2018-09-04 Tue
+	- [ ] Call Frontier to get router provisioned (assignments having time to get line card set up?)
+		800-239-4430 is provisioning number i think
+		877-669-5535 is general frontier umber
 
 - [ ] 2018-09-05 Wed
+	- [ ] Withdraw money for rent w/ two receipts
+			- 1 for $1200 for the first and last month's rent
+			- 1 for $600 for the security deposit
+	- [ ] MID-MORNING to noon Jim Taggart visits through Thursday morning.
 	- [ ] 1:00 PM Dr Mooney
+		- get box truck out
+		- solidfy/interview PCAs
+		- think of what else we can accomplish -- packing / organizing?
+
+Thu
+	- [ ] 10:00a meet with professional services with Jim Taggart
+
+Fri
+	- [ ] 1:00 PM psychotherapy jeremy
+	- [ ] maybe gwyn, check e-mail or somesuch
+	- [ ] Work towards speeding up Gwyn's computer
+		- concepts on the table:
+			- figuring internet usage out and how it compares to available bandwidth
+			- cleaning/replacing phone connectors
+		- Bring:
+			- laptop + ethernet adapter + cable
+			- things to clean & replace contacts with (wrench? wire brush?)
 
 - [ ] 2018-09-09 Sun
 	- [ ] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
 
+- [ ] 2018-09-13
+	- [ ] 3:30 PM High-tech tour of observatory
+
 - [ ] 2018-09-14
-	- [ ] Get piercing consult
 	- [ ] 7:00 am Leave for Opthalmology Appt
 			9:45 AM
 			1300 Jefferson Park Ave 2nd floor, Charlottesville
+	- [ ] Get piercing consult
 
 - [ ] 2018-09-19 Wed
 	- [ ] 12:00 pm Dr Mooney
@@ -64,39 +73,44 @@
 	- [ ] 1:00 PM dental cleaning
 
 # UPCOMING
+- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
+	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
+- [ ] Call Dr Nathenson's office (617) 632-5204
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
-- [ ] fill out records request for opthalmology.  it's in the black folder
 
 # ACTIONABLE TASKS
 
+## store
+- [ ] buy size 3 box to upgrade toiletries
+
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
-	- [ ] fill out opthalmology request, above
+	- [X] fill out opthalmology request, above
 	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
-		- [ ] install adb for sys-net
-		- [ ] set up syncing between vms on qubes
+		- [X] install adb for sys-net
+		- [X] set up syncing between vms on qubes
 			-> src/gitbundleautosync on dev-whonix
+		- [ ] autosync everything when device plugged
 	- [ ] sort cruft below
 	- [ ] import paper items from the 2 notebooks
 		- [ ] todo items
 		- [ ] information items
 		- [ ] other items
 
-## dollar store
-- [ ] get stout tank of gas for stove
-
 ## internet
-- [ ] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
-- [ ] get date/time for tech tour
-- [ ] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
-- [ ] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
-		David T. Frayer
-		SCIENTIST
-		dfrayer@nrao.edu
-		greenbankobservatory.org/~dfrayer
-		304-456-2223
+- [ ] look up interpolating two fft results to get a more precise frequency
+	-> useful: trig identity for sin(x)*sin(x+b) or similar
+- [ ] look up sending a desktop notification from a system service
+	no xdg stuff set up, xsession for user
+	basically nofify-send from systemd
+	could also user systemd, but systemd --user isn't running [debian, maybe fedora]
+- [ ] get an awareness class
+- [ ] get matlab license file
+	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
+- [ ] order noise generator (x2 if affordable)
+- [ ] order iphone cable & iphone battery case
 - [ ] sign up for another nvcacademy course; I couldn't make all the content for the convergent facilitation one
-- [ ] order scale for nicotine
+- [ ] share my gitbundleautosync projects; they're useful tools
 
 
 ## truck
@@ -231,7 +245,63 @@ put heat shrink tubing on my electrodes
 
 
 # DONE
+- [X] order scale for nicotine
+- [X] order pocket-sized notebook (write-in-the-rain?)
+- [X] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
+- [x] get date/time for tech tour
+- [X] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
+	-> nah it's a new thing
+- [X] Contact David T. Frayer for access to Breakthrough Listen data and possibly other questions
+		David T. Frayer
+		SCIENTIST
+		dfrayer@nrao.edu
+		greenbankobservatory.org/~dfrayer
+		304-456-2223
+	sent an e-mail 2018-08-30
+- [X] 2018-08-30 Thu
+	- [X] Try to get $1800 for Reese rental.  It's going into five county.
+	- [X] get noise gen equip from truck 
+	- [X] order sawdust
+	- [X] get ashes after 4:30
+	- [X] read e-mail katie
 
+- [X] 2018-08-31 Fri
+	- [?] 8:00 AM - 12:00 PM be present for frontier installation
+		-> moved to before 5 pm
+	- [X] 1:00 PM psychotherapy jeremy
+	- [X] Get bank check from mail.
+		- [X] open bank account & get $1800 cash for rent
+		- [ ] get 2 receipts for rent, 
+	- [X] Visit Gwyn
+		- bring ethernet cable i took by accident
+		- clean electrodes on phone box
+		- install web-browsers on comp
+		- clean out devices?
+		- debug internet?
+## dollar store
+--[_]-get stout tank of gas for stove
+	no stove, fire hazard
+- [X] 2018-08-27 Mon 
+	- [X] After 2 PM: Help Gwin set up her computers.
+			("please go to e.g. a job interview rather than my house")
+		- [X] WIPE GWIN'S COMPUTER (due 2018-08-31)
+		-> she has wireless router, new comp, and may physically move old comp
+		-> she's finding installation disc, usb key, and cleaning off things from comp unneeded
+		-> I have a router untested, and a couple possible ethernet cables
+	- [ ] find an alternative for pooping ash?  maybe bring comp to wavr and make more ash? (could bring lots of cardboard or something; a stack of papers from dump?)
+
+- [X] 2018-08-28 Tue
+	- [X] midday/morning? Gwyn: bring laundry;
+		-> laundry
+		-> wiring tools
+		-> computer accessories?
+	- [X] fix laptop charging cable
+	- [X] have fire to relax & make ash ????
+	- [X] 7:00 PM Call Katie
+
+- [X] 2018-08-29 Wed
+	- [X] 12p call Dr Mooney
+- [X] fill out records request for opthalmology.  it's in the black folder
 - [X] 2018-08-25 Sat
 	- [X] Get time for Convergent Facilitation training: how?  maybe check phone?
 		-> I found this in my written TODO but do not recall it
