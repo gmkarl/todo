@@ -1019,3 +1019,5 @@ Time,Action,Goal,Task
 1536668780,stop,RESPONS,Brush Teeth
 1536669377,start,RESPONS,Fissure Treatment
 1536669509,stop,RESPONS,Fissure Treatment
+1536669822,start,RESPONS,Eye Lubricant
+1536669845,stop,RESPONS,Eye Lubricant
