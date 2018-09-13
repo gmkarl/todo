@@ -3,33 +3,16 @@
 # UPCOMING
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-- [ ] Talk Jim re Gwyn & caregiving
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
 - [ ] Call Dr Nathenson's office (617) 632-5204
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
+- [ ] Do my CVF homework
 - [ ] DO MY LAB REPORTS !  think how empowering this would b
 		with time limit.  remember to reward based on progress.
 
-- [x] 2018-09-10 Mon
-	- [X] Scheduled DSL installation is this day; call and pursue internet functionality.
-		800-239-4430 is provisioning number i think
-		877-669-5535 is general frontier umber
-	- [X] order toilet refills if internet can be found; push forward if not
-	- [X] 1pm: call Katie (or get call)
-	- [X] move benita forward if she doesn't arrive
-	- [X] check in with Jim
-
-- [!] 2018-09-11 Tue
-	- [_] 10a Gwyn calls to plan carpool
-	- [X] 11:30A Gwyn leaves for 1pm appt to Elkins
-	- [X] Sign contract from Katie
-
-- [ ] 2018-09-12 Wed
-	- [ ] 11a call Katie
-	- [ ] 1pm Jim Taggart
-
-- [ ] 2018-09-13 Thu
-	- 8a-10a Benita, Antibiotics?
+- [!] 2018-09-13 Thu
+	- 8a-10a Benita, Antibiotics
+	- [ ] Check e-mail re: astronomer to prep tour q's
 	- [ ] 3:30 PM High-tech tour of observatory
 	- [ ] MOVE FORWARD: Do all my CVF homework.
 		6-11 in long handout
@@ -40,13 +23,18 @@
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
 	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
-	- 7p-9p Benita, Antibiotics?
+	- 7p-9p Benita, Antibiotics
 
 - [ ] 2018-09-14
 	- [ ] 7:00 am Leave for Opthalmology Appt
 			9:45 AM
 			1300 Jefferson Park Ave 2nd floor, Charlottesville
+	- [ ] 1 pm Jeremy
+	- [ ] 4 pm Katie
 	- [ ] Get piercing consult
+
+- [ ] 2018-09-17 Mon
+	- [ ] 11 am Katie
 
 - [ ] 2018-09-19 Wed
 Repair ticket #: 004349821 (DSL)
@@ -217,6 +205,9 @@ Cancer Places
 	- UVA is excellent but a couple hours away
 	something small in elkins
 	
+Gwyn Cole
+	304 456 5300
+
 
 # CRUFT TO SORT UP
 
@@ -293,6 +284,22 @@ set up internet
 
 
 # DONE
+- [X] 2018-09-11 Tue
+	- [_] 10a Gwyn calls to plan carpool
+	- [X] 11:30A Gwyn leaves for 1pm appt to Elkins
+	- [X] Sign contract from Katie
+- [X] 2018-09-12 Wed
+	- [X] 11a call Katie
+	- [X] 1pm Jim Taggart
+- [X] Talk Jim re Gwyn & caregiving
+- [x] 2018-09-10 Mon
+	- [X] Scheduled DSL installation is this day; call and pursue internet functionality.
+		800-239-4430 is provisioning number i think
+		877-669-5535 is general frontier umber
+	- [X] order toilet refills if internet can be found; push forward if not
+	- [X] 1pm: call Katie (or get call)
+	- [X] move benita forward if she doesn't arrive
+	- [X] check in with Jim
 	- [X] fill out opthalmology request, above
 - [X] 2018-09-08 Sat
 	- [ ]O Study convergent facilitation to prepare for next day
@@ -334,68 +341,3 @@ set up internet
 	- [X] 1:00 PM Dr Mooney
 	- [X] eve: Gwyn / call to plan next visit
 			304 456 5300
-- [X] 2018-09-06 Thu
-	- Other mechanics:
-		April Diffenbal's husband only charges $25/hrish.  she works at starlight cafe, I think
-		Tom Dickenson on other side of north fork similar price, but often very busy
-	- [X] 10:00a-11:00a meet with professional services with Jim Taggart
-	- [ ] 11a-1p prepare storage unit space
-		-> cleaned toilet spill instead
-	- [X] do laundry
-	- [ ] health food store in elkins; get remaining groceries for soup & breakfast
-		-> slept on floor and then not sure instead ... ended up doing laundry through midnight
-- [X] 2018-09-03 Mon
-	- [X] 11:00 AM Call Katie
-_ put heat shrink tubing on my electrodes
-_ clean and sterilize the electrodes
-practice welding
-set up landline
-purchase items for tent
-return furniture to bridge st
-try no-cell phone week, starting Mon 3.19 or 3.26
-set a date to sort and retreive belongings from Portland
-- [X] look up sending a desktop notification from a system service
-	no xdg stuff set up, xsession for user
-	basically nofify-send from systemd
-	could also user systemd, but systemd --user isn't running [debian, maybe fedora]
-	found I can set DISPLAY and notify-send works, but how to set DISPLAY robustly?
-function notify-send() {
-    #Detect the name of the display in use
-    local display=":$(ls /tmp/.X11-unix/* | sed 's#/tmp/.X11-unix/X##' | head -n 1)"
-
-    #Detect the user using such display
-    local user=$(who | grep '('$display')' | awk '{print $1}')
-
-    #Detect the id of the user
-    local uid=$(id -u $user)
-
-    sudo -u $user DISPLAY=$display DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$uid/bus notify-send "$@"
-}
-- [X] 2018-09-01 Sat
-	- [X] order pocket notepad
-	- [X] check in about internet/phone installation 
-		library open 10a - 4p
-		check e-mail & voicemail regarding frontier
-		get frontier #, call from payphone
-- [X] 2018-09-02 Sun
-	- [X] Is there convergent facilitation this day?  What is the schedule?
-		- I think it might be not till the ninth, not sure !
-	- [X] get paper file box
-	- [X] go to place with internet; sync wigle & lookup FFT precision
-
-- [X] look up interpolating two fft results to get a more precise frequency
-	-> useful: trig identity for sin(a) * sin(b) or similar  (for sin sin case)
-	->         trig identitify for sin(a) + sin(b)  (for sin sqwv case, after expansion)
-			goal is to only have 1 trig func =S
-- [X] get matlab license file
-	        Host ID: 000000000000         Release: R2017b         Computer Login Name: user
-	-> the network needs to be attached for it to detect the host id and start up.  it's activated.
-- [X] order noise generator (x2 if affordable)
-	
-- [X] order iphone cable & iphone battery case
-- [X] order scale for nicotine
-- [X] order pocket-sized notebook (write-in-the-rain?)
-- [X] get fedora 26 rpm for android adb tool (or generic adb package / dev tools)
-- [x] get date/time for tech tour
-- [X] check to see if there is an existing project for a qrexec or qubes-rpc git remote (i've made one myself)
-	-> nah it's a new thing
