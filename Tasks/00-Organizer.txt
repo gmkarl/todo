@@ -6,6 +6,7 @@
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
 - [ ] Call Dr Nathenson's office (617) 632-5204
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
+- [ ] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
 - [ ] Do my CVF homework
 - [ ] DO MY LAB REPORTS !  think how empowering this would b
 		with time limit.  remember to reward based on progress.
@@ -49,9 +50,6 @@ Repair ticket #: 004349821 (DSL)
 	- [ ] 1:00 PM dental cleaning
 
 # ACTIONABLE TASKS
-
-## wavr
-- [ ] get paper file box
 
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
@@ -197,7 +195,7 @@ Varner 304-456-4505
 Benita Via 8p, 7p
 	304-456-5598 but professional services would rather office be called
 		Professional Care Services P.O. Box 1731 Ekins, WV 26241
-		Wendy Collins: (304) 591-1834 wendy26collins@gmail.com
+		Wendy Collins: (304) 591-1834 wendy26collins@gmail.com <==
 
 Cancer Places
 	- WVU Medicines, Morgantown
@@ -284,6 +282,8 @@ set up internet
 
 
 # DONE
+## wavr
+- [X] get paper file box
 - [X] 2018-09-11 Tue
 	- [_] 10a Gwyn calls to plan carpool
 	- [X] 11:30A Gwyn leaves for 1pm appt to Elkins
