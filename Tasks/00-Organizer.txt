@@ -10,40 +10,27 @@
 - [ ] DO MY LAB REPORTS !  think how empowering this would b
 		with time limit.  remember to reward based on progress.
 
-- [X] 2018-09-08 Sat
-	- [ ]O Study convergent facilitation to prepare for next day
-	- [X]O TRASH !!
-		-> I missed the bags that Jim moved to the back seat from the front
-	- [X]O get wrench and wire brush and scale
-	- [ ] get organization to current baseline
-	- [ ] noiscillate?
-
-- [!] 2018-09-09 Sun
-	- [X] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
-	- [X] gwyn may visit in afternoon, or call
-
-
-- [ ] 2018-09-10 Mon
-	- [ ] Scheduled DSL installation is this day; call and pursue internet functionality.
+- [x] 2018-09-10 Mon
+	- [X] Scheduled DSL installation is this day; call and pursue internet functionality.
 		800-239-4430 is provisioning number i think
 		877-669-5535 is general frontier umber
-	- [ ] order toilet refills if internet can be found; push forward if not
-	- [ ] 1pm: call Katie (or get call)
+	- [X] order toilet refills if internet can be found; push forward if not
+	- [X] 1pm: call Katie (or get call)
+	- [X] move benita forward if she doesn't arrive
+	- [X] check in with Jim
+
+- [!] 2018-09-11 Tue
+	- [ ] 10a Gwyn calls to plan carpool
+	- [ ] 11:30A Gwyn leaves for 1pm appt to Elkins
+	- [ ] Sign contract from Katie
+	- [ ] MOVE FORWARD: Do all my CVF homework.
+		6-11 in long handout
+		11-14 in short handout, especially examples at end
 	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 		-> if you want to be more on top of this via internet checking, can use library internet
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
-	- [X] move benita forward if she doesn't arrive
-	- [X] check in with Jim
-	- [ ] Sign contract from Katie
-	- [ ] MOVE FORWARD: Do all my CVF homework.
-		6-11 in long handout
-		11-14 in short handout, especially examples at end
-
-- [ ] 2018-09-11 Tue
-	- [ ] 10a Gwyn calls to plan carpool
-	- [ ] 11:30A Gwyn leaves for 1pm appt to Elkins
 
 - [ ] 2018-09-12 Wed
 	- [ ] 11a call Katie
@@ -62,7 +49,7 @@
 	- [ ] Get piercing consult
 
 - [ ] 2018-09-19 Wed
-Repair ticket #: 004349821
+Repair ticket #: 004349821 (DSL)
 		Sep 19, 8a-12p
 		will call home phone
 	- [ ] 12:00 pm Dr Mooney
@@ -307,6 +294,16 @@ set up internet
 
 
 # DONE
+- [X] 2018-09-08 Sat
+	- [ ]O Study convergent facilitation to prepare for next day
+	- [X]O TRASH !!
+		-> I missed the bags that Jim moved to the back seat from the front
+	- [X]O get wrench and wire brush and scale
+	- [ ] get organization to current baseline
+	- [ ] noiscillate?
+- [x] 2018-09-09 Sun
+	- [X] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
+	- [X] gwyn may visit in afternoon, or call
 - [X] 2018-09-07 Fri
 	- [X] 11:00A call Katie -- note next wk likely won't work because of opthalmology
 	- [X] 1:00 PM psychotherapy jeremy
