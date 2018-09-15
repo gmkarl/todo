@@ -67,7 +67,17 @@ Repair ticket #: 004349821 (DSL)
 
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
-	- [X] fill out opthalmology request, above
+	- [ ] unify projects & tasks systems into this repo
+		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL?
+		- information and tracking of activities and projects is stored in folders regarding them
+			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Katie's desire to distinguish between these.
+			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.  
+		- projects/activities concept: activites == actionable tasks == each fits in time alloction system on phone
+		- use PROJECTS folder to organize what needs to be done in general
+			- activities folder would be a sibling.  we already have TASKS folder that can be the same.
+		- concepts here are GOALS/SUBGOALS/PROJECTS/ONGOING ACTIVITIES, REASONS AND PRIORITIES FOR GOALS, PLACE TO TRACK INFORMATION ON GOAL, TASKS, and PRIORITIES AND DEADLINES FOR TASKS
+			- phone tasks system allows to split time between goals or activities.  can mesh in.
+		-> OKAY: ACTIVITIES are phone goals/tasks that have time split between them.  This is why there's a separate activities folder: it's the level at which time is split.
 	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
 		- [X] install adb for sys-net
 		- [X] set up syncing between vms on qubes
@@ -80,14 +90,6 @@ Repair ticket #: 004349821 (DSL)
 		- [ ] todo items
 		- [ ] information items
 		- [ ] other items
-	- [ ] unify projects & tasks systems into this repo
-		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL
-		- information and tracking of activities and projects is stored in folders regarding them
-			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Katie's desire to distinguish between these.
-			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.  
-		- projects/activities concept: activites == actionable tasks == each fits in time alloction system on phone
-		- use PROJECTS folder to organize what needs to be done in general
-			- activities folder
 
 ## internet
 - [ ] klkeach@gmail.com not kkeach@gmail.com
@@ -232,9 +234,6 @@ Cancer Places
 
 ## doable task ideas
 set up internet
- expand "Project" organization system: make an "activities" folder and give each activity priority items from the projects. Activities should mesh with my phone tasks system.
- ^====<=== PROCESS THIS TASK NEXT
-		===-> I tried to add this to list at top but it got tough.  also taking too much nicotine
  Make a project for working on these organization systems.
  work on EE lab report for 6 hours total
  make door for trailer
@@ -294,6 +293,7 @@ set up internet
 
 
 # DONE
+	- [X] fill out opthalmology request, above
 - [X] 2018-09-08 Sat
 	- [ ]O Study convergent facilitation to prepare for next day
 	- [X]O TRASH !!
