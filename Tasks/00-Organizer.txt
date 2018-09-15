@@ -3,44 +3,34 @@
 # UPCOMING
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-- [ ] Reconnect with Dr Bouboulis as I am tarting treatment
+- [ ] Talk Jim re Gwyn & caregiving
+- [ ] Reconnect with Dr Bouboulis as I am starting treatment
 - [ ] Call Dr Nathenson's office (617) 632-5204
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 
-- [X] 2018-09-07 Fri
-	- [X] 11:00A call Katie -- note next wk likely won't work because of opthalmology
-	- [X] 1:00 PM psychotherapy jeremy
-	- [X] 2-3 PM gwyn Work towards speeding up Gwyn's computer
-		- fix LOGIN
-		- wipe PHONE
-		- concepts on the table:
-			- figuring internet usage out and how it compares to available bandwidth
-			- cleaning/replacing phone connectors
-			- xbox live?
-		- Bring:
-			- [ ] laptop + ethernet adapter + cable
-			- less important [ ] things to clean & replace contacts with (wrench? wire brush?)
-			- [ ] microusb cable, lightning cable if have
-			- [ ] microsd card (soc box)
-
-
-- [!] 2018-09-08 Sat
+- [X] 2018-09-08 Sat
 	- [ ]O Study convergent facilitation to prepare for next day
-	- [ ]O TRASH !!
-	- [ ]O get wrench and wire brush
+	- [X]O TRASH !!
+		-> I missed the bags that Jim moved to the back seat from the front
+	- [X]O get wrench and wire brush and scale
 	- [ ] get organization to current baseline
 	- [ ] noiscillate?
 
-- [ ] 2018-09-09 Sun
+- [!] 2018-09-09 Sun
 	- [ ] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
 	- [ ] gwyn may visit in afternoon, or call
 
 
 - [ ] 2018-09-10 Mon
 	- 8a-10a Benita, Antibiotics
-	- [ ] Schedule DSL installation is this day; call and pursue internet functionality.
+	- [ ] Scheduled DSL installation is this day; call and pursue internet functionality.
 		800-239-4430 is provisioning number i think
 		877-669-5535 is general frontier umber
+	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
+		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
+		-> if you want to be more on top of this via internet checking, can use library internet
+		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
+		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
 	- 7p-9p Benita, Antibiotics
 
 - [ ] 2018-09-12 Wed
@@ -264,6 +254,21 @@ set up internet
 
 
 # DONE
+- [X] 2018-09-07 Fri
+	- [X] 11:00A call Katie -- note next wk likely won't work because of opthalmology
+	- [X] 1:00 PM psychotherapy jeremy
+	- [X] 2-3 PM gwyn Work towards speeding up Gwyn's computer
+		- fix LOGIN
+		- wipe PHONE
+		- concepts on the table:
+			- figuring internet usage out and how it compares to available bandwidth
+			- cleaning/replacing phone connectors
+			- xbox live?
+		- Bring:
+			- [ ] laptop + ethernet adapter + cable
+			- less important [ ] things to clean & replace contacts with (wrench? wire brush?)
+			- [ ] microusb cable, lightning cable if have
+			- [ ] microsd card (soc box)
 - [X] 2018-09-04 Tue
 	- [X] Call Frontier to get router provisioned (assignments having time to get line card set up?)
 	- [X] 12:17 call back venetia
