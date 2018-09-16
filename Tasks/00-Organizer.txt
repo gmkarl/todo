@@ -42,6 +42,7 @@ lewisburg:
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 - [ ] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
 - [ ] Do my CVF homework
+- [ ] sign up for another high tech & seti tour to keep the radio astronomy energy going
 
 - [!] 2018-09-16 Sun
 	- [ ] Gwyn in afternoon maybe 3 or 4 pm; NVC exercises?
@@ -83,6 +84,10 @@ Repair ticket #: 004349821 (DSL)
 
 ## computer
 - [ ] Organization / Todo (feel free to REORDER)
+	- [ ] import paper items from the 2 notebooks
+		- [ ] todo items
+		- [ ] information items
+		- [ ] other items
 	- [ ] unify projects & tasks systems into this repo
 		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL?
 		- information and tracking of activities and projects is stored in folders regarding them
@@ -102,13 +107,12 @@ Repair ticket #: 004349821 (DSL)
 	- [ ] sort cruft below
 		- [X] DEAL WITH 'design tent interior' -- this is related to the goal of immediately increasing personal shielding
 					not as important as having a tool to measure SE in general, but a goal I had, that should at least get organized
-	- [ ] import paper items from the 2 notebooks
-		- [ ] todo items
-		- [ ] information items
-		- [ ] other items
+	- [ ] I'm having trouble having regular meals: come up with some foods I enjoy making (both for the joy of making & sourcing, and for the health and ease) and make a system to make food mroe available for me
+			-> maybe schedule a dumpster visit, and some gathring?  there are apples and acorns everywhere, and I'm not done with apple pres
 
 ## internet
 - [ ] klkeach@gmail.com not kkeach@gmail.com
+- [ ] find when my neurological testing is, maybe a voicemail could indicate? maybe med portal?
 - [ ] visit cgran.org: review gnuradio modules and/or make a copy of the list
 	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
 - [X] get PPPoE-capable DSL modem (plugs straight into phone)
@@ -136,6 +140,8 @@ Repair ticket #: 004349821 (DSL)
 - [ ] share my gitbundleautosync projects; they're useful tools
 - [_] sign up for another nvcacademy course
 	-> still doing convergent fac
+- [ ] download history of a volatile crypto? from an exchange that trades it
+- [ ] withdraw $ for GBT, MPSS, Diane, Truck
 
 
 ## truck
@@ -239,6 +245,18 @@ Cancer Places
 	
 Gwyn Cole
 	304 456 5300
+
+James Reese
+	304 456 4489 (this is frmo papers, check with poster, ensure is the same)
+
+Diane Schou
+	304 456 5525
+
+Dentist
+	413 586 6186
+
+Dr Bouboulis
+	203 655 9904 ?
 
 NVC Practice Group
 	Blacksburg, VA; ~3 hr drive alternate sundays 7pm-8:30pm patriciabevan@mac.com
