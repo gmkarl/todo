@@ -1,3 +1,8 @@
+- [X] I've added support for message commands to gr-osmosdr
+- [ ] Add support for stream tags coming from sources
+- [ ] Add support for stream tag commands?
+  -> it's notable that UHD uses these only for transmitters and not receivers
+
 - gnuradio uses tag streams / stream tags for data synchronous with samples
 - gnuradio uses messages for asynchronous data
 
@@ -53,6 +58,14 @@ UHD source tags:
 - "rx_rate" (double)
 - "rx_freq" (double)
 
+UHD sink tags:
+  referenced as SOB_KEY, EOB_KEY, TIME_KEY, FREQ_KEY, and COMMAND_KEY in gnuradio/gr-uhd/lib/usrp_sink_impl.cc/h
+- "tx_sob"
+- "tx_eob"
+- "tx_time"
+- "tx_freq"
+- "tx_command"
+
 Metadata information has adopted UHD tags, using rx_rate and rx_time
 
 ===
@@ -77,7 +90,7 @@ Format norms:
   Please name things using these keys to help further use in the future, and not pass bare values.
 
 UHD command keys:
-  in gnuradio/gr-uhd/lib/usrp_block_impl.cc
+  in gnuradio/gr-uhd/lib/usrp_block_impl.cc (affect both sink and source)
 command keys, which may be sent many at once:
 - "freq" (double)
     tunes to freq
