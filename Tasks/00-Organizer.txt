@@ -29,10 +29,8 @@ lewisburg:
 - can get a passport
 - truck mechanic?
 
-# CALENDAR
-
 # UPCOMING
-- [ ] DO MY LAB REPORTS !  think how empowering this would b
+- [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
@@ -42,12 +40,16 @@ lewisburg:
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 - [ ] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
 - [ ] Do my CVF homework
-- [ ] sign up for another high tech & seti tour to keep the radio astronomy energy going
 
-- [!] 2018-09-16 Sun
-	- [ ] Gwyn in afternoon maybe 3 or 4 pm; NVC exercises?
+# CALENDAR
 
-- [ ] 2018-09-17 Mon
+- [X] 2018-09-16 Sun
+	- [X] ~2pm Gwyn; salmon; NVC exercises?
+
+- [!] 2018-09-17 Mon
+	- [ ] 11 am Katie
+
+- [ ] 2018-09-18 Tue
 	- [ ] MOVE FORWARD: Do all my CVF homework.
 		6-11 in long handout
 		11-14 in short handout, especially examples at end
@@ -56,7 +58,6 @@ lewisburg:
 		-> if you want to be more on top of this via internet checking, can use library internet
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
-	- [ ] 11 am Katie
 
 - [ ] 2018-09-19 Wed
 Repair ticket #: 004349821 (DSL)
@@ -123,6 +124,7 @@ Repair ticket #: 004349821 (DSL)
 - [X] buy more small microSD cards.  I'm out.
 - [X] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
 - [ ] set up google voice to forward to my phone # (304) 456-5564
+- [ ] sign up for another high tech & seti tour to keep the radio astronomy energy going
 413 586 0207
 11a
 - [X] send bank information to father (in checks in paper file) ... but note that I may still want to get deposits in other accounts as I have auto-withdrawals
