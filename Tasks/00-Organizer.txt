@@ -5,12 +5,12 @@ Priorit	Delay	Expense	Availability
 1	2	0	2		cntact PCP re lcal oncologist & fissure
 2	2	0	2		get 4th antibiotic prescribed (and length of treatment; and update regarding situ.)
 3	2	3	1		propane for heating (company to call on regulations posting at tiny home)
-1	2	0	1		Fix Five County balance so is no deficit
+[X]1	2	0	1		Fix Five County balance so is no deficit
 2	3	0	1		Prepare a personal budget
 1	3	0	2		Sort desk
 1	3	0	2		Sort car
 1	2	0	2		Move transport organization box from truck
-0	2	0	2		Prep for tour; get questions from david, combine question notes
+[X]0	2	0	2		Prep for tour; get questions from david, combine question notes
 1	2	0	1		Call Frontier wrt how to get voicemail
 1	3	0	1		Move forward on education
 1	3	0	1		Personal Info Org System
@@ -18,6 +18,7 @@ Priorit	Delay	Expense	Availability
 2	1	1	2		Replenish vitamins
 1	2	0	3		Forward phone number
 3	2	0	2		Volunteering
+0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
 
 RACI
 who's Responsible, who's Accountable, Communication, Information
@@ -46,10 +47,10 @@ lewisburg:
 - [X] 2018-09-16 Sun
 	- [X] ~2pm Gwyn; salmon; NVC exercises?
 
-- [!] 2018-09-17 Mon
+- [X] 2018-09-17 Mon
 	- [ ] 11 am Katie
 
-- [ ] 2018-09-18 Tue
+- [!] 2018-09-18 Tue
 	- [ ] MOVE FORWARD: Do all my CVF homework.
 		6-11 in long handout
 		11-14 in short handout, especially examples at end
@@ -58,16 +59,25 @@ lewisburg:
 		-> if you want to be more on top of this via internet checking, can use library internet
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
+	- [ ] Dr bouboulis item above
 
 - [ ] 2018-09-19 Wed
 Repair ticket #: 004349821 (DSL)
 		Sep 19, 8a-12p
 		will call home phone
-	- [ ] 12:00 pm Dr Mooney
+	- [ ] 9 am Jim Taggart call (check in and remind of task items)
+	- [ ] 11:00 am Katie call; maybe discuss dr mooney
+	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
 
+- [ ] 2018-09-21 Fri
+	- [ ] 9 am Jim Taggart call (check in and remind of task items)
+
 - [ ] 2018-09-26 Wed
-	- [ ] 2:00 PM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
+	- [ ] Jim arrives morning/afternoon
+
+- [ ] 2018-09-27 Thu
+	- [ ] 10:30 AM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
 
 - [ ] 2018-12-05
 	- [ ] 3:00 PM dental filling, Dr Joshua Abbott
@@ -80,6 +90,8 @@ Repair ticket #: 004349821 (DSL)
 		9:30 AM UVA West Complex
 		1300 Jefferson Park Ave, 2nd floor
 		Charlottesville, VA`
+		To reschedule: 434-924-5485 (ideally 3 days advance notice)
+		               800-251-3627
 
 # ACTIONABLE TASKS
 
@@ -134,6 +146,7 @@ Repair ticket #: 004349821 (DSL)
 - [ ] get buck boost converter for 12v-12v DC-DC battery charger (misplaced mine)
 - [X] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
 	-> I'll just run the harddrives in my car.  jim could just as easily dislike lots of household batteries.
+- [ ] get reps for EMOTM tacfit workout and add to a tacfit file to see later
 - [ ] get a knife for whittling
 - [ ] identify cookie & kate ingreds
 - [ ] order new lifeextension two-per-day
