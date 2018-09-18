@@ -1,6 +1,40 @@
+Priorit	Delay	Expense	Availability
+3	1	1	1		try to talk to dianne
+3	3	1	2		go to lewisburg health stores
+2	2	3	3		get truck mechanic to look at truck
+1	2	0	2		cntact PCP re lcal oncologist & fissure
+2	2	0	2		get 4th antibiotic prescribed (and length of treatment; and update regarding situ.)
+3	2	3	1		propane for heating (company to call on regulations posting at tiny home)
+1	2	0	1		Fix Five County balance so is no deficit
+2	3	0	1		Prepare a personal budget
+1	3	0	2		Sort desk
+1	3	0	2		Sort car
+1	2	0	2		Move transport organization box from truck
+0	2	0	2		Prep for tour; get questions from david, combine question notes
+1	2	0	1		Call Frontier wrt how to get voicemail
+1	3	0	1		Move forward on education
+1	3	0	1		Personal Info Org System
+0	2	0	1		CVF homework
+2	1	1	2		Replenish vitamins
+1	2	0	3		Forward phone number
+3	2	0	2		Volunteering
+
+RACI
+who's Responsible, who's Accountable, Communication, Information
+
+
+lewisburg:
+- health food stores
+- hardware stores
+- can get a passport
+- truck mechanic?
+
 # CALENDAR
 
 # UPCOMING
+- [ ] DO MY LAB REPORTS !  think how empowering this would b
+		with time limit.  remember to reward based on progress.
+		-> should be doable with n2
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
@@ -8,13 +42,11 @@
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 - [ ] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
 - [ ] Do my CVF homework
-- [ ] DO MY LAB REPORTS !  think how empowering this would b
-		with time limit.  remember to reward based on progress.
 
-- [!] 2018-09-13 Thu
-	- 8a-10a Benita, Antibiotics
-	- [ ] Check e-mail re: astronomer to prep tour q's
-	- [ ] 3:30 PM High-tech tour of observatory
+- [!] 2018-09-16 Sun
+	- [ ] Gwyn in afternoon maybe 3 or 4 pm; NVC exercises?
+
+- [ ] 2018-09-17 Mon
 	- [ ] MOVE FORWARD: Do all my CVF homework.
 		6-11 in long handout
 		11-14 in short handout, especially examples at end
@@ -23,18 +55,6 @@
 		-> if you want to be more on top of this via internet checking, can use library internet
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
-	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
-	- 7p-9p Benita, Antibiotics
-
-- [ ] 2018-09-14
-	- [ ] 7:00 am Leave for Opthalmology Appt
-			9:45 AM
-			1300 Jefferson Park Ave 2nd floor, Charlottesville
-	- [ ] 1 pm Jeremy
-	- [ ] 4 pm Katie
-	- [ ] Get piercing consult
-
-- [ ] 2018-09-17 Mon
 	- [ ] 11 am Katie
 
 - [ ] 2018-09-19 Wed
@@ -42,12 +62,22 @@ Repair ticket #: 004349821 (DSL)
 		Sep 19, 8a-12p
 		will call home phone
 	- [ ] 12:00 pm Dr Mooney
+	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
+
+- [ ] 2018-09-26 Wed
+	- [ ] 2:00 PM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
 
 - [ ] 2018-12-05
 	- [ ] 3:00 PM dental filling, Dr Joshua Abbott
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
+
+- [ ] 2019-02-22 Fri
+	- [ ] 6:00 A leave for eye appt
+		9:30 AM UVA West Complex
+		1300 Jefferson Park Ave, 2nd floor
+		Charlottesville, VA`
 
 # ACTIONABLE TASKS
 
@@ -79,21 +109,25 @@ Repair ticket #: 004349821 (DSL)
 
 ## internet
 - [ ] klkeach@gmail.com not kkeach@gmail.com
-- [ ] get PPPoE-capable DSL modem (plugs straight into phone)
+- [ ] visit cgran.org: review gnuradio modules and/or make a copy of the list
+	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
+- [X] get PPPoE-capable DSL modem (plugs straight into phone)
 	Account ID/Username: 047587-182211@connect.frontier.com
 	           Password: 67487d3aa10001b
-- [ ] buy eye gel
-- [ ] buy 2x AAA for scale
-- [ ] buy more small microSD cards.  I'm out.
-- [ ] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
+- [X] buy eye gel
+- [X] buy 2x AAA for scale
+- [X] buy more small microSD cards.  I'm out.
+- [X] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
 - [ ] set up google voice to forward to my phone # (304) 456-5564
 413 586 0207
 11a
-- [ ] send bank information to father (in checks in paper file) ... but note that I may still want to get deposits in other accounts as I have auto-withdrawals
+- [X] send bank information to father (in checks in paper file) ... but note that I may still want to get deposits in other accounts as I have auto-withdrawals
 - [X] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
 	can live in front 'closet' maybe
 - [ ] get carpet attachment for my kenmore vacuum
-- [ ] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
+- [ ] get buck boost converter for 12v-12v DC-DC battery charger (misplaced mine)
+- [X] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
+	-> I'll just run the harddrives in my car.  jim could just as easily dislike lots of household batteries.
 - [ ] get a knife for whittling
 - [ ] identify cookie & kate ingreds
 - [ ] order new lifeextension two-per-day
@@ -206,6 +240,23 @@ Cancer Places
 Gwyn Cole
 	304 456 5300
 
+NVC Practice Group
+	Blacksburg, VA; ~3 hr drive alternate sundays 7pm-8:30pm patriciabevan@mac.com
+
+Slingshot Contacts
+	Spring Village Ecology 757 Madison St, Harrisonberg, VA
+	Little Grill 621 N Main St, Harrisonburg, VA
+	Living Energy Farm 1022 Bibb Store Rd, Louisa, VA
+	Twin Oaks Community 138 Twin Oaks Rd, Louisa, VA
+	Vine & Fig 715 N Maine St, Harrisonburg, VA
+	Wayside Popular Education 1100 Mill Pond Rd, Faber, VA
+
+	Woodfolk House, Charlottesville, VA (434) 305-8622 Aurora DeMarco
+
+	Mind(ful) Liberation Project 2026 Parkwood Ave Apt C, Richmond, VA
+	Rag & Bones Bicycle 3110 W. Leigh St, Richmond, VA
+	Small Friends 105 N 17th St, Richmond, VA
+
 
 # CRUFT TO SORT UP
 
@@ -282,6 +333,18 @@ set up internet
 
 
 # DONE
+- [X] 2018-09-13 Thu
+	- 8a-10a Benita, Antibiotics
+	- [X] Check e-mail re: astronomer to prep tour q's
+	- [X] 3:30 PM High-tech tour of observatory
+	- 7p-9p Benita, Antibiotics
+- [X] 2018-09-14 Fri
+	- [X] 7:00 am Leave for Opthalmology Appt
+			9:45 AM
+			1300 Jefferson Park Ave 2nd floor, Charlottesville
+	- [X] 1 pm Jeremy
+	- [X] 4 pm Katie
+	- [X] Get piercing consult
 ## wavr
 - [X] get paper file box
 - [X] 2018-09-11 Tue
