@@ -48,7 +48,7 @@ lewisburg:
 	- [X] ~2pm Gwyn; salmon; NVC exercises?
 
 - [X] 2018-09-17 Mon
-	- [ ] 11 am Katie
+	- [X] 11 am Katie
 
 - [!] 2018-09-18 Tue
 	- [ ] MOVE FORWARD: Do all my CVF homework.
