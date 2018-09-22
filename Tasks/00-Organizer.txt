@@ -41,6 +41,7 @@ lewisburg:
 - [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
 - [ ] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
 - [ ] Do my CVF homework
+- [ ] Call Frontier to figure out how to access voicemail
 
 # CALENDAR
 
@@ -51,7 +52,27 @@ lewisburg:
 	- [X] 11 am Katie
 
 - [!] 2018-09-18 Tue
-	- [ ] MOVE FORWARD: Do all my CVF homework.
+	- [X] 2:00 PM dental filling, Dr Joshua Abbott
+
+- [X] 2018-09-19 Wed
+Repair ticket #: 004349821 (DSL)
+		Sep 19, 8a-12p
+		will call home phone
+	- [X] 9 am Jim Taggart call (check in and remind of task items)
+	- [X] 11:00 am Katie call; maybe discuss dr mooney
+	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
+
+- [X] 2018-09-20 Thu
+	- [X][X] 11a Jeremy Call
+			(next wk fri 1pm)
+
+- [X] 2018-09-21 Fri
+	- [X] 10:30a - 11:30a Katie
+
+- [!] 2018-09-22 Sat
+	- [ ] 11:30a Katie & Gwyn Call
+	- [ ][ ] MOVE FORWARD: Do all my CVF homework.
 		6-11 in long handout
 		11-14 in short handout, especially examples at end
 	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
@@ -59,19 +80,36 @@ lewisburg:
 		-> if you want to be more on top of this via internet checking, can use library internet
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
-	- [ ] Dr bouboulis item above
+		:: contact jenifer lambert for referral
+	- [ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		203 655 9904
+		203 323 7744
+		Closed 12:30p - 2:15p 
+		M 9:15a - 4:30p
+		Tu 9:15a - 4p
+		W 9:15a - 4:30p
+		Th 9:15 - 4:30p
+		F closed
+		Sa 9a - 12:30p
 
-- [ ] 2018-09-19 Wed
-Repair ticket #: 004349821 (DSL)
-		Sep 19, 8a-12p
-		will call home phone
-	- [ ] 9 am Jim Taggart call (check in and remind of task items)
-	- [ ] 11:00 am Katie call; maybe discuss dr mooney
-	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
-	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
+		1. restart trmt, info
+		2. get missing antibiotic
+			green bank pharmacy
+			PO Box 85
+			90 Route 28
+			Green Bank, WV 24944
+			Phone: (304) 456-3333
+			Fax: (304) 456-3070
+			M-Thu 9a-5:30p
 
-- [ ] 2018-09-21 Fri
+- [ ] 2018-09-23 Sun
+	- [ ] 10:30 AM Katie call ... talk re Jim past experience relating 
+
+- [ ] 2018-09-24 Mon
 	- [ ] 9 am Jim Taggart call (check in and remind of task items)
+
+- [ ] 2018-09-25 Tue
+	- [ ][ ] 9:30a - 11:00a  Katie
 
 - [ ] 2018-09-26 Wed
 	- [ ] Jim arrives morning/afternoon
@@ -79,8 +117,12 @@ Repair ticket #: 004349821 (DSL)
 - [ ] 2018-09-27 Thu
 	- [ ] 10:30 AM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
 
+- [ ] 2018-09-28 Fri
+	- [ ][ ] 9:30a - 11:00a  Katie
+	- [ ][ ] 1p Jeremy
+
 - [ ] 2018-12-05
-	- [ ] 3:00 PM dental filling, Dr Joshua Abbott
+	(dental fillings were moved when opening happened)
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
@@ -125,6 +167,7 @@ Repair ticket #: 004349821 (DSL)
 
 ## internet
 - [ ] klkeach@gmail.com not kkeach@gmail.com
+- [ ] hang in osmosdr chat to discuss changes
 - [ ] find when my neurological testing is, maybe a voicemail could indicate? maybe med portal?
 - [ ] visit cgran.org: review gnuradio modules and/or make a copy of the list
 	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
@@ -238,6 +281,10 @@ Repair ticket #: 004349821 (DSL)
 (304) 456-5564
 6330 Potomac Highlands Trail
 Green Bank, WV 24944
+
+Voicemail:
+	*100
+	304 799 6891
 
 Health food stores:
 - Good Energy Foods? in Elkins (small)
@@ -437,3 +484,5 @@ set up internet
 	- [X] 1:00 PM Dr Mooney
 	- [X] eve: Gwyn / call to plan next visit
 			304 456 5300
+
+
