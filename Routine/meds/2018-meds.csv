@@ -99,7 +99,11 @@ LO, LifeExtension Super Omega-3, 1 softgel
 LO, LifeExtension Super Omega-3, 1 softgel
 LO, LifeExtension Super Omega-3, 1 softgel
 LO, LifeExtension Super Omega-3, 1 softgel
-LD, Low-Dose-Naltrexone, 1 capsule
+
+Antibiotic Meds
+DX, Doxycycline Hyclate, 1 tablet
+BM, Bactrim DS, 1 tablet
+AT, Atovaquone / Mepron, 5 milliliters
 
 Lunch Meds
 TB, Klaire Labs Ther-Biotic Complete, 1 capsule
@@ -1641,3 +1645,22 @@ Time, Med, Dosage, Notes
 2018-09-12T10:10:01-04:00,LO,1,
 2018-09-12T19:34:05-04:00,MM,1,
 2018-09-12T19:34:38-04:00,MN,1,
+2018-09-13T08:10:59-04:00,B2,1,
+2018-09-13T08:12:35-04:00,MD,1,
+2018-09-13T08:13:24-04:00,MD,1,
+2018-09-13T08:13:46-04:00,VC,1,
+2018-09-13T08:14:07-04:00,VC,1,
+2018-09-13T08:14:23-04:00,LO,1,
+2018-09-13T08:14:36-04:00,LO,1,
+2018-09-13T08:14:51-04:00,LO,1,
+2018-09-13T09:46:26-04:00,N2,1,
+2018-09-14T06:24:49-04:00,N2,1,
+2018-09-15T07:26:23-04:00,N2,1,
+2018-09-16T10:12:23-04:00,B2,1,
+2018-09-16T10:12:52-04:00,MD,1,
+2018-09-16T10:13:07-04:00,MD,1,
+2018-09-16T10:13:30-04:00,VC,1,
+2018-09-16T10:13:56-04:00,LO,1,
+2018-09-16T10:14:09-04:00,LO,1,
+2018-09-16T10:14:21-04:00,LO,1,
+2018-09-16T10:52:14-04:00,N2,1,
