@@ -44,35 +44,12 @@ lewisburg:
 - [ ] Call Frontier to figure out how to access voicemail
 
 # CALENDAR
-
-- [X] 2018-09-16 Sun
-	- [X] ~2pm Gwyn; salmon; NVC exercises?
-
-- [X] 2018-09-17 Mon
-	- [X] 11 am Katie
-
-- [!] 2018-09-18 Tue
-	- [X] 2:00 PM dental filling, Dr Joshua Abbott
-
-- [X] 2018-09-19 Wed
-Repair ticket #: 004349821 (DSL)
-		Sep 19, 8a-12p
-		will call home phone
-	- [X] 9 am Jim Taggart call (check in and remind of task items)
-	- [X] 11:00 am Katie call; maybe discuss dr mooney
-	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
-	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
-
-- [X] 2018-09-20 Thu
-	- [X][X] 11a Jeremy Call
-			(next wk fri 1pm)
-
-- [X] 2018-09-21 Fri
-	- [X] 10:30a - 11:30a Katie
-
 - [!] 2018-09-22 Sat
-	- [ ] 11:30a Katie & Gwyn Call
-	- [ ][ ] MOVE FORWARD: Do all my CVF homework.
+	- [X] 11:30a Katie & Gwyn Call
+
+- [!] 2018-09-23 Sun
+	- [ ] 10:30 AM Katie call ... talk re Jim past experience relating 
+	- likely MISSED [ ][ ] MOVE FORWARD: Do all my CVF homework.
 		6-11 in long handout
 		11-14 in short handout, especially examples at end
 	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
@@ -102,9 +79,6 @@ Repair ticket #: 004349821 (DSL)
 			Fax: (304) 456-3070
 			M-Thu 9a-5:30p
 
-- [ ] 2018-09-23 Sun
-	- [ ] 10:30 AM Katie call ... talk re Jim past experience relating 
-
 - [ ] 2018-09-24 Mon
 	- [ ] 9 am Jim Taggart call (check in and remind of task items)
 
@@ -113,6 +87,7 @@ Repair ticket #: 004349821 (DSL)
 
 - [ ] 2018-09-26 Wed
 	- [ ] Jim arrives morning/afternoon
+	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
 
 - [ ] 2018-09-27 Thu
 	- [ ] 10:30 AM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
@@ -120,6 +95,9 @@ Repair ticket #: 004349821 (DSL)
 - [ ] 2018-09-28 Fri
 	- [ ][ ] 9:30a - 11:00a  Katie
 	- [ ][ ] 1p Jeremy
+
+- [ ] 2018-10-03 Wed
+	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2018-12-05
 	(dental fillings were moved when opening happened)
@@ -413,6 +391,23 @@ set up internet
 
 
 # DONE
+- [X] 2018-09-16 Sun
+	- [X] ~2pm Gwyn; salmon; NVC exercises?
+- [X] 2018-09-17 Mon
+	- [X] 11 am Katie
+- [X] 2018-09-18 Tue
+	- [X] 2:00 PM dental filling, Dr Joshua Abbott
+- [X] 2018-09-19 Wed
+Repair ticket #: 004349821 (DSL)
+		Sep 19, 8a-12p
+		will call home phone
+	- [X] 9 am Jim Taggart call (check in and remind of task items)
+	- [X] 11:00 am Katie call; maybe discuss dr mooney
+- [X] 2018-09-20 Thu
+	- [X][X] 11a Jeremy Call
+			(next wk fri 1pm)
+- [X] 2018-09-21 Fri
+	- [X] 10:30a - 11:30a Katie
 - [X] 2018-09-13 Thu
 	- 8a-10a Benita, Antibiotics
 	- [X] Check e-mail re: astronomer to prep tour q's
@@ -451,38 +446,5 @@ set up internet
 	- [X]O get wrench and wire brush and scale
 	- [ ] get organization to current baseline
 	- [ ] noiscillate?
-- [x] 2018-09-09 Sun
-	- [X] Convergent Facilitation.  Recordings are online now !  Also a spreadsheet to find groups !
-	- [X] gwyn may visit in afternoon, or call
-- [X] 2018-09-07 Fri
-	- [X] 11:00A call Katie -- note next wk likely won't work because of opthalmology
-	- [X] 1:00 PM psychotherapy jeremy
-	- [X] 2-3 PM gwyn Work towards speeding up Gwyn's computer
-		- fix LOGIN
-		- wipe PHONE
-		- concepts on the table:
-			- figuring internet usage out and how it compares to available bandwidth
-			- cleaning/replacing phone connectors
-			- xbox live?
-		- Bring:
-			- [ ] laptop + ethernet adapter + cable
-			- less important [ ] things to clean & replace contacts with (wrench? wire brush?)
-			- [ ] microusb cable, lightning cable if have
-			- [ ] microsd card (soc box)
-- [X] 2018-09-04 Tue
-	- [X] Call Frontier to get router provisioned (assignments having time to get line card set up?)
-	- [X] 12:17 call back venetia
-	- [X] 4:00P Call Katie
-- [X] 2018-09-05 Wed
-	- [X] Withdraw money for rent w/ two receipts
-			- 1 for $1200 for the first and last month's rent
-			- 1 for $600 for the security deposit
-	- [X] MID-MORNING to noon Jim Taggart visits through Thursday morning.
-		- get box truck out
-		- solidfy/interview PCAs
-		- think of what else we can accomplish -- packing / organizing?
-	- [X] 1:00 PM Dr Mooney
-	- [X] eve: Gwyn / call to plan next visit
-			304 456 5300
 
 
