@@ -36,8 +36,8 @@ lewisburg:
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
 - [ ] Call Dr Nathenson's office (617) 632-5204
-- [ ] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
-- [ ] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
+- [X] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
+- [X] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
 - [ ] Do my CVF homework
 - [ ] Call Frontier to figure out how to access voicemail
 
@@ -128,9 +128,11 @@ lewisburg:
 
 ## internet
 - [ ] find when my neurological testing is, maybe a voicemail could indicate? maybe med portal?
-- [ ] visit cgran.org: review gnuradio modules and/or make a copy of the list
+	-> they called me to get insurance information
+	   I think I called them back at 434-924-2718 and provided it
+- [X] visit cgran.org: review gnuradio modules and/or make a copy of the list
 	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
-- [ ] set up google voice to forward to my phone # (304) 456-5564
+- [X] set up google voice to forward to my phone # (304) 456-5564
 - [ ] sign up for another high tech & seti tour to keep the radio astronomy energy going
 413 586 0207
 11a
@@ -231,6 +233,7 @@ Green Bank, WV 24944
 
 Voicemail:
 	*100
+		pin is 6 digits
 	304 799 6891
 
 Health food stores:
