@@ -1,24 +1,22 @@
 Priorit	Delay	Expense	Availability
-3	1	1	1		try to talk to dianne
-3	3	1	2		go to lewisburg health stores
-2	2	3	3		get truck mechanic to look at truck
+0	2	0	1		CVF homework
+0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
+	1	1	1		sign up for more gbo tours
 1	2	0	2		cntact PCP re lcal oncologist & fissure
-2	2	0	2		get 4th antibiotic prescribed (and length of treatment; and update regarding situ.)
-3	2	3	1		propane for heating (company to call on regulations posting at tiny home)
-[X]1	2	0	1		Fix Five County balance so is no deficit
-2	3	0	1		Prepare a personal budget
+1	2	0	2		Move transport organization box from truck
 1	3	0	2		Sort desk
 1	3	0	2		Sort car
-1	2	0	2		Move transport organization box from truck
-[X]0	2	0	2		Prep for tour; get questions from david, combine question notes
 1	2	0	1		Call Frontier wrt how to get voicemail
 1	3	0	1		Move forward on education
 1	3	0	1		Personal Info Org System
-0	2	0	1		CVF homework
+2	2	3	3		get truck mechanic to look at truck
+2	3	0	1		Prepare a personal budget
+2	2	0	2		get 4th antibiotic prescribed (and length of treatment; and update regarding situ.)
 2	1	1	2		Replenish vitamins
-1	2	0	3		Forward phone number
+3	2	3	1		propane for heating (company to call on regulations posting at tiny home)
 3	2	0	2		Volunteering
-0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
+3	1	1	1		try to talk to dianne
+3	3	1	2		go to lewisburg health stores
 
 RACI
 who's Responsible, who's Accountable, Communication, Information
@@ -44,14 +42,9 @@ lewisburg:
 - [ ] Call Frontier to figure out how to access voicemail
 
 # CALENDAR
-- [!] 2018-09-22 Sat
-	- [X] 11:30a Katie & Gwyn Call
-
-- [!] 2018-09-23 Sun
-	- [ ] 10:30 AM Katie call ... talk re Jim past experience relating 
-	- likely MISSED [ ][ ] MOVE FORWARD: Do all my CVF homework.
-		6-11 in long handout
-		11-14 in short handout, especially examples at end
+- [!] 2018-09-27 Thu
+	- [ ][ ] 11:00 am Jeremy call
+	- [ ][ ] 3:30 pm - 4:30 pm Kate call
 	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 		-> if you want to be more on top of this via internet checking, can use library internet
@@ -79,25 +72,15 @@ lewisburg:
 			Fax: (304) 456-3070
 			M-Thu 9a-5:30p
 
-- [ ] 2018-09-24 Mon
-	- [ ] 9 am Jim Taggart call (check in and remind of task items)
-
-- [ ] 2018-09-25 Tue
-	- [ ][ ] 9:30a - 11:00a  Katie
-
-- [ ] 2018-09-26 Wed
-	- [ ] Jim arrives morning/afternoon
-	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
-
-- [ ] 2018-09-27 Thu
-	- [ ] 10:30 AM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
-
 - [ ] 2018-09-28 Fri
-	- [ ][ ] 9:30a - 11:00a  Katie
-	- [ ][ ] 1p Jeremy
+	- [ ] 8:30a Bert trip to Elkins
+
+- [ ] 2018-10-02 Tue
+	- MOVED? [ ] 10:30 AM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
 
 - [ ] 2018-10-03 Wed
 	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
 
 - [ ] 2018-12-05
 	(dental fillings were moved when opening happened)
@@ -124,7 +107,7 @@ lewisburg:
 	- [ ] unify projects & tasks systems into this repo
 		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL?
 		- information and tracking of activities and projects is stored in folders regarding them
-			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Katie's desire to distinguish between these.
+			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Kate's desire to distinguish between these.
 			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.  
 		- projects/activities concept: activites == actionable tasks == each fits in time alloction system on phone
 		- use PROJECTS folder to organize what needs to be done in general
@@ -144,29 +127,15 @@ lewisburg:
 			-> maybe schedule a dumpster visit, and some gathring?  there are apples and acorns everywhere, and I'm not done with apple pres
 
 ## internet
-- [ ] klkeach@gmail.com not kkeach@gmail.com
-- [ ] hang in osmosdr chat to discuss changes
 - [ ] find when my neurological testing is, maybe a voicemail could indicate? maybe med portal?
 - [ ] visit cgran.org: review gnuradio modules and/or make a copy of the list
 	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
-- [X] get PPPoE-capable DSL modem (plugs straight into phone)
-	Account ID/Username: 047587-182211@connect.frontier.com
-	           Password: 67487d3aa10001b
-- [X] buy eye gel
-- [X] buy 2x AAA for scale
-- [X] buy more small microSD cards.  I'm out.
-- [X] sign up for electronic statements for bank account; otherwise I will be charged.  there's $200 in account.
 - [ ] set up google voice to forward to my phone # (304) 456-5564
 - [ ] sign up for another high tech & seti tour to keep the radio astronomy energy going
 413 586 0207
 11a
-- [X] send bank information to father (in checks in paper file) ... but note that I may still want to get deposits in other accounts as I have auto-withdrawals
-- [X] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
-	can live in front 'closet' maybe
 - [ ] get carpet attachment for my kenmore vacuum
-- [ ] get buck boost converter for 12v-12v DC-DC battery charger (misplaced mine)
-- [X] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
-	-> I'll just run the harddrives in my car.  jim could just as easily dislike lots of household batteries.
+- [ ] get buck boost converter for 12v-12v dc-dc battery charger (misplaced mine)
 - [ ] get reps for EMOTM tacfit workout and add to a tacfit file to see later
 - [ ] get a knife for whittling
 - [ ] identify cookie & kate ingreds
@@ -391,6 +360,34 @@ set up internet
 
 
 # DONE
+- [X] 2018-09-22 Sat
+	- [X] 11:30a Katie & Gwyn Call
+- [X] 2018-09-23 Sun
+	- [X] 10:30 AM Katie call ... talk re Jim past experience relating 
+- [X] 2018-09-24 Mon
+	- [X] 9 am Jim Taggart call (check in and remind of task items)
+- [X] 2018-09-25 Tue
+	- [X][X] 9:30a - 11:00a  Katie
+	====>	cancel Fri
+- [X] 2018-09-26 Wed
+	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
+- [x] klkeach@gmail.com not kkeach@gmail.com
+- [x] hang in osmosdr chat to discuss changes
+- [x] get pppoe-capable dsl modem (plugs straight into phone)
+	account id/username: 047587-182211@connect.frontier.com
+	           password: 67487d3aa10001b
+- [x] buy eye gel
+- [x] buy 2x aaa for scale
+- [x] buy more small microsd cards.  i'm out.
+- [x] sign up for electronic statements for bank account; otherwise i will be charged.  there's $200 in account.
+- [x] send bank information to father (in checks in paper file) ... but note that i may still want to get deposits in other accounts as i have auto-withdrawals
+- [x] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
+	can live in front 'closet' maybe
+- [X] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
+	-> I'll just run the harddrives in my car.  jim could just as easily dislike lots of household batteries.
+	- likely MISSED [ ][ ] MOVE FORWARD: Do all my CVF homework.
+		6-11 in long handout
+		11-14 in short handout, especially examples at end
 - [X] 2018-09-16 Sun
 	- [X] ~2pm Gwyn; salmon; NVC exercises?
 - [X] 2018-09-17 Mon
@@ -413,38 +410,3 @@ Repair ticket #: 004349821 (DSL)
 	- [X] Check e-mail re: astronomer to prep tour q's
 	- [X] 3:30 PM High-tech tour of observatory
 	- 7p-9p Benita, Antibiotics
-- [X] 2018-09-14 Fri
-	- [X] 7:00 am Leave for Opthalmology Appt
-			9:45 AM
-			1300 Jefferson Park Ave 2nd floor, Charlottesville
-	- [X] 1 pm Jeremy
-	- [X] 4 pm Katie
-	- [X] Get piercing consult
-## wavr
-- [X] get paper file box
-- [X] 2018-09-11 Tue
-	- [_] 10a Gwyn calls to plan carpool
-	- [X] 11:30A Gwyn leaves for 1pm appt to Elkins
-	- [X] Sign contract from Katie
-- [X] 2018-09-12 Wed
-	- [X] 11a call Katie
-	- [X] 1pm Jim Taggart
-- [X] Talk Jim re Gwyn & caregiving
-- [x] 2018-09-10 Mon
-	- [X] Scheduled DSL installation is this day; call and pursue internet functionality.
-		800-239-4430 is provisioning number i think
-		877-669-5535 is general frontier umber
-	- [X] order toilet refills if internet can be found; push forward if not
-	- [X] 1pm: call Katie (or get call)
-	- [X] move benita forward if she doesn't arrive
-	- [X] check in with Jim
-	- [X] fill out opthalmology request, above
-- [X] 2018-09-08 Sat
-	- [ ]O Study convergent facilitation to prepare for next day
-	- [X]O TRASH !!
-		-> I missed the bags that Jim moved to the back seat from the front
-	- [X]O get wrench and wire brush and scale
-	- [ ] get organization to current baseline
-	- [ ] noiscillate?
-
-
