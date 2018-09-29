@@ -35,29 +35,18 @@ lewisburg:
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
-- [X] Call Dr Nathenson's office (617) 632-5204
-- [X] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
-- [X] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
 - [ ] Do my CVF homework
-- [X] Call Frontier to figure out how to access voicemail
 
 # CALENDAR
-- [!] 2018-09-27 Thu
-	- [X][X] 11:00 am Jeremy call
-	- [X][X] 3:30 pm - 4:30 pm Kate call
+- [!] 2018-09-29 Sat
+
+- [ ] 2018-10-01 Mon
+	- [ ] 2:00 pm Doc, Anal Fissure
 	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
 		:: contact jenifer lambert for referral
-	- [X][X] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-
-- [ ] 2018-09-28 Fri
-	- [ ] 8:30a Bert trip to Elkins
-
-- [ ] 2018-10-01 Mon
-	- [ ] 2:00 pm Doc, Anal Fissure
 	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 
@@ -69,6 +58,9 @@ lewisburg:
 - [ ] 2018-10-03 Wed
 	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
+
+- [ ] 2018-10-17 Wed
+	- Jim Taggart visits
 
 - [ ] 2918-10-05 Fri
 	- [ ][ ] 1:00 pm Jeremy call
@@ -130,18 +122,6 @@ lewisburg:
 - [ ] find when my neurological testing is, maybe a voicemail could indicate? maybe med portal?
 	-> they called me to get insurance information
 	   I think I called them back at 434-924-2718 and provided it
-- [X] visit cgran.org: review gnuradio modules and/or make a copy of the list
-	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
-- [X] set up google voice to forward to my phone # (304) 456-5564
-- [X] sign up for another high tech & seti tour to keep the radio astronomy energy going
-- [X] get carpet attachment for my kenmore vacuum
-- [X] get buck boost converter for 12v-12v dc-dc battery charger (misplaced mine)
-- [X] get reps for EMOTM tacfit workout and add to a tacfit file to see later
-- [X] get a knife for whittling
-- [X] identify cookie & kate ingreds
-- [X] order new lifeextension two-per-day
-- [X] order some all-weather pens
-- [X] order a belt, any belt come on
 - [ ] get an awareness class
 	-> awakening the senses costs $600 ....
 - [ ] share my gitbundleautosync projects; they're useful tools
@@ -152,7 +132,6 @@ lewisburg:
 
 
 ## truck
-- [X] GET CHARGE CABLE FOR SECURITY TOKEN
 - [ ] slowly unpack the truck in order to scan docs (or find other scanning solution)
 
 
@@ -452,6 +431,30 @@ set up internet
 
 
 # DONE
+- [X] visit cgran.org: review gnuradio modules and/or make a copy of the list
+	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
+- [X] set up google voice to forward to my phone # (304) 456-5564
+- [X] sign up for another high tech & seti tour to keep the radio astronomy energy going
+- [X] get carpet attachment for my kenmore vacuum
+- [X] get buck boost converter for 12v-12v dc-dc battery charger (misplaced mine)
+- [X] get reps for EMOTM tacfit workout and add to a tacfit file to see later
+- [X] get a knife for whittling
+- [X] identify cookie & kate ingreds
+- [X] order new lifeextension two-per-day
+- [X] order some all-weather pens
+- [X] order a belt, any belt come on
+- [X] GET CHARGE CABLE FOR SECURITY TOKEN
+- [X] Call Dr Nathenson's office (617) 632-5204
+- [X] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
+- [X] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
+- [X] Call Frontier to figure out how to access voicemail
+- [X] 2018-09-27 Thu
+	- [X][X] 11:00 am Jeremy call
+	- [X][X] 3:30 pm - 4:30 pm Kate call
+	- [X][X] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+- [X] 2018-09-28 Fri
+	- [X] 8:30a Bert trip to Elkins
 - [X] 2018-09-22 Sat
 	- [X] 11:30a Katie & Gwyn Call
 - [X] 2018-09-23 Sun
@@ -469,36 +472,3 @@ set up internet
 	account id/username: 047587-182211@connect.frontier.com
 	           password: 67487d3aa10001b
 - [x] buy eye gel
-- [x] buy 2x aaa for scale
-- [x] buy more small microsd cards.  i'm out.
-- [x] sign up for electronic statements for bank account; otherwise i will be charged.  there's $200 in account.
-- [x] send bank information to father (in checks in paper file) ... but note that i may still want to get deposits in other accounts as i have auto-withdrawals
-- [x] get a small carpet vacuum for tiny home (12v? might need extra power supply but could make it future-useful)
-	can live in front 'closet' maybe
-- [X] get a household battery solution to running harddrives.  I think one is 12v, most are 5v, 5v hub is 12v.  D-cells would give longest life.  Need a way to charge while running.
-	-> I'll just run the harddrives in my car.  jim could just as easily dislike lots of household batteries.
-	- likely MISSED [ ][ ] MOVE FORWARD: Do all my CVF homework.
-		6-11 in long handout
-		11-14 in short handout, especially examples at end
-- [X] 2018-09-16 Sun
-	- [X] ~2pm Gwyn; salmon; NVC exercises?
-- [X] 2018-09-17 Mon
-	- [X] 11 am Katie
-- [X] 2018-09-18 Tue
-	- [X] 2:00 PM dental filling, Dr Joshua Abbott
-- [X] 2018-09-19 Wed
-Repair ticket #: 004349821 (DSL)
-		Sep 19, 8a-12p
-		will call home phone
-	- [X] 9 am Jim Taggart call (check in and remind of task items)
-	- [X] 11:00 am Katie call; maybe discuss dr mooney
-- [X] 2018-09-20 Thu
-	- [X][X] 11a Jeremy Call
-			(next wk fri 1pm)
-- [X] 2018-09-21 Fri
-	- [X] 10:30a - 11:30a Katie
-- [X] 2018-09-13 Thu
-	- 8a-10a Benita, Antibiotics
-	- [X] Check e-mail re: astronomer to prep tour q's
-	- [X] 3:30 PM High-tech tour of observatory
-	- 7p-9p Benita, Antibiotics
