@@ -163,6 +163,7 @@ lewisburg:
 
 # important
 - learn to weld
+- copper room / test box
 - pursue 24/7 EEG
 	- pursue dermals and transdermals
 - pursue video surveillance / self-recording
@@ -358,6 +359,11 @@ Quinoa Veggie Soup
 
 # CRUFT TO SORT UP
 
+## from gbo notepad
+- [ ] put private key on usb to log in
+- [ ] move towards finding printer [at this time of copying, a couple nvc worksheets would be ncie to print out]
+- [ ] land assessor, props near scope
+- house across from 51 says for rent and for sale: it's 5218, neighboring 5232; online says worth $65800 but really old
 
 ## every shift 10 minutes:
 - [ ] interpersonal notes
