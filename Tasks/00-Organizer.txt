@@ -32,16 +32,20 @@ lewisburg:
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
+- [ ] Set up voicemails such that only google's voicemail is used when google number is called.
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
 - [ ] Do my CVF homework
 
 # CALENDAR
-- [!] 2018-09-29 Sat
+- [X] 2018-09-29 Sat
 
-- [ ] 2018-10-01 Mon
+- [!] 2018-10-01 Mon
 	- [ ] 2:00 pm Doc, Anal Fissure
+	- [ ] PAY RENT
+		- $490 in bank account, $10 cash
+	- [ ] Pay Storage Unit
 	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
@@ -219,6 +223,13 @@ Voicemail:
 Health food stores:
 - Good Energy Foods? in Elkins (small)
 - A couple in Lewisburg
+
+Green Box (garbage facility)
+	Wed	8a - 4p (5p summer)
+	Sat	8a - 4p (5p summer)
+	Sun 	1p - 4p (6p summer)
+	Also open sunday hours on Memorial, Independence, Labor, Columbus, Veterans, and Thanksgiving day holidays
+	Walk-in access available 24/7
 
 Varner 304-456-4505
 	Towing, Commercial Mechanic
