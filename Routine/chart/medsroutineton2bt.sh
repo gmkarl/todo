@@ -116,9 +116,12 @@ done | tee -a "Toothbrushing and Nicotine".data
 cat <<EOF | gnuplot
 set terminal 'png' size 1024, 512
 set output 'Toothbrushing and Nicotine.png'
-set key autotitle columnhead
+set key autotitle columnhead opaque
 set xtics rotate
 set y2tics
-plot 'Toothbrushing and Nicotine.data' using 0:2:xticlabels(1) with lines, \
-  '' using 0:3 with lines axes x1y2
+set ylabel "Brushes/Wk"
+set y2label "µg Nicotine/Brush"
+set grid ytics y2tics
+plot 'Toothbrushing and Nicotine.data' using 0:2:xticlabels(1) with lines lw 2, \
+  '' using 0:3 with lines lw 2 axes x1y2
 EOF
