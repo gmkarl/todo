@@ -51,7 +51,7 @@ MOUNT/AIM SYSTEMS
 	- equatorial
 	- other?
 
-TELESCOPES AT GREENBANK:
+TELESCOPES AT GREEN BANK:
 	- 3x 85' ?
 	- 1x 45' ?
 	- GBT: 485 ft
@@ -65,11 +65,20 @@ ENGINEERING BASICS:
 
 GREEN BANK TELESCOPE
 	- 0.001 jansky routine detection
+	- 60% funded by NSF, 20% seti, 20% russian satellite download? also other sources
+	- funders get GUARANTEED TIME; scients APPLY for FREE TIME among remaining available
+	- receivers are supercooled to remove thermal noise
+	- There is an antenna set up to detect local interference.  It was mentioned on a standard tour.
 
 CONSTRUCTION EXAMPLES:
 	- 1/8" paraboloid aluminum reflector focuses parallel wave onto point receiver
 
+SUGAR GROVE:
+	- 2018; STILL OPERATING according to GBO tour
+
 GBO INVOLVEMENT
+	- students (apparently both college and elementary?) hired to paint telescope
+	Volunteer App:
 	- volunteered at Pierce's Store, where I sold to custmoers, performed inventory, and reverse engineered an electronic scale to interconnect it with modern checkout software
 		- [ ] yrs? perhaps supervisor could be good reference (Sally)
 	- farm intern at spring lake ranch
