@@ -32,6 +32,7 @@ lewisburg:
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
+- [ ] Fill out volunteer application from e-mail
 - [ ] Set up voicemails such that only google's voicemail is used when google number is called.
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
@@ -40,31 +41,49 @@ lewisburg:
 
 # CALENDAR
 - [X] 2018-09-29 Sat
-
-- [!] 2018-10-01 Mon
-	- [ ] 2:00 pm Doc, Anal Fissure
-	- [ ] PAY RENT
+- [X] 2018-10-01 Mon
+	- [X] 2:00 pm Doc, Anal Fissure
+	- [X] PAY RENT
 		- $490 in bank account, $10 cash
-	- [ ] Pay Storage Unit
-	- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
+		- [X] rent is $600 !!!! NEED $100 MORE
+	- [X] Pay Storage Unit
+	- [X] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
 		:: contact jenifer lambert for referral
-	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 
-- [ ] 2018-10-02 Tue
+- [X] 2018-10-02 Tue
 	Kate's Birthday
-	- [ ][ ] 9:30am Kate call
-	- MOVED? [ ] 10:30 AM CCIL intro, Ashley and nurse, possibly Gwyn (can make this faster)
+	- [X][X] 9:30am Kate call
 
 - [ ] 2018-10-03 Wed
-	- [ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [X][X] Pay off Home Depot bill.  Withdrew $67 from coinbase, and may have withdrawn more earlier that will come in.
+	- [X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
+	- [X] Call Southern States Propane before 5pm to order 115gal tank on same shipment as Joyce
+		799-6523
+	- [X][X] Get Call from Community Care regarding oncologist referral .. is it in-state or out-of-state?
+	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+	- [ ] ~4:30 PM - ~5:50 PM Gwyn, violin, algebra?
+	
+	- [X] call dr fleming in elkins; need to talk 304-637-3640 before appt scheduled
+
+- [ ] 2018-10-04 Thu
+	- [ ] 9:00a - 9:15a Kate brief check-in
+
+- [ ] 2018-10-05 Fri
+	- [ ][ ] 9:30a - 11:00a Kate call
+
+- [ ] 2018-10-10 Wed
+	- [ ] Capital One bill is over $300 and bounced.  Pay it.
+	- [ ] 12:30p Dr Fleming oncologist (1pm if paperwork received)
+		801 Harrison Ave, Elkins
 
 - [ ] 2018-10-17 Wed
 	- Jim Taggart visits
+	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2918-10-05 Fri
 	- [ ][ ] 1:00 pm Jeremy call
@@ -88,6 +107,11 @@ lewisburg:
 		Charlottesville, VA`
 		To reschedule: 434-924-5485 (ideally 3 days advance notice)
 		               800-251-3627
+- [ ] 2019-03-03
+	Gwyn's birthday?
+
+- [ ] 2019-10-02
+	Kate's Birthday
 
 # ACTIONABLE TASKS
 
