@@ -52,34 +52,33 @@ lewisburg:
 		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
 		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
 		:: contact jenifer lambert for referral
-
 - [X] 2018-10-02 Tue
 	Kate's Birthday
 	- [X][X] 9:30am Kate call
-
-- [ ] 2018-10-03 Wed
+- [!] 2018-10-03 Wed
 	- [X][X] Pay off Home Depot bill.  Withdrew $67 from coinbase, and may have withdrawn more earlier that will come in.
 	- [X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
 	- [X] Call Southern States Propane before 5pm to order 115gal tank on same shipment as Joyce
 		799-6523
 	- [X][X] Get Call from Community Care regarding oncologist referral .. is it in-state or out-of-state?
-	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-	- [ ] ~4:30 PM - ~5:50 PM Gwyn, violin, algebra?
-	
 	- [X] call dr fleming in elkins; need to talk 304-637-3640 before appt scheduled
+	- [ ] ~5:15 PM Gwyn violin
 
 - [ ] 2018-10-04 Thu
 	- [ ] 9:00a - 9:15a Kate brief check-in
+	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 
 - [ ] 2018-10-05 Fri
 	- [ ][ ] 9:30a - 11:00a Kate call
 
 - [ ] 2018-10-10 Wed
-	- [ ] Capital One bill is over $300 and bounced.  Pay it.
 	- [ ] 12:30p Dr Fleming oncologist (1pm if paperwork received)
 		801 Harrison Ave, Elkins
+	- [ ] Capital One bill is over $300 and bounced.  Pay it.
+	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
+		- [ ] Plan to sign up for core concepts course that follows ($475?)
 
 - [ ] 2018-10-17 Wed
 	- Jim Taggart visits
