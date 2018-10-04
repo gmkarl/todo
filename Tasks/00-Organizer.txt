@@ -1,12 +1,10 @@
 Priorit	Delay	Expense	Availability
-0	2	0	1		CVF homework
 0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
 	1	1	1		sign up for more gbo tours
-1	2	0	2		cntact PCP re lcal oncologist & fissure
 1	2	0	2		Move transport organization box from truck
 1	3	0	2		Sort desk
 1	3	0	2		Sort car
-1	2	0	1		Call Frontier wrt how to get voicemail
+1	2	0	1		Listen to voicemails
 1	3	0	1		Move forward on education
 1	3	0	1		Personal Info Org System
 2	2	3	3		get truck mechanic to look at truck
@@ -37,38 +35,14 @@ lewisburg:
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
-- [ ] Do my CVF homework
 
 # CALENDAR
-- [X] 2018-09-29 Sat
-- [X] 2018-10-01 Mon
-	- [X] 2:00 pm Doc, Anal Fissure
-	- [X] PAY RENT
-		- $490 in bank account, $10 cash
-		- [X] rent is $600 !!!! NEED $100 MORE
-	- [X] Pay Storage Unit
-	- [X] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
-		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
-		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
-		:: contact jenifer lambert for referral
-- [X] 2018-10-02 Tue
-	Kate's Birthday
-	- [X][X] 9:30am Kate call
-- [!] 2018-10-03 Wed
-	- [X][X] Pay off Home Depot bill.  Withdrew $67 from coinbase, and may have withdrawn more earlier that will come in.
-	- [X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
-	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
-	- [X] Call Southern States Propane before 5pm to order 115gal tank on same shipment as Joyce
-		799-6523
-	- [X][X] Get Call from Community Care regarding oncologist referral .. is it in-state or out-of-state?
-	- [X] call dr fleming in elkins; need to talk 304-637-3640 before appt scheduled
-	- [ ] ~5:15 PM Gwyn violin
 
-- [ ] 2018-10-04 Thu
+- [!] 2018-10-04 Thu
 	- [ ] 9:00a - 9:15a Kate brief check-in
 	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+	- [ ][ ] Look for nearby farmer's markets
 
 - [ ] 2018-10-05 Fri
 	- [ ][ ] 9:30a - 11:00a Kate call
@@ -471,6 +445,31 @@ set up internet
 
 
 # DONE
+- [ ] Do my CVF homework
+- [X] 2018-09-29 Sat
+- [X] 2018-10-01 Mon
+	- [X] 2:00 pm Doc, Anal Fissure
+	- [X] PAY RENT
+		- $490 in bank account, $10 cash
+		- [X] rent is $600 !!!! NEED $100 MORE
+	- [X] Pay Storage Unit
+	- [X] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
+		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
+		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
+		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
+		:: contact jenifer lambert for referral
+- [X] 2018-10-02 Tue
+	Kate's Birthday
+	- [X][X] 9:30am Kate call
+- [X] 2018-10-03 Wed
+	- [X][X] Pay off Home Depot bill.  Withdrew $67 from coinbase, and may have withdrawn more earlier that will come in.
+	- [X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [X] 3 PM - 6 PM Farmer's market; copy to next week
+	- [X] Call Southern States Propane before 5pm to order 115gal tank on same shipment as Joyce
+		799-6523
+	- [X][X] Get Call from Community Care regarding oncologist referral .. is it in-state or out-of-state?
+	- [X] call dr fleming in elkins; need to talk 304-637-3640 before appt scheduled
+	- [X] ~5:15 PM Gwyn violin
 - [X] visit cgran.org: review gnuradio modules and/or make a copy of the list
 	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
 - [X] set up google voice to forward to my phone # (304) 456-5564
@@ -499,16 +498,3 @@ set up internet
 	- [X] 11:30a Katie & Gwyn Call
 - [X] 2018-09-23 Sun
 	- [X] 10:30 AM Katie call ... talk re Jim past experience relating 
-- [X] 2018-09-24 Mon
-	- [X] 9 am Jim Taggart call (check in and remind of task items)
-- [X] 2018-09-25 Tue
-	- [X][X] 9:30a - 11:00a  Katie
-	====>	cancel Fri
-- [X] 2018-09-26 Wed
-	- [ ] 3 PM - 6 PM Farmer's market; copy to next week
-- [x] klkeach@gmail.com not kkeach@gmail.com
-- [x] hang in osmosdr chat to discuss changes
-- [x] get pppoe-capable dsl modem (plugs straight into phone)
-	account id/username: 047587-182211@connect.frontier.com
-	           password: 67487d3aa10001b
-- [x] buy eye gel
