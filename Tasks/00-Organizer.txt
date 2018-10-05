@@ -38,14 +38,18 @@ lewisburg:
 
 # CALENDAR
 
-- [!] 2018-10-04 Thu
-	- [ ] 9:00a - 9:15a Kate brief check-in
+- [X] 2018-10-04 Thu
+	- [X] 9:00a - 9:15a Kate brief check-in
+
+- [!] 2018-10-05 Fri
+	- [ ][ ] 9:30a - 11:00a Kate call
 	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 	- [ ][ ] Look for nearby farmer's markets
 
-- [ ] 2018-10-05 Fri
-	- [ ][ ] 9:30a - 11:00a Kate call
+- [ ] 2018-01-06 Sat
+	- [ ] Olive Oil & Tomato Sauce for Gwyn visit
+	- [ ] Staple cable for Gwyn
 
 - [ ] 2018-10-10 Wed
 	- [ ] 12:30p Dr Fleming oncologist (1pm if paperwork received)
