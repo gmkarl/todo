@@ -41,15 +41,24 @@ lewisburg:
 - [X] 2018-10-04 Thu
 	- [X] 9:00a - 9:15a Kate brief check-in
 
-- [!] 2018-10-05 Fri
-	- [ ][ ] 9:30a - 11:00a Kate call
+- [X] 2018-10-05 Fri
+	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
+	- [X][X] 1:00p - 1:50p Jeremy Psychotherapy
+
+- [!] 2018-01-06 Sat
+	- [ ] Olive Oil & Tomato Sauce for Gwyn visit
+	- [ ] Staple cable for Gwyn
 	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 	- [ ][ ] Look for nearby farmer's markets
+	- [ ] figure out what's up with vacuum attachment, delivered? where?
 
-- [ ] 2018-01-06 Sat
-	- [ ] Olive Oil & Tomato Sauce for Gwyn visit
-	- [ ] Staple cable for Gwyn
+- [ ] 2018-01-08 Mon
+	- [ ] 10:00a Celia help NRAO application (maple leaf clinic)
+
+- [ ] 2018-01-09 Tue
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
 
 - [ ] 2018-10-10 Wed
 	- [ ] 12:30p Dr Fleming oncologist (1pm if paperwork received)
@@ -58,12 +67,21 @@ lewisburg:
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
 
+- [ ] 2018-01-12 Tue
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+
 - [ ] 2018-10-17 Wed
 	- Jim Taggart visits
 	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 
+- [ ] 2018-10-18 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+	         third Thursday of every month
+
 - [ ] 2918-10-05 Fri
 	- [ ][ ] 1:00 pm Jeremy call
+
+- [ ] 2018-11-00 Jacks off maternity leave in November
 
 - [ ] 2018-12-05
 	(dental fillings were moved when opening happened)
@@ -253,7 +271,7 @@ Gwyn Cole
 	304 456 5300
 
 James Reese
-	304 456 4489 (this is frmo papers, check with poster, ensure is the same)
+	304 456 4489 (this is from papers, check with poster, ensure is the same)
 
 Diane Schou
 	304 456 5525
