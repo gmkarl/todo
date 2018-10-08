@@ -6,7 +6,7 @@ cut -d , -f 1,18 ../routine/2018-routine.csv | grep ....-..-..,1 > bt-routine.cs
 cut -d , -f 1,54 ../routine/2018-routine.csv | grep ....-..-..,1 >> bt-routine.csv
 
 # store recorded times nicotine taken
-grep N[24] ../meds/2018-meds.csv | tr T , | cut -d , -f 1,3,4 | grep ....-..-.., > n-meds.csv
+grep N[24] ../meds/2018-meds.csv | tr T , | cut -d , -f 1,3,4,5 | grep ....-..-.., > n-meds.csv
 
 # remove nicotine times from routine times
 cut -d , -f 1 n-meds.csv | while read date
@@ -18,7 +18,7 @@ done
 # create list of toothbrush times
 {
   cut -d , -f 1 bt-routine.csv
-  cut -d , -f 1 n-meds.csv
+  grep ',$' n-meds.csv | cut -d , -f 1
 } | sort > bt.csv
 rm bt-routine.csv
 
@@ -53,7 +53,7 @@ done
 rm bt.csv
 
 # accumulate nmg/wk
-tr , ' ' < n-meds.csv | while read day ntype nratio
+tr , ' ' < n-meds.csv | while read day ntype nratio extra
 do
   wk=$(date -d "$day" +%G-wk%V)
   npct=$(($(printf %0.2f "$nratio" | sed 's/^0//g; s/\.//g')))
