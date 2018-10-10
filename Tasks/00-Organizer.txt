@@ -38,32 +38,42 @@ lewisburg:
 
 # CALENDAR
 
-- [!] 2018-01-07 Sun
-	- [ ] Staple cable for Gwyn
-	- [ ] Work to feel more ready fr NRAO applicatin tomorrow
-		- [ ] Accomplish some work to feel at a stopping point
-		- [ ] prepare for application? remember call is just for prep too
+=> When visiting Gwyn, checking how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [ ] 2018-01-08 Mon
-	- [ ] 10:00a Celia help NRAO application (maple leaf clinic)
-	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-	- [ ][ ] Look for nearby farmer's markets
-	- [ ] figure out what's up with vacuum attachment, delivered? where?
-
-- [ ] 2018-01-09 Tue
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
-	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
-
-- [ ] 2018-10-10 Wed
+- [!] 2018-10-10 Wed
+	- [ ] 10:30a leave for oncologist (1h 18 min drive + mountains, parking & intake)
 	- [ ] 12:30p Dr Fleming oncologist (1pm if paperwork received)
 		801 Harrison Ave, Elkins
 	- [ ] Capital One bill is over $300 and bounced.  Pay it.
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
+	- [ ] Contact Celia to reschedule volunteer application work
+	- [ ] Apply for passport on Elkins trip
+		- [ ] photo
+		- [X] birth certificate or old passport
+		- [X] license
+		- [ ] application
+		- [ ] photocopies of front & back of license & citizenship doc
+	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+	- [ ][ ] Look for nearby farmer's markets
+	- [ ] figure out what's up with vacuum attachment, delivered? where?
+- [ ] 2018-10-11 Thu
+	- [ ][ ] 9:30a - 10:30a Kate call now, but usually 9:30a-11a Tue, Fri
+	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
+	  only need bring clothes according to her
 
-- [ ] 2018-01-12 Tue
+- [ ] 2018-10-12 Fri
+	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
+	  only need bring clothes according to her
+
+- [ ] 2017-10-13 Sat
+	- Gwyn at Seneca State Forest Cabin #6 through Saturday
+	  only need bring clothes according to her
+
+- [ ] 2018-10-16 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
 
 - [ ] 2018-10-17 Wed
 	- Jim Taggart visits
@@ -73,8 +83,12 @@ lewisburg:
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 	         third Thursday of every month
 
-- [ ] 2918-10-05 Fri
-	- [ ][ ] 1:00 pm Jeremy call
+- [ ] 2018-10-25
+	- [ ] 2 pm Neurology
+		304 933-3800
+		527 Medical Park Dr
+		Suite 204
+		Bridgeport, WV 26330
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
 
@@ -249,6 +263,10 @@ Varner 304-456-4505
 	Towing, Commercial Mechanic
 
 Metals: Valley Steel, 30 mins towards elkins
+
+Frontier Support:
+	877-669-5535, 800-239-4430
+	Tech Dept: 888-440-2096
 
 
 Benita Via 8p, 7p
@@ -462,6 +480,18 @@ set up internet
 
 
 # DONE
+- [ ] 2018-10-05 Fri
+	- [ ][ ] 1:00 pm Jeremy call
+- [!] 2018-10-07 Sun
+	- [/] Staple cable for Gwyn
+	- [ ] Work to feel more ready fr NRAO applicatin tomorrow
+		- [ ] Accomplish some work to feel at a stopping point
+		- [ ] prepare for application? remember call is just for prep too
+- [ ] 2018-10-08 Mon
+	- [ ] 10:00a Celia help NRAO application (maple leaf clinic)
+- [ ] 2018-10-09 Tue
+	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
+	- [X][X] 2:00p - 2:50p Jeremy Psychotherapy
 - [X] 2018-10-04 Thu
 	- [X] 9:00a - 9:15a Kate brief check-in
 - [X] 2018-10-05 Fri
