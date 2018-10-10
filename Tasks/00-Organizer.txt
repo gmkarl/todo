@@ -44,10 +44,7 @@ lewisburg:
 	- [ ] 10:30a leave for oncologist (1h 18 min drive + mountains, parking & intake)
 	- [ ] 12:30p Dr Fleming oncologist (1pm if paperwork received)
 		801 Harrison Ave, Elkins
-	- [ ] Capital One bill is over $300 and bounced.  Pay it.
-	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-		- [ ] Plan to sign up for core concepts course that follows ($475?)
-	- [ ] Contact Celia to reschedule volunteer application work
+	- [X] Contact Celia to reschedule volunteer application work
 	- [ ] Apply for passport on Elkins trip
 		- [ ] photo
 		- [X] birth certificate or old passport
@@ -60,12 +57,16 @@ lewisburg:
 	- [ ] figure out what's up with vacuum attachment, delivered? where?
 - [ ] 2018-10-11 Thu
 	- [ ][ ] 9:30a - 10:30a Kate call now, but usually 9:30a-11a Tue, Fri
+	- [ ] Capital One bill is over $300 and bounced.  Pay it.
+	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
+		- [ ] Plan to sign up for core concepts course that follows ($475?)
 	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
 	  only need bring clothes according to her
 
 - [ ] 2018-10-12 Fri
 	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
 	  only need bring clothes according to her
+	- [ ][ ] Schedule nothing, 2 days in a row.  Don't finish a work task 1 day.
 
 - [ ] 2017-10-13 Sat
 	- Gwyn at Seneca State Forest Cabin #6 through Saturday
