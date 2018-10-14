@@ -15,6 +15,8 @@ Priorit	Delay	Expense	Availability
 3	2	0	2		Volunteering
 3	1	1	1		try to talk to dianne
 3	3	1	2		go to lewisburg health stores
+					get new tire for passat
+					get new insurance?
 
 RACI
 who's Responsible, who's Accountable, Communication, Information
@@ -28,6 +30,7 @@ lewisburg:
 
 # UPCOMING
 - [ ] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
+- [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
 - [ ] Apply for local insurance, cancer place left me ref to DHHS
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
@@ -37,52 +40,47 @@ lewisburg:
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
-- [ ] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
-- [ ] figure out what's up with vacuum attachment, delivered? where?
 - [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 - [ ][ ] Look for nearby farmer's markets
 
 # CALENDAR
 
-=> When visiting Gwyn, checking how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
+=> When visiting Gwyn, check how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 
-- [!] 2018-10-11 Thu
-	- [ ][ ] 9:30a - 10:30a Kate call now, but usually 9:30a-11a Tue, Fri
-
-	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
-	  only need bring clothes according to her
-
-- [ ] 2018-10-12 Fri
-
-- [ ] 2018-10-13 Sat
-	- [ ] Capital One bill is over $300 and bounced.  Pay it.
-	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-		- [ ] Plan to sign up for core concepts course that follows ($475?)
-	- [ ] Take trash out
-	- return home by now and CLEAR SCHEDULE THROUGH MONDAY
-		- spend 1 day NOT TRYING TO FINISH a work task
-		- spend 1 day FOCUSED ON ACCOMPLISHING work
-	- two days without scheduled items or plans as requested of self
-
-- [ ] 2018-10-14 Sun
+- [!] 2018-10-14 Sun
 	- day intentionally EMPTY
+		- spend 1 day NOT TRYING TO FINISH a work task
+				-> can still WORK, just don't need to FINISH
 
 - [ ] 2018-10-15 Mon
 	- day intentionally EMPTY
+		- spend 1 day FOCUSED ON ACCOMPLISHING work
+				-> try to FINISH something!
 
 - [ ] 2018-10-16 Tue
+	- [ ] find tracking number for vacuum attachment and ask at post office
+	- [ ] Check first citizens ... might have an overdraft charge.  Deposit to cover it.
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
+	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
+		- [ ] Plan to sign up for core concepts course that follows ($475?)
+	- [ ] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
+	- [ ] Get new tire for passat, and add item for next task related to it
+	- [ ] open mail
 
 - [ ] 2018-10-17 Wed
 	- Jim Taggart visits
+	- [ ] Take trash out
 	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2018-10-18 Thu
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 	         third Thursday of every month
+
+- [ ] 2018-10-19 Fri
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 
 - [ ] 2018-10-25
 	- [ ] 2 pm Neurology
@@ -210,6 +208,7 @@ lewisburg:
 
 #### THINGS TO CHANGE ABOUT MY INNER HABITS
 - getting up in morning (staying in bed at night, or at least resting consistently)
+- crypto: using pgp, putting coins on airgapped phone, getting new airgapped phone
 - time spent in shower
 - time spent in morning routine
 	-> could associate N2 with time spent doing morning routine
@@ -483,6 +482,16 @@ set up internet
 
 
 # DONE
+- [X] 2018-10-11 Thu
+	- [X][ ] 9:30a - 10:30a Kate call now, but usually 9:30a-11a Tue, Fri
+	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
+	  only need bring clothes according to her
+- [X] 2018-10-12 Fri
+	- 10a Kate check-in text if internet
+- [X] 2018-10-13 Sat
+	- [X] Capital One bill is over $300 and bounced.  Pay it.
+	- return home by now and CLEAR SCHEDULE THROUGH MONDAY
+	- two days without scheduled items or plans as requested of self
 - [!] 2018-10-10 Wed
 	- [X] 10:30a leave for oncologist (1h 18 min drive + mountains, parking & intake)
 	- [X] 12:30p Dr Fleming oncologist (1pm if paperwork received)

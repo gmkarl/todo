@@ -1,0 +1,12 @@
+Backend: build supports for robust development environment based on gnuradio
+Frontend: finish software to profile emitter and detect it, only working reasonably hard to detect it given profile
+
+2018-10-14
+	ACCOMPLISHMENT!  I settled onto the profile/detection approach in a more laid-out way.
+	I want to remember that if I get caught in the indecision of sensitivity vs complexity again, that I have chosen this solution.
+
+	Next: pick an approach to profile.  Detection will just be simple
+	
+FRONTEND: - [ ] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
+BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt
+FRONTEND: - [ ] implement detector based on integrating exact known period (can detect when accuracy may be exhausted by phase drift?)
