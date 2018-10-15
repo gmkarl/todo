@@ -55,12 +55,12 @@ lewisburg:
 => When visiting Gwyn, check how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 
-- [!] 2018-10-14 Sun
+- [X] 2018-10-14 Sun
 	- day intentionally EMPTY
 		- spend 1 day NOT TRYING TO FINISH a work task
 				-> can still WORK, just don't need to FINISH
 
-- [ ] 2018-10-15 Mon
+- [!] 2018-10-15 Mon
 	- day intentionally EMPTY
 		- spend 1 day FOCUSED ON ACCOMPLISHING work
 				-> try to FINISH something!
@@ -216,6 +216,7 @@ lewisburg:
 #### THINGS TO CHANGE ABOUT MY INNER HABITS
 - getting up in morning (staying in bed at night, or at least resting consistently)
 - crypto: using pgp, putting coins on airgapped phone, getting new airgapped phone
+- adhering to a daily schedule, throughout the day, and using time-tracking system
 - time spent in shower
 - time spent in morning routine
 	-> could associate N2 with time spent doing morning routine
@@ -243,6 +244,8 @@ lewisburg:
 
 - effectiveness of coding
 
+- complete silence and peace in my mind, clarity of thinking, memory working
+	-> mostly subjective for now, but could modulate some other goal with subjective judgement.  seems to work
 
 #### INFORMATION
 
