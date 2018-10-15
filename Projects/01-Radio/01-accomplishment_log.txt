@@ -6,7 +6,19 @@ Frontend: finish software to profile emitter and detect it, only working reasona
 	I want to remember that if I get caught in the indecision of sensitivity vs complexity again, that I have chosen this solution.
 
 	Next: pick an approach to profile.  Detection will just be simple
+
+2018-10-15
+	SO MANY ACCOMPLISHMENTS!
+	I picked an approach to profile and detect.  Left to handle:
+		- multiple sessions could have different PPM
+		- wideband measurement / tuning
+	I got basic profiler code working.  Just need to store to file and possibly consider PPM.
+	I reached out on crypto lists and found a tscm list !!!! mirimir says he has done similar work !!
 	
-FRONTEND: - [ ] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
+	
+FRONTEND: - [X] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
 BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt
+FRONTEND: - [ ] store profile to file (and make profiling binary?)
+FRONTEND: - [ ] plan precisely how to handle PPM
 FRONTEND: - [ ] implement detector based on integrating exact known period (can detect when accuracy may be exhausted by phase drift?)
+FRONTEND: - [ ] when working, close up backend here for now.  it was only if frontend was a dead end.
