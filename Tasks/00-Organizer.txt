@@ -49,6 +49,7 @@ lewisburg:
 - [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 - [ ][ ] Look for nearby farmer's markets
+- [ ] design and build nicotine device to retrain habits
 
 # CALENDAR
 
@@ -61,10 +62,7 @@ lewisburg:
 		-> no overdraft
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
-	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-		- [ ] Plan to sign up for core concepts course that follows ($475?)
-	- [ ] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
-	- [ ] Get new tire for passat, and add item for next task related to it
+	- [X] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
 	- [ ] open mail
 	- [ ] neurology paperwork
 		- [ ] sort out neurocog testing appt
@@ -78,6 +76,7 @@ lewisburg:
 - [ ] 2018-10-17 Wed
 	- Jim Taggart visits
 	- [ ] Take trash out
+	- [ ][ ] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
 	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2018-10-18 Thu
@@ -87,7 +86,18 @@ lewisburg:
 - [ ] 2018-10-19 Fri
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 
+- [ ] 2018-10-20 Sat
+	- [ ] finish passport application
+	- [ ] Get new tire for passat, and add item for next task related to it
+		205/60R16 96R XL Nokian
+
 - [ ] 2018-10-25
+	- [ ]  9:30 am leave
+	- [ ] 11:20 am passport appointment
+			money orders: $110 for passport ([ ]check) and $35 for execution/acceptance to post office
+		Post Office
+		300 3rd St Flr 1
+		Elkins, WV 26241
 	- [ ] 2 pm Neurology: Adam Alghadban
 		Associated Specialists
 		304 933-3800
@@ -95,6 +105,10 @@ lewisburg:
 		Bridgeport, WV 26330
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
+
+- [ ] 2018-11-12
+	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
+		- [ ] Plan to sign up for core concepts course that follows ($475?)
 
 - [ ] 2018-12-05
 	(dental fillings were moved when opening happened)
@@ -234,6 +248,14 @@ lewisburg:
 - errors and spasms to decrease
 	-> could measure quality or rapidity of tasks
 	-> could be easier with EEG
+
+- vision holes
+	-> could actually design peripheral vision device.  very gratifying.  just need digital projector with wide-angle lens
+- short term memory
+	-> could use memory task such as dual n-back.  may encounter second issue of context
+- staying energized in face of 'flags'
+	-> could note flags and review them, work with concepts around them ... seems intense
+	   could also note important events of de-energizing and just work with those, focused on my goals
 
 - keeping room clean
 
