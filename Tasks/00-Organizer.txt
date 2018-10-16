@@ -54,21 +54,11 @@ lewisburg:
 
 => When visiting Gwyn, check how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-
-- [X] 2018-10-14 Sun
-	- day intentionally EMPTY
-		- spend 1 day NOT TRYING TO FINISH a work task
-				-> can still WORK, just don't need to FINISH
-
-- [!] 2018-10-15 Mon
-	- day intentionally EMPTY
-		- spend 1 day FOCUSED ON ACCOMPLISHING work
-				-> try to FINISH something!
-
-- [ ] 2018-10-16 Tue
+- [!] 2018-10-16 Tue
 	- [ ] southern propane in marlinton: credit app.  it's okay to pay for it if you're late.  but this is off-work day and we might be able to make this week delivery if drive to submit in morning
 	- [ ] do laundry
-	- [ ] Check first citizens ... might have an overdraft charge.  Deposit to cover it.
+	- [X] Check first citizens ... might have an overdraft charge.  Deposit to cover it.
+		-> no overdraft
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
@@ -76,6 +66,14 @@ lewisburg:
 	- [ ] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
 	- [ ] Get new tire for passat, and add item for next task related to it
 	- [ ] open mail
+	- [ ] neurology paperwork
+		- [ ] sort out neurocog testing appt
+		- find:
+			- [ ] records from NH inc. EEG
+			- [ ] testing from dr mooney
+			- [ ] testing from merry meadow
+			- [ ] MRIs etc
+			- [ ] other neurocog testing?
 
 - [ ] 2018-10-17 Wed
 	- Jim Taggart visits
@@ -90,10 +88,10 @@ lewisburg:
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 
 - [ ] 2018-10-25
-	- [ ] 2 pm Neurology
+	- [ ] 2 pm Neurology: Adam Alghadban
+		Associated Specialists
 		304 933-3800
-		527 Medical Park Dr
-		Suite 204
+		527 Medical Park Dr Ste 204
 		Bridgeport, WV 26330
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
@@ -492,6 +490,14 @@ set up internet
 
 
 # DONE
+- [X] 2018-10-14 Sun
+	- day intentionally EMPTY
+		- spend 1 day NOT TRYING TO FINISH a work task
+				-> can still WORK, just don't need to FINISH
+- [X] 2018-10-15 Mon
+	- day intentionally EMPTY
+		- spend 1 day FOCUSED ON ACCOMPLISHING work
+				-> try to FINISH something!
 - [X] 2018-10-11 Thu
 	- [X][ ] 9:30a - 10:30a Kate call now, but usually 9:30a-11a Tue, Fri
 	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
@@ -522,38 +528,3 @@ set up internet
 		- [ ] prepare for application? remember call is just for prep too
 - [ ] 2018-10-08 Mon
 	- [ ] 10:00a Celia help NRAO application (maple leaf clinic)
-- [ ] 2018-10-09 Tue
-	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
-	- [X][X] 2:00p - 2:50p Jeremy Psychotherapy
-- [X] 2018-10-04 Thu
-	- [X] 9:00a - 9:15a Kate brief check-in
-- [X] 2018-10-05 Fri
-	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
-	- [X][X] 1:00p - 1:50p Jeremy Psychotherapy
-- [X] 2018-01-06 Sat
-	- [ ] Olive Oil & Tomato Sauce for Gwyn visit
-- [ ] Do my CVF homework
-- [X] 2018-09-29 Sat
-- [X] 2018-10-01 Mon
-	- [X] 2:00 pm Doc, Anal Fissure
-	- [X] PAY RENT
-		- $490 in bank account, $10 cash
-		- [X] rent is $600 !!!! NEED $100 MORE
-	- [X] Pay Storage Unit
-	- [X] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
-		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
-		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
-		:: contact jenifer lambert for referral
-- [X] 2018-10-02 Tue
-	Kate's Birthday
-	- [X][X] 9:30am Kate call
-- [X] 2018-10-03 Wed
-	- [X][X] Pay off Home Depot bill.  Withdrew $67 from coinbase, and may have withdrawn more earlier that will come in.
-	- [X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
-	- [X] 3 PM - 6 PM Farmer's market; copy to next week
-	- [X] Call Southern States Propane before 5pm to order 115gal tank on same shipment as Joyce
-		799-6523
-	- [X][X] Get Call from Community Care regarding oncologist referral .. is it in-state or out-of-state?
-	- [X] call dr fleming in elkins; need to talk 304-637-3640 before appt scheduled
-	- [X] ~5:15 PM Gwyn violin
