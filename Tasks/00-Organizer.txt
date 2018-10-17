@@ -20,9 +20,13 @@ Priorit	Delay	Expense	Availability
 
 
 Scheduling plan for nicotine box:
-	empty slots in schedule that items from Tasks queue are placed in
-	Tasks queue is priority queue
-	I can resume this before nicotine starts, which will give me some progress tracking
+	- empty slots in schedule that items from Tasks queue are placed in
+	- Tasks queue is priority queue
+	- each item has a Behavior, and a Category
+	- each Category may have a Verifier that can be used to determine reward (different ones may use same verifier)
+
+	I can start this before nicotine starts, which will give me some progress tracking
+
 	- I could mention to jim the bubbling in my ear that happens when I burp or hold my nose and press
 
 RACI
@@ -64,14 +68,15 @@ lewisburg:
 => When visiting Gwyn, check how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2018-10-17 Wed
-	- Jim Taggart visits
 	- [ ] Take trash out
 	- [ ] do laundry
 	- [ ][ ] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
 	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] 1:00 pm Jim Taggart arrives
 	- [ ] 1:30 pm CCIL meeting
 
 - [ ] 2018-10-18 Thu
+	- Jim Taggart until afternoon
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 	         third Thursday of every month
 
