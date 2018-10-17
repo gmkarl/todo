@@ -18,6 +18,13 @@ Priorit	Delay	Expense	Availability
 					get new tire for passat
 					get new insurance?
 
+
+Scheduling plan for nicotine box:
+	empty slots in schedule that items from Tasks queue are placed in
+	Tasks queue is priority queue
+	I can resume this before nicotine starts, which will give me some progress tracking
+	- I could mention to jim the bubbling in my ear that happens when I burp or hold my nose and press
+
 RACI
 who's Responsible, who's Accountable, Communication, Information
 
@@ -29,7 +36,6 @@ lewisburg:
 - truck mechanic?
 
 # UPCOMING
-- [ ] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
 - [ ] Apply for local insurance, cancer place left me ref to DHHS
 - [ ] call Kathleen Jones re Frankferd Farms
@@ -50,34 +56,20 @@ lewisburg:
 	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 - [ ][ ] Look for nearby farmer's markets
 - [ ] design and build nicotine device to retrain habits
+- [ ][ ] pursue grotto group
+- [ ][ ] pursue eeg work
 
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-16 Tue
-	- [ ] southern propane in marlinton: credit app.  it's okay to pay for it if you're late.  but this is off-work day and we might be able to make this week delivery if drive to submit in morning
-	- [ ] do laundry
-	- [X] Check first citizens ... might have an overdraft charge.  Deposit to cover it.
-		-> no overdraft
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
-	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
-	- [X] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
-	- [ ] open mail
-	- [ ] neurology paperwork
-		- [ ] sort out neurocog testing appt
-		- find:
-			- [ ] records from NH inc. EEG
-			- [ ] testing from dr mooney
-			- [ ] testing from merry meadow
-			- [ ] MRIs etc
-			- [ ] other neurocog testing?
-
-- [ ] 2018-10-17 Wed
+- [!] 2018-10-17 Wed
 	- Jim Taggart visits
 	- [ ] Take trash out
+	- [ ] do laundry
 	- [ ][ ] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
 	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] 1:30 pm CCIL meeting
 
 - [ ] 2018-10-18 Thu
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
@@ -85,11 +77,25 @@ lewisburg:
 
 - [ ] 2018-10-19 Fri
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis
 
 - [ ] 2018-10-20 Sat
 	- [ ] finish passport application
 	- [ ] Get new tire for passat, and add item for next task related to it
 		205/60R16 96R XL Nokian
+	- [ ] open mail
+	- [ ] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
+	- find:
+		- [ ] records from NH incl. EEG
+			-> EEG and MRI are supposed to be in annex qube, but seem missing from possibly-corrupt filesystem
+		- [ ] testing from dr mooney
+		- [ ] testing from merry meadow
+		- [ ] MRIs etc
+		- [ ] other neurocog testing?
+
+- [ ] 2018-10-23 Tue
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
 
 - [ ] 2018-10-25
 	- [ ]  9:30 am leave
@@ -248,6 +254,7 @@ lewisburg:
 - errors and spasms to decrease
 	-> could measure quality or rapidity of tasks
 	-> could be easier with EEG
+	-> CAN TRACK computer accuracy! missing mouse clicks, clicking wrong tabs, using backspace key or deleting in vi ...
 
 - vision holes
 	-> could actually design peripheral vision device.  very gratifying.  just need digital projector with wide-angle lens
@@ -257,7 +264,8 @@ lewisburg:
 	-> could note flags and review them, work with concepts around them ... seems intense
 	   could also note important events of de-energizing and just work with those, focused on my goals
 
-- keeping room clean
+- keeping room clean and ORGANIZED
+- remembering my possessions
 
 - real results with regard to executive functioning and task/information organization
 	-> not sure how to measure this
@@ -266,6 +274,20 @@ lewisburg:
 
 - complete silence and peace in my mind, clarity of thinking, memory working
 	-> mostly subjective for now, but could modulate some other goal with subjective judgement.  seems to work
+
+- stopping driving to lubricate my eye
+	-> could combine with any other task, while driving
+	-> schedule break during drive, for lubrication etc?
+	-> use pocket lubricant when doing regular lubrication, to build ease of access
+
+- ability to generalize plans; hold schedule in my mind;--> include infornation when making decisions<--; brainstorm
+
+- adding to a record of subjective events (such as sudden memory loss etc)
+	-> could provide nicotine immediately with addition
+	-> but then also want to decrease event .... maybe change regarding time
+			e.g. could reward immediately, but decrease normal outside greater than reward by a little
+			but that would train the event
+			could also reward immediately, but over time decrease reward, while having consistency wrt decreasing next dose too
 
 #### INFORMATION
 
@@ -512,6 +534,16 @@ set up internet
 
 
 # DONE
+- [X] 2018-10-16 Tue
+	- [X] Check first citizens ... might have an overdraft charge.  Deposit to cover it.
+		-> no overdraft
+	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
+	- [X][X] 2:00p - 2:50p Jeremy Psychotherapy
+	- [X] southern propane in marlinton: credit app.  it's okay to pay for it if you're late.  but this is off-work day and we might be able to make this week delivery if drive to submit in morning
+	- [X] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
+	- [X] neurology paperwork
+	- [X] sort out neurocog testing appt
+		-> this was likely never scheduled because my insurance wouldn't cover it
 - [X] 2018-10-14 Sun
 	- day intentionally EMPTY
 		- spend 1 day NOT TRYING TO FINISH a work task
