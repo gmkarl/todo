@@ -15,6 +15,14 @@ Frontend: finish software to profile emitter and detect it, only working reasona
 	I got basic profiler code working.  Just need to store to file and possibly consider PPM.
 	I reached out on crypto lists and found a tscm list !!!! mirimir says he has done similar work !!
 	
+2018-10-16
+	ACCOMPLISHMENT! Run with device out of fridge vs hot gave the exact same measurements after 10 minutes.  Frozen device had only maybe 70% of the error though.
+	ACCOMPLISHMENT! I left out in my plan how to measure the dB of the noise signal.  I remembered how laying in bed, and wrote it down.
+	ACCOMPLISHMENT! I made a file class and stubbed out a good percentage of the file reading/writing.
+		-> I feel uncertain I've picked an approach I will stick with, but at least it exists.
+	ACCOMPLISHMENT! I integrated what little I had done of my plan to make general algorithm classes into my recent work.
+		-> I'd like to integrate my other plans, but I don't remember them, and it's not the best use of time.
+		   I just remember I'd planned another step very specifically, and I think it might integrate my current work with my previous work.
 	
 FRONTEND: - [X] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
 BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt
