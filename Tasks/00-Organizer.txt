@@ -41,7 +41,7 @@ lewisburg:
 
 # UPCOMING
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
-- [ ] Apply for local insurance, cancer place left me ref to DHHS
+- [X] Apply for local insurance, cancer place left me ref to DHHS
 - [ ] call Kathleen Jones re Frankferd Farms
 	(304) 456-4110
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
