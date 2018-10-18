@@ -63,6 +63,14 @@ lewisburg:
 - [ ][ ] pursue grotto group
 - [ ][ ] pursue eeg work
 
+
+basic hmo plan has no out-of-network benefits uness going to =>emergency room<=
+covers mass, NH, vermont?, rhode island
+go to health connector and see what plans in west virginia can be gotten at discounted rate
+PPO plan provides out-of-network benefits, a little more expensive; can call business number
+800-957-6596 tuftshealthplan.com
+health connector is affordable care act from obama; health-connector.org or somesuch, or wvahc.org
+
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
@@ -80,8 +88,10 @@ lewisburg:
 	- [ ] Get new tire for passat, and add item for next task related to it
 		205/60R16 96R XL Nokian
 	- [ ] open mail
-	- [ ] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
-	- [ ][ ] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
+	- [X] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
+		-> did this thu with jim!
+	- [X][X] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
+		-> did this thu, paid fifty, acct +$249
 	- find:
 		- [ ] records from NH incl. EEG
 			-> EEG and MRI are supposed to be in annex qube, but seem missing from possibly-corrupt filesystem
