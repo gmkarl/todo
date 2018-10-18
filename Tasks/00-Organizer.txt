@@ -18,6 +18,9 @@ Priorit	Delay	Expense	Availability
 					get new tire for passat
 					get new insurance?
 
+RACI
+who's Responsible, who's Accountable, Communication, Information
+
 
 Scheduling plan for nicotine box:
 	- empty slots in schedule that items from Tasks queue are placed in
@@ -28,9 +31,6 @@ Scheduling plan for nicotine box:
 	I can start this before nicotine starts, which will give me some progress tracking
 
 	- I could mention to jim the bubbling in my ear that happens when I burp or hold my nose and press
-
-RACI
-who's Responsible, who's Accountable, Communication, Information
 
 
 lewisburg:
@@ -65,17 +65,8 @@ lewisburg:
 
 # CALENDAR
 
-=> When visiting Gwyn, check how long she is possibly available to vsiit, and assume you will visit for the maximum amount of time, even if that is not planned
-
-- [!] 2018-10-17 Wed
-	- [ ] Take trash out
-	- [ ] do laundry
-	- [ ][ ] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
-	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
-	- [ ] 1:00 pm Jim Taggart arrives
-	- [ ] 1:30 pm CCIL meeting
-
-- [ ] 2018-10-18 Thu
+=> When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
+- [!] 2018-10-18 Thu
 	- Jim Taggart until afternoon
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 	         third Thursday of every month
@@ -90,6 +81,7 @@ lewisburg:
 		205/60R16 96R XL Nokian
 	- [ ] open mail
 	- [ ] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
+	- [ ][ ] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
 	- find:
 		- [ ] records from NH incl. EEG
 			-> EEG and MRI are supposed to be in annex qube, but seem missing from possibly-corrupt filesystem
@@ -97,6 +89,10 @@ lewisburg:
 		- [ ] testing from merry meadow
 		- [ ] MRIs etc
 		- [ ] other neurocog testing?
+
+- [ ] 2018-10-21 Sun
+
+- [ ] 2018-10-22 Mon
 
 - [ ] 2018-10-23 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
@@ -114,6 +110,10 @@ lewisburg:
 		304 933-3800
 		527 Medical Park Dr Ste 204
 		Bridgeport, WV 26330
+
+- [ ] 2018-10-31
+	HW for Dr Mooney today: Wkbook reading comprehension exercises, ch 1, pg 55
+	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
 
@@ -539,6 +539,13 @@ set up internet
 
 
 # DONE
+- [X] 2018-10-17 Wed
+	- [X] Take trash out
+	- [X] do laundry
+	- [X][X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [X] 1:00 pm Jim Taggart arrives
+	- X[ ] 1:30 pm CCIL meeting
+	-> ended up going to elkins for ccil meeting; took a few hours.  no employee available yet
 - [X] 2018-10-16 Tue
 	- [X] Check first citizens ... might have an overdraft charge.  Deposit to cover it.
 		-> no overdraft
