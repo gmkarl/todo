@@ -74,14 +74,11 @@ health connector is affordable care act from obama; health-connector.org or some
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
-- [!] 2018-10-18 Thu
-	- Jim Taggart until afternoon
-	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
-	         third Thursday of every month
 
-- [ ] 2018-10-19 Fri
+- [!] 2018-10-19 Fri
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
-	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis
+	- [ ] try to relit furnace, 45 min max; add task to further if no success
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
 
 - [ ] 2018-10-20 Sat
 	- [ ] finish passport application
@@ -130,6 +127,11 @@ health connector is affordable care act from obama; health-connector.org or some
 - [ ] 2018-11-12
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
+
+- [ ] 2018-11-15 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 7
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2018-12-05
 	(dental fillings were moved when opening happened)
@@ -549,6 +551,13 @@ set up internet
 
 
 # DONE
+- [X] 2018-10-18 Thu
+	- Jim Taggart until afternoon
+	- [X][X] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+	         third Thursday of every month
+		-> went to this with Jim; he drove.  enjoyed, felt self-conscious.  try hard to do next month.
+	-> difficult to remember all of what else happened this day; jim reese relit propane.  it seemed out again following
+	   morning -- plan to see if i can check tank and relit myself
 - [X] 2018-10-17 Wed
 	- [X] Take trash out
 	- [X] do laundry
