@@ -1,0 +1,14 @@
+I started using my existing routine script, made a brushing.routine .
+It doesn't tell me how much nicotine I should have, process the responses I give, or have a timer, all of which could be helpful.
+
+Scripts I have:
+	- tasks: picks random things, apparently; I think there's only 1 of these?
+	- routine: goes through a list, provides for start and end times, allows to abort/skip/already
+	- meds: goes through a list, only does one time, allows for notes
+	- exercise: has a library of functions, and then special scripts for each task.  has a timer, allows media programs
+	  does not record automatically
+
+I guess I'll need a new script.
+A concern is integrating with a daily schedule.
+Another concern is my difficulty thinking.  Clarity and simplicity are helpful.
+	-> idea: advanced academic textbook quizes
