@@ -1,12 +1,15 @@
 BT00	Information task: 30 sec
 BT10	Toothpaste / Flossing / Fluoride attempt correct
-BT11	Lozenge already cut or measured before cut
+BT11	Lozenge measured before cut or started with it cut
 BT40	Eye lubricant
+BT15	N2 scheduling etc work: 1 min
+BT18	Have started current routine or no current routine
 BT19	Mark lozenge percent
 BT20	Brush
 BT30	Verify Toothpaste / Flossing / Fluoride attempt correct
 BT31	Verify lozenge percent correct
 BT32	Verify did not lose track of items while brushing
+BT33	Verify correctly evaluated routine
 BT50	Box put away
 BT60	Sensory awareness
 BT70	NVC Practice
