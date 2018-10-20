@@ -41,9 +41,6 @@ lewisburg:
 
 # UPCOMING
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
-- [X] Apply for local insurance, cancer place left me ref to DHHS
-- [ ] call Kathleen Jones re Frankferd Farms
-	(304) 456-4110
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
 - [ ] find tracking number for vacuum attachment and ask at post office
 - [ ] answer starred e-mails
@@ -75,12 +72,7 @@ health connector is affordable care act from obama; health-connector.org or some
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-19 Fri
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
-	- [ ] try to relit furnace, 45 min max; add task to further if no success
-	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
-
-- [ ] 2018-10-20 Sat
+- [!] 2018-10-20 Sat
 	- [ ] finish passport application
 	- [ ] Get new tire for passat, and add item for next task related to it
 		205/60R16 96R XL Nokian
@@ -96,8 +88,11 @@ health connector is affordable care act from obama; health-connector.org or some
 		- [ ] testing from merry meadow
 		- [ ] MRIs etc
 		- [ ] other neurocog testing?
+	- [ ] call Kathleen Jones re Frankferd Farms
+		(304) 456-4110
 
 - [ ] 2018-10-21 Sun
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
 
 - [ ] 2018-10-22 Mon
 
@@ -117,6 +112,12 @@ health connector is affordable care act from obama; health-connector.org or some
 		304 933-3800
 		527 Medical Park Dr Ste 204
 		Bridgeport, WV 26330
+
+- [ ] 2018-10-29
+	- [ ] 3:00 pm leave for mongrotto meeting?
+	- [ ][ ] 7:00 pm Monongahela Grotto meeting last Monday of each month EXCEPT Dec and May
+		Three Ways Inn: https://caves.org/grotto/mongrotto/directions.htm
+		Fairmont, WV
 
 - [ ] 2018-10-31
 	HW for Dr Mooney today: Wkbook reading comprehension exercises, ch 1, pg 55
@@ -339,6 +340,15 @@ Frontier Support:
 	877-669-5535, 800-239-4430
 	Tech Dept: 888-440-2096
 
+Green Bank Anechoic Chamber
+	Jansky Laboratory
+	Carla Beaudet
+	cbeaudet@nrao.edu
+	304-456-2126
+	general number: 304-456-2011
+	https://www.federallabs.org/labs/gbo-rf-anechoic-chamber-antenna-test-range
+	https://www.cv.nrao.edu/~hliszt/RFI/RFI.htm
+
 
 Benita Via 8p, 7p
 	304-456-5598 but professional services would rather office be called
@@ -551,6 +561,13 @@ set up internet
 
 
 # DONE
+- [X] Apply for local insurance, cancer place left me ref to DHHS
+- [X] 2018-10-19 Fri
+	- [X] try to relit furnace, 45 min max; add task to further if no success
+	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
+	- [X][X] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	- [X] try to relight heater again, then call jim and report
+	-> i didn't brush my teeth this night, nor do my evening routine.  had a very rough evening where i felt unable to guide my behavior almost completely
 - [X] 2018-10-18 Thu
 	- Jim Taggart until afternoon
 	- [X][X] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
