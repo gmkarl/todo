@@ -23,6 +23,10 @@ Frontend: finish software to profile emitter and detect it, only working reasona
 	ACCOMPLISHMENT! I integrated what little I had done of my plan to make general algorithm classes into my recent work.
 		-> I'd like to integrate my other plans, but I don't remember them, and it's not the best use of time.
 		   I just remember I'd planned another step very specifically, and I think it might integrate my current work with my previous work.
+
+2018-10-20
+	ACCOMPLISHMENT!  I identified two bugs in my profiler, and wrote them down specifically.
+	ACCOMPLISHMENT!  I came up with a detector approach that can also profile.
 	
 FRONTEND: - [X] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
 BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt
