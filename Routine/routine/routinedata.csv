@@ -654,3 +654,4 @@ BT00, brushing, , 2018-10-20T12:01:18+00:00, Information task: 15 sec, finished 
 BT10, brushing, 2018-10-20T12:01:27+00:00, 2018-10-20T12:03:40+00:00, Toothpaste / Flossing / Fluoride attempt correct,
 BT11, brushing, 2018-10-20T12:03:44+00:00, 2018-10-20T12:04:57+00:00, Lozenge already cut or measured before cut,
 BT19, brushing, 2018-10-20T12:04:59+00:00, 2018-10-20T12:06:36+00:00, Mark lozenge percent,
+BT20, brushing, 2018-10-20T12:06:37+00:00, 2018-10-20T12:16:55+00:00, Brush,
