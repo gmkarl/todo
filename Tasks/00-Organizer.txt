@@ -42,17 +42,12 @@ lewisburg:
 # UPCOMING
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
-- [X] find tracking number for vacuum attachment and ask at post office
-	-> jim reese received it, thought it was for him and got rid of it; getting another one
 - [ ] answer starred e-mails
 - [ ] answer signal messages; riley needs payment, possibly work, definitely communication
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
 - [ ] Fill out volunteer application from e-mail
-- [X] Set up voicemails such that only google's voicemail is used when google number is called.
-	-> it looks like my old voicemails expired and have been lost
-	   but i set up call screening on google voice so that it won't let my frontier voicemail pick up
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ] Reconnect with Dr Bouboulis as I am starting treatment
@@ -66,45 +61,6 @@ lewisburg:
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
-
-- [X] 2018-10-20 Sat
-	- [X] finish passport application
-		=> couldn't find my notes regarding what was needed, so I looked up the fees and filled in all the fields
-		   hope I didn't miss anything, but seems ilke the most important stuff has been done
-	- [X] Get new tire for passat, and add item for next task related to it
-		205/60R16 96R XL Nokian
-		=> ~$147 on ebay, but ebay is having a bug handling my cards.
-		   tech support said she would contact the specialist and get back to me (but not how)
-		   would like to contact again in a bit, make sure it's ongoing
-		=> called e-bay this time, around 6 pm, had to verify identity, got tired ordered for thu the 25th
-	- [X] open mail
-		=> it looks like i'd already opened my mail.  haven't dealt with neurology and propane
-	- [X] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
-		-> did this thu with jim!
-	- [X][X] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
-		-> did this thu, paid fifty, acct +$249
-	- find:
-		- [X] records from NH incl. EEG
-			-> EEG and MRI are supposed to be in annex qube, but seem missing from possibly-corrupt filesystem
-			-> re-requested EEG and history; MRI is on lambda; copying to mu.  it's an iso
-			-> I found some discs in my medical file, not all are well labeled; one could be the EEG
-		- [X] testing from dr mooney
-			-> emailed his office, will pursue further tuesday to give time to read
-		- [X] testing from merry meadow
-			-> emailed father, will pursue further tuesday
-		- [X] testing with drs rosen
-			-> emailed father, will pursue further tuesday
-		- [X] MRIs etc
-			-> my 2014 EEG from maine is present as optical media but not on one of the annex drives i'm currently using
-			-> others are on annex, aside from DH EEG
-		- [X] other neurocog testing?
-			-> i don't remember all my testing, but if i can get dr mooney, drs rosen, and merry meadow, I'll have a big swath across my life
-		- [X] cd burner to give isos
-			-> ordered on ebay, arrives thu 25th
-	- [X] call Kathleen Jones re Frankferd Farms
-		(304) 456-4110
-		-> called, got voicemail.  not sure, i thought it might haev said sue and john?  i wonder if sue gave me her number by accident
-		-> I registered with frankferd farms
 
 - [ ] 2018-10-21 Sun
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
