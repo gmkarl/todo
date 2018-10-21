@@ -25,3 +25,22 @@ Concerns:
 	-> concept: fell off wagon.  drop dose to 'low' level: max with no failures
 	-> concept: achieved rare goal: raise dose to 'high' level ONCE
 	-> concept: contact behaviorist to consult
+
+New script.
+	Language?
+		-> python: hard to debug, really
+		-> node: also hard to debug
+			large library set
+		-> c/c++: small library set, more verbose, but more experience using
+			string parsing hard
+		-> shell: awkward
+		-> java: minimal experience, historical dislike for memory footprint
+		-> rust: minimal experience, but want to learn
+		-> other new languages
+		-> old languages i don't know or aren't used much
+
+		Probably Python or C++: python is easier to debug than node
+			python has more libraries than c++
+		List requirements to finish picking language.
+	Requirements?
+		- 
