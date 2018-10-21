@@ -27,6 +27,12 @@ Frontend: finish software to profile emitter and detect it, only working reasona
 2018-10-20
 	ACCOMPLISHMENT!  I identified two bugs in my profiler, and wrote them down specifically.
 	ACCOMPLISHMENT!  I came up with a detector approach that can also profile.
+
+2018-10-21
+	ACCOMPLISHMENT!	 I determined my bug was not a bug.  I'm not sure what I changed, but with more detail output the data is behaving as expected and the two methods of calculating it are agreeing.
+	ACCOMPLISHMENT!  I learned a little about PPM.
+		-> not sure how much time to invest in PPM .. not a problem on all radios ... but probably on multiple ones ... maybe add stats to rtl_test?
+		-> i think plan was to ignore for now, and treat each recording as having unknown sample rate or somesuch
 	
 FRONTEND: - [X] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
 BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt

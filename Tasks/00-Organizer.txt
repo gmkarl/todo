@@ -42,6 +42,7 @@ lewisburg:
 # UPCOMING
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
+- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
 - [ ] answer starred e-mails
 - [ ] answer signal messages; riley needs payment, possibly work, definitely communication
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
@@ -57,12 +58,15 @@ lewisburg:
 - [ ] design and build nicotine device to retrain habits
 - [ ][ ] pursue grotto group
 - [ ][ ] pursue eeg work
+- [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
+- [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
 
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [ ] 2018-10-21 Sun
+	-> I made a southern states account, pw is in vault, but my receipt lacks the numbers to link it.  could call them, or set it for later
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
 
 - [ ] 2018-10-22 Mon
