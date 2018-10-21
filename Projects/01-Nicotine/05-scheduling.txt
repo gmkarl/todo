@@ -43,4 +43,12 @@ New script.
 			python has more libraries than c++
 		List requirements to finish picking language.
 	Requirements?
-		- 
+		- time my behavior
+		- ask yes/no questions if i subjectively met a goal
+		- control n2 output, which is likely a behavior 
+		- display a schedule and allow adjustment / priorities / or something (modular ways to adjuts schedule)
+		- provide for randomly chosen tasks
+
+		- adjust behavior from sensors, e.g. video, network, keylog
+
+Request: let's track our daily task time, right now.  I just had a pretty brief work window and I want to spend more time accomplishing my goals.
