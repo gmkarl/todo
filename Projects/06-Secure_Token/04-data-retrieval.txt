@@ -10,3 +10,8 @@ prevent it being a channel for compromise.
 new device)
 --> replacing with a new device happens rarely.  could have the phone only SEND data, but never
     receive except via keyboard.  sounds reasonable.
+
+I guess for now, I'll put 1 sd card into the phone, and then transfer sd cards _from_ the phone in the future.
+		-> hmm if sd card is previously compromised, this would create strong information flow
+		but i see that if we use new sd cards there's a long delay involved, seems ok
+	maybe useful to have denser data coming off of phone ...  maybe encode to sound file and send via headphone jack.  
