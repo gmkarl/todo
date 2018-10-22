@@ -808,3 +808,4 @@ BT19, brushing, 2018-10-22T15:05:50+00:00, 2018-10-22T15:09:30+00:00, Mark lozen
 BT20, brushing, 2018-10-22T15:09:33+00:00, 2018-10-22T15:13:55+00:00, Brush,
 BT30, brushing, 2018-10-22T15:13:58+00:00, 2018-10-22T15:14:00+00:00, Verify Toothpaste / Flossing / Fluoride attempt correct, UNFINISHED
 BT31, brushing, 2018-10-22T15:14:07+00:00, 2018-10-22T15:14:08+00:00, Verify lozenge percent correct,
+BT32, brushing, 2018-10-22T15:14:12+00:00, 2018-10-22T15:14:14+00:00, Verify did not lose track of items while brushing,
