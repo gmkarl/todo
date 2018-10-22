@@ -60,23 +60,22 @@ lewisburg:
 - [ ][ ] pursue eeg work
 - [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
 - [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
+- [ ] call southern propane and get in system ... haven't paid bill?
 
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [ ] 2018-10-21 Sun
-	-> I made a southern states account, pw is in vault, but my receipt lacks the numbers to link it.  could call them, or set it for later
+- [!] 2018-10-22 Mon
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
-
-- [ ] 2018-10-22 Mon
 
 - [ ] 2018-10-23 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
 	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
 	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
-	- [ ] ~7pm? evening: Visit Gwyn to watch movie I downloaded on p2p vm
+	- [ ] 6:30p: Visit Gwyn to watch movie I downloaded on p2p vm
+		- overnight clothes, toothbrush, optionally dirty laundry
 
 - [ ] 2018-10-24 Wed
 	- Gwyn?
@@ -361,7 +360,7 @@ Gwyn Cole
 	304 456 5300
 
 James Reese
-	304 456 4489 (this is from papers, check with poster, ensure is the same)
+	304 456 4525
 
 Diane Schou
 	304 456 5525

@@ -1,4 +1,8 @@
 # DONE
+- [X] 2018-10-21 Sun
+	-> I made a southern states account, pw is in vault, but my receipt lacks the numbers to link it.  could call them, or set it for later
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	-> I forgot to do this.
 - [X] Set up voicemails such that only google's voicemail is used when google number is called.
 	-> it looks like my old voicemails expired and have been lost
 	   but i set up call screening on google voice so that it won't let my frontier voicemail pick up
