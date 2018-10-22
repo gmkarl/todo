@@ -32,6 +32,9 @@ and dispense N2.
 NEXT: thinking of using olinuxino a20, got stuck picking display
 		likely pick hdmi generic display for utility
 		label that it requires display be grounded with 3rd AC pin
+	-> i want to pick a pi but they seem so unstable
+	   the linuxino advertises stability vs competitors, and is fully open source
+	   but i have pis, and i'm low on money
 
 : monologue 1
 	How will device dispense n2?  opening a door is reasonable ... will need

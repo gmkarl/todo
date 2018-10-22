@@ -48,7 +48,19 @@ New script.
 		- control n2 output, which is likely a behavior 
 		- display a schedule and allow adjustment / priorities / or something (modular ways to adjuts schedule)
 		- provide for randomly chosen tasks
+		- provide for ensuring just enough time spent on a goal that the work it is addressing is, on average, shrinking (where appropriate)
+		- provide for categories that can be treated with their own training data e.g. doing task alone vs with others around, or doing when happy vs doing when depressed
 
 		- adjust behavior from sensors, e.g. video, network, keylog
 
 Request: let's track our daily task time, right now.  I just had a pretty brief work window and I want to spend more time accomplishing my goals.
+	-> I'm thinking I'll start making this system, in C++ (to ease debugging) with a goal of immediately using it to track time.
+		time tracking concepts:
+		- prompt to start random activities?
+		- integrate with csv files
+		- display time spent on activity, downtime, and ratios: see time tracking scripts
+		- report, starting activity now
+			- success % on finish
+			- interruption
+		- long-running system service (just a daemon process)
+		- provide for future multi-device use
