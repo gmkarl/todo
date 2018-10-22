@@ -67,13 +67,14 @@ lewisburg:
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2018-10-22 Mon
-	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	- [ ][X] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
 
 - [ ] 2018-10-23 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
 	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
 	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
+	- [ ] buy toiletpaper
 	- [ ] 6:30p: Visit Gwyn to watch movie I downloaded on p2p vm
 		- overnight clothes, toothbrush, optionally dirty laundry
 
