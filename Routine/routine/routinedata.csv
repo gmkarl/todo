@@ -868,3 +868,4 @@ BT30, brushing, 2018-10-22T23:44:00+00:00, 2018-10-22T23:44:01+00:00, Verify Too
 BT31, brushing, 2018-10-22T23:44:04+00:00, 2018-10-22T23:44:04+00:00, Verify lozenge percent correct,
 BT32, brushing, 2018-10-22T23:44:06+00:00, 2018-10-22T23:44:06+00:00, Verify did not lose track of items while brushing,
 BT33, brushing, 2018-10-22T23:44:13+00:00, 2018-10-22T23:44:14+00:00, Verify correctly evaluated routine,
+BT-5, brushing, 2018-10-23T11:50:44+00:00, 2018-10-23T11:50:45+00:00, Verify finished last run of routine, UNFINISHED
