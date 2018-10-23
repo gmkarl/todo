@@ -43,6 +43,11 @@ Frontend: finish software to profile emitter and detect it, only working reasona
 	ACCOMPLISHMENT!  I implemented the whole wave model accumulation class.  Should be reusable for future attempts, if this one doesn't work.
 	ACCOMPLISHMENT!  I wrote the data retention portions of the detector class and began the core processing function.
 	ACCOMPLISHMENT!  I moved my focus onto implementing the detector and added functionality to the wave model accumulation class to support this.  I gained awareness of the issue of sample start times.
+
+2018-10-23
+	ACCOMPLISHMENT!  I wrote maybe 75% of the detector implementation.
+	ACCOMPLISHMENT!  I wrote an FFT convolution functor.
+	ACCOMPLISHMENT!  I came up with a way to pursue replacing the body of the profiler with the convolution functor, and to consider using its approach for a faster, more accurate, convolution.
 	
 FRONTEND: - [X] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
 BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt
