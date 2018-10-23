@@ -51,7 +51,6 @@ lewisburg:
 - [ ] Fill out volunteer application from e-mail
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-- [ ] Reconnect with Dr Bouboulis as I am starting treatment
 - [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 - [ ][ ] Look for nearby farmer's markets
@@ -66,16 +65,18 @@ lewisburg:
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-22 Mon
-	- [ ][X] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+- [X] 2018-10-22 Mon
+	- [X][X] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
 
-- [ ] 2018-10-23 Tue
+- [!] 2018-10-23 Tue
 	- [ ] ask pcp office regarding ear bubbling / etc
 			ENT specialist?
 			facial paralysis specialist?
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
 	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
+	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
 	- [ ] buy toiletpaper
 	- [ ] 6:30p: Visit Gwyn to watch movie I downloaded on p2p vm
@@ -96,6 +97,10 @@ lewisburg:
 		304 933-3800
 		527 Medical Park Dr Ste 204
 		Bridgeport, WV 26330
+
+- [ ] 2018-10-26 Fri
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	- [ ] 1 pm Celia call, volunteer app, neurotesting results
 
 - [ ] 2018-10-27 Sat
 	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
