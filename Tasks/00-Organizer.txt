@@ -40,15 +40,12 @@ lewisburg:
 - truck mechanic?
 
 # UPCOMING
+- [ ] work on finding printer
+	- nvc worksheets
+	- neuro history
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
-- [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
-- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
 - [ ] answer starred e-mails
 - [ ] answer signal messages; riley needs payment, possibly work, definitely communication
-- [ ] DO MY LAB REPORTS !  think how empowering this would be
-		with time limit.  remember to reward based on progress.
-		-> should be doable with n2
-- [ ] Fill out volunteer application from e-mail
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
 - [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
@@ -59,7 +56,13 @@ lewisburg:
 - [ ][ ] pursue eeg work
 - [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
 - [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
+- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
+- [ ] DO MY LAB REPORTS !  think how empowering this would be
+		with time limit.  remember to reward based on progress.
+		-> should be doable with n2
+- [ ] Fill out volunteer application from e-mail
 - [ ] call southern propane and get in system ... haven't paid bill?
+- [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
 
 # CALENDAR
 
@@ -82,11 +85,13 @@ lewisburg:
 		Post Office
 		300 3rd St Flr 1
 		Elkins, WV 26241
-	- [ ] 2 pm Neurology: Adam Alghadban
+	- [ ] 2 pm Neurology: A..a.. Alghadban
 		Associated Specialists
 		304 933-3800
 		527 Medical Park Dr Ste 204
 		Bridgeport, WV 26330
+		- [ ] ask if reasonable to use neurologist in elkins?
+			-> CANNOT come bridgeport in winter, long drive is too dangerous
 
 - [ ] 2018-10-26 Fri
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
@@ -487,8 +492,6 @@ Quinoa Veggie Soup
 # CRUFT TO SORT UP
 
 ## from gbo notepad
-- [ ] put private key on usb to log in
-- [ ] move towards finding printer [at this time of copying, a couple nvc worksheets would be ncie to print out]
 - [ ] land assessor, props near scope
 - house across from 51 says for rent and for sale: it's 5218, neighboring 5232; online says worth $65800 but really old
 
