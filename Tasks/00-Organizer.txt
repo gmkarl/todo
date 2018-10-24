@@ -84,6 +84,7 @@ lewisburg:
 
 - [ ] 2018-10-24 Wed
 	- Gwyn?
+	- take trash? (or sat/sun)
 
 - [ ] 2018-10-25 Thu
 	- [ ]  9:30 am leave
@@ -100,6 +101,7 @@ lewisburg:
 
 - [ ] 2018-10-26 Fri
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ] 1 pm Celia call, volunteer app, neurotesting results
 
 - [ ] 2018-10-27 Sat
