@@ -15,9 +15,22 @@ Priorit	Delay	Expense	Availability
 3	2	0	2		Volunteering
 3	1	1	1		try to talk to dianne
 3	3	1	2		go to lewisburg health stores
+					get new tire for passat
+					get new insurance?
 
 RACI
 who's Responsible, who's Accountable, Communication, Information
+
+
+Scheduling plan for nicotine box:
+	- empty slots in schedule that items from Tasks queue are placed in
+	- Tasks queue is priority queue
+	- each item has a Behavior, and a Category
+	- each Category may have a Verifier that can be used to determine reward (different ones may use same verifier)
+
+	I can start this before nicotine starts, which will give me some progress tracking
+
+	- I could mention to jim the bubbling in my ear that happens when I burp or hold my nose and press
 
 
 lewisburg:
@@ -27,43 +40,94 @@ lewisburg:
 - truck mechanic?
 
 # UPCOMING
+- [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
+- [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
+- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
+- [ ] answer starred e-mails
+- [ ] answer signal messages; riley needs payment, possibly work, definitely communication
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
 - [ ] Fill out volunteer application from e-mail
-- [ ] Set up voicemails such that only google's voicemail is used when google number is called.
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
 	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-- [ ] Reconnect with Dr Bouboulis as I am starting treatment
+- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+- [ ][ ] Look for nearby farmer's markets
+- [ ] design and build nicotine device to retrain habits
+- [ ][ ] pursue grotto group
+- [ ][ ] pursue eeg work
+- [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
+- [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
+- [ ] call southern propane and get in system ... haven't paid bill?
 
 # CALENDAR
 
-- [X] 2018-10-04 Thu
-	- [X] 9:00a - 9:15a Kate brief check-in
+=> When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-05 Fri
-	- [ ][ ] 9:30a - 11:00a Kate call
+- [!] 2018-10-24 Wed
+	- Gwyn?
+	- [X] take trash? (or sat/sun)
+		-> gwyn took this Tue
+	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
 	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
 		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-	- [ ][ ] Look for nearby farmer's markets
+	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
+	- [ ] buy toiletpaper
 
-- [ ] 2018-01-06 Sat
-	- [ ] Olive Oil & Tomato Sauce for Gwyn visit
-	- [ ] Staple cable for Gwyn
+- [ ] 2018-10-25 Thu
+	- [ ]  9:30 am leave
+	- [ ] 11:20 am passport appointment
+			money orders: $110 for passport ([ ]check) and $35 for execution/acceptance to post office
+		Post Office
+		300 3rd St Flr 1
+		Elkins, WV 26241
+	- [ ] 2 pm Neurology: Adam Alghadban
+		Associated Specialists
+		304 933-3800
+		527 Medical Park Dr Ste 204
+		Bridgeport, WV 26330
 
-- [ ] 2018-10-10 Wed
-	- [ ] 12:30p Dr Fleming oncologist (1pm if paperwork received)
-		801 Harrison Ave, Elkins
-	- [ ] Capital One bill is over $300 and bounced.  Pay it.
+- [ ] 2018-10-26 Fri
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ] 1 pm Celia call, volunteer app, neurotesting results
+	- [ ] 2:20pm - 5 or 6 pm Dr Cox, opthalmologist
+			635 Robert E Lee Avemue
+			Elkins, WV
+		will need list of meds, insurance cards
+
+- [ ] 2018-10-27 Sat
+	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
+		-> there's a copy of my old faxed release in the medical file.  address is wrong, of course.
+	- [ ] dvd media should have arrived to burn copies of neuro records.  most are on annex, might have a missing one in medical file unsure
+	- [ ] Tire should have arrived by now, get it put on
+	- [ ] has frankferd farms replied to my registration attempt?
+
+- [ ] 2018-10-29 Mon
+	- [ ] 3:00 pm leave for mongrotto meeting?
+	- [ ][ ] 7:00 pm Monongahela Grotto meeting last Monday of each month EXCEPT Dec and May
+		Three Ways Inn: https://caves.org/grotto/mongrotto/directions.htm
+		Fairmont, WV
+
+- [ ] 2018-10-30 Tue
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
+
+- [ ] 2018-10-31 Wed
+	HW for Dr Mooney today: Wkbook reading comprehension exercises, ch 1, pg 55
+	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+
+- [ ] 2018-11-00 Jacks off maternity leave in November
+
+- [ ] 2018-11-12
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
 
-- [ ] 2018-10-17 Wed
-	- Jim Taggart visits
-	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
-
-- [ ] 2918-10-05 Fri
-	- [ ][ ] 1:00 pm Jeremy call
+- [ ] 2018-11-15 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 7
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2018-12-05
 	(dental fillings were moved when opening happened)
@@ -182,6 +246,8 @@ lewisburg:
 
 #### THINGS TO CHANGE ABOUT MY INNER HABITS
 - getting up in morning (staying in bed at night, or at least resting consistently)
+- crypto: using pgp, putting coins on airgapped phone, getting new airgapped phone
+- adhering to a daily schedule, throughout the day, and using time-tracking system
 - time spent in shower
 - time spent in morning routine
 	-> could associate N2 with time spent doing morning routine
@@ -201,29 +267,65 @@ lewisburg:
 - errors and spasms to decrease
 	-> could measure quality or rapidity of tasks
 	-> could be easier with EEG
+	-> CAN TRACK computer accuracy! missing mouse clicks, clicking wrong tabs, using backspace key or deleting in vi ...
 
-- keeping room clean
+- vision holes
+	-> could actually design peripheral vision device.  very gratifying.  just need digital projector with wide-angle lens
+- short term memory
+	-> could use memory task such as dual n-back.  may encounter second issue of context
+- staying energized in face of 'flags'
+	-> could note flags and review them, work with concepts around them ... seems intense
+	   could also note important events of de-energizing and just work with those, focused on my goals
+
+- keeping room clean and ORGANIZED
+- remembering my possessions
 
 - real results with regard to executive functioning and task/information organization
 	-> not sure how to measure this
 
 - effectiveness of coding
 
+- complete silence and peace in my mind, clarity of thinking, memory working
+	-> mostly subjective for now, but could modulate some other goal with subjective judgement.  seems to work
+
+- stopping driving to lubricate my eye
+	-> could combine with any other task, while driving
+	-> schedule break during drive, for lubrication etc?
+	-> use pocket lubricant when doing regular lubrication, to build ease of access
+
+- ability to generalize plans; hold schedule in my mind;--> include infornation when making decisions<--; brainstorm
+
+- adding to a record of subjective events (such as sudden memory loss etc)
+	-> could provide nicotine immediately with addition
+	-> but then also want to decrease event .... maybe change regarding time
+			e.g. could reward immediately, but decrease normal outside greater than reward by a little
+			but that would train the event
+			could also reward immediately, but over time decrease reward, while having consistency wrt decreasing next dose too
 
 #### INFORMATION
 
 (304) 456-5564
 6330 Potomac Highlands Trail
 Green Bank, WV 24944
+	UPS delivered stright to my door, marked my address as 6330 Potomac Highlands Trail / Ste 7
+					I had written it as 6328 / tiny home behind shed, and they rewrote it as above to suite 7
 
 Voicemail:
 	*100
 		pin is 6 digits
 	304 799 6891
 
+voicemail notes
+	304 456 5300 oct 18 939a
+		gwyn says i left my toiletries
+	304 636 6300 tue oct 9 959a
+		ashley dr fleming consultation visit oct 10 1p reminder
+
 Health food stores:
 - Good Energy Foods? in Elkins (small)
 - A couple in Lewisburg
+
+
 
 Green Box (garbage facility)
 	Wed	8a - 4p (5p summer)
@@ -236,6 +338,19 @@ Varner 304-456-4505
 	Towing, Commercial Mechanic
 
 Metals: Valley Steel, 30 mins towards elkins
+
+Frontier Support:
+	877-669-5535, 800-239-4430
+	Tech Dept: 888-440-2096
+
+Green Bank Anechoic Chamber
+	Jansky Laboratory
+	Carla Beaudet
+	cbeaudet@nrao.edu
+	304-456-2126
+	general number: 304-456-2011
+	https://www.federallabs.org/labs/gbo-rf-anechoic-chamber-antenna-test-range
+	https://www.cv.nrao.edu/~hliszt/RFI/RFI.htm
 
 
 Benita Via 8p, 7p
@@ -253,7 +368,7 @@ Gwyn Cole
 	304 456 5300
 
 James Reese
-	304 456 4489 (this is frmo papers, check with poster, ensure is the same)
+	304 456 4525
 
 Diane Schou
 	304 456 5525
@@ -447,58 +562,5 @@ set up internet
 - [ ] Add items for tasks not on this list
 - [ ] figure out junk in passat
 
-
 # DONE
-- [ ] Do my CVF homework
-- [X] 2018-09-29 Sat
-- [X] 2018-10-01 Mon
-	- [X] 2:00 pm Doc, Anal Fissure
-	- [X] PAY RENT
-		- $490 in bank account, $10 cash
-		- [X] rent is $600 !!!! NEED $100 MORE
-	- [X] Pay Storage Unit
-	- [X] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
-		Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
-		-> you could also call Dr Nath's office @ that number and just check in specifically what you need to do
-		Maybe a simple approach would be to sign in to community care portal and send a message, or visit them
-		:: contact jenifer lambert for referral
-- [X] 2018-10-02 Tue
-	Kate's Birthday
-	- [X][X] 9:30am Kate call
-- [X] 2018-10-03 Wed
-	- [X][X] Pay off Home Depot bill.  Withdrew $67 from coinbase, and may have withdrawn more earlier that will come in.
-	- [X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
-	- [X] 3 PM - 6 PM Farmer's market; copy to next week
-	- [X] Call Southern States Propane before 5pm to order 115gal tank on same shipment as Joyce
-		799-6523
-	- [X][X] Get Call from Community Care regarding oncologist referral .. is it in-state or out-of-state?
-	- [X] call dr fleming in elkins; need to talk 304-637-3640 before appt scheduled
-	- [X] ~5:15 PM Gwyn violin
-- [X] visit cgran.org: review gnuradio modules and/or make a copy of the list
-	looking for: multiple-client network distribution, frequency scanning, log archival, weak packet integration ala radio astronomy / noiscillate, extended mathematical operations, system service, integration into other ui's or libraries
-- [X] set up google voice to forward to my phone # (304) 456-5564
-- [X] sign up for another high tech & seti tour to keep the radio astronomy energy going
-- [X] get carpet attachment for my kenmore vacuum
-- [X] get buck boost converter for 12v-12v dc-dc battery charger (misplaced mine)
-- [X] get reps for EMOTM tacfit workout and add to a tacfit file to see later
-- [X] get a knife for whittling
-- [X] identify cookie & kate ingreds
-- [X] order new lifeextension two-per-day
-- [X] order some all-weather pens
-- [X] order a belt, any belt come on
-- [X] GET CHARGE CABLE FOR SECURITY TOKEN
-- [X] Call Dr Nathenson's office (617) 632-5204
-- [X] VISIT DIANE AND INFORM OF MOVE (asked for visit 2018-08-22 Wed)
-- [X] Mention fissure to local PCP.  Finally resuming treatment but nearly out of compound.
-- [X] Call Frontier to figure out how to access voicemail
-- [X] 2018-09-27 Thu
-	- [X][X] 11:00 am Jeremy call
-	- [X][X] 3:30 pm - 4:30 pm Kate call
-	- [X][X] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-- [X] 2018-09-28 Fri
-	- [X] 8:30a Bert trip to Elkins
-- [X] 2018-09-22 Sat
-	- [X] 11:30a Katie & Gwyn Call
-- [X] 2018-09-23 Sun
-	- [X] 10:30 AM Katie call ... talk re Jim past experience relating 
+- Content moved to 01-Calendar-Log.txt .

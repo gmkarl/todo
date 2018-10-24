@@ -1,0 +1,117 @@
+# DONE
+- [X] 2018-10-21 Sun
+	-> I made a southern states account, pw is in vault, but my receipt lacks the numbers to link it.  could call them, or set it for later
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	-> I forgot to do this.
+- [X] Set up voicemails such that only google's voicemail is used when google number is called.
+	-> it looks like my old voicemails expired and have been lost
+	   but i set up call screening on google voice so that it won't let my frontier voicemail pick up
+- [X] find tracking number for vacuum attachment and ask at post office
+	-> jim reese received it, thought it was for him and got rid of it; getting another one
+- [X] 2018-10-20 Sat
+	- [X] finish passport application
+		=> couldn't find my notes regarding what was needed, so I looked up the fees and filled in all the fields
+		   hope I didn't miss anything, but seems ilke the most important stuff has been done
+	- [X] Get new tire for passat, and add item for next task related to it
+		205/60R16 96R XL Nokian
+		=> ~$147 on ebay, but ebay is having a bug handling my cards.
+		   tech support said she would contact the specialist and get back to me (but not how)
+		   would like to contact again in a bit, make sure it's ongoing
+		=> called e-bay this time, around 6 pm, had to verify identity, got tired ordered for thu the 25th
+	- [X] open mail
+		=> it looks like i'd already opened my mail.  haven't dealt with neurology and propane
+	- [X] Call Tufts and ask if they will cover my transition to WV until I get local insurance as out-of-network (note: davis memorial cancer center)
+		-> did this thu with jim!
+	- [X][X] capital one payment bounced again.  move money into account to cover and add todo item to pay; also need ~$150 for tire
+		-> did this thu, paid fifty, acct +$249
+	- find:
+		- [X] records from NH incl. EEG
+			-> EEG and MRI are supposed to be in annex qube, but seem missing from possibly-corrupt filesystem
+			-> re-requested EEG and history; MRI is on lambda; copying to mu.  it's an iso
+			-> I found some discs in my medical file, not all are well labeled; one could be the EEG
+		- [X] testing from dr mooney
+			-> emailed his office, will pursue further tuesday to give time to read
+		- [X] testing from merry meadow
+			-> emailed father, will pursue further tuesday
+		- [X] testing with drs rosen
+			-> emailed father, will pursue further tuesday
+		- [X] MRIs etc
+			-> my 2014 EEG from maine is present as optical media but not on one of the annex drives i'm currently using
+			-> others are on annex, aside from DH EEG
+		- [X] other neurocog testing?
+			-> i don't remember all my testing, but if i can get dr mooney, drs rosen, and merry meadow, I'll have a big swath across my life
+		- [X] cd burner to give isos
+			-> ordered on ebay, arrives thu 25th
+	- [X] call Kathleen Jones re Frankferd Farms
+		(304) 456-4110
+		-> called, got voicemail.  not sure, i thought it might haev said sue and john?  i wonder if sue gave me her number by accident
+		-> I registered with frankferd farms
+- [X] Apply for local insurance, cancer place left me ref to DHHS
+- [X] 2018-10-19 Fri
+	- [X] try to relit furnace, 45 min max; add task to further if no success
+	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
+	- [X][X] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	- [X] try to relight heater again, then call jim and report
+	-> i didn't brush my teeth this night, nor do my evening routine.  had a very rough evening where i felt unable to guide my behavior almost completely
+- [X] 2018-10-18 Thu
+	- Jim Taggart until afternoon
+	- [X][X] 6:15pm - 7:15pm NVC Practice Group at Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+	         third Thursday of every month
+		-> went to this with Jim; he drove.  enjoyed, felt self-conscious.  try hard to do next month.
+	-> difficult to remember all of what else happened this day; jim reese relit propane.  it seemed out again following
+	   morning -- plan to see if i can check tank and relit myself
+- [X] 2018-10-17 Wed
+	- [X] Take trash out
+	- [X] do laundry
+	- [X][X] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [X] 1:00 pm Jim Taggart arrives
+	- X[ ] 1:30 pm CCIL meeting
+	-> ended up going to elkins for ccil meeting; took a few hours.  no employee available yet
+- [X] 2018-10-16 Tue
+	- [X] Check first citizens ... might have an overdraft charge.  Deposit to cover it.
+		-> no overdraft
+	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
+	- [X][X] 2:00p - 2:50p Jeremy Psychotherapy
+	- [X] southern propane in marlinton: credit app.  it's okay to pay for it if you're late.  but this is off-work day and we might be able to make this week delivery if drive to submit in morning
+	- [X] Make passport appointment at usps.com/scheduler in elkins.  generally availble 1 day - 4 weeks ahead.
+	- [X] neurology paperwork
+	- [X] sort out neurocog testing appt
+		-> this was likely never scheduled because my insurance wouldn't cover it
+- [X] 2018-10-14 Sun
+	- day intentionally EMPTY
+		- spend 1 day NOT TRYING TO FINISH a work task
+				-> can still WORK, just don't need to FINISH
+- [X] 2018-10-15 Mon
+	- day intentionally EMPTY
+		- spend 1 day FOCUSED ON ACCOMPLISHING work
+				-> try to FINISH something!
+- [X] 2018-10-11 Thu
+	- [X][ ] 9:30a - 10:30a Kate call now, but usually 9:30a-11a Tue, Fri
+	- Gwyn at Seneca State Forest Cabin #6 through Saturday?
+	  only need bring clothes according to her
+- [X] 2018-10-12 Fri
+	- 10a Kate check-in text if internet
+- [X] 2018-10-13 Sat
+	- [X] Capital One bill is over $300 and bounced.  Pay it.
+	- return home by now and CLEAR SCHEDULE THROUGH MONDAY
+	- two days without scheduled items or plans as requested of self
+- [!] 2018-10-10 Wed
+	- [X] 10:30a leave for oncologist (1h 18 min drive + mountains, parking & intake)
+	- [X] 12:30p Dr Fleming oncologist (1pm if paperwork received)
+		801 Harrison Ave, Elkins
+	- [X] Contact Celia to reschedule volunteer application work
+	- [ ] Apply for passport on Elkins trip
+		- [X] photo
+		- [X] birth certificate or old passport
+		- [X] license
+		- [ ] application
+		- [ ] photocopies of front & back of license & citizenship doc
+- [ ] 2018-10-05 Fri
+	- [ ][ ] 1:00 pm Jeremy call
+- [!] 2018-10-07 Sun
+	- [/] Staple cable for Gwyn
+	- [ ] Work to feel more ready fr NRAO applicatin tomorrow
+		- [ ] Accomplish some work to feel at a stopping point
+		- [ ] prepare for application? remember call is just for prep too
+- [ ] 2018-10-08 Mon
+	- [ ] 10:00a Celia help NRAO application (maple leaf clinic)
