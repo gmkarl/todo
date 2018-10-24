@@ -912,3 +912,10 @@ BT90, brushing, 2018-10-24T02:37:20+00:00, 2018-10-24T02:37:20+00:00, Task (1 hr
 BT-5, brushing, 2018-10-24T14:20:20+00:00, 2018-10-24T14:20:21+00:00, Verify finished last run of routine, UNFINISHED
 BT00, brushing, 2018-10-24T14:20:28+00:00, 2018-10-24T14:22:53+00:00, Information task: 1 min,
 BT10, brushing, 2018-10-24T14:22:56+00:00, 2018-10-24T14:29:11+00:00, Toothpaste / Flossing / Fluoride attempt correct,
+BT11, brushing, 2018-10-24T14:29:12+00:00, 2018-10-24T14:32:17+00:00, Lozenge measured before cut or started with it cut,
+BT40, brushing, 2018-10-24T14:32:19+00:00, 2018-10-24T14:32:45+00:00, Eye lubricant,
+BT17, brushing, 2018-10-24T14:32:49+00:00, 2018-10-24T14:35:23+00:00, Data transfer re: airgapped phone: 1 min,
+BT18, brushing, 2018-10-24T14:35:26+00:00, 2018-10-24T14:35:26+00:00, Have started current routine or no current routine,
+BT19, brushing, 2018-10-24T14:35:29+00:00, 2018-10-24T14:44:07+00:00, Mark lozenge percent,
+BT13, brushing, 2018-10-24T14:44:11+00:00, 2018-10-24T15:01:38+00:00, Address 1 responsibility; at least communicate with other parties involved,
+BT15, brushing, 2018-10-24T15:01:44+00:00, 2018-10-24T15:05:45+00:00, N2 scheduling etc work: 2 min,
