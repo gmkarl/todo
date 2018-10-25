@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git pull
+
 export TZ=America/New_York
 today="$(date +"%F %Z")"
 year="${today%%-*}"

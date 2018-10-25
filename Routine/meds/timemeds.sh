@@ -9,6 +9,8 @@ year="${today%%-*}"
 ttrackdir="../ttrack"
 ttrackfile="${ttrackdir}/time_details.csv"
 
+git pull
+
 echo "$(date +%s),start,RESPONS,Meds" >> "$ttrackfile"
 
 csv="${year}-meds.csv"
