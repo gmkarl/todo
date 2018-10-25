@@ -68,17 +68,7 @@ lewisburg:
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-24 Wed
-	- Gwyn?
-	- [X] take trash? (or sat/sun)
-		-> gwyn took this Tue
-	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
-	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
-	- [ ] buy toiletpaper
-
-- [ ] 2018-10-25 Thu
+- [!] 2018-10-25 Thu
 	- [ ]  9:30 am leave
 	- [ ] 11:20 am passport appointment
 			money orders: $110 for passport ([ ]check) and $35 for execution/acceptance to post office
@@ -92,6 +82,11 @@ lewisburg:
 		Bridgeport, WV 26330
 		- [ ] ask if reasonable to use neurologist in elkins?
 			-> CANNOT come bridgeport in winter, long drive is too dangerous
+	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
+	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
+	- [ ] buy toiletpaper
 
 - [ ] 2018-10-26 Fri
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
