@@ -1,8 +1,8 @@
 #!/bin/bash
 
 file="Current_Concerns.txt"
-needed=2
-pat='^[0-9]\.'
+needed=4
+pat='I*[0-9]\.*'
 tmp=$(mktemp)
 echo 0  > "$tmp"
 while (( $(<"$tmp") < "$needed" ))
