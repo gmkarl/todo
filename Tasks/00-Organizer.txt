@@ -68,41 +68,42 @@ lewisburg:
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-25 Thu
-	- [ ]  9:30 am leave
-	- [ ] 11:20 am passport appointment
-			money orders: $110 for passport ([ ]check) and $35 for execution/acceptance to post office
-		Post Office
-		300 3rd St Flr 1
-		Elkins, WV 26241
-	- [ ] 2 pm Neurology: A..a.. Alghadban
-		Associated Specialists
-		304 933-3800
-		527 Medical Park Dr Ste 204
-		Bridgeport, WV 26330
-		- [ ] ask if reasonable to use neurologist in elkins?
-			-> CANNOT come bridgeport in winter, long drive is too dangerous
-	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
-	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
-	- [ ] buy toiletpaper (& eye lubricant?)
-
-- [ ] 2018-10-26 Fri
-	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+- [!] 2018-10-26 Fri
+	- [X][X] 7:40a Brush Teeth routine
+		-> brushed ~7a, did not do routine
+		-> toothbrush ran out of battery partway through
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 11:00a Brush Teeth Aux routine
+	- [ ] 12:40p leave for elkins
 	- [ ] 1 pm Celia call, volunteer app, neurotesting results
+		-> sent e-mail 6:05a requesting reschedule to tue or wed
+	- [ ][ ] 1:30p Brush Teeth routine
 	- [ ] 2:20pm - 5 or 6 pm Dr Cox, opthalmologist
 			635 Robert E Lee Avemue
 			Elkins, WV
 		will need list of meds, insurance cards
+	- [ ][ ] 5p or later Brush Teeth Aux routine
+	- [ ][ ] 7:20p Brush Teeth routine
+
+	goal for MORNING of RECOVERY FROM YESTERDAY, likely by doing some pleasant work.
+	acceptable to NAP DURING DAY if does not conflict with schedule, plans, etc.
+
+	- [ ] get postal mail
+	- [ ] comprehend e-mail since last time time I forwarded starred e-mails?
+	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
+	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
+	- [ ] Tire should have arrived by now, get it put on
 
 - [ ] 2018-10-27 Sat
-	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
-		-> there's a copy of my old faxed release in the medical file.  address is wrong, of course.
-	- [ ] dvd media should have arrived to burn copies of neuro records.  most are on annex, might have a missing one in medical file unsure
-	- [ ] Tire should have arrived by now, get it put on
-	- [ ] has frankferd farms replied to my registration attempt?
+	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
+	- [ ][ ] 7:40a? Brush Teeth routine (maybe plan on this being wakeup experience)
+	- [ ][ ] 11:00a? Brush Teeth Aux routine (maybe plan on this being inside morning routine)
+	- [ ][ ] 1:30p Brush Teeth routine
+	- [ ][ ] 5:00p? Brush Teeth Aux routine
+	- [ ][ ] 7:20p? Brush Teeth routine
+	- [ ][ ] ? Brush Teeth Aux routine
 
 - [ ] 2018-10-29 Mon
 	- [ ] 3:00 pm leave for mongrotto meeting?
@@ -113,6 +114,10 @@ lewisburg:
 - [ ] 2018-10-30 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
+	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
+		-> there's a copy of my old faxed release in the medical file.  address is wrong, of course.
+	- [ ] dvd media should have arrived to burn copies of neuro records.  most are on annex, might have a missing one in medical file unsure
+	- [ ] has frankferd farms replied to my registration attempt?
 
 - [ ] 2018-10-31 Wed
 	HW for Dr Mooney today: Wkbook reading comprehension exercises, ch 1, pg 55
