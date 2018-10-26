@@ -72,18 +72,18 @@ lewisburg:
 	- [X][X] 7:40a Brush Teeth routine
 		-> brushed ~7a, did not do routine
 		-> toothbrush ran out of battery partway through
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
-	- [ ][ ] 11:00a Brush Teeth Aux routine
+	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
+	- [X][X] 11:00a Brush Teeth Aux routine
 	- [ ] 12:40p leave for elkins
-	- [ ] 1 pm Celia call, volunteer app, neurotesting results
+	- [X] 1 pm Celia call, volunteer app, neurotesting results
 		-> sent e-mail 6:05a requesting reschedule to tue or wed
-	- [ ][ ] 1:30p Brush Teeth routine
+	- [ ][X] 1:30p Brush Teeth routine
 	- [ ] 2:20pm - 5 or 6 pm Dr Cox, opthalmologist
 			635 Robert E Lee Avemue
 			Elkins, WV
 		will need list of meds, insurance cards
-	- [ ][ ] 5p or later Brush Teeth Aux routine
-	- [ ][ ] 7:20p Brush Teeth routine
+	- [ ][X] 5p or later Brush Teeth Aux routine
+	- [ ][X] 7:20p Brush Teeth routine
 
 	goal for MORNING of RECOVERY FROM YESTERDAY, likely by doing some pleasant work.
 	acceptable to NAP DURING DAY if does not conflict with schedule, plans, etc.
@@ -95,6 +95,7 @@ lewisburg:
 		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
 	- [ ] Tire should have arrived by now, get it put on
+	- [ ] order/buy vit c, current bottle in med box
 
 - [ ] 2018-10-27 Sat
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
@@ -122,6 +123,10 @@ lewisburg:
 - [ ] 2018-10-31 Wed
 	HW for Dr Mooney today: Wkbook reading comprehension exercises, ch 1, pg 55
 	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] 1 pm Celia call, volunteer app, neurotesting results
+
+- [ ] 2018-11-02 Fri
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
 
