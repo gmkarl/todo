@@ -13,6 +13,3 @@ MONEY,0.8
 EARTH,0.8
 OTHER,0.8
 BLOCKED,0
-# I'm updating this to include current stuff, but I might want to lookup its meaning and use first.
-# I'll want reports on time spent doing automatic brushing routines, but also the pieces of them: nvc, awareness, task switching ...
-# does it report descriptions or only categories?

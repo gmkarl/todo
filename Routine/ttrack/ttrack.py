@@ -2,6 +2,13 @@
 
 import argparse, time, sys, tty
 
+# I want to update the priorities to include current stuff, but I might want to lookup the meaning and use first.
+# I'll want reports on time spent doing automatic brushing routines, but also the pieces of them: nvc, awareness, task switching ...
+# does it report descriptions or only categories?
+# dang I broke it somehow
+# checked history and the prio file is the only thing that's changed, and it's only been reordered and had numeric changes
+# may be good to debug
+
 parser = argparse.ArgumentParser(description='Tracks time')
 parser.add_argument('-d', '--details', default='time_details.csv', type=argparse.FileType('a+'), help='csv to store details in')
 parser.add_argument('-p', '--priorities', default='goals_priorities.csv', type=argparse.FileType('a+'), help='csv to read priorities from')
