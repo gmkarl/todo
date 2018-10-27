@@ -10,12 +10,20 @@ import argparse, time, sys, tty
 #                   Brush Teeth matches the name, so it's been being added .. but not the whole routine tracked
 
 # interesting categories now?  I should probably add labels to a central file.
-# NVC
-# NIC
+# LIFE
+#   - NVC (PUB?)
+# NIC (nic-related that is not taskorg?)
+#   - verifying tasks
 # SAFE / coding
-# RESPONS / logistics
+# RESPONS
+#   - logistics
+#   - grooming / medical stuff
+# TASKORG
+#   - information tasks
+#   - airgap phone data transfer
 # what else do I do with my time?
-# the brushing task addresses some goals ...
+# places I might find goals: [ ] brushing task, [ ] 00-organizer, [ ] present concerns list
+
 
 parser = argparse.ArgumentParser(description='Tracks time')
 parser.add_argument('-d', '--details', default='time_details.csv', type=argparse.FileType('a+'), help='csv to store details in')
