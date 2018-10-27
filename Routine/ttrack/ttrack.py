@@ -6,6 +6,16 @@ import argparse, time, sys, tty
 # I'll want reports on time spent doing automatic brushing routines, but also the pieces of them: nvc, awareness, task switching ...
 # does it report descriptions or only categories?
 # FIXED brokenness: expected details file to have header
+# LEARNED routines: the routines file lists the goal, name, and hours between each tracked routine
+#                   Brush Teeth matches the name, so it's been being added .. but not the whole routine tracked
+
+# interesting categories now?  I should probably add labels to a central file.
+# NVC
+# NIC
+# SAFE / coding
+# RESPONS / logistics
+# what else do I do with my time?
+# the brushing task addresses some goals ...
 
 parser = argparse.ArgumentParser(description='Tracks time')
 parser.add_argument('-d', '--details', default='time_details.csv', type=argparse.FileType('a+'), help='csv to store details in')
