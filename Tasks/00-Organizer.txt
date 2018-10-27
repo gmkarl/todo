@@ -44,6 +44,8 @@ lewisburg:
 	- nvc worksheets
 	- neuro history
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
+- [ ] handle newsletter subscription ddos (unsubscribe to newsletters, increase account security, optionally make a new e-mail address referencing a nonviolence url)
+- [ ] address openrealrecord typescript patch
 - [ ] answer starred e-mails
 - [ ] answer signal messages; riley needs payment, possibly work, definitely communication
 - [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
@@ -68,43 +70,15 @@ lewisburg:
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-26 Fri
-	- [X][X] 7:40a Brush Teeth routine
-		-> brushed ~7a, did not do routine
-		-> toothbrush ran out of battery partway through
-	- [X][X] 9:30a - 11:00a Kate call Tue, Fri
-	- [X][X] 11:00a Brush Teeth Aux routine
-	- [ ] 12:40p leave for elkins
-	- [X] 1 pm Celia call, volunteer app, neurotesting results
-		-> sent e-mail 6:05a requesting reschedule to tue or wed
-	- [ ][X] 1:30p Brush Teeth routine
-	- [ ] 2:20pm - 5 or 6 pm Dr Cox, opthalmologist
-			635 Robert E Lee Avemue
-			Elkins, WV
-		will need list of meds, insurance cards
-	- [ ][X] 5p or later Brush Teeth Aux routine
-	- [ ][X] 7:20p Brush Teeth routine
-
-	goal for MORNING of RECOVERY FROM YESTERDAY, likely by doing some pleasant work.
-	acceptable to NAP DURING DAY if does not conflict with schedule, plans, etc.
-
-	- [ ] get postal mail
-	- [ ] comprehend e-mail since last time time I forwarded starred e-mails?
-	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
-	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
-		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
-	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
-	- [ ] Tire should have arrived by now, get it put on
-	- [ ] order/buy vit c, current bottle in med box
-
-- [ ] 2018-10-27 Sat
+- [!] 2018-10-27 Sat
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
-	- [ ][ ] 7:40a? Brush Teeth routine (maybe plan on this being wakeup experience)
+	- [ ][ ] 7:30a Brush Teeth routine (maybe plan on this being wakeup experience)
 	- [ ][ ] 11:00a? Brush Teeth Aux routine (maybe plan on this being inside morning routine)
 	- [ ][ ] 1:30p Brush Teeth routine
 	- [ ][ ] 5:00p? Brush Teeth Aux routine
 	- [ ][ ] 7:20p? Brush Teeth routine
 	- [ ][ ] ? Brush Teeth Aux routine
+
 
 - [ ] 2018-10-29 Mon
 	- [ ] 3:00 pm leave for mongrotto meeting?
@@ -115,6 +89,14 @@ lewisburg:
 - [ ] 2018-10-30 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ][ ] 2:00p - 2:50p Jeremy Psychotherapy
+	- [ ] comprehend e-mail since last time time I forwarded starred e-mails?
+	- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
+	- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
+	- [ ] Tire should have arrived by now, get it put on
+	- [ ] order/buy vit c, current bottle in med box
+	- [ ] order moistureyez? or watergear goggles (foam gasket) or swim mask
 	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
 		-> there's a copy of my old faxed release in the medical file.  address is wrong, of course.
 	- [ ] dvd media should have arrived to burn copies of neuro records.  most are on annex, might have a missing one in medical file unsure
@@ -163,6 +145,11 @@ lewisburg:
 
 - [ ] 2019-10-02
 	Kate's Birthday
+
+- [ ] 2019-10-28 Mon
+	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
+			635 Robert E Lee Avemue
+			Elkins, WV
 
 # ACTIONABLE TASKS
 
@@ -221,6 +208,7 @@ lewisburg:
 - [ ] open-source cell phone
 - [ ] put tent/modular room/etc in truck
 - [ ] look for volunteer work (telescope? nearby city?)
+- [ ] research land near telescope using tax assessor maps (any areas more restricted than mine?)
 
 # fun
 - [ ] get a piano (upright still exists)
@@ -241,8 +229,8 @@ lewisburg:
 - finances: automate bitcoin investments?
 
 # important
-- learn to weld
 - copper room / test box
+- learn to weld
 - pursue 24/7 EEG
 	- pursue dermals and transdermals
 - pursue video surveillance / self-recording
@@ -330,6 +318,15 @@ voicemail notes
 		gwyn says i left my toiletries
 	304 636 6300 tue oct 9 959a
 		ashley dr fleming consultation visit oct 10 1p reminder
+
+Eye Prescr.
+	2018-10-26 Kevin Cox
+	-5.50 -5.75 (might want to check re prev prescr, wildly similar eye strengths)
+	PD 64 (32/32) measured quick
+	Good lubricants:
+		- refresh gel drops / refresh PM
+		- systane complete optimal dry eye relief
+		can check ingreds to judge thickness
 
 Health food stores:
 - Good Energy Foods? in Elkins (small)
@@ -495,10 +492,6 @@ Quinoa Veggie Soup
 	
 
 # CRUFT TO SORT UP
-
-## from gbo notepad
-- [ ] land assessor, props near scope
-- house across from 51 says for rent and for sale: it's 5218, neighboring 5232; online says worth $65800 but really old
 
 ## every shift 10 minutes:
 - [ ] interpersonal notes
