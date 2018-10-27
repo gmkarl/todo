@@ -1,7 +1,7 @@
 #!/bin/bash
 
 file="Current_Concerns.txt"
-needed=4
+needed=5
 pat='^I*[0-9]\.* '
 tmp=$(mktemp)
 echo 0  > "$tmp"
