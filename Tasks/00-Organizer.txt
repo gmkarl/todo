@@ -45,7 +45,7 @@ lewisburg:
 	- neuro history
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
 - [ ] Handle E-Mail
-	-> I'm on Oct 13, Open Data Archive Latency
+	-> I'm on Oct 13, librtlsdr zerocopy buffers
 - [ ] handle newsletter subscription ddos (unsubscribe to newsletters, increase account security, optionally make a new e-mail address referencing a nonviolence url)
 	-> [X] I used unroll.me and removed all newsletters it listed I was not part of subscribing to.  It found only 76.
 - [ ] address openrealrecord typescript patch
@@ -73,15 +73,14 @@ lewisburg:
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-10-27 Sat
+- [!] 2018-10-28 Sun
 	- [ ][ ] before starting coding work, move forward on n2 box plan, on a regular basis; update this to develop n2 work
-	- [X][ ] 7:30a Brush Teeth routine (maybe plan on this being wakeup experience)
-	- [X][ ] 11:00a? Brush Teeth Aux routine (maybe plan on this being inside morning routine)
-	- [X][ ] 1:30p Brush Teeth routine
-	- [X][ ] 5:00p? Brush Teeth Aux routine
-	- [ ][ ] 7:20p? Brush Teeth routine
+	- [ ][ ] 7:20a Brush Teeth routine (maybe plan on this being wakeup experience)
+	- [ ][ ] 10:50a Brush Teeth Aux routine (maybe plan on this being inside morning routine)
+	- [ ][ ] 1:30p Brush Teeth routine
+	- [ ][ ] 5:00p Brush Teeth Aux routine
+	- [ ][ ] 7:20p Brush Teeth routine
 	- [ ][ ] ? Brush Teeth Aux routine
-
 
 - [ ] 2018-10-29 Mon
 	- [ ] 3:00 pm leave for mongrotto meeting?
