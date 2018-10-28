@@ -12,6 +12,7 @@ import argparse, time, sys, tty
 # interesting categories now?  I should probably add labels to a central file.
 # LIFE
 #   => NVC
+#   => awareness
 #   - finding nice groups
 #   - sourdough bread
 #   - acorns
@@ -20,6 +21,7 @@ import argparse, time, sys, tty
 #   - improving noiscillate or emap
 # RESPONS
 #   => logistics
+#   - mental maintainance? e.g. memorizing taskorg?
 #   - grooming / medical stuff
 # TASKORG
 #   => n2 scheduling / nic box
