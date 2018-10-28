@@ -10,6 +10,8 @@ import argparse, time, sys, tty
 #                   Brush Teeth matches the name, so it's been being added .. but not the whole routine tracked
 
 # interesting categories now?  I should probably add labels to a central file.
+# TIME-SENSITIVE? (URGENT?)
+#   - nic box
 # LIFE
 #   - NVC (PUB?)
 # NIC (nic-related that is not taskorg?)
@@ -21,8 +23,14 @@ import argparse, time, sys, tty
 # TASKORG
 #   - information tasks
 #   - airgap phone data transfer
+#   - n2 scheduling (also NIC)
 # what else do I do with my time?
 # places I might find goals: [ ] brushing task, [ ] 00-organizer, [ ] present concerns list
+# some tasks here are more important than others in the same category
+#  a quick fix would be to make a category for them: maybe an 'important' category, or 'upcoming'
+#  but then to split my time among those tasks, I'd need separate important tasks
+#  we could also put tasks in multiple categories.
+#   and that could inherently make them more valuable to do
 
 
 parser = argparse.ArgumentParser(description='Tracks time')
