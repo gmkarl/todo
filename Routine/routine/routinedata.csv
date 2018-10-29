@@ -1184,3 +1184,4 @@ BT15, brushing, 2018-10-29T14:09:31+00:00, 2018-10-29T14:11:58+00:00, N2 schedul
 BT19A, brushing, 2018-10-29T14:12:06+00:00, 2018-10-29T14:13:20+00:00, About to brush begin dispenser,
 BT19B, brushing, 2018-10-29T14:13:22+00:00, 2018-10-29T14:13:45+00:00, Finalize lozenge percent,
 BT20, brushing, 2018-10-29T14:13:47+00:00, 2018-10-29T17:41:47+00:00, Brush Teeth, UNFINISHED
+BT-5, brushing, 2018-10-29T17:41:52+00:00, 2018-10-29T17:41:52+00:00, Verify finished last run of routine, UNFINISHED
