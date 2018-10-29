@@ -26,12 +26,14 @@ import argparse, time, sys, tty
 # TASKORG
 #   => n2 scheduling / nic box
 #   - information tasks
+#   - personal /possessions organization / finding items
 #   - airgap phone data transfer
 # BOILERPLATE
 #   - verifying tasks
 #   - moving between tasks
+#   - accomplishment log since need feels more met?
 # what else do I do with my time?
-# places I might find goals: [ ] brushing task, [ ] 00-organizer, [ ] present concerns list
+# places I might find goals: [X] brushing task, [ ] 00-organizer, [ ] present concerns list
 # some tasks here are more important than others in the same category
 #   let's give them attributes, like a priority; could it be a third field somewhere?
 #  i guess for now not tracked ...  have to do manually.  Whenever I'm doing a category, gotta do the high priority item in that category
