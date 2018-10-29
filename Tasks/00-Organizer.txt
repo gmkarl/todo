@@ -45,7 +45,8 @@ lewisburg:
 	- neuro history
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
 - [ ] Handle E-Mail
-	-> I'm on Oct 13, librtlsdr zerocopy buffers
+	-> I've finished Oct 15, up to the PACTS email starting Oct 16
+		-> I sent around $70 to joey hess but swr's balance didn't seem to drop
 - [ ] handle newsletter subscription ddos (unsubscribe to newsletters, increase account security, optionally make a new e-mail address referencing a nonviolence url)
 	-> [X] I used unroll.me and removed all newsletters it listed I was not part of subscribing to.  It found only 76.
 - [ ] address openrealrecord typescript patch
@@ -78,9 +79,25 @@ lewisburg:
 	- [ ][ ] 7:20a Brush Teeth routine (maybe plan on this being wakeup experience)
 	- [ ][ ] 10:50a Brush Teeth Aux routine (maybe plan on this being inside morning routine)
 	- [ ][ ] 1:30p Brush Teeth routine
-	- [ ][ ] 5:00p Brush Teeth Aux routine
+	- [ ][ ] 4:50p Brush Teeth Aux routine
 	- [ ][ ] 7:20p Brush Teeth routine
 	- [ ][ ] ? Brush Teeth Aux routine
+	
+	I changed my route of administration of nicotine.
+	Half of it falls into my glass instead of on my toothbrush.
+	I could lose my ability to brush my teeth and get addicted for real.
+	-> need to one of - adjust dosage such that liquid does not spill over
+	                  - switch back to solid lozenges
+	                  - somehow get all nicotine on toothbrush until behavior analysis is functional
+		REC: only take nic on toothbrush
+		     reward self for adjusting dosage
+		: thumbs up
+		^_^
+		thanks for catching this yes
+		: what are you talking about this isn't so serious
+		well probably not
+	Hum ...  : no need to validate yourself
+		(we control you anyway MWAHAHAHA sorry rude)
 
 - [ ] 2018-10-29 Mon
 	- [ ] 3:00 pm leave for mongrotto meeting?
