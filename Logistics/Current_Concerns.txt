@@ -1,11 +1,9 @@
 A log of my short-term concerns, as a memory aid when making immediate decisions, plans, and brainstorms.
 
 == Immediately Relevent ==
-I0 replacing tire
+I2 developing nicotine dispenser
 I3 fixing errors in noiscillate detector
--I4 paying back gwyn by monday
-I5 building nicotine dispenser
--I6 finishing cleaning up e-mail
+I6 finishing cleaning up e-mail
 -I7 opening mail
 -I8 preparing for tomorrow
 
@@ -40,6 +38,7 @@ I5 building nicotine dispenser
 -5. older concerns
 -6. autonomy pursuit
 	- nicotine and ideas for using it
+		- address list of nic habit goals
 		- work on n2 box more frequently
 		- doing time intensive routines less frequently, or decreasing time (time management below)
 	- NVC
@@ -53,12 +52,6 @@ I5 building nicotine dispenser
 		- study with friends
 		- physical courses, practice groups
 		- street giraffes
-	- eeg
-		- guy in wv (is this in my ongoing list in calendar?)
-		- ecog internationally?
-		- openbci / muse / zeo
-		- continuous eeg price
-		- university research for thought-controlled devices
 	- shielding
 		- Coding noiscillate
 		- interaction with telescope
@@ -68,6 +61,12 @@ I5 building nicotine dispenser
 		- internship?
 		- real world outreach?
 		- hobby infosec communities
+	- eeg
+		- guy in wv (is this in my ongoing list in calendar?)
+		- ecog internationally?
+		- openbci / muse / zeo
+		- continuous eeg price
+		- university research for thought-controlled devices
 	- reliable logging
 		- might want to resolve this one with some nvc introspection
 			- training is something i'll want, but doesn't need reliability
