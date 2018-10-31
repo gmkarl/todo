@@ -83,7 +83,7 @@ do
   git add "$ttrackdir"
 	git commit -m "$(date -I) $routine $name"
 	{
-		git pull --no-edit &&
-		git push >/dev/null
-	} 2>&1 &
+		git pull --no-edit 2>&1 &&
+		git push 2>&1
+	} > /dev/null &
 done
