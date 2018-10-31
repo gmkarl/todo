@@ -5,10 +5,10 @@
 FILE="${1}"
 routine="${FILE%.routine}"
 ttrackdir="../ttrack"
-
+export NO_SYNC=1
 cat "$FILE" | while read code name
 do
-  ttrackline="$(grep "$name" ${ttrackdir}/routines.csv)"
+  ttrackline="$(grep ,"$name", ${ttrackdir}/routines.csv)"
   if [ "x$ttrackline" != "x" ]
   then
     echo '(connecting with ttrack for this one: '"$ttrackline"')'
@@ -84,6 +84,6 @@ do
 	git commit -m "$(date -I) $routine $name"
 	{
 		git pull --no-edit &&
-		git push >/dev/null 2>&1
-	} &
+		git push >/dev/null
+	} 2>&1 &
 done

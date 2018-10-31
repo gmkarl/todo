@@ -48,6 +48,14 @@ Frontend: finish software to profile emitter and detect it, only working reasona
 	ACCOMPLISHMENT!  I wrote maybe 75% of the detector implementation.
 	ACCOMPLISHMENT!  I wrote an FFT convolution functor.
 	ACCOMPLISHMENT!  I came up with a way to pursue replacing the body of the profiler with the convolution functor, and to consider using its approach for a faster, more accurate, convolution.
+
+2018-10-27
+	ACCOMPLISHMENT! I resolved some issues that were uncovered.  I fixed a bug where convolution was used instead of correlation that would have resulted in the approach failing.
+	ACCOMPLISHMENT! I determined a way to line up the differing frequencies more precisely.
+	ACCOMPLISHMENT! I finished writing an implementation of the detector!  Partway through fixing compilation errors.
+2018-10-30
+	ACCOMPLISHMENT! I resolved all the compilation errors with the new detector.
+	ACCOMPLISHMENT! I fixed all the bugs with correlating the period properly.
 	
 FRONTEND: - [X] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
 BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt

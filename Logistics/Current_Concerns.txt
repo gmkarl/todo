@@ -1,0 +1,119 @@
+A log of my short-term concerns, as a memory aid when making immediate decisions, plans, and brainstorms.
+
+== Immediately Relevent ==
+I2 developing nicotine dispenser
+I3 fixing errors in noiscillate detector
+I6 finishing cleaning up e-mail
+-I7 opening mail
+-I8 preparing for tomorrow
+
+== General ==
+0. Managing this list of concerns
+	- integrate with other goal/todo lists
+		: consider adding these items to 00-Organizer.txt and quizzing on its contents!
+1. getting better at being aware of my present concerns
+	-> could dual-n-back help? at least a good practice
+	   may be more exercise known to improve mind in general too
+	-> reviewing things I've written, acted on, done, said, heard, places I've gone online, in person, etc other than this list
+2. time management
+	- how far away deadlines, plans, events are
+	- time tracker, n2 scheduler
+	- working with jim
+	- unifying goals / tasks / scheduling information locations, into 00-Organizer.txt for now
+		- this file
+		- routines lists
+		- ttrack? (above)
+		- nic program? (above)
+-3. emails
+	- catching up
+		- new emails
+		- recent starred emails
+		- emails that occurred around the newsletter ddos I received
+	- old starred emails
+	- mailing lists i've joined or tried to join
+-4. ongoing obligations
+	- truck stuck in mud
+	- interpersonal responsibilities
+	- list in calendar (repeat from elsewhere here?) (UPCOMING)
+-5. older concerns
+-6. autonomy pursuit
+	- nicotine and ideas for using it
+		- address list of nic habit goals
+		- work on n2 box more frequently
+		- doing time intensive routines less frequently, or decreasing time (time management below)
+	- NVC
+		- resolving flags by working with persistent information
+		- adjusting external dialogue to use nvc
+		- adjusting internal dialogue to use nvc
+		- ready access to observations, feelings, needs
+		- nvc with voices
+		- online courses
+		- book study
+		- study with friends
+		- physical courses, practice groups
+		- street giraffes
+	- shielding
+		- Coding noiscillate
+		- interaction with telescope
+		- getting involved in rtl-sdr development
+		- EE degree (physics degree?)
+		- EMC study
+		- internship?
+		- real world outreach?
+		- hobby infosec communities
+	- eeg
+		- guy in wv (is this in my ongoing list in calendar?)
+		- ecog internationally?
+		- openbci / muse / zeo
+		- continuous eeg price
+		- university research for thought-controlled devices
+	- reliable logging
+		- might want to resolve this one with some nvc introspection
+			- training is something i'll want, but doesn't need reliability
+				- finding missing objects could still become relevant
+			- personal safety could be relevant occasionally
+		- openrealrecord/hyperstream
+			- bookmoons work
+			- other PR's
+		- ongoing video (also for comfort with it)
+-7. things left unaddressed in nvc doc
+	- feelings, needs, requests that haven't been gone through
+-8. health
+	- awareness
+		- online classes
+		- sharing with people
+		- live resources (mpss? more?)
+		- regular practice, moment-to-moment goal
+	- medical tasks
+		- getting INSURANCE
+		- getting goggles or mask
+		- getting neuropsych testing
+		- resuming oncology scans
+	- exercise
+		- habitual
+		- evening/night scheduled
+	- food / thrive
+		- sourdough bread !
+		- lentil soup ingredients
+-9. maintaining relationships (should add these to ongoing)
+	- Owe Katrina a call
+	- Owe Mother a call
+	- VISIT PARENTS at least once a year !!!
+	- Old / current loves
+		- gwyn, kate
+		- azia, kyla, christine, molly, sarah capra?
+		- groups i've interacted with
+			- possible new ones
+	- Old / current friends
+		- electrosensitives
+		- SLR people
+		- MPSS
+		- Portland
+		- childhood / school
+		- groups i've interacted with
+-10. finances
+	- don't overdraw account
+	- repay gwyn
+	- followup on localethereum trades
+	- solid crypto investment?
+	- job?
