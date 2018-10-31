@@ -1237,3 +1237,4 @@ BT25, brushing, 2018-10-31T01:13:01+00:00, 2018-10-31T01:15:46+00:00, Review lis
 BT30, brushing, 2018-10-31T01:15:49+00:00, 2018-10-31T01:15:50+00:00, Verify Toothpaste / Flossing / Fluoride attempt correct,
 BT31, brushing, 2018-10-31T01:15:52+00:00, 2018-10-31T01:15:53+00:00, Verify lozenge percent correct,
 BT32, brushing, 2018-10-31T01:15:55+00:00, 2018-10-31T01:15:58+00:00, Verify did not lose track of items while brushing,
+BT33, brushing, 2018-10-31T01:16:00+00:00, 2018-10-31T01:16:00+00:00, Verify correctly evaluated routine,
