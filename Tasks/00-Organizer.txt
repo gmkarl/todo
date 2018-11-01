@@ -40,9 +40,15 @@ lewisburg:
 - truck mechanic?
 
 # UPCOMING
-- [ ] work on finding printer
-	- nvc worksheets
-	- neuro history
+- [ ] call back ccil
+- [ ] call back mother
+- [ ] davis memorial cancer center expecting callback from 2018-11-01
+- [ ] dr bouboulis expecting callback from 2018-10-31
+- [ ] neurology expecting neurotesting referral from prior to 2018-11
+- [ ] neurology need followup after 2018-11, may need to push further
+- [X] work on finding printer
+	- [ ] nvc worksheets
+	- [ ] neuro history
 - [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
 - [ ] Handle E-Mail
 	-> I've finished up through You Requested Document(s) are available from myd-h on Oct 22
@@ -67,6 +73,7 @@ lewisburg:
 		-> should be doable with n2
 - [ ] Fill out volunteer application from e-mail
 - [ ] call southern propane and get in system ... haven't paid bill?
+	
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
 
 ## NICOTINE AUTONOMY PLANNING
@@ -133,6 +140,9 @@ lewisburg:
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 7
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+
+- [ ] 2018-12-01
+	- [ ] Renew truck registration, expires 2018-12-31
 
 - [ ] 2018-12-05
 	(dental fillings were moved when opening happened)
@@ -383,6 +393,10 @@ Cancer Places
 	- UHC United Health Center, Bridgeport
 	- UVA is excellent but a couple hours away
 	something small in elkins
+	Davis Memorial Cancer Center
+	801 Harrison Ave, Elkins
+	Dr Fleming
+	304 637 3640
 	
 Gwyn Cole
 	304 456 5300
