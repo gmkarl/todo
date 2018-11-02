@@ -2,6 +2,43 @@
 
 import argparse, time, sys, tty
 
+# I want to update the priorities to include current stuff, but I might want to lookup the meaning and use first.
+# I'll want reports on time spent doing automatic brushing routines, but also the pieces of them: nvc, awareness, task switching ...
+# does it report descriptions or only categories?
+# FIXED brokenness: expected details file to have header
+# LEARNED routines: the routines file lists the goal, name, and hours between each tracked routine
+#                   Brush Teeth matches the name, so it's been being added .. but not the whole routine tracked
+
+# interesting categories now?  I should probably add labels to a central file.
+# LIFE
+#   => NVC
+#   => awareness
+#   - finding nice groups
+#   - sourdough bread
+#   - acorns
+# SAFE
+#   => measuring S.E.
+#   - improving noiscillate or emap
+# RESPONS
+#   => logistics
+#   - mental maintainance? e.g. memorizing taskorg?
+#   - grooming / medical stuff
+# TASKORG
+#   => n2 scheduling / nic box
+#   - information tasks
+#   - personal /possessions organization / finding items
+#   - airgap phone data transfer
+# BOILERPLATE
+#   - verifying tasks
+#   - moving between tasks
+#   - accomplishment log since need feels more met?
+# what else do I do with my time?
+# places I might find goals: [X] brushing task, [ ] 00-organizer, [ ] present concerns list
+# some tasks here are more important than others in the same category
+#   let's give them attributes, like a priority; could it be a third field somewhere?
+#  i guess for now not tracked ...  have to do manually.  Whenever I'm doing a category, gotta do the high priority item in that category
+
+
 parser = argparse.ArgumentParser(description='Tracks time')
 parser.add_argument('-d', '--details', default='time_details.csv', type=argparse.FileType('a+'), help='csv to store details in')
 parser.add_argument('-p', '--priorities', default='goals_priorities.csv', type=argparse.FileType('a+'), help='csv to read priorities from')

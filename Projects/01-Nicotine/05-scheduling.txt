@@ -64,3 +64,4 @@ Request: let's track our daily task time, right now.  I just had a pretty brief 
 			- interruption
 		- long-running system service (just a daemon process)
 		- provide for future multi-device use
+===> OOPS! ttrack already does this ;p <===
