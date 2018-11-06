@@ -132,6 +132,7 @@ lewisburg:
 	- [ ] 3:30p-6:00p PET scan
 		Davis Memorial Hospital, next to cancer center
 		Check in at outpatient registration
+		scan may be coldish, mobile unit
 		
 
 - [ ] 2018-11-08 Thu
