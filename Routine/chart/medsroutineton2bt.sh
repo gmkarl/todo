@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "The data csvs appear to be good, but folder for wk18 (early May) somehow develops spurious brushes + nic"
+
 # store recorded times teeth brushed in morning
 cut -d , -f 1,18 ../routine/2018-routine.csv | grep ....-..-..,1 > bt-routine.csv
 # store recorded times teeth brushed in evening
@@ -20,7 +22,6 @@ done
   cut -d , -f 1 bt-routine.csv
   grep ',$' n-meds.csv | cut -d , -f 1
 } | sort > bt.csv
-rm bt-routine.csv
 
 # make folders for separating data
 for ((yr=2018; yr < $(date +%G); yr ++))
@@ -50,7 +51,6 @@ do
   fi
   echo $((a)) > "$wk"/brushes
 done
-rm bt.csv
 
 # accumulate nmg/wk
 tr , ' ' < n-meds.csv | while read day ntype nratio extra
@@ -71,8 +71,10 @@ do
   echo $((nct)) > "$wk"/nct
   echo $((naccum)) > "$wk"/naccum
 done
-rm n-meds.csv
 
+rm bt-routine.csv
+rm bt.csv
+rm n-meds.csv
 
 # consolidate data
 echo "Week" '"Recorded Brushes per Week"' '"Micrograms Nicotine per Brush"' > "Toothbrushing and Nicotine".data

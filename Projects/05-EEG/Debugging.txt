@@ -27,6 +27,7 @@ I found two; there are more.
   - yay! next, try to connect electrodes per tutorial doc
     - [ ] get:
       - [ ] 6x gold cup electrodes, preferably black white purple green blue & red wires
+            -> 2018-11-01 is not in cardboard boxes
       - [ ] conductive electrode gel
       - [ ] something to wipe off excess paste, ideally (sock rag?)
       - [ ] tape for attaching electrodes (medical?)
