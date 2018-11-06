@@ -23,6 +23,10 @@ It took 39 more squires to reach its next 200 mL mark.
 It still mostly runs off the toothbrush!
 Maybe I can use actual toothpate, or increase the thickness somehow.
 1 mg / squirt: 37 mg to 100 mL.  Try 38.
+2018-11-06
+Dispenser got clogged when viscosity was high enough to stay on brush.
+Options: - increase viscosity after dispensing, by e.g. mixing with toothpaste
+	 - pursue drill bit inside powder approach, to push powder out of box in controlled manner
 
 
 == goal 1 ==
