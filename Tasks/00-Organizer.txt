@@ -40,9 +40,10 @@ lewisburg:
 - truck mechanic?
 
 # UPCOMING
+- [ ] repay $180 to gwyn, check bounced
 - [ ] call back ccil
 - [ ] call back mother
-- [ ] davis memorial cancer center expecting callback from 2018-11-01
+- [X] davis memorial cancer center expecting callback from 2018-11-01
 - [ ] dr bouboulis expecting callback from 2018-10-31
 - [ ] neurology expecting neurotesting referral from prior to 2018-11
 - [ ] neurology need followup after 2018-11, may need to push further
@@ -111,7 +112,7 @@ lewisburg:
 		-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
 	- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
 	- [ ] order/buy vit c, current bottle in med box
-	- [ ] order moistureyez? or watergear goggles (foam gasket) or swim mask
+	- [X] order moistureyez? or watergear goggles (foam gasket) or swim mask
 	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
 		-> there's a copy of my old faxed release in the medical file.  address is wrong, of course.
 	- [ ] dvd media should have arrived to burn copies of neuro records.  most are on annex, might have a missing one in medical file unsure
@@ -121,20 +122,35 @@ lewisburg:
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- [ ] 1:50pm - cupofempathy workshop
 
+- NOTE: wrote $180 dollar check to Gwyn again.  $180 cannot be spent from checking account, likely more due to occasional withdrawals.
+
+	high protein low carb dinner for pet scan
 - [ ] 2018-11-06 Tue
+	high protein low carb bkfst for pet scan
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+		FASTING only water 9:30a - 3:30p
+	- [ ] 3:30p-6:00p PET scan
+		Davis Memorial Hospital, next to cancer center
+		Check in at outpatient registration
+		
+
+- [ ] 2018-11-08 Thu
+	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
 
-- [ ] 2018-11-12
+- [ ] 2018-11-12 Mon
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
+	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy
 
 - [ ] 2018-11-13 Tue
 	- Jim Taggart arrives in afternoon
+	- [ ] 2:20 pm drs appt jennifer lambert
 
 - [ ] 2018-11-14 Wed
 	- Jim Taggart present
+	
 
 - [ ] 2018-11-15 Thu
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
@@ -397,6 +413,7 @@ Cancer Places
 	801 Harrison Ave, Elkins
 	Dr Fleming
 	304 637 3640
+	fax: 304 637 3644
 	
 Gwyn Cole
 	304 456 5300
