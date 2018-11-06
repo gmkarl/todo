@@ -49,8 +49,14 @@ Time,Action,Goal,Task
 1541018931,stop,RESPONS,Brush Teeth
 =======
 1541008669,start,RESPONS,Meds
+<<<<<<< HEAD
+1541009001,stop,RESPONS,Meds
+1541071902,start,RESPONS,Meds
+1541072144,stop,RESPONS,Meds
+=======
 >>>>>>> incoming/1541018311-sys-net-566ea9da/master
 1541077206,start,RESPONS,Brush Teeth
 1541077423,stop,RESPONS,Brush Teeth
 1541085057,start,RESPONS,Brush Teeth
 1541085275,stop,RESPONS,Brush Teeth
+>>>>>>> b4f6514e4fdb30dbadb9d7287f2c59da23db32e5
