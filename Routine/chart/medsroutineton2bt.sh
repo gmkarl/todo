@@ -20,7 +20,6 @@ done
   cut -d , -f 1 bt-routine.csv
   grep ',$' n-meds.csv | cut -d , -f 1
 } | sort > bt.csv
-rm bt-routine.csv
 
 # make folders for separating data
 for ((yr=2018; yr < $(date +%G); yr ++))
@@ -50,7 +49,6 @@ do
   fi
   echo $((a)) > "$wk"/brushes
 done
-rm bt.csv
 
 # accumulate nmg/wk
 tr , ' ' < n-meds.csv | while read day ntype nratio extra
@@ -71,8 +69,10 @@ do
   echo $((nct)) > "$wk"/nct
   echo $((naccum)) > "$wk"/naccum
 done
-rm n-meds.csv
 
+rm bt-routine.csv
+rm bt.csv
+rm n-meds.csv
 
 # consolidate data
 echo "Week" '"Recorded Brushes per Week"' '"Micrograms Nicotine per Brush"' > "Toothbrushing and Nicotine".data
@@ -116,7 +116,7 @@ done | tee -a "Toothbrushing and Nicotine".data
 cat <<EOF | gnuplot
 set terminal 'png' size 1024, 512
 set output 'Toothbrushing and Nicotine.png'
-set key autotitle columnhead opaque
+set key left autotitle columnhead opaque
 set xtics rotate
 set y2tics
 set ylabel "Brushes/Wk"
