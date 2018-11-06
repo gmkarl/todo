@@ -1280,3 +1280,5 @@ Time,Action,Goal,Task
 1541526110,stop,RESPONS,Brush Teeth
 1541527157,start,RESPONS,Fissure Treatment
 1541527280,stop,RESPONS,Fissure Treatment
+1541527550,start,RESPONS,Eye Lubricant
+1541527591,stop,RESPONS,Eye Lubricant
