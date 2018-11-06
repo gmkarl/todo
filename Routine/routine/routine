@@ -6,7 +6,15 @@ FILE="${1}"
 routine="${FILE%.routine}"
 ttrackdir="../ttrack"
 export NO_SYNC=1
-cat "$FILE" | while read code name
+cat "$FILE" | {
+
+# let's add a rating to use for dosage suggestions
+# for rating, we'll want to track total time taken, and amount of successes
+rating_trials=$((0))
+rating_successes=$((0))
+rating_startsecs=$(($(date +%s)))
+
+while read code name
 do
   ttrackline="$(grep ,"$name", ${ttrackdir}/routines.csv)"
   if [ "x$ttrackline" != "x" ]
@@ -20,8 +28,10 @@ do
   else
     ttrack=0
   fi
+  rating_trials=$((rating_trials + 1))
 	while true
 	do
+
 		echo " == $name == " | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
@@ -33,6 +43,7 @@ do
 		then
 			echo "Already completed."
 			echo $code, $routine, , $(date -Is -d @$start), "$name", "finished earlier" >> routinedata.csv
+			rating_successes=$((rating_successes + 1))
       if ((ttrack))
       then
       #  echo "$(date +%s),start,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
@@ -60,6 +71,7 @@ do
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", UNFINISHED >> routinedata.csv
 				elif [ "x$abort" = "x" ]
 				then
+					rating_successes=$((rating_successes + 1))
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", >> routinedata.csv
           if ((ttrack))
           then
@@ -87,3 +99,12 @@ do
 		git push 2>&1
 	} > /dev/null &
 done
+
+rating_endsecs=$(($(date +%s)))
+rating_duration=$((rating_endsecs - rating_startsecs))
+rating_pct=$((100 * rating_successes / rating_trials))
+
+# TODO: record duration & pct, and output metric to be used to figure n2
+#       metric should foremost value pct, and then only value duration if pct is 100%
+#      could for now just do pct, then record durations, then use running avg or somesuch for including duration
+}
