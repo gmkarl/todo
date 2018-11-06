@@ -116,7 +116,7 @@ done | tee -a "Toothbrushing and Nicotine".data
 cat <<EOF | gnuplot
 set terminal 'png' size 1024, 512
 set output 'Toothbrushing and Nicotine.png'
-set key autotitle columnhead opaque
+set key left autotitle columnhead opaque
 set xtics rotate
 set y2tics
 set ylabel "Brushes/Wk"
