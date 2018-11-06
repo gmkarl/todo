@@ -6,6 +6,24 @@ further goals:
 	- control quantity of nicotine precisely
 	- concocts nicotine mixture automatically
 
+== goal 0.1 ==
+2018-10-28
+I set up a soap dispenser and measured it.
+I found it took 15 of the largest squirts to fill my canning jar to the 100 mL mark.
+I found it took 17 of the largest squirts to reach the next 200 mL mark.
+I'm assuming my canning jar has the first mark too low due to the round shape at the bottom.
+This would make each squirt at most about 100/17 mL or around 5.88 mL.
+I don't want to take more than 1mg of nicotine at a time, so I'll want to put 32 mg in a solution
+that fills my canning jar to the 200 mL line.  That's 16 2mg lozenges, or 8 4mg lozenges.
+2018-10-30
+Most of the fluid went off my toothbrush.  Trying lower does.
+At smallest does,
+It took 37 squirts to reach a different jar's 100 mL mark.
+It took 39 more squires to reach its next 200 mL mark.
+It still mostly runs off the toothbrush!
+Maybe I can use actual toothpate, or increase the thickness somehow.
+1 mg / squirt: 37 mg to 100 mL.  Try 38.
+
 
 == goal 1 ==
 - cage or metal box
@@ -131,3 +149,12 @@ ok
 		then need serial adaptor for another computer, which can connect via terminal
 		likely gives root access, but can be secured
 		could also cut input wire to deny all access
+
+======
+
+Got my soap dispenser in mail.  Has a large circuit board that powers pump, controlled by button.
+
+Attempt number one will be to wire an arduino to the power for the device, and to control the button.
+The button controls volume.  Toggling it affects quantity and power.
+
+
