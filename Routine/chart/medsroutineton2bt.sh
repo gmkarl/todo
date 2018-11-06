@@ -1,7 +1,5 @@
 #!/bin/bash
 
-echo "The data csvs appear to be good, but folder for wk18 (early May) somehow develops spurious brushes + nic"
-
 # store recorded times teeth brushed in morning
 cut -d , -f 1,18 ../routine/2018-routine.csv | grep ....-..-..,1 > bt-routine.csv
 # store recorded times teeth brushed in evening
