@@ -40,9 +40,15 @@ lewisburg:
 - truck mechanic?
 
 # UPCOMING
+- [ ] Dr Fallon (646) 774-8052 (Columbia Lyme) does neuroimaging re lyme
+- [ ] Check in with Jim re carpool to/from mass around xgiving or xmas.
 - [ ] repay $180 to gwyn, check bounced
 - [ ] call back ccil
-- [ ] call back mother
+	
+- [ ] call back mother -> she'd like another call
+		-> maybe mom would like to be involved in check-ins with me
+			to keep me on task but also keep her aware of my doings
+- [ ] call katrina? on aug 25 she left a vm saying she missed me and to give her a call back if i wanted but she was about to go to yoga class
 - [X] davis memorial cancer center expecting callback from 2018-11-01
 - [ ] dr bouboulis expecting callback from 2018-10-31
 - [ ] neurology expecting neurotesting referral from prior to 2018-11
@@ -76,6 +82,151 @@ lewisburg:
 - [ ] call southern propane and get in system ... haven't paid bill?
 	
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
+
+== Immediately Relevent ==
+I0 resuming daily habits
+I1 adding rating to routine and quiz
+-I2 merging these lists
+I3 adding frequency hopping to noiscillate detector
+-I4 resume exercising
+I5 SSI conference call Wed 11/7 8:50a
+-I6 finishing cleaning up e-mail
+-I7 get back on scuttlebutt & respond to wiley
+-I8 UPCOMING list in calendar
+-I9 preparing for tomorrow
+
+== General ==
+0. Managing this list of concerns
+	- integrate with other goal/todo lists
+		: consider adding these items to 00-Organizer.txt and quizzing on its contents!
+1. getting better at being aware of my present concerns
+	-> could dual-n-back help? at least a good practice
+	   may be more exercise known to improve mind in general too
+	-> reviewing things I've written, acted on, done, said, heard, places I've gone online, in person, etc other than this list
+2. time management
+	- unifying goals / tasks / scheduling information locations, into 00-Organizer.txt for now
+		- [X] this file
+		- routines lists
+		- ttrack? (above)
+		- nic program? (above)
+	- how far away deadlines, plans, events are
+	- time tracker, n2 scheduler
+		- LET'S HAVE 1 PRIMARY GOAL, and spend HALF OF TIME on it.  then it will take twice as long, as other goals available in other time
+			- will need to accommodate frozen time ... maybe associate with n2 but not time allocation.  track, also track problem events
+		- see also 'nicotine' under autonomy pursuit below
+	- working with jim
+-3. emails
+	- catching up
+		- new emails
+		- recent starred emails
+		- emails that occurred around the newsletter ddos I received
+	- old starred emails
+	- mailing lists i've joined or tried to join
+-4. ongoing obligations
+	- truck stuck in mud
+	- interpersonal responsibilities
+		- where might I find these?
+		- "maintaining relationships" below
+		- UPCOMING list
+		- voicemails
+		- emails
+		- facebook
+-5. older concerns
+-6. autonomy pursuit
+	- nicotine and ideas for using it
+		- maintain daily habit
+		- decide on new approach for dispenser / box and work on that more effectively
+		- address list of nic habit goals, farther down in this file
+		- doing time intensive routines less frequently, or decreasing time (time management above)
+	- NVC
+		- resolving flags by working with persistent information
+		- adjusting external dialogue to use nvc
+		- adjusting internal dialogue to use nvc
+		- ready access to observations, feelings, needs
+		- nvc with voices
+		- online courses
+		- book study
+		- study with friends
+		- physical courses, practice groups
+		- street giraffes
+	- shielding
+		- Coding noiscillate
+		- interaction with telescope
+		- getting involved in rtl-sdr development
+		- EE degree (physics degree?)
+		- EMC study
+		- internship?
+		- real world outreach?
+		- hobby infosec communities
+	- eeg
+		- algorithms checkin with others e.g. eeglablist attempt to post
+			- left out concept of subtracting overlapped signals to isolate them with feedback.  could test this on noise to see whether it works
+		- guy in wv (is this in my ongoing list in calendar?)
+			-> add calendar event to move forward on this after set date from last contact
+					-> probably try cnotcating him via other means
+		- ecog internationally?
+		- university research for thought-controlled devices
+		- openbci / muse / zeo
+		- continuous eeg price
+	- censor-resistant collaboration
+		- scuttlebutt
+			- concern regarding recovery from corruption?
+		- blockchain-based
+		- anonymity-focused
+	- reliable logging
+		- might want to resolve this one with some nvc introspection
+			- training is something i'll want, but doesn't need reliability
+				- finding missing objects could still become relevant
+			- personal safety could be relevant occasionally
+		- openrealrecord/hyperstream
+			- bookmoons work
+			- other PR's
+		- ongoing video (also for comfort with it)
+-7. things left unaddressed in nvc doc
+	- feelings, needs, requests that haven't been gone through
+		-> Jim, I have a document where I have pursued examining my intense feelings and needs and thinking of things to do with them, but I haven't done anything with much of the information
+-8. health
+	- exercise
+		- habitual
+		- evening/night scheduled
+			-> on my routine but skipping every day  similar effect to nicotine but not as strong
+	- awareness
+		- online classes
+		- sharing with people
+		- live resources (mpss? more?)
+		- regular practice, moment-to-moment goal
+	- medical tasks
+		- getting goggles or mask
+			-> this will help my eye; I had forgotten. opthalmologist gave me advice of what to purchase
+		- resuming oncology scans
+		- getting neuropsych testing
+	- food / thrive
+		- sourdough bread !
+			I would lov to make sourdough bread there is a recipe under the kitchen window !!!
+		- lentil soup ingredients
+			I am out of groceries and need to shop.  I just cooked my last grains in that curry.
+-9. maintaining relationships (should add these to ongoing)
+	- Owe Katrina a call
+	- Maintain calls with mother
+	- VISIT PARENTS at least once a year !!!
+	- Old / current loves
+		- gwyn, kate
+		- azia, kyla, christine, molly, sarah capra?
+		- groups i've interacted with
+			- possible new ones
+	- Old / current friends
+		- electrosensitives
+		- SLR people
+		- MPSS
+		- Portland
+		- childhood / school
+		- groups i've interacted with
+-10. finances
+	- followup on localethereum & interpersonal trades
+	- don't overdraw account
+		I am regularly overdrawn and keep accumulating debt
+	- solid crypto investment?
+	- job?
 
 ## NICOTINE AUTONOMY PLANNING
 - I'd like to start this.
@@ -125,18 +276,38 @@ lewisburg:
 - NOTE: wrote $180 dollar check to Gwyn again.  $180 cannot be spent from checking account, likely more due to occasional withdrawals.
 
 	high protein low carb dinner for pet scan
-- [ ] 2018-11-06 Tue
+- [X] 2018-11-06 Tue
 	high protein low carb bkfst for pet scan
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+		[X] 830 brushing
+	- [ ][X] 9:30a - 11:00a Kate call Tue, Fri
+
 		FASTING only water 9:30a - 3:30p
-	- [ ] 3:30p-6:00p PET scan
+		[X] 11a brushing
+		[X] 1p brushing
+	- [X] 1p leave for Elkins
+		[X] 3p brushing
+	- [X] 3:30p-6:00p PET scan
 		Davis Memorial Hospital, next to cancer center
 		Check in at outpatient registration
 		scan may be coldish, mobile unit
+		[X] 6p brushing
+		[X] 8p brushing
 		
+- [!] 2018-11-07 Wed
+		[X] 7a brushing
+	- [ ] 8:50A - conference call with father for SSI
+		[ ] 915a brushing
+	- [ ] Take trash & recycling
+		[ ] 1130a brushing
+		[ ] 145p brushing
+		[ ] 4p brushing
+		[ ] 615 brushing
 
 - [ ] 2018-11-08 Thu
 	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy
+
+- [ ] 2018-11-09 Fri
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
 
@@ -146,6 +317,7 @@ lewisburg:
 	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy
 
 - [ ] 2018-11-13 Tue
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 	- Jim Taggart arrives in afternoon
 	- [ ] 2:20 pm drs appt jennifer lambert
 

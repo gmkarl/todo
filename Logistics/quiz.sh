@@ -1,7 +1,7 @@
 #!/bin/bash
 
-file="Current_Concerns.txt"
-needed=6
+file="00-Organizer.txt"
+needed=7
 pat='^I*[0-9]\.* '
 tmp=$(mktemp)
 echo 0  > "$tmp"
