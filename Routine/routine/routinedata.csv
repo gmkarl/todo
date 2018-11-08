@@ -1371,3 +1371,4 @@ BT30, brushing, 2018-11-08T14:23:22+00:00, 2018-11-08T14:23:24+00:00, Verify Too
 BT31, brushing, 2018-11-08T14:23:46+00:00, 2018-11-08T14:23:46+00:00, Verify lozenge percent correct,
 BT32, brushing, 2018-11-08T14:23:49+00:00, 2018-11-08T14:23:49+00:00, Verify did not lose track of items while brushing, UNFINISHED
 BT33, brushing, 2018-11-08T14:23:52+00:00, 2018-11-08T14:23:52+00:00, Verify correctly evaluated routine,
+BT50, brushing, 2018-11-08T14:23:53+00:00, 2018-11-08T14:24:49+00:00, Box put away,
