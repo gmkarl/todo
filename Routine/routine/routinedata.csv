@@ -1358,3 +1358,4 @@ BT-5, brushing, 2018-11-08T14:00:18+00:00, 2018-11-08T14:00:19+00:00, Verify fin
 BT00, brushing, 2018-11-08T14:00:38+00:00, 2018-11-08T14:04:18+00:00, Information task: 1 min,
 BT10, brushing, 2018-11-08T14:04:19+00:00, 2018-11-08T14:04:49+00:00, Toothpaste / Flossing / Fluoride attempt correct,
 BT40, brushing, 2018-11-08T14:04:50+00:00, 2018-11-08T14:05:10+00:00, Eye lubricant,
+BT17, brushing, 2018-11-08T14:05:15+00:00, 2018-11-08T14:06:39+00:00, Data transfer re: airgapped phone: 1 min,
