@@ -294,16 +294,17 @@ I5 SSI conference call Wed 11/7 8:50a
 		[X] 8p brushing
 		
 - [!] 2018-11-07 Wed
-		[X] 7a brushing
-	- [ ] 8:50A - conference call with father for SSI
-		[ ] 915a brushing
-	- [ ] Take trash & recycling
-		[ ] 1130a brushing
-		[ ] 145p brushing
-		[ ] 4p brushing
-		[ ] 615 brushing
+		[X] 700a brushing
+	- [X] 8:50A - conference call with father for SSI
+		[X] 1200p brushing
+	- [X] Take trash & recycling
+		[X] 215p brushing
+		[X] 430p brushing
+		[X] 645p brushing
+		[X] 900p brushing
 
 - [ ] 2018-11-08 Thu
+	- [ ] 9:30A Jim installs heater; make it easy to walk around prior
 	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy
 
 - [ ] 2018-11-09 Fri
@@ -559,7 +560,13 @@ Varner 304-456-4505
 Metals: Valley Steel, 30 mins towards elkins
 
 Frontier Support:
-	877-669-5535, 800-239-4430
+	Main Menu: 877-669-5535
+		-> 2 - customer support
+		   9 - other technical support
+		   # - further assistance
+		   
+			My # is (304) 456-5564
+	800-239-4430
 	Tech Dept: 888-440-2096
 
 Green Bank Anechoic Chamber
