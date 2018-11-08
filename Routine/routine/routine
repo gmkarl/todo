@@ -104,7 +104,11 @@ rating_endsecs=$(($(date +%s)))
 rating_duration=$((rating_endsecs - rating_startsecs))
 rating_pct=$((100 * rating_successes / rating_trials))
 
+echo "Rating PCT=${rating_pct}"
+printf "Total Duration=%d.%02d" $((rating_duration/60)) $((rating_duration%100))
+
 # TODO: record duration & pct, and output metric to be used to figure n2
 #       metric should foremost value pct, and then only value duration if pct is 100%
-#      could for now just do pct, then record durations, then use running avg or somesuch for including duration
+#      could for now just output pct and duration, and my job to note if they have fallen from target; target rises as reached reliably
+#	then either store and just output single metric, or integrate with dosing system later
 }
