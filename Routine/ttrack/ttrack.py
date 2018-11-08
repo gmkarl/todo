@@ -70,7 +70,7 @@ class CSV(object):
             line = self.file.readline()
             if not line:
                 # end of file
-                self.headerpos = f.tell()
+                self.headerpos = self.file.tell()
                 self.file.write(','.join(self.format))
                 self.file.write('\n')
                 self.file.seek(self.headerpos)
@@ -80,7 +80,7 @@ class CSV(object):
             if self.format and len(line) == len(self.format):
                 if self.headerpos == 0:
                     break
-                if header.join(',') == self.format.join(','):
+                if ','.join(header) == ','.join(self.format):
                     break;
             if self.format == None and len(line) > 1:
                 break
