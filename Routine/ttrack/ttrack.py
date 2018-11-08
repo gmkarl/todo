@@ -10,6 +10,8 @@ import argparse, time, sys, tty
 #                   Brush Teeth matches the name, so it's been being added .. but not the whole routine tracked
 
 # interesting categories now?  I should probably add labels to a central file.
+# PUB
+#   => git remote project
 # LIFE
 #   => NVC
 #   => awareness
@@ -63,24 +65,43 @@ class CSV(object):
         self.file = file
         self.format = format
         self.file.seek(0)
-        header = self.file.readline()[0:-1].split(',')
-        if header[0] == '':
-            self.file.write(','.join(self.format))
-            self.file.write('\n')
-            self.file.seek(0)
-            header = self.file.readline()[0:-1].split(',')
+        while True:
+            self.headerpos = self.file.tell()
+            line = self.file.readline()
+            if not line:
+                # end of file
+                self.headerpos = f.tell()
+                self.file.write(','.join(self.format))
+                self.file.write('\n')
+                self.file.seek(self.headerpos)
+                header = self.file.readline()[0:-1].split(',')
+                break
+            header = line[0:-1].split(',')
+            if self.format and len(line) == len(self.format):
+                if self.headerpos == 0:
+                    break
+                if header.join(',') == self.format.join(','):
+                    break;
+            if self.format == None and len(line) > 1:
+                break
         if self.format == None:
             self.format = header
     def read_all(self):
-        self.file.seek(0)
+        self.file.seek(self.headerpos)
         header = self.file.readline()[0:-1].split(',')
         for line in self.file.readlines():
             row = line[0:-1].split(',')
+            if len(row) == 1:
+                continue
+            if len(row) != len(header):
+                break
             fullrow = dict()
             for i in range(len(row)):
                 fullrow[self.format[i]] = row[i]
             yield fullrow
     def output(self, cols):
+        if self.headerpos != 0:
+            raise Exception("cannot risk clobbering other data in undedicated file")
         self.file.seek(0, 2)
         self.file.write(','.join([str(cols[x]) for x in self.format]))
         self.file.write('\n')
