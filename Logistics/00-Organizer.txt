@@ -262,28 +262,14 @@ I4 finishing cleaning up e-mail
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-08 Thu
-	you can accomplish something on git today ! you just have to stop, knowing you will resume later
-	-> did not stop.  worked on git all day.  successfully wrote data to a public blockchain using my code
-
-		- [X] 6:30a brushing, no long routines, mark end time
-	- [X] 7:00a morning routine & room cleaning
-		- [X] 9:00a aux brushing if time
-	- [X] 9:30A Jim installs heater; make it easy to walk around prior
-
-		- [X] 11:30a brushing
-	- [ ] work ttrack morning or early afternoon: 50% primary task (time management then SAFE)
-		then fill in git/PUB as a desired task (valuable due to inspiration), and RESP as a needed one
-		-> did not do this
-		- [X] 2:00p aux brushing
-
-	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy Thu @3p
+- [!] 2018-11-09 Fri
+		- [X] 6:30a brushing
+		- [ ] 9:00a brushing
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+		- [ ] 11:30a brushing
+		- [ ] 2:00p brushing
 		- [ ] 4:30p brushing
 		- [ ] 7:00p brushing
-	- [ ] 7:30p evening routine
-
-- [ ] 2018-11-09 Fri
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
 
 - [ ] 2018-11-10 Sat
 	- [ ] Address some UPCOMING list items.  Add a logged number for how long the list is.
@@ -298,6 +284,7 @@ I4 finishing cleaning up e-mail
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
 	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy
+		-> email sent to Jeremy checking schedule
 
 - [ ] 2018-11-13 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
@@ -310,6 +297,7 @@ I4 finishing cleaning up e-mail
 
 - [ ] 2018-11-15 Thu
 	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy Thursdays @3p
+			-> email sent to Jeremy to reschedule
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 7
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
