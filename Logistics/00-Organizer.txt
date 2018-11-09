@@ -314,6 +314,9 @@ I4 finishing cleaning up e-mail
 		CHAPTER 7
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
+- [ ] 2018-11-16 Fri
+	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
 
