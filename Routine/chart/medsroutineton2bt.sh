@@ -63,7 +63,10 @@ do
     nct=1
     naccum=$((nmicrog))
   else
-    nct=$(($(<"$wk"/nct) + 1))
+    if [ x"$extra" = x"" ]
+    then
+      nct=$(($(<"$wk"/nct) + 1))
+    fi
     naccum=$(($(<"$wk"/naccum) + nmicrog))
   fi
   echo $((nct)) > "$wk"/nct
