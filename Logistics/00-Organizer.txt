@@ -96,12 +96,13 @@ I0 resuming daily habits
 I1 adding rating to routine and quiz
 -I2 merging these lists
 I3 adding frequency hopping to noiscillate detector
--I4 resume exercising
-I5 SSI conference call Wed 11/7 8:50a
--I6 finishing cleaning up e-mail
+I4 finishing cleaning up e-mail
+-I6 resume exercising
 -I7 get back on scuttlebutt & respond to wiley
 -I8 UPCOMING list in calendar
 -I9 preparing for tomorrow
+-IY ask jim taggart about carpooling to mass
+-IZ jim reese is coming by within a few days to do something or other?
 
 == General ==
 0. Managing this list of concerns
@@ -263,18 +264,20 @@ I5 SSI conference call Wed 11/7 8:50a
 
 - [!] 2018-11-08 Thu
 	you can accomplish something on git today ! you just have to stop, knowing you will resume later
+	-> did not stop.  worked on git all day.  successfully wrote data to a public blockchain using my code
 
-		- [ ] 6:30a brushing, no long routines, mark end time
-	- [ ] 7:00a morning routine & room cleaning
-		- [ ] 9:00a aux brushing if time
-	- [ ] 9:30A Jim installs heater; make it easy to walk around prior
+		- [X] 6:30a brushing, no long routines, mark end time
+	- [X] 7:00a morning routine & room cleaning
+		- [X] 9:00a aux brushing if time
+	- [X] 9:30A Jim installs heater; make it easy to walk around prior
 
-		- [ ] 11:30a brushing
+		- [X] 11:30a brushing
 	- [ ] work ttrack morning or early afternoon: 50% primary task (time management then SAFE)
 		then fill in git/PUB as a desired task (valuable due to inspiration), and RESP as a needed one
-		- [ ] 2:00p aux brushing
+		-> did not do this
+		- [X] 2:00p aux brushing
 
-	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy
+	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy Thu @3p
 		- [ ] 4:30p brushing
 		- [ ] 7:00p brushing
 	- [ ] 7:30p evening routine
@@ -284,6 +287,10 @@ I5 SSI conference call Wed 11/7 8:50a
 
 - [ ] 2018-11-10 Sat
 	- [ ] Address some UPCOMING list items.  Add a logged number for how long the list is.
+	- [ ] Gwyn visits afternoon through possibly Sunday in-and-out
+
+- [ ] 2018-11-11 Sun
+	- [ ] Gwyn may visit morning
 
 - [ ] 2018-11-00 Jacks off maternity leave in November
 
@@ -294,7 +301,7 @@ I5 SSI conference call Wed 11/7 8:50a
 
 - [ ] 2018-11-13 Tue
 	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
-	- Jim Taggart arrives in afternoon
+	- [ ] 1:00p Jim Taggart arrives, Gwyn visits for meeting
 	- [ ] 2:20 pm drs appt jennifer lambert
 
 - [ ] 2018-11-14 Wed
@@ -302,6 +309,7 @@ I5 SSI conference call Wed 11/7 8:50a
 	
 
 - [ ] 2018-11-15 Thu
+	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy Thursdays @3p
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 7
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
