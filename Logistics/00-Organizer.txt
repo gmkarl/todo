@@ -238,6 +238,26 @@ I4 finishing cleaning up e-mail
 	- job?
 
 ## NICOTINE AUTONOMY PLANNING
+	STATUS:
+		forgot where I'm at. note here.
+
+	NEXT STEP:
+		DISPENSER:
+			- rebuild but use low-viscosity
+			  after dispense, increase viscosity by mixing with powder
+			  baking soda, toothbrushing powder, etc
+		consolidate next steps
+		sources:
+			- this doc
+				- this section
+				- present concerns section
+			- projects folder
+			- logistics folder
+			- routine folder
+
+	IDEAL PLAN:
+		- dosing applied frequently throughout the day, automatically and securely, based on testable metrics
+		
 - I'd like to start this.
 	- Program reads from todo repo, stored in todo repo.
 	- Service installed on filesystem from source in todo repo for now.
@@ -258,6 +278,26 @@ I4 finishing cleaning up e-mail
 	NEXT:
 		- convert brushing routine to rewards
 
+# FINANCES
+	Goal:
+		1. Five County Checking account: minimum balance of $1000 to prevent mistakes.  Highest priority.
+		   Five County Savings account: keep empty
+		2. First Citizens account: keep empty.  Withdraw all money given by father that is in excess of rent.
+		3. Ethereum: keep trades going to restore balance prior to October 2018
+		4. NEM: keep all money until value rises to at least purchase value
+	Tasks:
+		- [ ] withdraw money from coinbase pro, my ethereum exchange, to meet my goal balance of $1000
+		- [ ] identify eth balance prior to october and note here, then add a task to move forward on restoring balance
+		- [ ] change large donations to small donations.  Send a message to people I care about explaining the change
+		      (and warning them).  Major donations: burning books, earth first journal, maine primitive skills school
+			- [ ] burning books ($500 / mo?)
+			- [ ] earth first journal ($200 / mo?)
+			- [ ] maine primitive skills school ($1000 / mo)
+			- [ ] others
+		- [ ] withdraw extra cash from First Citizens to repay gwyn
+		- [ ] withdraw cash from five county to repay gwyn
+		
+
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
@@ -265,13 +305,38 @@ I4 finishing cleaning up e-mail
 - [!] 2018-11-09 Fri
 		- [X] 6:30a brushing
 		- [ ] 9:00a brushing
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 9:30a - 11:00a Kate call Fri
 		- [ ] 11:30a brushing
 		- [ ] 2:00p brushing
 		- [ ] 4:30p brushing
 		- [ ] 7:00p brushing
+	-> The local electrosensitives introduced me to a new woman in the area named Christine who is in great need, medically
+	   and psychologically, and is highly sensitive to the smells released by most buildings and won't enter them without
+	   wearing a complex breathing device and experiencing increased suffering.
+	   I spent the second half of this day with this woman, helping her find food (she hadn't eaten in a long time due
+	   to sensitivities to the food) and listening to her, and making sure she had a place to sleep for that night that
+	   helped her suffer less.  She is very new to not living indoors and appears terrified of her current life.
+	   I feel very burnt out working to care for this woman in the midst of my memeory and awareness issues.  I asked
+	   Gwyn for help but she was having a rough time herself.  I feel irritated at Gwyn for not being able to help
+	   Christine.
+	   It's notable that Christine is also a name from my psychosis and my history, representing somebody I very much
+	   want to help and have love for.
+	   I stopped my nicotine and my work this day to help this person, and I very much want space and ease to resume
+	   my work.  I've also discovered my money situation is much less than I thought it was.  Gwyn loaned me some money
+	   and I wrote her a check twice to repay it, but both times I messed up with balancing my money and the checks
+	   bounced.  Gwyn needs the money to pay her life expenses.
+	   I plan to spend some time today Sat the 10th improving my money situation and to find the money to repay Gwyn
+	   by the end of the day.  I'm creating the 'FINANCIAL' section in my organizer file above the 'calendar' section.
+	   I also want to prepare for the day enough to pick up Christine at 9 or 10 AM and help her get her car fixed as
+	   I promised.
+	   I think I would feel a lot nicer in these situations if I had some friends who are also passionate about helping
+	   people in this way.  I used to hang out with many of them, but I have not connected with anybody in the area
+	   like this.  It was on my goal list to do just to help me feel nice, but I think once I start living it the need
+	   is stronger.
+	   
 
 - [ ] 2018-11-10 Sat
+	- [ ] 9a or 10a:  visit Christine, remember Gwyn coming in afternoon
 	- [ ] Address some UPCOMING list items.  Add a logged number for how long the list is.
 	- [ ] Gwyn visits afternoon through possibly Sunday in-and-out
 
@@ -283,11 +348,10 @@ I4 finishing cleaning up e-mail
 - [ ] 2018-11-12 Mon
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
-	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy
-		-> email sent to Jeremy checking schedule
+	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy.  Monday this week.  When next week?
 
 - [ ] 2018-11-13 Tue
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 10:00a - 11:00a Kate call Tue,
 	- [ ] 1:00p Jim Taggart arrives, Gwyn visits for meeting
 	- [ ] 2:20 pm drs appt jennifer lambert
 
@@ -296,14 +360,12 @@ I4 finishing cleaning up e-mail
 	
 
 - [ ] 2018-11-15 Thu
-	- [ ][ ] 3:00p - 3:50p Jeremy Psychotherapy Thursdays @3p
-			-> email sent to Jeremy to reschedule
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 7
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2018-11-16 Fri
-	- [ ][ ] 9:30a - 11:00a Kate call Tue, Fri
+	- [ ][ ] 9:30a - 11:00a Kate call Fri
 
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
