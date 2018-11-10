@@ -283,19 +283,43 @@ I4 finishing cleaning up e-mail
 		1. Five County Checking account: minimum balance of $1000 to prevent mistakes.  Highest priority.
 		   Five County Savings account: keep empty
 		2. First Citizens account: keep empty.  Withdraw all money given by father that is in excess of rent.
-		3. Ethereum: keep trades going to restore balance prior to October 2018
+		3. Ethereum: keep trades going to restore balance to 42.7 ETH
 		4. NEM: keep all money until value rises to at least purchase value
 	Tasks:
-		- [ ] withdraw money from coinbase pro, my ethereum exchange, to meet my goal balance of $1000
-		- [ ] identify eth balance prior to october and note here, then add a task to move forward on restoring balance
+		- [X] withdraw money from coinbase pro, my ethereum exchange, to meet my goal balance of $1000
+			$832.35 needed
+			-> expected arrival: 2018-11-16
+		- [X] identify eth balance prior to october and note here, then add a task to move forward on restoring balance
 		- [ ] change large donations to small donations.  Send a message to people I care about explaining the change
 		      (and warning them).  Major donations: burning books, earth first journal, maine primitive skills school
 			- [ ] burning books ($500 / mo?)
+				- [X] payment #1
+					-> I found $100 recurring in paypal.  I'll keep this as a new baseline, and stop the
+					   other payment.
+					-> recurcs on the 9th
+				- [ ] payment #2
+					-> I found $250 on the 6th from my debit card
+					   same on 11th in october
+					-> I tried to send an email to Leslie about canceling this donation.
+					   My mail was bounced saying it contained a virus.  My email was plain text,
+					   and had only 8 short human-readable headers.
+					-> all my e-mails are bouncing to Leslie.  I can call Burning Books
+					   at (716) 881-0791 11am-7pm Tue-Sun (closed Mon)
 			- [ ] earth first journal ($200 / mo?)
+				- [ ] payment #1
+					-> I found $200 recurring on the 19th, I-XGFX1C1TLM8A
+				- [ ] payment #2
+					-> I found $20 recurring on the 17th, I-JB68J8645SL9
 			- [ ] maine primitive skills school ($1000 / mo)
 			- [ ] others
 		- [ ] withdraw extra cash from First Citizens to repay gwyn
 		- [ ] withdraw cash from five county to repay gwyn
+		- [ ] create complete log here of relevent trade information, to move towards making a profit again
+		- [ ] identify purchase value of nem
+	Notes:
+		2018-11-10: 21.1 Eth
+		2018-09-26: 42.7 Eth
+		
 		
 
 # CALENDAR
