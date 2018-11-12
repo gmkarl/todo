@@ -5,5 +5,5 @@
 	path = Projects/01-Shielding/openemissions
 	url = /home/olpc/src/openemissions
 [submodule "Projects/01-Shielding/openemissions"]
-	path = Projects/01-Shielding/openemissions
+	path = Projects/01-Autonomy/01-Shielding/openemissions
 	url = /home/olpc/src/openemissions
