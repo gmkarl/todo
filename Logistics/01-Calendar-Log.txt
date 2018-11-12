@@ -1,4 +1,57 @@
 # DONE
+- [X] 2018-11-11 Sun
+	- [ ] Gwyn may visit morning
+	-> came back from gwyn's, did some coding, resumed nicotine brushing
+	-> at first had no memory of this day, but that is normal when i spend a day coding.  i don't do that very much anymore.
+- [ ] 2018-11-10 Sat
+	- [X] 9a or 10a:  visit Christine, remember Gwyn coming in afternoon
+	-> got christine's tire fixed, she ended up spending a lot of time begging and yelling towards her mother on my phone
+	   I was able to help them communicate at first, but then I started freezing up, managed to contact Kate and Jim
+	   eventually and Jim asked Christine to leave.  she started leaving but then called her mother again; I ended up
+	   falling asleep and she was gone when I woke.
+	   she had left me some dvds she feels she needs to watch, but she has no dvd player.  i began copying them to convert
+	   them to a phone, but she returned and took them back when the process was barely started.  i haven't seen her since.
+	   i hope she finds a dvd player because she feels the dvds will help her adjust her behavior so much.
+	   i hope she is alive.  she's sleeping in her car and the temperature is dropping the lowest it has in the history
+	   of the area according to jim.  she isn't eating much and when she is in somebody else's car she blasts the heat
+	   as high as it goes and keeps it there.
+	- [ ] Address some UPCOMING list items.  Add a logged number for how long the list is.
+	- [ ] Gwyn visits afternoon through possibly Sunday in-and-out
+	-> gwyn ended up taking me to her place.  i wanted to support her to have space from her abusive ex-husband, but it ended
+	   up he wasn't visiting that week, so I spent time with her anyway because I didn't want to rudely ask for space myself.
+	   it took me a day to really recover from the christine experience enough to do anything, which still feels really
+	   unresolved
+- [!] 2018-11-09 Fri
+		- [X] 6:30a brushing
+		- [ ] 9:00a brushing
+	- [ ][ ] 9:30a - 11:00a Kate call Fri
+		- [ ] 11:30a brushing
+		- [ ] 2:00p brushing
+		- [ ] 4:30p brushing
+		- [ ] 7:00p brushing
+	-> The local electrosensitives introduced me to a new woman in the area named Christine who is in great need, medically
+	   and psychologically, and is highly sensitive to the smells released by most buildings and won't enter them without
+	   wearing a complex breathing device and experiencing increased suffering.
+	   I spent the second half of this day with this woman, helping her find food (she hadn't eaten in a long time due
+	   to sensitivities to the food) and listening to her, and making sure she had a place to sleep for that night that
+	   helped her suffer less.  She is very new to not living indoors and appears terrified of her current life.
+	   I feel very burnt out working to care for this woman in the midst of my memeory and awareness issues.  I asked
+	   Gwyn for help but she was having a rough time herself.  I feel very irritated at Gwyn for not being able to help
+	   Christine.
+	   It's notable that Christine is also a name from my psychosis and my history, representing somebody I very much
+	   want to help and have love for.
+	   I stopped my nicotine and my work this day to help this person, and I very much want space and ease to resume
+	   my work.  I've also discovered my money situation is much less than I thought it was.  Gwyn loaned me some money
+	   and I wrote her a check twice to repay it, but both times I messed up with balancing my money and the checks
+	   bounced.  Gwyn needs the money to pay her life expenses.
+	   I plan to spend some time today Sat the 10th improving my money situation and to find the money to repay Gwyn
+	   by the end of the day.  I'm creating the 'FINANCIAL' section in my organizer file above the 'calendar' section.
+	   I also want to prepare for the day enough to pick up Christine at 9 or 10 AM and help her get her car fixed as
+	   I promised.
+	   I think I would feel a lot nicer in these situations if I had some friends who are also passionate about helping
+	   people in this way.  I used to hang out with many of them, but I have not connected with anybody in the area
+	   like this.  It was on my goal list to do just to help me feel nice, but I think once I start living it the need
+	   is stronger.
 - [X] 2018-11-08 Thu
 	you can accomplish something on git today ! you just have to stop, knowing you will resume later
 	-> did not stop.  worked on git all day.  successfully wrote data to a public blockchain using my code

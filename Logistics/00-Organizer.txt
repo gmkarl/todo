@@ -278,6 +278,14 @@ I4 finishing cleaning up e-mail
 	NEXT:
 		- convert brushing routine to rewards
 
+
+leslie recommends Bookstore in baltimore:
+	red emma's
+
+youtube/vimeo: search consensus decision-making
+	
+	
+
 # FINANCES
 	Goal:
 		1. Five County Checking account: minimum balance of $1000 to prevent mistakes.  Highest priority.
@@ -292,12 +300,12 @@ I4 finishing cleaning up e-mail
 		- [X] identify eth balance prior to october and note here, then add a task to move forward on restoring balance
 		- [ ] change large donations to small donations.  Send a message to people I care about explaining the change
 		      (and warning them).  Major donations: burning books, earth first journal, maine primitive skills school
-			- [ ] burning books ($500 / mo?)
+			- [X] burning books ($500 / mo?)
 				- [X] payment #1
 					-> I found $100 recurring in paypal.  I'll keep this as a new baseline, and stop the
 					   other payment.
 					-> recurcs on the 9th
-				- [ ] payment #2
+				- [X] payment #2
 					-> I found $250 on the 6th from my debit card
 					   same on 11th in october
 					-> I tried to send an email to Leslie about canceling this donation.
@@ -305,16 +313,20 @@ I4 finishing cleaning up e-mail
 					   and had only 8 short human-readable headers.
 					-> all my e-mails are bouncing to Leslie.  I can call Burning Books
 					   at (716) 881-0791 11am-7pm Tue-Sun (closed Mon)
-			- [ ] earth first journal ($200 / mo?)
-				- [ ] payment #1
+					-> I called leslie and he theoretically stopped payment
+			- [X] earth first journal ($200 / mo?)
+				- [X] payment #1
 					-> I found $200 recurring on the 19th, I-XGFX1C1TLM8A
+					-> canceled
 				- [ ] payment #2
 					-> I found $20 recurring on the 17th, I-JB68J8645SL9
+					-> I guess I'd prefer to give a little more, but this will do for now
 			- [ ] maine primitive skills school ($1000 / mo)
+				-> paypal wants me to fill my negative balance before I send anything
 			- [ ] others
+		- [ ] create complete log here of relevent trade information, to move towards making a profit again
 		- [ ] withdraw extra cash from First Citizens to repay gwyn
 		- [ ] withdraw cash from five county to repay gwyn
-		- [ ] create complete log here of relevent trade information, to move towards making a profit again
 		- [ ] identify purchase value of nem
 	Notes:
 		2018-11-10: 21.1 Eth
@@ -326,62 +338,25 @@ I4 finishing cleaning up e-mail
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-09 Fri
+- [!] 2018-11-12 Mon
 		- [X] 6:30a brushing
-		- [ ] 9:00a brushing
-	- [ ][ ] 9:30a - 11:00a Kate call Fri
-		- [ ] 11:30a brushing
-		- [ ] 2:00p brushing
-		- [ ] 4:30p brushing
-		- [ ] 7:00p brushing
-	-> The local electrosensitives introduced me to a new woman in the area named Christine who is in great need, medically
-	   and psychologically, and is highly sensitive to the smells released by most buildings and won't enter them without
-	   wearing a complex breathing device and experiencing increased suffering.
-	   I spent the second half of this day with this woman, helping her find food (she hadn't eaten in a long time due
-	   to sensitivities to the food) and listening to her, and making sure she had a place to sleep for that night that
-	   helped her suffer less.  She is very new to not living indoors and appears terrified of her current life.
-	   I feel very burnt out working to care for this woman in the midst of my memeory and awareness issues.  I asked
-	   Gwyn for help but she was having a rough time herself.  I feel very irritated at Gwyn for not being able to help
-	   Christine.
-	   It's notable that Christine is also a name from my psychosis and my history, representing somebody I very much
-	   want to help and have love for.
-	   I stopped my nicotine and my work this day to help this person, and I very much want space and ease to resume
-	   my work.  I've also discovered my money situation is much less than I thought it was.  Gwyn loaned me some money
-	   and I wrote her a check twice to repay it, but both times I messed up with balancing my money and the checks
-	   bounced.  Gwyn needs the money to pay her life expenses.
-	   I plan to spend some time today Sat the 10th improving my money situation and to find the money to repay Gwyn
-	   by the end of the day.  I'm creating the 'FINANCIAL' section in my organizer file above the 'calendar' section.
-	   I also want to prepare for the day enough to pick up Christine at 9 or 10 AM and help her get her car fixed as
-	   I promised.
-	   I think I would feel a lot nicer in these situations if I had some friends who are also passionate about helping
-	   people in this way.  I used to hang out with many of them, but I have not connected with anybody in the area
-	   like this.  It was on my goal list to do just to help me feel nice, but I think once I start living it the need
-	   is stronger.
-	   
-
-- [ ] 2018-11-10 Sat
-	- [ ] 9a or 10a:  visit Christine, remember Gwyn coming in afternoon
-	- [ ] Address some UPCOMING list items.  Add a logged number for how long the list is.
-	- [ ] Gwyn visits afternoon through possibly Sunday in-and-out
-
-- [ ] 2018-11-11 Sun
-	- [ ] Gwyn may visit morning
-
-- [ ] 2018-11-00 Jacks off maternity leave in November
-
-- [ ] 2018-11-12 Mon
-	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-		- [ ] Plan to sign up for core concepts course that follows ($475?)
+	- [ ] morning; southern states visits to fix heater
+		- [ ] 9:30a aux brushing
 	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy.  Monday this week.  When next week?
-
+		- [ ] 12:00p brushing
+		- [ ] 2:30p aux brushing
+		- [ ] 5:00p brushing
+		- [ ] 7:30p aux brushing
 - [ ] 2018-11-13 Tue
-	- [ ][ ] 10:00a - 11:00a Kate call Tue,
-	- [ ] 1:00p Jim Taggart arrives, Gwyn visits for meeting
+	- [ ][ ] 10:00a - 11:00a Kate call Tue
+	- [ ] 1:00p Jim Taggart arrives, Gwyn visits for meeting including CCIL
 	- [ ] 2:20 pm drs appt jennifer lambert
 
 - [ ] 2018-11-14 Wed
 	- Jim Taggart present
 	
+- [ ] 2018-11-00 Jacks off maternity leave in November
+
 
 - [ ] 2018-11-15 Thu
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
@@ -389,6 +364,8 @@ I4 finishing cleaning up e-mail
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2018-11-16 Fri
+	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
+		- [ ] Plan to sign up for core concepts course that follows ($475?)
 	- [ ][ ] 9:30a - 11:00a Kate call Fri
 
 - [ ] 2018-12-01
