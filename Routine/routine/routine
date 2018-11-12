@@ -14,6 +14,8 @@ rating_trials=$((0))
 rating_successes=$((0))
 rating_startsecs=$(($(date +%s)))
 
+echo "Hey can we change this script to require an intelligent response to confirm a task? finger twitching resulting in false confirmations sometimes"
+
 while read code name
 do
   ttrackline="$(grep ,"$name", ${ttrackdir}/routines.csv)"
@@ -62,14 +64,15 @@ do
       fi
 			while true
 			do
-				echo "Press enter when completed, or 'abort' to give up."
+				randstr="$(tr -cd 'a-zA-Z0-9' < /dev/urandom | head -c 6)"
+				echo "Please type '$randstr' when completed, or 'abort' to give up."
 				read abort < /dev/tty
 				stop=$(date +%s)
 				if [ "x$abort" = "xabort" ]
 				then
 					echo ' ABORTED !'
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", UNFINISHED >> routinedata.csv
-				elif [ "x$abort" = "x" ]
+				elif [ "x$abort" = "x$randstr" ]
 				then
 					rating_successes=$((rating_successes + 1))
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", >> routinedata.csv
@@ -81,7 +84,6 @@ do
 				else
 					echo "I couldn't recognize '$abort' ... try again?"
 					continue
-	
 				fi
 				break
 			done
@@ -104,8 +106,8 @@ rating_endsecs=$(($(date +%s)))
 rating_duration=$((rating_endsecs - rating_startsecs))
 rating_pct=$((100 * rating_successes / rating_trials))
 
-echo "Rating PCT=${rating_pct}"
-printf "Total Duration=%d.%02d" $((rating_duration/60)) $((rating_duration%100))
+echo "Rating PCT=${rating_pct} baseline=54"
+printf "Total Duration=%d:%02d\n" $((rating_duration/60)) $((rating_duration%60))
 
 # TODO: record duration & pct, and output metric to be used to figure n2
 #       metric should foremost value pct, and then only value duration if pct is 100%
