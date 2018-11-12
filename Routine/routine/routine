@@ -106,7 +106,7 @@ rating_endsecs=$(($(date +%s)))
 rating_duration=$((rating_endsecs - rating_startsecs))
 rating_pct=$((100 * rating_successes / rating_trials))
 
-echo "Rating PCT=${rating_pct} baseline=54"
+echo "Rating PCT=${rating_pct} baseline=53"
 printf "Total Duration=%d:%02d\n" $((rating_duration/60)) $((rating_duration%60))
 
 # TODO: record duration & pct, and output metric to be used to figure n2
