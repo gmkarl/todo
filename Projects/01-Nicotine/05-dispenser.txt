@@ -27,6 +27,7 @@ Maybe I can use actual toothpate, or increase the thickness somehow.
 Dispenser got clogged when viscosity was high enough to stay on brush.
 Options: - increase viscosity after dispensing, by e.g. mixing with toothpaste
 	 - pursue drill bit inside powder approach, to push powder out of box in controlled manner
+	 => mix with thickening powder after dispensing to increase viscosity for brushing
 
 
 == goal 1 ==
