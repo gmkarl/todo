@@ -91,16 +91,19 @@ lewisburg:
 - [ ] call southern propane and get in system ... haven't paid bill?
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
 
+Goals at # GOALWORK
 == Immediately Relevent ==
-I0 resuming daily habits
+I0 resuming subsistent daily habits
 I1 adding rating to routine and quiz
--I2 merging these lists
-I3 adding frequency hopping to noiscillate detector
+I2 planning my tasks in general to optimize time and resource management
+-I3 adding frequency hopping to noiscillate detector
 I4 finishing cleaning up e-mail
+-I5 making a blockchain storage interface
 -I6 resume exercising
 -I7 get back on scuttlebutt & respond to wiley
 -I8 UPCOMING list in calendar
 -I9 preparing for tomorrow
+-IA merging these lists
 -IY ask jim taggart about carpooling to mass
 -IZ jim reese is coming by within a few days to do something or other?
 
@@ -112,7 +115,15 @@ I4 finishing cleaning up e-mail
 	-> could dual-n-back help? at least a good practice
 	   may be more exercise known to improve mind in general too
 	-> reviewing things I've written, acted on, done, said, heard, places I've gone online, in person, etc other than this list
-2. time management
+
+2. time management & priority adjustment
+	- For all my tasks, I should do the work that is hardest for others to do other than me.
+		Then I can queue up work that others can do.
+	- my programming projects should be bounties, forums, etc
+	- my shielding pursuits should be a research project
+	- my logistics should find support such that they use up reasonable time
+	- my time should be spent optimizing my approaches and plans
+
 	- unifying goals / tasks / scheduling information locations, into 00-Organizer.txt for now
 		- [X] this file
 		- routines lists
@@ -141,7 +152,12 @@ I4 finishing cleaning up e-mail
 		- emails
 		- facebook
 -5. older concerns
--6. autonomy pursuit
+-6. things left unaddressed in nvc doc
+	- feelings, needs, requests that haven't been gone through
+		-> Jim, I have a document where I have pursued examining my intense feelings and needs and thinking of things to do with them, but I haven't done anything with much of the information
+	- I'd like to do the feeling->thought->observation->need->request habit throughout the day, as i encounter feelings,
+	        and record them to work with them
+-7. autonomy pursuit
 	- nicotine and ideas for using it
 		- maintain daily habit
 		- decide on new approach for dispenser / box and work on that more effectively
@@ -191,9 +207,6 @@ I4 finishing cleaning up e-mail
 			- bookmoons work
 			- other PR's
 		- ongoing video (also for comfort with it)
--7. things left unaddressed in nvc doc
-	- feelings, needs, requests that haven't been gone through
-		-> Jim, I have a document where I have pursued examining my intense feelings and needs and thinking of things to do with them, but I haven't done anything with much of the information
 -8. health
 	- exercise
 		- habitual
@@ -205,18 +218,15 @@ I4 finishing cleaning up e-mail
 		- live resources (mpss? more?)
 		- regular practice, moment-to-moment goal
 	- medical tasks
-		- getting goggles or mask
-			-> this will help my eye; I had forgotten. opthalmologist gave me advice of what to purchase
-		- resuming oncology scans
+		- getting daytime dry-eye glasses?
 		- getting neuropsych testing
+			likely listed on schedule
 	- food / thrive
 		- sourdough bread !
-			I would lov to make sourdough bread there is a recipe under the kitchen window !!!
-		- lentil soup ingredients
-			I am out of groceries and need to shop.  I just cooked my last grains in that curry.
+		- cookie & kate ingredients
 -9. maintaining relationships (should add these to ongoing)
 	- Owe Katrina a call
-	- Maintain calls with mother
+	- i called mom
 	- VISIT PARENTS at least once a year !!!
 	- Old / current loves
 		- gwyn, kate
@@ -340,8 +350,8 @@ youtube/vimeo: search consensus decision-making
 
 - [!] 2018-11-12 Mon
 		- [X] 6:30a brushing
+		- [X] 9:30a aux brushing
 	- [ ] morning; southern states visits to fix heater
-		- [ ] 9:30a aux brushing
 	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy.  Monday this week.  When next week?
 		- [ ] 12:00p brushing
 		- [ ] 2:30p aux brushing
@@ -400,6 +410,64 @@ youtube/vimeo: search consensus decision-making
 	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
 			635 Robert E Lee Avemue
 			Elkins, WV
+
+# GOALWORK
+0: autonomy, safety, privacy, and joyful pursuit of dreams for all
+Problem:
+	dominant culture using oppressive technology to eradicate other cultures
+	and establish universal hierarchy of power and control
+Routes for safety:
+	- reliable collaboration & information sharing
+	- TOOLS to comprehend issues, e.g. EEG and radio work
+	- TECHNIQUES to get things done, such as nicotine
+	
+	Short term:
+	- nicotine & technocratic motivators and logs
+	- collaboration with others who can help?
+
+	Medium term:
+	- nonviolent communication
+	- uncensorable dialogue & information storage?
+	- caverns?
+
+	Likely lonegr term:
+	- shielded rooms
+	- radiowork
+	- EEG analysis, but helpful to have ongoing logging
+		could be faster with outreach etc
+
+	==> UNCENSORABLE DIALOGUE IS NEEDED BAD <==
+	If you start being productive without it, you can just enter a bubble.
+	This includes both the problem of technology and the problem of reaching others with the technology.
+
+	I think the best route would be a SIMPLE bitcoin messenger.
+	Probably a mobile phone app running bcoin.
+	- [ ] Check first if one already exists.
+	- [ ] Make a fund for people to message freely with it.
+1: personal requirements of life fully maintained
+	- want to stay on top of obligations and expectations
+		- ONGOING list
+		- present concerns list
+		- other lists
+		- nonlisted expectations
+	- want to pursue personal wellness responsibly
+		- lyme disease
+		- neurology
+		- daily routine & cleanliness
+		- habits in support of mental thriving e.g. do enough things myself to retain abilities
+	- want to be able to fucntion with ease in my living situation
+		- organize possessions
+			- want to SAVE all my documents and objects and regularly spend a small amount of time comprehending them
+			- should keep a categorical inventory and work with others to organize possessions
+			- should work to shrink and archive possessions, selling them
+	- want to live kindly in all ways, and slowly move towards that ideal
+	- want to support ideals, people, etc that I value
+	
+	
+
+
+
+- personal consistency: to do what I want, 
 
 # ACTIONABLE TASKS
 
