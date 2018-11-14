@@ -341,7 +341,18 @@ youtube/vimeo: search consensus decision-making
 	Notes:
 		2018-11-10: 21.1 Eth
 		2018-09-26: 42.7 Eth
+
 		
+		2018-10-29: GOOD? antonpeters@home.nl $257.82 = $270.00 - $12.18
+		2018-10-29: GOOD? Jaakkoforssen66@aol.com $9.26 = $10.00 - $0.74
+		2018-10-29: GOOD? HesterPotgieter1111@hotmail.com $630.66 = $660.00 - $29.34
+		2018-10-29: GOOD? Jaakkoforssen66@aol.com $267.38 = $280.00 - $12.62
+		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $200.46 = $210.00 - $9.54
+		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $334.30 = $350.00 - $15.70
+		2018-10-25: GOOD? herbertpfanzelt@gmx.de $190.90 = $200.00 - $9.10
+		2018-10-25: GOOD? herbertpfanzelt@gmx.de $324.74 = $340.00 - $15.26
+		2018-10-25: GOOD? wolfgang.dignoes@icloud.com $264.51 = $277.00 - $12.49
+		2018-10-25: REVERSED AbdullaMahmood3333@hotmail.com $640.22 = $670.00 - $29.78 
 		
 
 # CALENDAR
