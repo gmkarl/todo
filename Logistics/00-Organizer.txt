@@ -343,16 +343,32 @@ youtube/vimeo: search consensus decision-making
 		2018-09-26: 42.7 Eth
 
 		
-		2018-10-29: GOOD? antonpeters@home.nl $257.82 = $270.00 - $12.18
+				2018-11-07
+		2018-10-29: DISPUTED IN BUYER'S FAVOR 2018-11-07 antonpeters@home.nl $257.82 = $270.00 - $12.18
+			likely ethhockey opened 2018-10-28 paid 2018-10-29
 		2018-10-29: GOOD? Jaakkoforssen66@aol.com $9.26 = $10.00 - $0.74
 		2018-10-29: GOOD? HesterPotgieter1111@hotmail.com $630.66 = $660.00 - $29.34
+			likely markodeal 2018-10-28
 		2018-10-29: GOOD? Jaakkoforssen66@aol.com $267.38 = $280.00 - $12.62
+			likely jimmy12 2018-10-28
 		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $200.46 = $210.00 - $9.54
 		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $334.30 = $350.00 - $15.70
-		2018-10-25: GOOD? herbertpfanzelt@gmx.de $190.90 = $200.00 - $9.10
-		2018-10-25: GOOD? herbertpfanzelt@gmx.de $324.74 = $340.00 - $15.26
-		2018-10-25: GOOD? wolfgang.dignoes@icloud.com $264.51 = $277.00 - $12.49
-		2018-10-25: REVERSED AbdullaMahmood3333@hotmail.com $640.22 = $670.00 - $29.78 
+			likely leahsv, opened 2018-10-28, paid 2018-10-28
+
+		2018-10-25: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $190.90 = $200.00 - $9.10
+		2018-10-25: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $324.74 = $340.00 - $15.26
+			likely leahsv, opened 2018-10-25, paid 2018-10-25
+		2018-10-25: DISPUTED IN BUYER'S FAVOR 2018-11-12 wolfgang.dignoes@icloud.com $264.51 = $277.00 - $12.49
+			likely ethhockey, opened 2018-10-24, paid 2018-10-25
+		2018-10-25: IN DISPUTE AbdullaMahmood3333@hotmail.com $640.22 = $670.00 - $29.78 
+			likely markodeal, opened 2018-10-24, paid 2018-10-25
+
+		ethhockey: 2 transactions disputed in other's favor from differing accounts
+		markodeal: 1 good transction, 1 disputed, differing accounts
+		leahsv: 2 transactions split into 4, all disputed in my favor, herbertpfanzelt@gmx.de
+		jimmy12: 1 good transaction Jaakkoforssen66@aol.com
+			
+		
 		
 
 # CALENDAR
@@ -362,8 +378,10 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-11-14 Wed
 	- Jim Taggart present
 		- [X] 6:45a brushing
-		- [ ] 9:00a aux brushing
-	- [ ] 9? am - call Dr Bouboulis 203 655 9904 to schedule phone consult
+		- [X] 9:00a aux brushing
+	- [X] 9? am - call Dr Bouboulis 203 655 9904 to schedule phone consult
+		-> took 3 or 4 tries to reach human other than voicemail during open hours
+		   attempt that finally worked was via google voice rather than landline
 	- CCIL & Gwyn likely rescheduled to today
 		- [ ] 12:30p brushing
 		- [ ] 3:00p aux brushing
@@ -402,6 +420,15 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-11-20 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Tue, Fri
 	
+- [ ] 2018-11-22 Thu
+	- Thanksgiving Day
+
+- [ ] 2018-11-26 Mon
+	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
+			- want to get back on all 4 antibiotics
+		call comes from  203 655 9904
+		call goes to 207 518 8256
+		             304 456 5564
 
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
@@ -744,13 +771,23 @@ Dr Bouboulis
 	Advanced Allergy, Immunology, & Asthma
 	advanced-allergy.com
 	203 655 9904
-	Closed 12:30p - 2:15p 
+	CLOSED EACH DAY 12:30p - 2:15p 
 	M 9:15a - 4:30p
 	Tu 8a - 9:15a - 4p
 	W 9:15a - 4:30p
 	Th 9:15 - 4:30p
 	F closed
 	Sa 9a - 12:30p
+
+	PHONE MENU
+		1: front desk, appointments
+			-> extension or voicemail box
+		2: nurse
+			-> voicemail box
+		3: quest phlebotomist
+		4: prescriptions
+		... billing # to call listed instead of 5
+		6: administrative assistance, medical records
 
 	1. restart trmt, info
 		2018-10-31
