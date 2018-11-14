@@ -348,35 +348,50 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-12 Mon
-		- [X] 6:30a brushing
-		- [X] 9:30a aux brushing
-	- [ ] morning; southern states visits to fix heater
-	- [ ][ ] 11:00a - 11:50a Jeremy Psychotherapy.  Monday this week.  When next week?
-		- [ ] 12:00p brushing
-		- [ ] 2:30p aux brushing
-		- [ ] 5:00p brushing
-		- [ ] 7:30p aux brushing
-- [ ] 2018-11-13 Tue
-	- [ ][ ] 10:00a - 11:00a Kate call Tue
-	- [ ] 1:00p Jim Taggart arrives, Gwyn visits for meeting including CCIL
-	- [ ] 2:20 pm drs appt jennifer lambert
-
 - [ ] 2018-11-14 Wed
 	- Jim Taggart present
+		- [X] 6:45a brushing
+		- [ ] 9:00a aux brushing
+	- [ ] 9? am - call Dr Bouboulis 203 655 9904 to schedule phone consult
+	- CCIL & Gwyn likely rescheduled to today
+		- [ ] 12:30p brushing
+		- [ ] 3:00p aux brushing
+		- [ ] 5:30p brushing
+		- [ ] 8:00p aux brushing
 	
-- [ ] 2018-11-00 Jacks off maternity leave in November
 
 
 - [ ] 2018-11-15 Thu
+		- [ ] 6:45a brushing
+		- [ ] 9:00a aux brushing
+		- [ ] 11:15a brushing
+		- [ ] 1:30p aux brushing
+	- [ ] 3pm leave for VA
+		- [ ] 3:45p brushing
+		- [ ] 6:00p aux brushing
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 7
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
+- [ ] 2018-11-00 Jacks off maternity leave in November
+
 - [ ] 2018-11-16 Fri
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] Plan to sign up for core concepts course that follows ($475?)
-	- [ ][ ] 9:30a - 11:00a Kate call Fri
+		- [ ] 6:45a brushing
+		- [ ] 9:00a aux brushing
+		- [ ] 11:15a brushing
+		- [ ] 1:30p aux brushing
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+		- [ ] 3:45p brushing
+		- [ ] 6:00p aux brushing
+
+- [ ] 2018-11-19 Mon
+	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+
+- [ ] 2018-11-20 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Tue, Fri
+	
 
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
@@ -448,8 +463,8 @@ Routes for safety:
 	- want to stay on top of obligations and expectations
 		- ONGOING list
 		- present concerns list
-		- other lists
 		- nonlisted expectations
+		- other lists
 	- want to pursue personal wellness responsibly
 		- lyme disease
 		- neurology
@@ -721,7 +736,7 @@ Dr Bouboulis
 	203 655 9904
 	Closed 12:30p - 2:15p 
 	M 9:15a - 4:30p
-	Tu 9:15a - 4p
+	Tu 8a - 9:15a - 4p
 	W 9:15a - 4:30p
 	Th 9:15 - 4:30p
 	F closed
