@@ -358,7 +358,6 @@ youtube/vimeo: search consensus decision-making
 		- [ ] 3:00p aux brushing
 		- [ ] 5:30p brushing
 		- [ ] 8:00p aux brushing
-	
 
 
 - [ ] 2018-11-15 Thu
