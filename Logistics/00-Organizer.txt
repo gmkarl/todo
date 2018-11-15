@@ -391,10 +391,6 @@ youtube/vimeo: search consensus decision-making
 
 - [!] 2018-11-15 Thu
 		- [X] 6:45a brushing
-	- [ ] 8:00am Jim calls to develop regular task/goal integration work
-			- MAKE A DOC for goals/plans/tasks
-			- LIST where to look for more
-			- (something I forgot)
 	- [ ] ~9:30am? look into ensuring car can drive
 		- [ ] 10:15a aux brushing
 	- [ ] 10:30am Gwyn calls to decide coming VA
@@ -420,6 +416,12 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 		- [ ] 3:45p brushing
 		- [ ] 6:00p aux brushing
+
+- [ ] 2018-11-18 Sun
+	- [ ] 8:00am Jim calls to develop regular task/goal integration work
+			- MAKE A DOC for goals/plans/tasks
+			- LIST where to look for more
+			- (something I forgot)
 
 - [ ] 2018-11-19 Mon
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
@@ -726,10 +728,13 @@ Metals: Valley Steel, 30 mins towards elkins
 Frontier Support:
 	Main Menu: 877-669-5535
 		1 - current customer, customer service
+		or
 		2 - current customer, install date
+		or
 		3 - current customer, billing or technical support
 			-> 1 - english residential
 			My # is (304) 456-5564
+		or
 		4 - new customer, interested in services
 		    or adding services to existing account
 		OOPS no longer the menu below
@@ -739,6 +744,7 @@ Frontier Support:
 		   
 			My # is (304) 456-5564
 	800-239-4430
+		"special promotion for select callers"
 	Tech Dept: 888-440-2096
 
 Green Bank Anechoic Chamber
