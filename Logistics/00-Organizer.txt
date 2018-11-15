@@ -51,9 +51,9 @@ lewisburg:
 - [ ] order/buy vit c, current bottle in med box
 - [ ] Dr Fallon (646) 774-8052 (Columbia Lyme) does neuroimaging re lyme
 - [ ] Check in with Jim re carpool to/from mass around xgiving or xmas.
-- [ ] repay $180 to gwyn, check bounced
-- [ ] call back ccil
-	
+- [X] repay $180 to gwyn, check bounced
+- [X] call back ccil
+	-> ended up handling with jim taggart; still have not gotten in contact with kristina though
 - [ ] call back mother -> she'd like another call
 		-> maybe mom would like to be involved in check-ins with me
 			to keep me on task but also keep her aware of my doings
@@ -368,35 +368,42 @@ youtube/vimeo: search consensus decision-making
 		leahsv: 2 transactions split into 4, all disputed in my favor, herbertpfanzelt@gmx.de
 		jimmy12: 1 good transaction Jaakkoforssen66@aol.com
 			
-		
+		2018-11-14 18:54 ET
+			Placed 2 ETH in escrow to leahsv.
+			Expecting $459.62 from herbertpfanzelt@gmx.de
+		           18:57 ET
+			Placed 2 ETH in escrow to Prudentwriter.
+			Expecting $423.62 .
+		           19:50 ET
+			Completed Prudentwriter trade.
+			Screenshots in dom0. $426.16
+			   21:10 ET
+			Completed another Prudentwriter trade.
+			1 eth for $208.65
+			Screenshots in dom0
+		2018-11-15 06:56 ET
+			
 		
 
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [ ] 2018-11-14 Wed
-	- Jim Taggart present
+- [!] 2018-11-15 Thu
 		- [X] 6:45a brushing
-		- [X] 9:00a aux brushing
-	- [X] 9? am - call Dr Bouboulis 203 655 9904 to schedule phone consult
-		-> took 3 or 4 tries to reach human other than voicemail during open hours
-		   attempt that finally worked was via google voice rather than landline
-	- CCIL & Gwyn likely rescheduled to today
+	- [ ] 8:00am Jim calls to develop regular task/goal integration work
+			- MAKE A DOC for goals/plans/tasks
+			- LIST where to look for more
+			- (something I forgot)
+	- [ ] ~9:30am? look into ensuring car can drive
+		- [ ] 10:15a aux brushing
+	- [ ] 10:30am Gwyn calls to decide coming VA
 		- [ ] 12:30p brushing
-		- [ ] 3:00p aux brushing
-		- [ ] 5:30p brushing
-		- [ ] 8:00p aux brushing
-
-
-- [ ] 2018-11-15 Thu
-		- [ ] 6:45a brushing
-		- [ ] 9:00a aux brushing
-		- [ ] 11:15a brushing
-		- [ ] 1:30p aux brushing
+	- [ ] ~1pm? have done / doing any work if needed for ensuring car can drive
+		- [ ] 2:45p aux brushing
 	- [ ] 3pm leave for VA
-		- [ ] 3:45p brushing
-		- [ ] 6:00p aux brushing
+		- [ ] 5:00p brushing
+		- [ ] 7:15p aux brushing
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 7
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
@@ -498,7 +505,7 @@ Routes for safety:
 	- [ ] Make a fund for people to message freely with it.
 1: personal requirements of life fully maintained
 	- want to stay on top of obligations and expectations
-		- ONGOING list
+		- UPCOMING list
 		- present concerns list
 		- nonlisted expectations
 		- other lists
@@ -718,6 +725,14 @@ Metals: Valley Steel, 30 mins towards elkins
 
 Frontier Support:
 	Main Menu: 877-669-5535
+		1 - current customer, customer service
+		2 - current customer, install date
+		3 - current customer, billing or technical support
+			-> 1 - english residential
+			My # is (304) 456-5564
+		4 - new customer, interested in services
+		    or adding services to existing account
+		OOPS no longer the menu below
 		-> 2 - customer support
 		   9 - other technical support
 		   # - further assistance
