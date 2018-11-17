@@ -1493,3 +1493,4 @@ BT19, brushing, 2018-11-17T14:36:45+00:00, 2018-11-17T14:39:37+00:00, Measure an
 BT13, brushing, 2018-11-17T14:39:45+00:00, 2018-11-17T14:49:20+00:00, Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux),
 BT15, brushing, 2018-11-17T14:49:26+00:00, 2018-11-17T14:51:52+00:00, N2 scheduling etc work: 2 min,
 BT19A, brushing, 2018-11-17T14:51:55+00:00, 2018-11-17T14:57:34+00:00, About to brush begin dispenser,
+BT19B, brushing, 2018-11-17T14:57:43+00:00, 2018-11-17T14:58:15+00:00, Finalize lozenge percent,
