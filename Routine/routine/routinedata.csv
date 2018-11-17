@@ -1470,3 +1470,4 @@ BT19, brushing, 2018-11-17T12:55:42+00:00, 2018-11-17T12:59:41+00:00, Measure an
 BT13, brushing, 2018-11-17T12:59:52+00:00, 2018-11-17T13:23:41+00:00, Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux),
 BT15, brushing, 2018-11-17T13:23:44+00:00, 2018-11-17T13:26:58+00:00, N2 scheduling etc work: 2 min,
 BT19A, brushing, 2018-11-17T13:27:10+00:00, 2018-11-17T13:36:21+00:00, About to brush begin dispenser,
+BT19AB, brushing, 2018-11-17T13:37:21+00:00, 2018-11-17T13:42:27+00:00, If time, work towards exercise routine & finish if not yet today, UNFINISHED
