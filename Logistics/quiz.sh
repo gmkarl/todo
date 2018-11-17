@@ -4,9 +4,10 @@ file="00-Organizer.txt"
 needed=7
 pat='^I*[0-9]\.* '
 tmp=$(mktemp)
-echo 0  > "$tmp"
-echo 0 >> "$tmp"
-while (( $(<"$tmp") < "$needed" ))
+echo 0 0  > "$tmp"
+while
+	read correct total < "$tmp"
+	(( correct < needed ))
 do
 	grep "$pat"  "$file" | sort -R | head -n 1 |
 	{
@@ -26,8 +27,7 @@ do
 			read < /dev/tty
 			clear
 		fi
-		echo "$correct" > "$tmp"
-		echo "$total" > "$tmp"
+		echo "$correct" "$total" > "$tmp"
 	}
 done
 read correct total < "$tmp"
