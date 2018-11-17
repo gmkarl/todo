@@ -14,8 +14,6 @@ rating_trials=$((0))
 rating_successes=$((0))
 rating_startsecs=$(($(date +%s)))
 
-echo "Hey can we change this script to require an intelligent response to confirm a task? finger twitching resulting in false confirmations sometimes"
-
 while read code name
 do
   ttrackline="$(grep ,"$name", ${ttrackdir}/routines.csv)"
@@ -64,7 +62,7 @@ do
       fi
 			while true
 			do
-				randstr="$(tr -cd 'a-zA-Z0-9' < /dev/urandom | head -c 6)"
+				randstr="$(tr -cd 'a-zA-Z0-9' < /dev/urandom | head -c 3)"
 				echo "Please type '$randstr' when completed, or 'abort' to give up."
 				read abort < /dev/tty
 				stop=$(date +%s)
