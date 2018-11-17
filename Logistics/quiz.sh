@@ -1,5 +1,6 @@
 #!/bin/bash
 
+quiz_startsecs=$(($(date +%s)))
 file="00-Organizer.txt"
 needed=7
 pat='^I*[0-9]\.* '
@@ -30,6 +31,10 @@ do
 		echo "$correct" "$total" > "$tmp"
 	}
 done
+quiz_endsecs=$(($(date +%s)))
+quiz_duration=$((quiz_startsecs - quiz_endsecs))
 read correct total < "$tmp"
-echo "$(( correct * 100 / total))% !"
+quiz_pct=$(( correct * 100 / total))
+echo "Quiz PCT=$(( correct * 100 / total))"
+printf "Total Duration=%d:%02d\n" $((quiz_duration/60)) $((quiz_duration%60))
 rm "$tmp"
