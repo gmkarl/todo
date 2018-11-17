@@ -14,6 +14,9 @@ rating_trials=$((0))
 rating_successes=$((0))
 rating_startsecs=$(($(date +%s)))
 
+echo "Hey; let's improve the rating so that it outputs right before I brush, somehow"
+echo "Probably need to tag the routine task in some way"
+
 while read code name
 do
   ttrackline="$(grep ,"$name", ${ttrackdir}/routines.csv)"
@@ -32,7 +35,7 @@ do
 	while true
 	do
 
-		echo " == $name == " | tr a-z A-Z
+		echo " == $name == (last status: $(<"$routine".status)" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
 		start=$(date +%s)
@@ -103,8 +106,10 @@ done
 rating_endsecs=$(($(date +%s)))
 rating_duration=$((rating_endsecs - rating_startsecs))
 rating_pct=$((100 * rating_successes / rating_trials))
+echo "${rating_pct} 54" > "$routine".status
+git add "$routine".status
 
-echo "Rating PCT=${rating_pct} baseline=53"
+echo "Rating PCT=${rating_pct} baseline=55"
 printf "Total Duration=%d:%02d\n" $((rating_duration/60)) $((rating_duration%60))
 
 # TODO: record duration & pct, and output metric to be used to figure n2

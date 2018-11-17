@@ -1501,3 +1501,4 @@ BT31, brushing, 2018-11-17T15:12:09+00:00, 2018-11-17T15:12:29+00:00, Verify loz
 BT32, brushing, 2018-11-17T15:13:04+00:00, 2018-11-17T15:13:06+00:00, Verify did not lose track of items while brushing,
 BT33, brushing, 2018-11-17T15:13:07+00:00, 2018-11-17T15:13:13+00:00, Verify correctly evaluated routine,
 BT50, brushing, 2018-11-17T15:13:14+00:00, 2018-11-17T15:13:57+00:00, Box put away,
+BT-5, brushing, 2018-11-17T17:00:11+00:00, 2018-11-17T17:00:17+00:00, Verify finished last run of routine,
