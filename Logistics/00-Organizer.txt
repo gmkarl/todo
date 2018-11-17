@@ -394,33 +394,17 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-15 Thu
-		- [X] 6:45a brushing
-	- [ ] ~9:30am? look into ensuring car can drive
-		- [ ] 10:15a aux brushing
-	- [ ] 10:30am Gwyn calls to decide coming VA
-		- [ ] 12:30p brushing
-	- [ ] ~1pm? have done / doing any work if needed for ensuring car can drive
-		- [ ] 2:45p aux brushing
-	- [ ] 3pm leave for VA
-		- [ ] 5:00p brushing
-		- [ ] 7:15p aux brushing
-	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
-		CHAPTER 7
-		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
-
 - [ ] 2018-11-00 Jacks off maternity leave in November
 
-- [ ] 2018-11-16 Fri
+- [!] 2018-11-17 Sat
+		- [X] 5:00a brushing
+		- [ ] 7:15a aux brushing
+		- [ ] 9:30a brushing
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-		- [ ] Plan to sign up for core concepts course that follows ($475?)
-		- [ ] 6:45a brushing
-		- [ ] 9:00a aux brushing
-		- [ ] 11:15a brushing
-		- [ ] 1:30p aux brushing
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-		- [ ] 3:45p brushing
-		- [ ] 6:00p aux brushing
+		- [ ] 12:00p aux brushing
+		- [ ] 2:30p brushing
+		- [ ] 5:00p aux brushing
+	
 
 - [ ] 2018-11-18 Sun
 	- [ ] 8:00am Jim calls to develop regular task/goal integration work
@@ -448,6 +432,9 @@ youtube/vimeo: search consensus decision-making
 		call goes to 207 518 8256
 		             304 456 5564
 
+- [ ] 2018-11-27 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
 
@@ -464,6 +451,13 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/
+
+- [ ] 2018-12-20
+	- [ ] 3pm? leave for charlottesville
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 8
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 	         
 
 - [ ] 2019-02-14
@@ -707,11 +701,86 @@ Voicemail:
 		pin is 6 digits
 	304 799 6891
 
-voicemail notes
-	304 456 5300 oct 18 939a
-		gwyn says i left my toiletries
-	304 636 6300 tue oct 9 959a
-		ashley dr fleming consultation visit oct 10 1p reminder
+VOICEMAIL NOTES
+
+Caverns
+	Nearby caverns include
+	- seneca
+	- shenandoah caverns
+		9am - 4pm winter hours
+		tour is 1 hour, $25, 56 deg F
+			may be extra self-guided time after tour or somesuch
+		261 Caverns Rd
+		Shenandoah Caverns (or Quicksburg for GPS), VA 22847
+	- luray caverns, near shenandoah caverns
+		9am - 4pm winter hours
+		tour is ~1 hour
+		101 Cave Hill Rd
+		Luray, VA 22835
+		540-843-6551
+	- grand caverns
+		10a - 4pm winter hours
+		tour is 70 minutes, $20, 54 deg F
+		5 Grand Caverns Dr.
+		Grottoes, VA 24441
+		888-430-2283 / 540-249-5705
+	- endless caverns
+		only open april 1 - november 15
+		10am - 4pm
+		tour is 75 minutes
+		1800 Endless Caverns Rd
+		New Market, VA 22844
+		800-544-2283
+		underground passageways not fully mapped
+	- skyline caverns
+		9am - 4pm winter hours
+		tour is $22, $2 off coupon at www.skylinecaverns.com/coupon.html; for printing
+		10344 Stonewall Jackson Highway
+		Front Royal, VA 22630
+		800-296-4545 / 540-635-4545
+	- Natural Bridge Caverns
+		deepest on east coast
+		group overnight tours  & trips sgolding@naturalbridgeva.com
+		10am - 4pm winter hours, 9am in nov
+		tour is 45 minutes, $18
+		15 Appledore Lane
+		Natural Bridge, VA 24578
+		540-291-2121 or bridge & hotel toll-free 800-533-1410
+	- Dixie Caverns
+		9:30am - 5pm
+		$14, 57 deg F
+		5753 West Main Street
+		Salem, VA 24153
+		540-380-2085
+	- Gap Caverns
+		national park
+		$8.00 tours, april-september 1 pm
+		Rt 58
+		Ewing, VA 24248
+		804-248-2817
+		
+
+	more can be found at: cavern.com
+	caves on public property may be generally accessible
+	camping in caverns is a thing
+
+	Underground lodging:
+	Grand Canyon Caverns
+		- Arizona
+		- 220 ft motel room $800/night
+	Sala Silvermine
+		- Sweden
+		- 500 ft underground hotel room; mine lift shaft
+		- $500/night
+	Other possible:
+		Italy: Corte San Pietro, $275/night
+		Australia: Desert Cave Hotel, $160/night
+		Turkey: Cappadocian Cave Suites and other places in area, up to $100/night
+		Spain: Cuevas el Guindas and many abandoned caves, up to $55/night
+		Tunisia: Hotel Marhala, looks like star wars
+		Arkansas: Beckham Creek Cave Lodge, looks deepish, $1600/night
+		New Mexico: Kokopelli's Cave, $280/night
+		Greece: The Lava Cave also e.g. volcano hikes, $350/night
 
 Eye Prescr.
 	2018-10-26 Kevin Cox
