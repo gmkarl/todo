@@ -34,8 +34,9 @@ do
   rating_trials=$((rating_trials + 1))
 	while true
 	do
-
-		echo " == $name == (last status: $(<"$routine".status)" | tr a-z A-Z
+		read judge_pct judge_baseline < "$routine".status
+		judge_pct=$((judge_pct/2 + rating_successes * 50 / rating_trials))
+		echo " == $name == (cur:${judge_pct} base:${judge_baseline}) | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
 		start=$(date +%s)
