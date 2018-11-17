@@ -383,7 +383,12 @@ youtube/vimeo: search consensus decision-making
 			Screenshots in dom0
 		2018-11-15 06:56 ET
 			
-		
+		2018-11-16 08:35 ET
+			leahsv has not followed through with payment
+			One of Prudentwriter's Paypal accounts took the money back, saying unauthorized transaction.  Prudentwriter said he'll make it work.  Chat with him will be destroyed in 6 days.
+			Place 0.79 ETH in escrow to jimmy13.
+			Expecting $198.88 from Jaakoforssen66@aol.com
+			
 
 # CALENDAR
 
@@ -425,12 +430,16 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2018-11-19 Mon
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+	- [ ] 9:30a - 10:30a Kate call, rescheduled this week
 
 - [ ] 2018-11-20 Tue
-	- [ ][ ] 10:00a - 11:00a Kate call Tue, Fri
+	- no Kate call this day
 	
 - [ ] 2018-11-22 Thu
 	- Thanksgiving Day
+
+- [ ] 2018-11-23 Fri
+	- no Kate call this day
 
 - [ ] 2018-11-26 Mon
 	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
@@ -442,8 +451,14 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
 
-- [ ] 2018-12-05
-	(dental fillings were moved when opening happened)
+- [ ] 2018-12-05 Wed
+	- [ ] 3:00 PM Drs Appointment Elkins
+		Bring mailed paperwork, insurance card, medications
+		Tygart Valley Medical Specialties
+		911 Gorman Avenue
+		Old Physicians Office Building
+		Suite 201
+		Elkins, WV
 
 - [ ] 2018-12-14
 	- [ ][ ] gbo internship application supposed to come up this month
