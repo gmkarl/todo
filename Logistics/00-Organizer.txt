@@ -41,7 +41,10 @@ lewisburg:
 
 # UPCOMING
 - [ ] Handle E-Mail
-	-> I've finished up through Your Requested Document(s) are available from myd-h on Oct 22
+	-> I've finished up to but not processed Acadia Evaluation Oct 24
+	SHOULD STILL REMOVE STAR
+	/?&st=2500
+- [ ] follow up get EEG from dartmouth-hitchcock
 - [ ] comprehend e-mail since last time time I forwarded starred e-mails?
 - [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
 - [ ] didn't get call from mooney or celia 10-31 wed ? follow up.
@@ -92,20 +95,54 @@ lewisburg:
 - [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
 
 Goals at # GOALWORK
+==
+Now: 2018-11-17 14:50 ET
+Goal: list to refer to to stay on task
+Ready behaviors: brushing, working on scuttlebutt bridge
+Pressures I'm ignoring: keeping room clean, addressing obligations, what else?
+Difficulties: pressured tasks causing ability to decrease -- prefer to do ready tasks
+Challenges I'm engaging: routine around brushing, maybe doing it 50%
+		hope to optimize use of brushing routine to resolve difficulty tasks
+Biggest issue:
+	- plan time
+	- organize goals
+	- craft strategy to manage time
+		I want/need to craft a strategy to aid in managing my time using brushing routine.
+		But it is very hard to access any information around this goal.
+
+TDE:
+	Time spent
+	Difficulty
+	Effectiveness
+
 == Immediately Relevent ==
 I0 resuming subsistent daily habits
-I1 adding rating to routine and quiz
+	Subjective Rating: 30%
+I1 organizing this list and strategies to use it for effectiveness
+	Subjective Rating: 80% time spent 200% difficulty 5% effectiveness
+
+I1 checking rating works and including quiz result in output
+	Subjective Rating: 80% effort 5% time
+		concept: how much time you'd like to spend is also part of time usage in TEE
 I2 planning my tasks in general to optimize time and resource management
--I3 adding frequency hopping to noiscillate detector
+	Subjective Rating: 10%
+I3 adding frequency hopping to noiscillate detector
+	SR: 0%
 I4 finishing cleaning up e-mail
--I5 making a blockchain storage interface
+	Subjective Rating: 80% effort 0% time 5% effectiveness
+I5 integrating scuttlebutt with e-mail or matrix
+	Subjective Rating: 100% effort 140% time 40% effectiveness
 -I6 resume exercising
+	Subjective Rating: 50%
 -I7 get back on scuttlebutt & respond to wiley
+	Subjective Rating: 0%
 -I8 UPCOMING list in calendar
 -I9 preparing for tomorrow
 -IA merging these lists
--IY ask jim taggart about carpooling to mass
--IZ jim reese is coming by within a few days to do something or other?
+-IB visiting some caverns and noting if there is an opportunity to hang out
+-IC getting my EEG
+-ID making a pluggable blockchain & swarm storage interface
+-IZ making plans to visit massachusetts
 
 == General ==
 0. Managing this list of concerns
@@ -121,7 +158,7 @@ I4 finishing cleaning up e-mail
 		Then I can queue up work that others can do.
 	- my programming projects should be bounties, forums, etc
 	- my shielding pursuits should be a research project
-	- my logistics should find support such that they use up reasonable time
+	- my logistics should be delegated and organized such that they use up reasonable time
 	- my time should be spent optimizing my approaches and plans
 
 	- unifying goals / tasks / scheduling information locations, into 00-Organizer.txt for now
@@ -207,11 +244,19 @@ I4 finishing cleaning up e-mail
 			- bookmoons work
 			- other PR's
 		- ongoing video (also for comfort with it)
+	- helpful environments
+		- education, internships, volunteering, jobs
+		- caverns, radios, shielding, NVC, BCI research
+	- collaboration
+		- collaboration training e.g. NVC?
+		- jim, riley, kate, jeremy, brian decker/samppa
+		- internet people
+		- meeting new people who want to work or help
+		- following up with people who can help
 -8. health
 	- exercise
 		- habitual
 		- evening/night scheduled
-			-> on my routine but skipping every day  similar effect to nicotine but not as strong
 	- awareness
 		- online classes
 		- sharing with people
@@ -224,8 +269,9 @@ I4 finishing cleaning up e-mail
 	- food / thrive
 		- sourdough bread !
 		- cookie & kate ingredients
+		- deal with rotting apples in fridge
 -9. maintaining relationships (should add these to ongoing)
-	- Owe Katrina a call
+	- Owe Katrina a call?
 	- i called mom
 	- VISIT PARENTS at least once a year !!!
 	- Old / current loves
@@ -241,11 +287,13 @@ I4 finishing cleaning up e-mail
 		- childhood / school
 		- groups i've interacted with
 -10. finances
+	- set up trading policy ... can somehow get somebody else to actually perform it?
+	- maintain minimum balance on account
+	- budget so as to provide for savings to increase
+	- reach out to father to support legitimate expenses
+	- consider choosing 1 reliable source of income?
 	- followup on localethereum & interpersonal trades
-	- don't overdraw account
-		I am regularly overdrawn and keep accumulating debt
-	- solid crypto investment?
-	- job?
+	- keep debt to 50% maximum to provide space for interest
 
 ## NICOTINE AUTONOMY PLANNING
 	STATUS:
@@ -398,21 +446,40 @@ youtube/vimeo: search consensus decision-making
 
 - [!] 2018-11-17 Sat
 		- [X] 5:00a brushing
-		- [ ] 7:15a aux brushing
-		- [ ] 9:30a brushing
+		- [X] 7:15a aux brushing
+		- [X] 9:30a brushing
 	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 		- [ ] 12:00p aux brushing
-		- [ ] 2:30p brushing
-		- [ ] 5:00p aux brushing
+			-> gave up
+		- [ ] 2:00p try aux brushing again, no need for routines
+		- [ ] 4:00p brushing
+		- [ ] 6:00p aux brushing
+	-> I think I did one more brushing, but did not finish the other two, not sure
+	-> successfully made steps on a really hard project that is not my primary
+	   goal this day
+	-> following day am _really_ frozen
 	
 
 - [ ] 2018-11-18 Sun
+		- [X] 7:45a brushing
 	- [ ] 8:00am Jim calls to develop regular task/goal integration work
+			- REVIEW these goals at start of call
+			- USE agenda strategy for call
 			- MAKE A DOC for goals/plans/tasks
 			- LIST where to look for more
 			- (something I forgot)
+			- CHECK-OUT, include subjective ratings of time, effort, effectiveness
+		- [ ] 9:45a aux brushing
+		- [ ] 12:00p brushing
+		- [ ] 2:15p aux brushing
+	- [ ] visit gwyn in afternoon to verify solar project
+	      could bring laundry
+		- [ ] 4:30p brushing
+		- [ ] 6:45p aux brushing
+	
 
 - [ ] 2018-11-19 Mon
+	- [ ] 8:00am - 9:15am Jim call again (9:29 hard time)
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
 	- [ ] 9:30a - 10:30a Kate call, rescheduled this week
 
@@ -459,6 +526,15 @@ youtube/vimeo: search consensus decision-making
 		CHAPTER 8
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 	         
+- [ ] 2019-01-28
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Beanery American Grill
+		226 Comfort Inn Dr.
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+		
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
@@ -704,6 +780,10 @@ Voicemail:
 VOICEMAIL NOTES
 
 Caverns
+	WVCC provides access to public caves
+		https://wvcc.net/cave-preserves/
+	WVASS maps and indexes caves
+		https://www.wvass.org
 	Nearby caverns include
 	- seneca
 	- shenandoah caverns

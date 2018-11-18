@@ -32,7 +32,7 @@ do
 	}
 done
 quiz_endsecs=$(($(date +%s)))
-quiz_duration=$((quiz_startsecs - quiz_endsecs))
+quiz_duration=$((quiz_endsecs - quiz_startsecs))
 read correct total < "$tmp"
 quiz_pct=$(( correct * 100 / total))
 echo "Quiz PCT=$(( correct * 100 / total))"
