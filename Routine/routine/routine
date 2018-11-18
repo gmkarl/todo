@@ -36,7 +36,7 @@ do
 	do
 		read judge_pct judge_baseline < "$routine".status
 		judge_pct=$((judge_pct/2 + rating_successes * 50 / rating_trials))
-		echo " == $name == (cur:${judge_pct} base:${judge_baseline}) | tr a-z A-Z
+		echo " == $name == (cur:${judge_pct} base:${judge_baseline})" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
 		start=$(date +%s)
@@ -107,10 +107,11 @@ done
 rating_endsecs=$(($(date +%s)))
 rating_duration=$((rating_endsecs - rating_startsecs))
 rating_pct=$((100 * rating_successes / rating_trials))
-echo "${rating_pct} 54" > "$routine".status
+rating_baseline=56
+echo "${rating_pct} ${rating_baseline}" > "$routine".status
 git add "$routine".status
 
-echo "Rating PCT=${rating_pct} baseline=55"
+echo "Rating PCT=${rating_pct} baseline=${rating_baseline}"
 printf "Total Duration=%d:%02d\n" $((rating_duration/60)) $((rating_duration%60))
 
 # TODO: record duration & pct, and output metric to be used to figure n2
