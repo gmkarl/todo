@@ -443,54 +443,23 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [ ] 2018-11-00 Jacks off maternity leave in November
-
-- [!] 2018-11-17 Sat
-		- [X] 5:00a brushing
-		- [X] 7:15a aux brushing
-		- [X] 9:30a brushing
-	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-		- [ ] 12:00p aux brushing
-			-> gave up
-		- [ ] 2:00p try aux brushing again, no need for routines
-		- [ ] 4:00p brushing
-		- [ ] 6:00p aux brushing
-	-> I think I did one more brushing, but did not finish the other two, not sure
-	-> successfully made steps on a really hard project that is not my primary
-	   goal this day
-	-> following day am _really_ frozen
-	
-
-- [ ] 2018-11-18 Sun
-		- [X] 7:45a brushing
-	- [ ] 8:00am Jim calls to develop regular task/goal integration work
-			- REVIEW these goals at start of call
-			- USE agenda strategy for call
-			- MAKE A DOC for goals/plans/tasks
-			- LIST where to look for more
-			- (something I forgot)
-			- CHECK-OUT, include subjective ratings of time, effort, effectiveness
-		- [ ] 9:45a aux brushing
-		- [ ] 12:00p brushing
-		- [ ] 2:15p aux brushing
-	- [ ] visit gwyn in afternoon to verify solar project
-	      could bring laundry
-		- [ ] 4:30p brushing
-		- [ ] 6:45p aux brushing
-	
-
-- [ ] 2018-11-19 Mon
-  - [X] 7:45a toothbrushing
+- [!] 2018-11-19 Mon
+  	- [X] 7:45a toothbrushing
   - [X] 8:00a - 9:00a Jim Call
-  - [ ] Back up floobits
+  - [X] Back up floobits
   - [ ] schedule toothbrushing
   - [ ] Call mother back !!
-	- [ ] 8:00am - 9:15am Jim call again (9:29 hard time)
+	- [X] 8:00am - 9:15am Jim call again (9:29 hard time)
 	- [X] 9:30a - 10:30a Kate call, rescheduled this week
 	      Jim available at this time too if desired
-	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+	- [X] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
 	      Jim agrees to meet at this time too
 	      Jim can make conference calls if we can't, will need number
+	- [ ] 1:20p aux toothbrushing
+	- [ ] 3:15p toothbrushing
+	- [ ] 5:10p aux toothbrushing
+	- [ ] 7:05p toothbrushing
+	- [ ] 9:00p aux toothbrushing
 
 - [ ] 2018-11-20 Tue
   - [ ] 8:00a - 9:00a Jim Call
