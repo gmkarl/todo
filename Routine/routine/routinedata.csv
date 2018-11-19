@@ -1553,3 +1553,4 @@ BT40, brushing, 2018-11-19T18:30:39+00:00, 2018-11-19T18:31:01+00:00, Eye lubric
 BT17B, brushing, 2018-11-19T18:31:07+00:00, 2018-11-19T18:32:20+00:00, Migrate routine data off airgapped phone: 1 min,
 BT18, brushing, 2018-11-19T18:32:23+00:00, 2018-11-19T18:32:26+00:00, Have started current routine or no current routine,
 BT13, brushing, 2018-11-19T18:32:33+00:00, 2018-11-19T18:32:59+00:00, Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux), UNFINISHED
+BT15, brushing, 2018-11-19T18:33:01+00:00, 2018-11-19T18:36:40+00:00, N2 scheduling etc work: 2 min,
