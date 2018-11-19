@@ -18,6 +18,7 @@ Priorit	Delay	Expense	Availability
 					get new tire for passat
 					get new insurance?
 
+
 RACI
 who's Responsible, who's Accountable, Communication, Information
 
@@ -413,17 +414,37 @@ youtube/vimeo: search consensus decision-making
 			- (something I forgot)
 
 - [ ] 2018-11-19 Mon
+  - [X] 7:45a toothbrushing
+  - [X] 8:00a - 9:00a Jim Call
+  - [ ] Back up floobits
+  - [ ] schedule toothbrushing
+  - [ ] Call mother back !!
+	- [X] 9:30a - 10:30a Kate call, rescheduled this week
+	      Jim available at this time too if desired
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
-	- [ ] 9:30a - 10:30a Kate call, rescheduled this week
+	      Jim agrees to meet at this time too
+	      Jim can make conference calls if we can't, will need number
 
 - [ ] 2018-11-20 Tue
+  - [ ] 8:00a - 9:00a Jim Call
 	- no Kate call this day
-	
+
+- [ ] 2018-11-21 Wed
+  - [ ] 8:00a - 9:00a Jim Call
+  
 - [ ] 2018-11-22 Thu
 	- Thanksgiving Day
+  - Jim not working
 
 - [ ] 2018-11-23 Fri
+  - [ ] 8:00a - 9:00a Jim Call
 	- no Kate call this day
+	
+- [ ] 2018-11-24 Sat
+  - Jim Call? he'll get back to me
+
+- [ ] 2018-11-25 Sun
+  - [ ] 8:00a - 9:00a Jim Call
 
 - [ ] 2018-11-26 Mon
 	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
@@ -431,9 +452,12 @@ youtube/vimeo: search consensus decision-making
 		call comes from  203 655 9904
 		call goes to 207 518 8256
 		             304 456 5564
+	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+        Jeremy invites Jim to meet here
 
 - [ ] 2018-11-27 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	         Kate up for meeting with Jim on Tuesdays
 
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
@@ -1069,3 +1093,194 @@ set up internet
 
 # DONE
 - Content moved to 01-Calendar-Log.txt .
+
+######
+
+# Agreements
+1. agree upon process
+  - discussion proceeds to follow only current topic, which is listed in agenda
+2.  first agenda topic is to brainstorm and agree upon initial agenda topics
+  - each topic has a priority, 1st priority items always are dealt with before lower priorities
+  - 1st priority items are added to agenda with a deadline.  if discussion is incomplete when deadline is hit, item may be readded to agenda for further discussion
+
+= Create Agenda Topics = Priority 1 = Deadlin: 8:20 am
+  Time use: 50%
+    -> we started late and it is INCREDIBLY hard to get anything done
+    -> can we plan our use of tiem better?
+  Effort: 100%
+  Effectiveness: 60%
+    -> there were agenda topics I cared about that were left out
+= When Talking Next = Priority 1? = Deadline 8:25 am
+  TEE: 100% 100% 100%
+= Make Major Tasks/Goals Document = Priority 2 = Deadline 8:40
+  TEE: 40% 200% 40%
+    -> I spent a lot of time confused during this
+      Jim seemed to also be confused
+    -> I had strong chest contractions and it was very hard to do this
+= Make List of Where to Look for Concerns to Integrate = Priority 2 = Deadline 8:50
+  TEE: 70% 80% 100%
+    -> I feel this was more successful than planned
+    -> maybe could have made it more complex? set goals higher? or used less time?
+= CANCELED Brainstorm Agenda for Tomorrow? = Deadline 9:00
+= Checking Out at the End = 9:00 - 9:10 =
+  TEE: 100% 200% 50%
+    -> I struggled here and couldn't meet my mental goals
+    -> I left out things I wanted to address
+    -> I couldn't hear Jim's expressions well
+
+    -> TEE improvement:
+      - rate each timespan something was done during for Time Use, Difficulty, and Effectiveness
+      - we want things to have good use of time, low effort engaged, and high effectiveness
+      - second half of check-in: celebrate items with good ratios, discuss items with poor ratios
+    -> Further thoughts:
+      - general check-outs usually just have each person give a general sense of what went well and what went poorly and suggestions for next time, or some variant
+      - Karl is often in a state of mind where he can't really generalize or combine information in his mind, so the TEE detail approach is helpful for him, but it is not a good use of time overall
+      - Ideas:
+      - could check in with Karl, and try TEE approach or try things generally
+      - could take some space to calm down, see if Karl's ability to generalize opens up after engaging in some 'therepeutic' behavior like exchanging how we are doing and talking briefly about day
+      - Karl also has an issue where his mind goes all wonky when he thinks about certain things among a group of things.  TEE is rote enough that he can try to apply it to all things and keep using it if they make him all wonky.
+
+    TEE: rate time use, difficulty, effectiveness
+         missing: wellness of participants
+    Jim: what went well, what went poorly, suggestions for improvement
+
+
+Other Concerns?
+
+  Jim TEE:
+    - agenda process, brainstorming, assigning priority, having deadlines means you are using time effectively. we did that. 100% time
+    - addressed effort: impressed with me pushing through. feels we were on task 100% effort
+    - effectiveness: stumbled a little when we created document, not that effective due to missing on box 50% effectiveness
+  Karl feels unsatisfied with regard to including necessary concerns in the process.
+  Jim's concerned that we mostly behaved in a rote manner, didn't really integrate meaning of information
+
+Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
+
+
+= CONCERNS / GOALS =
+  - Jim knowing K's day-to-day status
+  - Daily routine strategies
+  - Truck off Diane's land
+  - Concerns listed elsewhere
+
+  - Financial
+    - Overdraws
+    - Tax liability
+  - Medical
+    - Cancer followup
+    - Other
+  - Upcoming obligations
+  - Daily life ease
+    - meals
+    - not being disgusting or unwieldy
+  - Possessions
+  - Documents / information
+  - Education
+  - Personal work
+    - shielding
+    - information security, community collaboration, targeted individuals
+  - Working with others with similar goals
+  - Broaden social community
+  - Connecting with telescope
+  - Connection with family
+  - ease of use and interoperability of this document
+
+= MAJOR TASKS / ACTIVITIES =
+
+  - Finding / processing more concerns, obligations, goals, tasks
+  - Handling possessions + documents (truck)
+  - Personalizing daily routine/ strategies / time management
+  - Major and medium-term life planning
+    - Delegation
+  - Managing financial wellness
+  - Managing physical / medical wellness
+  - Personal work - shielding, etc. 
+  - TLC's, daily life ease, activities of happiness, meeting the needs of others
+  - School and Career behavior
+  - Completing responsibilities
+
+Places to find concerns, tasks, goals:
+  - For Everything
+    - Stuff I haven't looked at yet
+    - Stuff i've looked but haven't dealt with yet
+    - Stuff I meant to deal with but have not successfully done so
+      - notably my memory is decreasing so i may have assumed i'd remember something but completely forgot it
+  - Physical
+    - things other people know or think of
+    - => physical mail
+    - phone system
+      - frontier voicemail
+      - google voicemail
+      - google texts
+      - mobile phone texts
+    - nearby notebooks
+    - papers file
+    - subscriptions / utilities i may need to maintain
+    - boxes that may contain documents similar to this or related
+    - hard-to-find notes that are nearby e.g. in a backpack
+  - Digital
+    - github/fuzzyTew/todo repo
+      - 00-Organizer file
+      - 'UPCOMING' section
+      - 'present concerns' section which is unfortunately unlabeled
+      - other sections
+    - other documents in this repo
+  - other files on my computer
+  - files in storage or recoverable
+  - e-mail
+    - => e-mail i haven't read
+    - old starred e-mails i've dropped
+    - e-mails i've sent myself to remind myself of things and ignored
+    - just plain old e-mail
+  - facebook interactions
+  - stuff not thought of
+
+
+# 2018-11-19 08:12 AM Jim Taggart Meeting
+
+08:15
+- [X] talking with Jim
+08:16
+- [X] to 08:21 Agenda
+      update to 08:26
+      update to 08:45
+- [X] to 09:00 merging last document
+  -> let's schedule followup
+- [X] to 09:10 Jim's concern with truck
+- [X] to 09:20 scheduling future calls; jeremy?
+- [ ] to 09:30 discuss TEE
+  -> ran out of time, realized kate call 9:30
+- [ ] to 09:40 checkout
+
+Karl:
+  TDE not addressed enough.
+    I really want to start adjusting things to improve in the face of my difficulty getting senses of stuff.  The only way we began to address this was by moving the old doc into this one -- nothing was actually done with it.
+  Success: got through rough spot at beginning! jim took over agenda tracking to my satisfaction which was really freeing!
+  suggestion: maybe we could have two meetigns, one to work on _process_ and another to get things _done_ ?
+
+Jim:
+  Stuck between 'process' and 'getting things done'.
+  Appreciates suggestion above.
+  
+
+concerns:
+- merging last document
+  subconcerns:
+      - document will be lost unless enters todo repository; karl's memory is not a place to keep things
+      - jim not on board with regard to using this time to make file that unifies concerns in todo repository
+      - other item i forgot
+- scheduling future calls; jeremy?
+- TEE use
+- plan next green bank visit nov 28th/29th
+  OR address Jim's concern around trunk staying so long
+
+- finances, with specific goal
+- physical/medical scheduling (CCIL?)
+- voicemail
+- beginning enumerating concerns from sources
+- plan truck
+- new pressing concerns:
+  - dad's email, car registration
+
+# Next meeting:
+- discuss two meetings, one for process and organization tools, another for getting work don
