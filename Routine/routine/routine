@@ -35,7 +35,10 @@ do
 	while true
 	do
 		read judge_pct judge_baseline < "$routine".status
-		judge_pct=$((judge_pct/2 + rating_successes * 50 / (rating_trials-1)))
+		if (( rating_trials > 1 ))
+		then
+			judge_pct=$((judge_pct/2 + rating_successes * 50 / (rating_trials-1)))
+		fi
 		echo " == $name == (cur:${judge_pct} base:${judge_baseline})" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
