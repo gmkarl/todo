@@ -1,16 +1,16 @@
+BT20	Brush Teeth
+BT19	Measure and dose lozenge percent
+BT19B	Finalize lozenge percent
+BT19AB	If time, work towards exercise routine & finish if not yet today
 BT-5	Verify finished last run of routine
 BT00	Information task: 1 min
 BT10	Toothpaste / Flossing / Fluoride attempt correct
 BT40	Eye lubricant
 BT17B	Migrate routine data off airgapped phone: 1 min
 BT18	Have started current routine or no current routine
-BT19	Measure and dose lozenge percent
 BT13	Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux)
 BT15	N2 scheduling etc work: 2 min
-BT19A	About to brush begin dispenser
-BT19AB	If time, work towards exercise routine & finish if not yet today
-BT19B	Finalize lozenge percent
-BT20	Brush Teeth
+BT19B   Dispenser work: 5 min
 BT25	Review list and concept of present concerns (include ref to old concerns)
 BT30	Verify Toothpaste / Flossing / Fluoride attempt correct
 BT31	Verify lozenge percent correct
