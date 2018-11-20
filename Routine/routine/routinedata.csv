@@ -1544,3 +1544,36 @@ BT60, brushing, 2018-11-18T19:50:55+00:00, 2018-11-18T19:50:55+00:00, Sensory aw
 BT70, brushing, 2018-11-18T19:50:56+00:00, 2018-11-18T19:50:56+00:00, NVC Practice (or Aux), UNFINISHED
 BT80, brushing, 2018-11-18T19:50:57+00:00, 2018-11-18T19:50:58+00:00, Accomplishment Log, UNFINISHED
 BT90, brushing, 2018-11-18T19:50:58+00:00, 2018-11-18T19:50:59+00:00, Task (1 hr), UNFINISHED
+BT20, brushing, 2018-11-19T18:20:06+00:00, 2018-11-19T18:23:19+00:00, Brush Teeth,
+BT19, brushing, , 2018-11-19T18:27:58+00:00, Measure and dose lozenge percent, finished earlier
+BT19B, brushing, , 2018-11-19T18:28:01+00:00, Finalize lozenge percent, finished earlier
+BT00, brushing, 2018-11-19T18:28:31+00:00, 2018-11-19T18:30:27+00:00, Information task: 1 min,
+BT10, brushing, 2018-11-19T18:30:33+00:00, 2018-11-19T18:30:37+00:00, Toothpaste / Flossing / Fluoride attempt correct,
+BT40, brushing, 2018-11-19T18:30:39+00:00, 2018-11-19T18:31:01+00:00, Eye lubricant,
+BT17B, brushing, 2018-11-19T18:31:07+00:00, 2018-11-19T18:32:20+00:00, Migrate routine data off airgapped phone: 1 min,
+BT18, brushing, 2018-11-19T18:32:23+00:00, 2018-11-19T18:32:26+00:00, Have started current routine or no current routine,
+BT13, brushing, 2018-11-19T18:32:33+00:00, 2018-11-19T18:32:59+00:00, Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux), UNFINISHED
+BT15, brushing, 2018-11-19T18:33:01+00:00, 2018-11-19T18:36:40+00:00, N2 scheduling etc work: 2 min,
+BT19B, brushing, 2018-11-19T18:37:41+00:00, 2018-11-19T18:46:50+00:00, Dispenser work: 5 min, UNFINISHED
+BT25, brushing, 2018-11-19T18:47:04+00:00, 2018-11-19T18:49:18+00:00, Review list and concept of present concerns (include ref to old concerns), UNFINISHED
+BT30, brushing, 2018-11-19T18:49:31+00:00, 2018-11-19T18:49:34+00:00, Verify Toothpaste / Flossing / Fluoride attempt correct,
+BT31, brushing, 2018-11-19T18:49:37+00:00, 2018-11-19T18:50:01+00:00, Verify lozenge percent correct,
+BT32, brushing, 2018-11-19T18:50:08+00:00, 2018-11-19T18:50:09+00:00, Verify did not lose track of items while brushing, UNFINISHED
+BT33, brushing, 2018-11-19T18:50:13+00:00, 2018-11-19T18:50:14+00:00, Verify correctly evaluated routine, UNFINISHED
+BT50, brushing, 2018-11-19T18:50:19+00:00, 2018-11-19T20:15:05+00:00, Box put away, UNFINISHED
+BT19B, brushing, 2018-11-19T20:16:33+00:00, 2018-11-19T20:16:49+00:00, Finalize lozenge percent,
+BT20, brushing, 2018-11-19T20:16:51+00:00, 2018-11-19T20:21:00+00:00, Brush Teeth, UNFINISHED
+BT19, brushing, 2018-11-19T20:21:03+00:00, 2018-11-19T20:24:45+00:00, Measure and dose lozenge percent,
+BT00, brushing, 2018-11-19T20:25:07+00:00, 2018-11-19T22:10:13+00:00, Information task: 1 min, UNFINISHED
+BT19B, brushing, 2018-11-19T22:10:33+00:00, 2018-11-19T22:16:26+00:00, Finalize lozenge percent,
+BT20, brushing, , 2018-11-19T22:16:28+00:00, Brush Teeth, finished earlier
+BT19, brushing, 2018-11-19T22:16:33+00:00, 2018-11-19T22:20:10+00:00, Measure and dose lozenge percent,
+BT19B, brushing, 2018-11-20T00:14:17+00:00, 2018-11-20T00:14:38+00:00, Finalize lozenge percent,
+BT20, brushing, 2018-11-20T00:14:47+00:00, 2018-11-20T00:19:00+00:00, Brush Teeth,
+BT19, brushing, 2018-11-20T00:19:03+00:00, 2018-11-20T00:23:47+00:00, Measure and dose lozenge percent,
+BT19B, brushing, 2018-11-20T02:00:05+00:00, 2018-11-20T02:01:07+00:00, Finalize lozenge percent, UNFINISHED
+BT20, brushing, 2018-11-20T02:01:57+00:00, 2018-11-20T02:07:21+00:00, Brush Teeth,
+BT19, brushing, 2018-11-20T02:07:27+00:00, 2018-11-20T02:10:59+00:00, Measure and dose lozenge percent,
+BT19B, brushing, 2018-11-20T12:49:57+00:00, 2018-11-20T12:56:51+00:00, Finalize lozenge percent,
+BT20, brushing, 2018-11-20T12:56:53+00:00, 2018-11-20T13:00:56+00:00, Brush Teeth,
+BT19, brushing, 2018-11-20T13:01:24+00:00, 2018-11-20T13:06:25+00:00, Measure and dose lozenge percent,

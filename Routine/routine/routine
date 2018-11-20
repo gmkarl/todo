@@ -36,7 +36,10 @@ do
 	do
 		read judge_pct judge_baseline < "$routine".status
 		last_pct=$((judge_pct))
-		#judge_pct=$((judge_pct/2 + rating_successes * 50 / rating_trials))
+		#if (( rating_trials > 1 ))
+		#then
+		#	judge_pct=$((judge_pct/2 + rating_successes * 50 / (rating_trials-1)))
+		#fi
 		echo " == $name == (last:${last_pct} base:${judge_baseline})" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
@@ -108,7 +111,7 @@ done
 rating_endsecs=$(($(date +%s)))
 rating_duration=$((rating_endsecs - rating_startsecs))
 rating_pct=$((100 * rating_successes / rating_trials))
-rating_baseline=56
+rating_baseline=55
 echo "${rating_pct} ${rating_baseline}" > "$routine".status
 git add "$routine".status
 
