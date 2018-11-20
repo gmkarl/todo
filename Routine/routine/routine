@@ -36,8 +36,8 @@ do
 	do
 		read judge_pct judge_baseline < "$routine".status
 		last_pct=$((judge_pct))
-		judge_pct=$((judge_pct/2 + rating_successes * 50 / rating_trials))
-		echo " == $name == (cur:${judge_pct} last:${judge_pct} base:${judge_baseline})" | tr a-z A-Z
+		#judge_pct=$((judge_pct/2 + rating_successes * 50 / rating_trials))
+		echo " == $name == (last:${last_pct} base:${judge_baseline})" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
 		start=$(date +%s)
