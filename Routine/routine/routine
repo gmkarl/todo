@@ -110,7 +110,7 @@ done
 rating_endsecs=$(($(date +%s)))
 rating_duration=$((rating_endsecs - rating_startsecs))
 rating_pct=$((100 * rating_successes / rating_trials))
-rating_baseline=56
+rating_baseline=55
 echo "${rating_pct} ${rating_baseline}" > "$routine".status
 git add "$routine".status
 
