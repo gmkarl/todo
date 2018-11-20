@@ -10,9 +10,20 @@ cat "$FILE" | {
 
 # let's add a rating to use for dosage suggestions
 # for rating, we'll want to track total time taken, and amount of successes
+read last_successes baseline last_duration < "$routine".laststatus
 rating_trials=$((0))
 rating_successes=$((0))
 rating_startsecs=$(($(date +%s)))
+
+if (( last_successes < baseline ))
+then
+  baseline=$((baseline - 1))
+elif (( last_successes > baseline + 1 ))
+then
+  baseline=$((baseline + 1))
+fi
+
+echo $((rating_successes)) $((baseline)) > "$routine".laststatus
 
 echo "Hey; let's improve the rating so that it outputs right before I brush, somehow"
 echo "Probably need to tag the routine task in some way"
@@ -34,13 +45,7 @@ do
   rating_trials=$((rating_trials + 1))
 	while true
 	do
-		read judge_pct judge_baseline < "$routine".status
-		last_pct=$((judge_pct))
-		#if (( rating_trials > 1 ))
-		#then
-		#	judge_pct=$((judge_pct/2 + rating_successes * 50 / (rating_trials-1)))
-		#fi
-		echo " == $name == (last:${last_pct} base:${judge_baseline})" | tr a-z A-Z
+		echo " == $name == (last:${last_successes} base:${baseline})" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
 		start=$(date +%s)
@@ -99,7 +104,10 @@ do
 		fi
 		break
 	done
-	git add routinedata.csv
+  rating_endsecs=$(($(date +%s)))
+  rating_duration=$((rating_endsecs - rating_startsecs))
+  echo $((rating_successes)) $((baseline)) $((rating_duration)) > "$routine".laststatus
+	git add routinedata.csv "$routine".laststatus
   git add "$ttrackdir"
 	git commit -m "$(date -I) $routine $name"
 	{
@@ -108,14 +116,6 @@ do
 	} > /dev/null &
 done
 
-rating_endsecs=$(($(date +%s)))
-rating_duration=$((rating_endsecs - rating_startsecs))
-rating_pct=$((100 * rating_successes / rating_trials))
-rating_baseline=55
-echo "${rating_pct} ${rating_baseline}" > "$routine".status
-git add "$routine".status
-
-echo "Rating PCT=${rating_pct} baseline=${rating_baseline}"
 printf "Total Duration=%d:%02d\n" $((rating_duration/60)) $((rating_duration%60))
 
 # TODO: record duration & pct, and output metric to be used to figure n2
