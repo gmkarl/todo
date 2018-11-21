@@ -1259,17 +1259,31 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
 
 = MAJOR TASKS / ACTIVITIES =
 
-  - Finding / processing more concerns, obligations, goals, tasks
-  - Handling possessions + documents (truck)
-  - Personalizing daily routine/ strategies / time management
-  - Major and medium-term life planning
-    - Delegation
-  - Managing financial wellness
-  - Managing physical / medical wellness
-  - Personal work - shielding, etc. 
-  - TLC's, daily life ease, activities of happiness, meeting the needs of others
-  - School and Career behavior
-  - Completing responsibilities
+ ::WORKING ON MERGING WITH Routine/01-Tasks_Shielded_Space # Goals
+ 	with intent of getting ttrack script working
+
+  - LIFE?: TLC's, daily life ease, activities of happiness, meeting the needs of others
+  	EARTH
+  - MONEY: Managing financial wellness
+  - RESPONS: Completing responsibilities
+  	- BODY: Managing physical / medical wellness
+
+  - SAFE: Personal work - shielding, etc. 
+  	SUST
+	REC
+	DEMO
+	PUB
+  	MVF?
+
+  BACKEND
+  	- EDU: School and Career behavior
+
+  TASKORG
+          - Finding / processing more concerns, obligations, goals, tasks
+          - Personalizing daily routine/ strategies / time management
+          - Major and medium-term life planning
+            - Delegation
+  	- Handling possessions + documents (truck)
 
 Places to find concerns, tasks, goals:
   - For Everything
@@ -1434,47 +1448,6 @@ K: <got blocked around typing>
 - [ ] to 9:15 Consolidating Lists
 
 	-> Jim expresses again desire for task priorities:
-			1. urgent
-			2. important
-			3. can wait
-
-			-> okay brain
-			um
-			I don't really like the 1 2 3 concept, but we do need to know what we'er doing next
-			I usually just don't talka bout it, I'm scared of crucial things becoming impossible.
-			The usualy approach is "boring","everyday", "crucial" as you wrote although of course
-			crucial is your word.
-
-			I'm concerned I'll forget that "boring" is #1 and think that the numbers are backwards
-			later.
-			I'm likely to reinterpret the meaning of the words to reunderstand what the ilst means
-			I think it's okay, just remember that you do all the boring tasks before the everyday
-			taks ... oh I see.  Yeah, what if I put a task that needs to be done soon in the #3
-			category because ti si called crucial?
-
-			ok well it was juts a quick fix maybe this isn't the system for you
-
-			but i do need to prioritize my tasks somehow ...
-			well why? you jut do the most important ones next, ight?
-			often i do.  often.  i guess so.
-			when processing these lists, I'm likely to run into tasks that are good ideas to
-			keep working on, that are good ideas to remember but not immediately work on,
-			and that don't really have a lot fo importance but are worth keeping around.
-			you just said that, those could be your labels.
-
-			1. Good idea to do
-			2. Not immediate
-			3. Worth keeping around
-
-			okay yeah, the word 'urgent' really triggers that fear of doing things that are important
-			so the less intense the urgent word is, it helps me be more able to do it
-
-			part of me kind of likes the 'trick' of placing 'crucial' last, since there's so much
-			energy around stopping crucial things, that feels like it would direct all that stopping
-			towards the things that actually are good to stop
-
-			but ig uess that wouldn't last, it would just adjust
-
 			1. Next
 			2. Later
 			3. Extra
