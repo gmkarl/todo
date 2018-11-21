@@ -8,6 +8,8 @@ ttrackdir="../ttrack"
 export NO_SYNC=1
 cat "$FILE" | {
 
+echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
+
 # let's add a rating to use for dosage suggestions
 # for rating, we'll want to track total time taken, and amount of successes
 read last_successes baseline last_duration < "$routine".laststatus
@@ -18,15 +20,12 @@ rating_startsecs=$(($(date +%s)))
 if (( last_successes < baseline ))
 then
   baseline=$((baseline - 1))
-elif (( last_successes > baseline + 1 ))
+elif (( last_successes > baseline ))
 then
   baseline=$((baseline + 1))
 fi
 
 echo $((rating_successes)) $((baseline)) > "$routine".laststatus
-
-echo "Hey; let's improve the rating so that it outputs right before I brush, somehow"
-echo "Probably need to tag the routine task in some way"
 
 while read code name
 do
