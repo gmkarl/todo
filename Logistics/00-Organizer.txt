@@ -1398,17 +1398,6 @@ Jim Taggart must wrap up prior to 9:30a.
 - check-out:
   
 
-Next Process Mtg:
-- any decisions / goals regarding check-out / check-in / other meeting norms
-  => address any decisions or goals regarding the meeting process
-    (karl had things he wanted to talk about, change, or stress, or check-in regarding)
-- TDE concept (meeting use and goal use)
-
-
-Next Either Mtg:
-- integrating goals / tasks
-  -> let's move towards merging UPCOMING list with Present Concerns list
-
 # 2018-11-20 12:32 Jim Taggart mtg
 Must end by 1:30
 
@@ -1438,4 +1427,70 @@ for tomorrow morning?
 K: <got blocked around typing>
 
 
+# 2018-11-21 08:14 Work Mtg to 9:15
 
+- [X] Agenda
+	-> "personal productivity system"
+- [ ] to 9:15 Consolidating Lists
+
+	-> Jim expresses again desire for task priorities:
+			1. urgent
+			2. important
+			3. can wait
+
+			-> okay brain
+			um
+			I don't really like the 1 2 3 concept, but we do need to know what we'er doing next
+			I usually just don't talka bout it, I'm scared of crucial things becoming impossible.
+			The usualy approach is "boring","everyday", "crucial" as you wrote although of course
+			crucial is your word.
+
+			I'm concerned I'll forget that "boring" is #1 and think that the numbers are backwards
+			later.
+			I'm likely to reinterpret the meaning of the words to reunderstand what the ilst means
+			I think it's okay, just remember that you do all the boring tasks before the everyday
+			taks ... oh I see.  Yeah, what if I put a task that needs to be done soon in the #3
+			category because ti si called crucial?
+
+			ok well it was juts a quick fix maybe this isn't the system for you
+
+			but i do need to prioritize my tasks somehow ...
+			well why? you jut do the most important ones next, ight?
+			often i do.  often.  i guess so.
+			when processing these lists, I'm likely to run into tasks that are good ideas to
+			keep working on, that are good ideas to remember but not immediately work on,
+			and that don't really have a lot fo importance but are worth keeping around.
+			you just said that, those could be your labels.
+
+			1. Good idea to do
+			2. Not immediate
+			3. Worth keeping around
+
+			okay yeah, the word 'urgent' really triggers that fear of doing things that are important
+			so the less intense the urgent word is, it helps me be more able to do it
+
+			part of me kind of likes the 'trick' of placing 'crucial' last, since there's so much
+			energy around stopping crucial things, that feels like it would direct all that stopping
+			towards the things that actually are good to stop
+
+			but ig uess that wouldn't last, it would just adjust
+
+			1. Next
+			2. Later
+			3. Extra
+
+
+		
+	-> Way to associate it with time: schedule, day week month, quarterly?
+
+
+Next Process Mtg:
+- any decisions / goals regarding check-out / check-in / other meeting norms
+  => address any decisions or goals regarding the meeting process
+    (karl had things he wanted to talk about, change, or stress, or check-in regarding)
+- TDE concept (meeting use and goal use)
+
+
+Next Either Mtg:
+- integrating goals / tasks
+  -> let's move towards merging UPCOMING list with Present Concerns list
