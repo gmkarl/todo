@@ -350,7 +350,7 @@ youtube/vimeo: search consensus decision-making
 		1. Five County Checking account: minimum balance of $1000 to prevent mistakes.  Highest priority.
 		   Five County Savings account: keep empty
 		2. First Citizens account: keep empty.  Withdraw all money given by father that is in excess of rent.
-		3. Ethereum: keep trades going to restore balance to 42.7 ETH
+		3. Ethereum: keep trades going to restore balance to 42.7 ETH and 134145.5 NEM
 		4. NEM: keep all money until value rises to at least purchase value
 	Tasks:
 		- [X] withdraw money from coinbase pro, my ethereum exchange, to meet my goal balance of $1000
@@ -438,55 +438,49 @@ youtube/vimeo: search consensus decision-making
 			Place 0.79 ETH in escrow to jimmy13.
 			Expecting $198.88 from Jaakoforssen66@aol.com
 			
+    2018-11-20 15:42 ET
+      sold 13414.50458902 nem, purchasing 7.98606173 eth
+          that's roughly 0.00059533 eth/nem
 
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-19 Mon
-  	- [X] 7:45a toothbrushing
-  - [X] 8:00a - 9:00a Jim Call
-  - [X] Back up floobits
-  - [ ] schedule toothbrushing
-  - [ ] Call mother back !!
-	- [X] 8:00am - 9:15am Jim call again (9:29 hard time)
-	- [X] 9:30a - 10:30a Kate call, rescheduled this week
-	      Jim available at this time too if desired
-	- [X] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
-	      Jim agrees to meet at this time too
-	      Jim can make conference calls if we can't, will need number
-	- [ ] 1:20p aux toothbrushing
-	- [ ] 3:15p toothbrushing
-	- [ ] 5:10p aux toothbrushing
-	- [ ] 7:05p toothbrushing
-	- [ ] 9:00p aux toothbrushing
-
-- [ ] 2018-11-20 Tue
-  - [ ] 8:00a - 9:00a Jim Call
-	- no Kate call this day
-
-- [ ] 2018-11-21 Wed
-  - [ ] 8:00a - 9:00a Jim Call
-  - [ ] make vegetable dish for tomorrow
+- [!] 2018-11-21 Wed
+  - [X] 7:30a - brushing
+  - [ ] 8:00a - 9:00a Jim Work Mtg
+  - [ ] 9:40a - aux brushing
+  - [ ] take trash out
+  - [ ] do laundry
+  - [ ] plan & buy veggie dish
+  - [ ] 11:40a - brushing
+  - [ ] 2:00p - aux brushing
+  - [ ] 4:10p - brushing
+  - [ ] 6:20p - aux brushing
   - [ ] plan leave time
+    - jim not available for afternoon mtg
   
 - [ ] 2018-11-22 Thu
 	- [ ] 9:00am - begin work unloading truck with Gwyn & Ben
 	- Thanksgiving Day
+  - [ ] make vegetable dish
 	- [ ] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
 			BRING A VEGETABLE DISH
   - Jim not working
   	
 
 - [ ] 2018-11-23 Fri
-  - [ ] 8:00a - 9:00a Jim Call
+  - [ ] 8:00a - 9:00a Jim Work Mtg
 	- no Kate call this day
+  - [ ] 12:00p - 1:00p Jim Process Mtg
 	
 - [ ] 2018-11-24 Sat
-  - Jim Call? he'll get back to me
+  - [ ] 8:00a - 9:00a Jim Work Mtg
+    - jim not available for afternoon mtg
 
 - [ ] 2018-11-25 Sun
-  - [ ] 8:00a - 9:00a Jim Call
+  - [ ] 8:00a - 9:00a Jim Work Mtg
+  - [ ] 12:00p - 1:00p Jim Process Mtg
 
 - [ ] 2018-11-26 Mon
 	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
@@ -494,12 +488,23 @@ youtube/vimeo: search consensus decision-making
 		call comes from  203 655 9904
 		call goes to 207 518 8256
 		             304 456 5564
+  - [ ] 8:00a - 9:00a Jim Work Mtg (interrupt if Bouboulis calls !!!)
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
-        Jeremy invites Jim to meet here
+        Jim Process Mtg w/ Jeremy
 
 - [ ] 2018-11-27 Tue
+  - [ ] 8:00a - 9:00a Jim Work Mtg
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	         Kate up for meeting with Jim on Tuesdays
+           Jim Process Mtg w/ Kate
+  - [ ] 11:00am Nurse from CCIL potentially arrives
+    Cheryl Warner
+    304 838-9060
+    
+- 2018-11-28
+  - Jim visit arrive at 100p
+  
+- 2018-11-29
+  - Jim Visit
 
 - jeremy wants more specific time planned for xmas meeting
 
@@ -1351,3 +1356,86 @@ concerns:
 
 # Next meeting:
 - discuss two meetings, one for process and organization tools, another for getting work don
+
+# 2018-11-20 08:14 Jim Taggart mtg
+
+Jim Taggart must wrap up prior to 9:30a.
+
+- [ ] Agree to Process
+	- meeting follows agenda with hard deadlins
+	- first agenda item is to agree on agenda
+  - meeting ediquete call-out practice?
+  - label items whether coming from Jim or Karl
+- [X] to 08:30 or earlier Agenda
+
+- [X] to 08:45 or earlier: Prior 1: plan for separating process from work
+
+			- any decisions / goals regarding check-out / check-in / other meeting norms
+
+			-> propose 2 meetings per day, process meeting and work meeting
+				-> perhaps 3rd post-portem meeting is one with jeremy or kate
+			
+
+- [X] to 09:10 or earlier: Prior 1: time / priority management
+	- philosophy of time management
+    K: "I'd like to be aware of the things I want to do and need to do, and I'd like to feel like I'm getting them done."
+
+	- integrating goals / tasks
+    -> let's move towards merging UPCOMING list with Present Concerns list
+  - TDE concept
+
+      -> Shielding Project
+      -> Responsibilities
+        -> other things that are also good to do
+        -> nicotine: can make goals that are unpleasant pleasant, goals that are impossible, doable
+      -> Nicotine Dispenser
+      -> Meetings with Jim focused on timely effectiveness
+
+- [X] to 09:20 or earlier: Prior 2: current events updates
+			- truck / ccil
+			- kate / jeremy involvement
+
+- check-out:
+  
+
+Next Process Mtg:
+- any decisions / goals regarding check-out / check-in / other meeting norms
+  => address any decisions or goals regarding the meeting process
+    (karl had things he wanted to talk about, change, or stress, or check-in regarding)
+- TDE concept (meeting use and goal use)
+
+
+Next Either Mtg:
+- integrating goals / tasks
+  -> let's move towards merging UPCOMING list with Present Concerns list
+
+# 2018-11-20 12:32 Jim Taggart mtg
+Must end by 1:30
+
+Jim has had sophisticated jobs where productivity is really important, and he's had to design his own
+personal systems.  What he's trying to do is help me develop my own productivity system.  Both of us
+are not feeling good about the process.  Yesterday Karl yelled at him.  Karl wants to include other
+people in the process ... he wants people who are smrter or can type faster; Karl's throwing all these
+collaborative interfaces at him and expecting him to use them within five minutes of looking.
+Jim's sensing that we're not connecting on how to move forward on this system.
+Jim's suggesting that we find on the market a personal productivity system, that is sophisticated,
+for me and him to look at it together and see if that might be a better fit than what we're trying
+to customize together.
+
+K: It sounds like you're feeling frustrated because this is difficult.  Is that correct?
+J: I'm very patient, and I'm not frustrated, but I did wake up last night, concerned about this meeting.
+Whatever's happening re personal coaching system, there's tension and anxiety and there's a gap in
+communication.  Jim's availed himself a couple of times a day now for a process meeting and a work meeting.
+
+K: It sounds like you're feeling a lot of tension and anxiety around a need for us to communicate and work
+more effectively.  Is that right?
+
+J: What would be helpful for me is that at the end of our meetings, that we create an agenda for the next
+meeting.  Instead of starting the day with having to create an agenda, we have an agenda from the previous
+day for working on the next day.  Do you think we could spend a few minutes trying to create an agenda
+for tomorrow morning?
+
+K: <got blocked around typing>
+
+
+
