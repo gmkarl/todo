@@ -446,28 +446,15 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [X] 2018-11-21 Wed
-  - [X] 7:30a - brushing
-  - [X] 8:00a - 9:00a Jim Work Mtg
-  - [X] 9:40a - aux brushing
-  - [X] take trash out
-  - [X] do laundry
-  - [X] plan & buy veggie dish
-  - [X] 11:40a - brushing
-  - [X] 2:00p - aux brushing
-  - [X] 4:10p - brushing
-  - [X] 6:20p - aux brushing
-  - [X] plan leave time
-    - jim not available for afternoon mtg
-  
 - [!] 2018-11-22 Thu
   - [X] 7:30a - brushing
 	- [ ] 9:00am - begin work unloading truck with Gwyn & Ben
-  - [ ] 9:50a - aux brushing
+	-> RESCHEDULED to Sat
+  - [X] 9:50a - aux brushing
   - [ ] 12:00o - brushing
   - [ ] make vegetable dish
   - [ ] 2:10p - aux brushing
-  - [ ] leave for mountain quest
+  - [ ] 2:20p - meet Gwyn at her place to leave
 	- Thanksgiving Day
 	- [ ] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
 			BRING A VEGETABLE DISH
@@ -483,6 +470,7 @@ youtube/vimeo: search consensus decision-making
 	
 - [ ] 2018-11-24 Sat
   - [ ] 8:00a - 9:00a Jim Work Mtg
+  - [ ] 9:00am? - begin work unloading truck with Gwyn & Ben
     - jim not available for afternoon mtg
   - [ ] Work with Gwyn and Ben to unload truck !
 
