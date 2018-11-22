@@ -1636,3 +1636,4 @@ BT40, brushing, 2018-11-22T14:59:45+00:00, 2018-11-22T15:00:36+00:00, Eye lubric
 BT18, brushing, 2018-11-22T15:00:42+00:00, 2018-11-22T15:39:31+00:00, Have started current routine or no current routine,
 BT19B, brushing, 2018-11-22T17:02:43+00:00, 2018-11-22T17:03:02+00:00, Finalize lozenge percent,
 BT20, brushing, 2018-11-22T17:03:04+00:00, 2018-11-22T17:06:24+00:00, Brush Teeth,
+BT19, brushing, 2018-11-22T17:06:26+00:00, 2018-11-22T17:13:35+00:00, Measure and dose lozenge percent,
