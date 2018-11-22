@@ -446,26 +446,33 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-21 Wed
+- [X] 2018-11-21 Wed
   - [X] 7:30a - brushing
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-  - [ ] 9:40a - aux brushing
-  - [ ] take trash out
-  - [ ] do laundry
-  - [ ] plan & buy veggie dish
-  - [ ] 11:40a - brushing
-  - [ ] 2:00p - aux brushing
-  - [ ] 4:10p - brushing
-  - [ ] 6:20p - aux brushing
-  - [ ] plan leave time
+  - [X] 8:00a - 9:00a Jim Work Mtg
+  - [X] 9:40a - aux brushing
+  - [X] take trash out
+  - [X] do laundry
+  - [X] plan & buy veggie dish
+  - [X] 11:40a - brushing
+  - [X] 2:00p - aux brushing
+  - [X] 4:10p - brushing
+  - [X] 6:20p - aux brushing
+  - [X] plan leave time
     - jim not available for afternoon mtg
   
-- [ ] 2018-11-22 Thu
+- [!] 2018-11-22 Thu
+  - [X] 7:30a - brushing
 	- [ ] 9:00am - begin work unloading truck with Gwyn & Ben
-	- Thanksgiving Day
+  - [ ] 9:50a - aux brushing
+  - [ ] 12:00o - brushing
   - [ ] make vegetable dish
+  - [ ] 2:10p - aux brushing
+  - [ ] leave for mountain quest
+	- Thanksgiving Day
 	- [ ] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
 			BRING A VEGETABLE DISH
+  - [ ] 5:10p - brushing
+  - [ ] 7:20p - aux brushing
   - Jim not working
   	
 
@@ -477,6 +484,7 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-11-24 Sat
   - [ ] 8:00a - 9:00a Jim Work Mtg
     - jim not available for afternoon mtg
+  - [ ] Work with Gwyn and Ben to unload truck !
 
 - [ ] 2018-11-25 Sun
   - [ ] 8:00a - 9:00a Jim Work Mtg
@@ -537,10 +545,18 @@ youtube/vimeo: search consensus decision-making
 		CHAPTER 8
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
+- mom says I could visit any time, she's in newton, she has medical appts on 23rd and 29th, 23rd is small
+
 - Jeremy available 12-26 through 12-28
 
 - [ ] 2018-12-21
 	- [ ] kate could do in-person shift today
+
+- [ ] 2018-12-23 Sun
+	- mom proposes I could arrive today and leave Thu the 27th
+
+- [ ] 2019-01-02 Wed
+	- [ ] Jim can drive me back from MA
 	         
 - [ ] 2019-01-28
 	- [ ][ ] 6:30 PM food
