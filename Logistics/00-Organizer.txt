@@ -446,27 +446,37 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-22 Thu
+- [X] 2018-11-22 Thu
   - [X] 7:30a - brushing
 	- [ ] 9:00am - begin work unloading truck with Gwyn & Ben
 	-> RESCHEDULED to Sat
   - [X] 9:50a - aux brushing
-  - [ ] 12:00o - brushing
-  - [ ] make vegetable dish
-  - [ ] 2:10p - aux brushing
-  - [ ] 2:20p - meet Gwyn at her place to leave
+  - [X] 12:00o - brushing
+  - [X] make vegetable dish
+  - [X] 2:10p - aux brushing
+  - [X] 2:20p - meet Gwyn at her place to leave
+  	-> i was about 20 mins late
 	- Thanksgiving Day
-	- [ ] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
+	- [X] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
 			BRING A VEGETABLE DISH
-  - [ ] 5:10p - brushing
+	-> went well ! mostly. vegetable dish was a hit
+  - [X] 5:10p - brushing
+  	-> did late
   - [ ] 7:20p - aux brushing
   - Jim not working
-  	
 
-- [ ] 2018-11-23 Fri
+- [!] 2018-11-23 Fri
+	- [ ] 7:30a - brushing
   - [ ] 8:00a - 9:00a Jim Work Mtg
+  	-> I think Jim canceled this but haven't fully read the text message
 	- no Kate call this day
+	- [ ] 9:50a - aux brushing
   - [ ] 12:00p - 1:00p Jim Process Mtg
+  	-> I think Jim canceled this but haven't fully read the text message
+  	- [ ] 12:01p - brushing
+	- [ ] 2:12p - aux brushing
+	- [ ] 4:23p - brushing
+	- [ ] 6:34p - aux brushing
 	
 - [ ] 2018-11-24 Sat
   - [ ] 8:00a - 9:00a Jim Work Mtg

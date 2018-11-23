@@ -17,7 +17,7 @@ rating_trials=$((0))
 rating_successes=$((0))
 rating_startsecs=$(($(date +%s)))
 
-if (( last_successes < baseline ))
+if (( last_successes <= baseline / 2 ))
 then
   baseline=$((baseline - 1))
 elif (( last_successes > baseline ))
