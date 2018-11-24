@@ -44,7 +44,7 @@ do
   rating_trials=$((rating_trials + 1))
 	while true
 	do
-		echo " == $name == (last:${last_successes} base:${baseline})" | tr a-z A-Z
+		echo " == $name == (last:${last_successes} base:${baseline} cur:${rating_successes})" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
 		start=$(date +%s)
