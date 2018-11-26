@@ -1,0 +1,1483 @@
+Priorit	Delay	Expense	Availability
+0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
+	1	1	1		sign up for more gbo tours
+1	2	0	2		Move transport organization box from truck
+1	3	0	2		Sort desk
+1	3	0	2		Sort car
+1	2	0	1		Listen to voicemails
+1	3	0	1		Move forward on education
+1	3	0	1		Personal Info Org System
+2	2	3	3		get truck mechanic to look at truck
+2	3	0	1		Prepare a personal budget
+2	2	0	2		get 4th antibiotic prescribed (and length of treatment; and update regarding situ.)
+2	1	1	2		Replenish vitamins
+3	2	3	1		propane for heating (company to call on regulations posting at tiny home)
+3	2	0	2		Volunteering
+3	1	1	1		try to talk to dianne
+3	3	1	2		go to lewisburg health stores
+					get new tire for passat
+					get new insurance?
+
+
+RACI
+who's Responsible, who's Accountable, Communication, Information
+
+
+Scheduling plan for nicotine box:
+	- empty slots in schedule that items from Tasks queue are placed in
+	- Tasks queue is priority queue
+	- each item has a Behavior, and a Category
+	- each Category may have a Verifier that can be used to determine reward (different ones may use same verifier)
+
+	I can start this before nicotine starts, which will give me some progress tracking
+
+	- I could mention to jim the bubbling in my ear that happens when I burp or hold my nose and press
+
+
+lewisburg:
+- health food stores
+- hardware stores
+- can get a passport
+- truck mechanic?
+
+# UPCOMING
+- [ ] Handle E-Mail
+	-> I've finished up to but not processed Acadia Evaluation Oct 24
+	SHOULD STILL REMOVE STAR
+	/?&st=2500
+- [ ] follow up get EEG from dartmouth-hitchcock
+- [ ] comprehend e-mail since last time time I forwarded starred e-mails?
+- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
+- [ ] didn't get call from mooney or celia 10-31 wed ? follow up.
+- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
+- [ ] order/buy vit c, current bottle in med box
+- [ ] Dr Fallon (646) 774-8052 (Columbia Lyme) does neuroimaging re lyme
+- [ ] Check in with Jim re carpool to/from mass around xgiving or xmas.
+- [X] repay $180 to gwyn, check bounced
+- [X] call back ccil
+	-> ended up handling with jim taggart; still have not gotten in contact with kristina though
+- [ ] call back mother -> she'd like another call
+		-> maybe mom would like to be involved in check-ins with me
+			to keep me on task but also keep her aware of my doings
+- [ ] call katrina? on aug 25 she left a vm saying she missed me and to give her a call back if i wanted but she was about to go to yoga class
+	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
+		-> there's a copy of my old faxed release in the medical file.  address is wrong, of course.
+	- [ ] dvd media should have arrived to burn copies of neuro records.  most are on annex, might have a missing one in medical file unsure
+	- [ ] has frankferd farms replied to my registration attempt?
+- [ ] dr bouboulis expecting callback from 2018-10-31
+- [ ] neurology expecting neurotesting referral from prior to 2018-11
+- [ ] neurology need followup after 2018-11, may need to push further
+- [ ] print nvc worksheets?
+- [ ] print neuro history?
+- [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
+- [ ] handle newsletter subscription ddos (unsubscribe to newsletters, increase account security, optionally make a new e-mail address referencing a nonviolence url)
+	-> [X] I used unroll.me and removed all newsletters it listed I was not part of subscribing to.  It found only 76.
+- [ ] address openrealrecord typescript patch
+- [ ] answer starred e-mails
+- [ ] answer signal messages; riley needs payment, possibly work, definitely communication
+- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
+	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
+- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+- [ ][ ] Look for nearby farmer's markets
+- [ ] design and build nicotine device to retrain habits
+- [ ][ ] pursue grotto group
+- [ ][ ] pursue eeg work
+- [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
+- [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
+- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
+- [ ] DO MY LAB REPORTS !  think how empowering this would be
+		with time limit.  remember to reward based on progress.
+		-> should be doable with n2
+- [ ] Fill out volunteer application from e-mail
+- [ ] call southern propane and get in system ... haven't paid bill?
+- [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
+
+Goals at # GOALWORK
+==
+Now: 2018-11-17 14:50 ET
+Goal: list to refer to to stay on task
+Ready behaviors: brushing, working on scuttlebutt bridge
+Pressures I'm ignoring: keeping room clean, addressing obligations, what else?
+Difficulties: pressured tasks causing ability to decrease -- prefer to do ready tasks
+Challenges I'm engaging: routine around brushing, maybe doing it 50%
+		hope to optimize use of brushing routine to resolve difficulty tasks
+Biggest issue:
+	- plan time
+	- organize goals
+	- craft strategy to manage time
+		I want/need to craft a strategy to aid in managing my time using brushing routine.
+		But it is very hard to access any information around this goal.
+
+TDE:
+	Time spent
+	Difficulty
+	Effectiveness
+
+== Immediately Relevent ==
+I0 resuming subsistent daily habits
+	Subjective Rating: 30%
+I1 organizing this list and strategies to use it for effectiveness
+	Subjective Rating: 80% time spent 200% difficulty 5% effectiveness
+
+I1 checking rating works and including quiz result in output
+	Subjective Rating: 80% effort 5% time
+		concept: how much time you'd like to spend is also part of time usage in TEE
+I2 planning my tasks in general to optimize time and resource management
+	Subjective Rating: 10%
+I3 adding frequency hopping to noiscillate detector
+	SR: 0%
+I4 finishing cleaning up e-mail
+	Subjective Rating: 80% effort 0% time 5% effectiveness
+I5 integrating scuttlebutt with e-mail or matrix
+	Subjective Rating: 100% effort 140% time 40% effectiveness
+-I6 resume exercising
+	Subjective Rating: 50%
+-I7 get back on scuttlebutt & respond to wiley
+	Subjective Rating: 0%
+-I8 UPCOMING list in calendar
+-I9 preparing for tomorrow
+-IA merging these lists
+-IB visiting some caverns and noting if there is an opportunity to hang out
+-IC getting my EEG
+-ID making a pluggable blockchain & swarm storage interface
+-IZ making plans to visit massachusetts
+
+== General ==
+0. Managing this list of concerns
+	- integrate with other goal/todo lists
+		: consider adding these items to 00-Organizer.txt and quizzing on its contents!
+1. getting better at being aware of my present concerns
+	-> could dual-n-back help? at least a good practice
+	   may be more exercise known to improve mind in general too
+	-> reviewing things I've written, acted on, done, said, heard, places I've gone online, in person, etc other than this list
+
+2. time management & priority adjustment
+	- For all my tasks, I should do the work that is hardest for others to do other than me.
+		Then I can queue up work that others can do.
+	- my programming projects should be bounties, forums, etc
+	- my shielding pursuits should be a research project
+	- my logistics should be delegated and organized such that they use up reasonable time
+	- my time should be spent optimizing my approaches and plans
+
+	- unifying goals / tasks / scheduling information locations, into 00-Organizer.txt for now
+		- [X] this file
+		- routines lists
+		- ttrack? (above)
+		- nic program? (above)
+	- how far away deadlines, plans, events are
+	- time tracker, n2 scheduler
+		- LET'S HAVE 1 PRIMARY GOAL, and spend HALF OF TIME on it.  then it will take twice as long, as other goals available in other time
+			- will need to accommodate frozen time ... maybe associate with n2 but not time allocation.  track, also track problem events
+		- see also 'nicotine' under autonomy pursuit below
+	- working with jim
+-3. emails
+	- catching up
+		- new emails
+		- recent starred emails
+		- emails that occurred around the newsletter ddos I received
+	- old starred emails
+	- mailing lists i've joined or tried to join
+-4. ongoing obligations
+	- truck stuck in mud
+	- interpersonal responsibilities
+		- where might I find these?
+		- "maintaining relationships" below
+		- UPCOMING list
+		- voicemails
+		- emails
+		- facebook
+-5. older concerns
+-6. things left unaddressed in nvc doc
+	- feelings, needs, requests that haven't been gone through
+		-> Jim, I have a document where I have pursued examining my intense feelings and needs and thinking of things to do with them, but I haven't done anything with much of the information
+	- I'd like to do the feeling->thought->observation->need->request habit throughout the day, as i encounter feelings,
+	        and record them to work with them
+-7. autonomy pursuit
+	- nicotine and ideas for using it
+		- maintain daily habit
+		- decide on new approach for dispenser / box and work on that more effectively
+		- address list of nic habit goals, farther down in this file
+		- doing time intensive routines less frequently, or decreasing time (time management above)
+	- NVC
+		- resolving flags by working with persistent information
+		- adjusting external dialogue to use nvc
+		- adjusting internal dialogue to use nvc
+		- ready access to observations, feelings, needs
+		- nvc with voices
+		- online courses
+		- book study
+		- study with friends
+		- physical courses, practice groups
+		- street giraffes
+	- shielding
+		- Coding noiscillate
+		- interaction with telescope
+		- getting involved in rtl-sdr development
+		- EE degree (physics degree?)
+		- EMC study
+		- internship?
+		- real world outreach?
+		- hobby infosec communities
+	- eeg
+		- algorithms checkin with others e.g. eeglablist attempt to post
+			- left out concept of subtracting overlapped signals to isolate them with feedback.  could test this on noise to see whether it works
+		- guy in wv (is this in my ongoing list in calendar?)
+			-> add calendar event to move forward on this after set date from last contact
+					-> probably try cnotcating him via other means
+		- ecog internationally?
+		- university research for thought-controlled devices
+		- openbci / muse / zeo
+		- continuous eeg price
+	- censor-resistant collaboration
+		- scuttlebutt
+			- concern regarding recovery from corruption?
+		- blockchain-based
+		- anonymity-focused
+	- reliable logging
+		- might want to resolve this one with some nvc introspection
+			- training is something i'll want, but doesn't need reliability
+				- finding missing objects could still become relevant
+			- personal safety could be relevant occasionally
+		- openrealrecord/hyperstream
+			- bookmoons work
+			- other PR's
+		- ongoing video (also for comfort with it)
+	- helpful environments
+		- education, internships, volunteering, jobs
+		- caverns, radios, shielding, NVC, BCI research
+	- collaboration
+		- collaboration training e.g. NVC?
+		- jim, riley, kate, jeremy, brian decker/samppa
+		- internet people
+		- meeting new people who want to work or help
+		- following up with people who can help
+-8. health
+	- exercise
+		- habitual
+		- evening/night scheduled
+	- awareness
+		- online classes
+		- sharing with people
+		- live resources (mpss? more?)
+		- regular practice, moment-to-moment goal
+	- medical tasks
+		- getting daytime dry-eye glasses?
+		- getting neuropsych testing
+			likely listed on schedule
+	- food / thrive
+		- sourdough bread !
+		- cookie & kate ingredients
+		- deal with rotting apples in fridge
+-9. maintaining relationships (should add these to ongoing)
+	- Owe Katrina a call?
+	- i called mom
+	- VISIT PARENTS at least once a year !!!
+	- Old / current loves
+		- gwyn, kate
+		- azia, kyla, christine, molly, sarah capra?
+		- groups i've interacted with
+			- possible new ones
+	- Old / current friends
+		- electrosensitives
+		- SLR people
+		- MPSS
+		- Portland
+		- childhood / school
+		- groups i've interacted with
+-10. finances
+	- set up trading policy ... can somehow get somebody else to actually perform it?
+	- maintain minimum balance on account
+	- budget so as to provide for savings to increase
+	- reach out to father to support legitimate expenses
+	- consider choosing 1 reliable source of income?
+	- followup on localethereum & interpersonal trades
+	- keep debt to 50% maximum to provide space for interest
+
+## NICOTINE AUTONOMY PLANNING
+	STATUS:
+		forgot where I'm at. note here.
+
+	NEXT STEP:
+		DISPENSER:
+			- rebuild but use low-viscosity
+			  after dispense, increase viscosity by mixing with powder
+			  baking soda, toothbrushing powder, etc
+		consolidate next steps
+		sources:
+			- this doc
+				- this section
+				- present concerns section
+			- projects folder
+			- logistics folder
+			- routine folder
+
+	IDEAL PLAN:
+		- dosing applied frequently throughout the day, automatically and securely, based on testable metrics
+		
+- I'd like to start this.
+	- Program reads from todo repo, stored in todo repo.
+	- Service installed on filesystem from source in todo repo for now.
+	- Move goals to this organizer doc.
+	- Connect relay to toggle power to dispenser.  Time based on reward.
+- References elsewhere: ../routine/ttrack/ttrack.py comments at top
+- I really need a TIME MANAGEMENT next step !!!!!
+	GOAL: using n2 helps me meet my goals
+	SUBGOAL: program checks tasks, doses result
+	
+	WORK INCLUDES:
+		- routine system prompts me to continue (already)
+		- tasks system allows time logging (already)
+		- new code might do both in a modular way (in progress)
+	NEED:
+		- SET OF KNOWLEDGE TO MANAGE.  schedule? goals? randomness?
+			consider starting with TTRACK system which already tracks hours and prioritizes somewhat
+	NEXT:
+		- convert brushing routine to rewards
+
+
+leslie recommends Bookstore in baltimore:
+	red emma's
+
+youtube/vimeo: search consensus decision-making
+	
+	
+
+# FINANCES
+	Goal:
+		1. Five County Checking account: minimum balance of $1000 to prevent mistakes.  Highest priority.
+		   Five County Savings account: keep empty
+		2. First Citizens account: keep empty.  Withdraw all money given by father that is in excess of rent.
+		3. Ethereum: keep trades going to restore balance to 42.7 ETH and 134145.5 NEM
+		4. NEM: keep all money until value rises to at least purchase value
+	Tasks:
+		- [X] withdraw money from coinbase pro, my ethereum exchange, to meet my goal balance of $1000
+			$832.35 needed
+			-> expected arrival: 2018-11-16
+		- [X] identify eth balance prior to october and note here, then add a task to move forward on restoring balance
+		- [ ] change large donations to small donations.  Send a message to people I care about explaining the change
+		      (and warning them).  Major donations: burning books, earth first journal, maine primitive skills school
+			- [X] burning books ($500 / mo?)
+				- [X] payment #1
+					-> I found $100 recurring in paypal.  I'll keep this as a new baseline, and stop the
+					   other payment.
+					-> recurcs on the 9th
+				- [X] payment #2
+					-> I found $250 on the 6th from my debit card
+					   same on 11th in october
+					-> I tried to send an email to Leslie about canceling this donation.
+					   My mail was bounced saying it contained a virus.  My email was plain text,
+					   and had only 8 short human-readable headers.
+					-> all my e-mails are bouncing to Leslie.  I can call Burning Books
+					   at (716) 881-0791 11am-7pm Tue-Sun (closed Mon)
+					-> I called leslie and he theoretically stopped payment
+			- [X] earth first journal ($200 / mo?)
+				- [X] payment #1
+					-> I found $200 recurring on the 19th, I-XGFX1C1TLM8A
+					-> canceled
+				- [ ] payment #2
+					-> I found $20 recurring on the 17th, I-JB68J8645SL9
+					-> I guess I'd prefer to give a little more, but this will do for now
+			- [ ] maine primitive skills school ($1000 / mo)
+				-> paypal wants me to fill my negative balance before I send anything
+			- [ ] others
+		- [ ] create complete log here of relevent trade information, to move towards making a profit again
+		- [ ] withdraw extra cash from First Citizens to repay gwyn
+		- [ ] withdraw cash from five county to repay gwyn
+		- [ ] identify purchase value of nem
+	Notes:
+		2018-11-10: 21.1 Eth
+		2018-09-26: 42.7 Eth
+
+		
+				2018-11-07
+		2018-10-29: DISPUTED IN BUYER'S FAVOR 2018-11-07 antonpeters@home.nl $257.82 = $270.00 - $12.18
+			likely ethhockey opened 2018-10-28 paid 2018-10-29
+		2018-10-29: GOOD? Jaakkoforssen66@aol.com $9.26 = $10.00 - $0.74
+		2018-10-29: GOOD? HesterPotgieter1111@hotmail.com $630.66 = $660.00 - $29.34
+			likely markodeal 2018-10-28
+		2018-10-29: GOOD? Jaakkoforssen66@aol.com $267.38 = $280.00 - $12.62
+			likely jimmy12 2018-10-28
+		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $200.46 = $210.00 - $9.54
+		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $334.30 = $350.00 - $15.70
+			likely leahsv, opened 2018-10-28, paid 2018-10-28
+
+		2018-10-25: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $190.90 = $200.00 - $9.10
+		2018-10-25: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $324.74 = $340.00 - $15.26
+			likely leahsv, opened 2018-10-25, paid 2018-10-25
+		2018-10-25: DISPUTED IN BUYER'S FAVOR 2018-11-12 wolfgang.dignoes@icloud.com $264.51 = $277.00 - $12.49
+			likely ethhockey, opened 2018-10-24, paid 2018-10-25
+		2018-10-25: IN DISPUTE AbdullaMahmood3333@hotmail.com $640.22 = $670.00 - $29.78 
+			likely markodeal, opened 2018-10-24, paid 2018-10-25
+
+		ethhockey: 2 transactions disputed in other's favor from differing accounts
+		markodeal: 1 good transction, 1 disputed, differing accounts
+		leahsv: 2 transactions split into 4, all disputed in my favor, herbertpfanzelt@gmx.de
+		jimmy12: 1 good transaction Jaakkoforssen66@aol.com
+			
+		2018-11-14 18:54 ET
+			Placed 2 ETH in escrow to leahsv.
+			Expecting $459.62 from herbertpfanzelt@gmx.de
+		           18:57 ET
+			Placed 2 ETH in escrow to Prudentwriter.
+			Expecting $423.62 .
+		           19:50 ET
+			Completed Prudentwriter trade.
+			Screenshots in dom0. $426.16
+			   21:10 ET
+			Completed another Prudentwriter trade.
+			1 eth for $208.65
+			Screenshots in dom0
+		2018-11-15 06:56 ET
+			
+		2018-11-16 08:35 ET
+			leahsv has not followed through with payment
+			One of Prudentwriter's Paypal accounts took the money back, saying unauthorized transaction.  Prudentwriter said he'll make it work.  Chat with him will be destroyed in 6 days.
+			Place 0.79 ETH in escrow to jimmy13.
+			Expecting $198.88 from Jaakoforssen66@aol.com
+			
+    2018-11-20 15:42 ET
+      sold 13414.50458902 nem, purchasing 7.98606173 eth
+          that's roughly 0.00059533 eth/nem
+
+# CALENDAR
+
+=> When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
+
+- [X] 2018-11-22 Thu
+  - [X] 7:30a - brushing
+	- [ ] 9:00am - begin work unloading truck with Gwyn & Ben
+	-> RESCHEDULED to Sat
+  - [X] 9:50a - aux brushing
+  - [X] 12:00o - brushing
+  - [X] make vegetable dish
+  - [X] 2:10p - aux brushing
+  - [X] 2:20p - meet Gwyn at her place to leave
+  	-> i was about 20 mins late
+	- Thanksgiving Day
+	- [X] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
+			BRING A VEGETABLE DISH
+	-> went well ! mostly. vegetable dish was a hit
+  - [X] 5:10p - brushing
+  	-> did late
+  - [ ] 7:20p - aux brushing
+  - Jim not working
+
+- [!] 2018-11-23 Fri
+	- [ ] 7:30a - brushing
+  - [ ] 8:00a - 9:00a Jim Work Mtg
+  	-> I think Jim canceled this but haven't fully read the text message
+	- no Kate call this day
+	- [ ] 9:50a - aux brushing
+  - [ ] 12:00p - 1:00p Jim Process Mtg
+  	-> I think Jim canceled this but haven't fully read the text message
+  	- [ ] 12:01p - brushing
+	- [ ] 2:12p - aux brushing
+	- [ ] 4:23p - brushing
+	- [ ] 6:34p - aux brushing
+	
+- [ ] 2018-11-24 Sat
+  - [ ] 8:00a - 9:00a Jim Work Mtg
+  - [ ] 9:00am? - begin work unloading truck with Gwyn & Ben
+    - jim not available for afternoon mtg
+  - [ ] Work with Gwyn and Ben to unload truck !
+
+- [ ] 2018-11-25 Sun
+  - [ ] 8:00a - 9:00a Jim Work Mtg
+  - [ ] 12:00p - 1:00p Jim Process Mtg
+
+- [ ] 2018-11-26 Mon
+	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
+			- want to get back on all 4 antibiotics
+		call comes from  203 655 9904
+		call goes to 207 518 8256
+		             304 456 5564
+  - [ ] 8:00a - 9:00a Jim Work Mtg (interrupt if Bouboulis calls !!!)
+	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+        Jim Process Mtg w/ Jeremy
+
+- [ ] 2018-11-27 Tue
+  - [ ] 8:00a - 9:00a Jim Work Mtg
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+           Jim Process Mtg w/ Kate
+  - [ ] 11:00am Nurse from CCIL potentially arrives
+    Cheryl Warner
+    304 838-9060
+    
+- 2018-11-28
+  - Jim visit arrive at 100p
+  
+- 2018-11-29
+  - Jim Visit
+
+- jeremy wants more specific time planned for xmas meeting
+
+- [ ] 2018-12-01
+	- [ ] Renew truck registration, expires 2018-12-31
+
+- [ ] 2018-12-05 Wed
+	- [ ] 3:00 PM Drs Appointment Elkins
+		Bring mailed paperwork, insurance card, medications
+		Tygart Valley Medical Specialties
+		911 Gorman Avenue
+		Old Physicians Office Building
+		Suite 201
+		Elkins, WV
+
+- [ ] 2018-12-14
+	- [ ][ ] gbo internship application supposed to come up this month
+	         https://science.nrao.edu/opportunities/student-programs/summerstudents
+	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/
+
+- [ ] 2018-12-18
+	- [ ] kate could do in-person shift today
+
+- Jeremy available 12-19 through 12-21
+
+- [ ] 2018-12-20
+	- [ ] 3pm? leave for charlottesville
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 8
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+
+- mom says I could visit any time, she's in newton, she has medical appts on 23rd and 29th, 23rd is small
+
+- Jeremy available 12-26 through 12-28
+
+- [ ] 2018-12-21
+	- [ ] kate could do in-person shift today
+
+- [ ] 2018-12-23 Sun
+	- mom proposes I could arrive today and leave Thu the 27th
+
+- [ ] 2019-01-02 Wed
+	- [ ] Jim can drive me back from MA
+	         
+- [ ] 2019-01-28
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Beanery American Grill
+		226 Comfort Inn Dr.
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+		
+
+- [ ] 2019-02-14
+	- [ ] 1:00 PM dental cleaning
+
+- [ ] 2019-02-22 Fri
+	- [ ] 6:00 A leave for eye appt
+		9:30 AM UVA West Complex
+		1300 Jefferson Park Ave, 2nd floor
+		Charlottesville, VA`
+		To reschedule: 434-924-5485 (ideally 3 days advance notice)
+		               800-251-3627
+- [ ] 2019-03-03
+	Gwyn's birthday?
+
+- [ ] 2019-10-02
+	Kate's Birthday
+
+- [ ] 2019-10-28 Mon
+	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
+			635 Robert E Lee Avemue
+			Elkins, WV
+
+# GOALWORK
+0: autonomy, safety, privacy, and joyful pursuit of dreams for all
+Problem:
+	dominant culture using oppressive technology to eradicate other cultures
+	and establish universal hierarchy of power and control
+Routes for safety:
+	- reliable collaboration & information sharing
+	- TOOLS to comprehend issues, e.g. EEG and radio work
+	- TECHNIQUES to get things done, such as nicotine
+	
+	Short term:
+	- nicotine & technocratic motivators and logs
+	- collaboration with others who can help?
+
+	Medium term:
+	- nonviolent communication
+	- uncensorable dialogue & information storage?
+	- caverns?
+
+	Likely lonegr term:
+	- shielded rooms
+	- radiowork
+	- EEG analysis, but helpful to have ongoing logging
+		could be faster with outreach etc
+
+	==> UNCENSORABLE DIALOGUE IS NEEDED BAD <==
+	If you start being productive without it, you can just enter a bubble.
+	This includes both the problem of technology and the problem of reaching others with the technology.
+
+	I think the best route would be a SIMPLE bitcoin messenger.
+	Probably a mobile phone app running bcoin.
+	- [ ] Check first if one already exists.
+	- [ ] Make a fund for people to message freely with it.
+1: personal requirements of life fully maintained
+	- want to stay on top of obligations and expectations
+		- UPCOMING list
+		- present concerns list
+		- nonlisted expectations
+		- other lists
+	- want to pursue personal wellness responsibly
+		- lyme disease
+		- neurology
+		- daily routine & cleanliness
+		- habits in support of mental thriving e.g. do enough things myself to retain abilities
+	- want to be able to fucntion with ease in my living situation
+		- organize possessions
+			- want to SAVE all my documents and objects and regularly spend a small amount of time comprehending them
+			- should keep a categorical inventory and work with others to organize possessions
+			- should work to shrink and archive possessions, selling them
+	- want to live kindly in all ways, and slowly move towards that ideal
+	- want to support ideals, people, etc that I value
+	
+	
+
+
+
+- personal consistency: to do what I want, 
+
+# ACTIONABLE TASKS
+
+## home
+- [X?] clean phone contacts
+
+## computer
+- [ ] Organization / Todo (feel free to REORDER)
+	- [ ] import paper items from the 2 notebooks
+		- [ ] todo items
+		- [ ] information items
+		- [ ] other items
+	- [ ] unify projects & tasks systems into this repo
+		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL?
+		- information and tracking of activities and projects is stored in folders regarding them
+			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Kate's desire to distinguish between these.
+			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.  
+		- projects/activities concept: activites == actionable tasks == each fits in time alloction system on phone
+		- use PROJECTS folder to organize what needs to be done in general
+			- activities folder would be a sibling.  we already have TASKS folder that can be the same.
+		- concepts here are GOALS/SUBGOALS/PROJECTS/ONGOING ACTIVITIES, REASONS AND PRIORITIES FOR GOALS, PLACE TO TRACK INFORMATION ON GOAL, TASKS, and PRIORITIES AND DEADLINES FOR TASKS
+			- phone tasks system allows to split time between goals or activities.  can mesh in.
+		-> OKAY: ACTIVITIES are phone goals/tasks that have time split between them.  This is why there's a separate activities folder: it's the level at which time is split.
+	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
+		- [X] install adb for sys-net
+		- [X] set up syncing between vms on qubes
+			-> src/gitbundleautosync on dev-whonix
+		- [ ] autosync everything when device plugged
+	- [ ] sort cruft below
+		- [X] DEAL WITH 'design tent interior' -- this is related to the goal of immediately increasing personal shielding
+					not as important as having a tool to measure SE in general, but a goal I had, that should at least get organized
+	- [ ] I'm having trouble having regular meals: come up with some foods I enjoy making (both for the joy of making & sourcing, and for the health and ease) and make a system to make food mroe available for me
+			-> maybe schedule a dumpster visit, and some gathring?  there are apples and acorns everywhere, and I'm not done with apple pres
+
+## internet
+- [ ] find when my neurological testing is, maybe a voicemail could indicate? maybe med portal?
+	-> they called me to get insurance information
+	   I think I called them back at 434-924-2718 and provided it
+- [ ] get an awareness class
+	-> awakening the senses costs $600 ....
+- [ ] share my gitbundleautosync projects; they're useful tools
+- [_] sign up for another nvcacademy course
+	-> still doing convergent fac
+- [ ] download history of a volatile crypto? from an exchange that trades it
+- [ ] withdraw $ for GBT, MPSS, Diane, Truck
+
+
+## truck
+- [ ] slowly unpack the truck in order to scan docs (or find other scanning solution)
+
+
+#### BACKBURNER
+
+# important
+- [ ] design modular solution for holding possessions and arranging day-to-day life (drawers? sink? compost? etc)
+- [ ] open-source cell phone
+- [ ] put tent/modular room/etc in truck
+- [ ] look for volunteer work (telescope? nearby city?)
+- [ ] research land near telescope using tax assessor maps (any areas more restricted than mine?)
+
+# fun
+- [ ] get a piano (upright still exists)
+
+#### ONGOING TASKS
+
+# active
+- pursue proper shielding
+- pursue short-term increased shielding
+	- put tent in truck
+
+# really important
+- household chores
+- unpack & organize
+- papers (collate, scan)
+- new emails, starred emails, voicemails & such life obligations
+- old todo items
+- finances: automate bitcoin investments?
+
+# important
+- copper room / test box
+- learn to weld
+- pursue 24/7 EEG
+	- pursue dermals and transdermals
+- pursue video surveillance / self-recording
+- learn emissions of sound & EM
+- learn EE, Physics, Math
+- learn radios, 24/7 radio logging
+
+# fun
+- live without imports, money, or causing suffering in other life (instead nurture surrounding life); relearn awareness & connect with others
+	- solar
+
+#### THINGS TO CHANGE ABOUT MY INNER HABITS
+- getting up in morning (staying in bed at night, or at least resting consistently)
+- crypto: using pgp, putting coins on airgapped phone, getting new airgapped phone
+- adhering to a daily schedule, throughout the day, and using time-tracking system
+- time spent in shower
+- time spent in morning routine
+	-> could associate N2 with time spent doing morning routine
+	-> probably helpful if had N2 after different spots in morning routine
+	-> remember N2 must be provided by habit-building activity, otherwise could take without association
+			-> could fix by creating secure device to dispense N2
+
+- willpower with regard to comforts (hold bathroom in, shower in cold temperature, do difficult tasks)
+	-> could put some of these tasks inside my N2 activity
+
+- addressing TODO items, INBOX items, IMPORTANT items
+	-> could associate N2 with things coming off of this list
+		-> sounds a little delayed, but if I did the items prior to an N2 activity it might work
+		-> maybe add a mid-day routine
+	-> should give list a maximum count so that highest priority items occupy it
+
+- errors and spasms to decrease
+	-> could measure quality or rapidity of tasks
+	-> could be easier with EEG
+	-> CAN TRACK computer accuracy! missing mouse clicks, clicking wrong tabs, using backspace key or deleting in vi ...
+
+- vision holes
+	-> could actually design peripheral vision device.  very gratifying.  just need digital projector with wide-angle lens
+- short term memory
+	-> could use memory task such as dual n-back.  may encounter second issue of context
+- staying energized in face of 'flags'
+	-> could note flags and review them, work with concepts around them ... seems intense
+	   could also note important events of de-energizing and just work with those, focused on my goals
+
+- keeping room clean and ORGANIZED
+- remembering my possessions
+
+- real results with regard to executive functioning and task/information organization
+	-> not sure how to measure this
+
+- effectiveness of coding
+
+- complete silence and peace in my mind, clarity of thinking, memory working
+	-> mostly subjective for now, but could modulate some other goal with subjective judgement.  seems to work
+
+- stopping driving to lubricate my eye
+	-> could combine with any other task, while driving
+	-> schedule break during drive, for lubrication etc?
+	-> use pocket lubricant when doing regular lubrication, to build ease of access
+
+- ability to generalize plans; hold schedule in my mind;--> include infornation when making decisions<--; brainstorm
+
+- adding to a record of subjective events (such as sudden memory loss etc)
+	-> could provide nicotine immediately with addition
+	-> but then also want to decrease event .... maybe change regarding time
+			e.g. could reward immediately, but decrease normal outside greater than reward by a little
+			but that would train the event
+			could also reward immediately, but over time decrease reward, while having consistency wrt decreasing next dose too
+
+#### INFORMATION
+
+(304) 456-5564
+6330 Potomac Highlands Trail
+Green Bank, WV 24944
+	UPS delivered stright to my door, marked my address as 6330 Potomac Highlands Trail / Ste 7
+					I had written it as 6328 / tiny home behind shed, and they rewrote it as above to suite 7
+
+Voicemail:
+	*100
+		pin is 6 digits
+	304 799 6891
+
+VOICEMAIL NOTES
+
+Caverns
+	WVCC provides access to public caves
+		https://wvcc.net/cave-preserves/
+	WVASS maps and indexes caves
+		https://www.wvass.org
+	Nearby caverns include
+	- seneca
+	- shenandoah caverns
+		9am - 4pm winter hours
+		tour is 1 hour, $25, 56 deg F
+			may be extra self-guided time after tour or somesuch
+		261 Caverns Rd
+		Shenandoah Caverns (or Quicksburg for GPS), VA 22847
+	- luray caverns, near shenandoah caverns
+		9am - 4pm winter hours
+		tour is ~1 hour
+		101 Cave Hill Rd
+		Luray, VA 22835
+		540-843-6551
+	- grand caverns
+		10a - 4pm winter hours
+		tour is 70 minutes, $20, 54 deg F
+		5 Grand Caverns Dr.
+		Grottoes, VA 24441
+		888-430-2283 / 540-249-5705
+	- endless caverns
+		only open april 1 - november 15
+		10am - 4pm
+		tour is 75 minutes
+		1800 Endless Caverns Rd
+		New Market, VA 22844
+		800-544-2283
+		underground passageways not fully mapped
+	- skyline caverns
+		9am - 4pm winter hours
+		tour is $22, $2 off coupon at www.skylinecaverns.com/coupon.html; for printing
+		10344 Stonewall Jackson Highway
+		Front Royal, VA 22630
+		800-296-4545 / 540-635-4545
+	- Natural Bridge Caverns
+		deepest on east coast
+		group overnight tours  & trips sgolding@naturalbridgeva.com
+		10am - 4pm winter hours, 9am in nov
+		tour is 45 minutes, $18
+		15 Appledore Lane
+		Natural Bridge, VA 24578
+		540-291-2121 or bridge & hotel toll-free 800-533-1410
+	- Dixie Caverns
+		9:30am - 5pm
+		$14, 57 deg F
+		5753 West Main Street
+		Salem, VA 24153
+		540-380-2085
+	- Gap Caverns
+		national park
+		$8.00 tours, april-september 1 pm
+		Rt 58
+		Ewing, VA 24248
+		804-248-2817
+		
+
+	more can be found at: cavern.com
+	caves on public property may be generally accessible
+	camping in caverns is a thing
+
+	Underground lodging:
+	Grand Canyon Caverns
+		- Arizona
+		- 220 ft motel room $800/night
+	Sala Silvermine
+		- Sweden
+		- 500 ft underground hotel room; mine lift shaft
+		- $500/night
+	Other possible:
+		Italy: Corte San Pietro, $275/night
+		Australia: Desert Cave Hotel, $160/night
+		Turkey: Cappadocian Cave Suites and other places in area, up to $100/night
+		Spain: Cuevas el Guindas and many abandoned caves, up to $55/night
+		Tunisia: Hotel Marhala, looks like star wars
+		Arkansas: Beckham Creek Cave Lodge, looks deepish, $1600/night
+		New Mexico: Kokopelli's Cave, $280/night
+		Greece: The Lava Cave also e.g. volcano hikes, $350/night
+
+Eye Prescr.
+	2018-10-26 Kevin Cox
+	-5.50 -5.75 (might want to check re prev prescr, wildly similar eye strengths)
+	PD 64 (32/32) measured quick
+	Good lubricants:
+		- refresh gel drops / refresh PM
+		- systane complete optimal dry eye relief
+		can check ingreds to judge thickness
+
+Health food stores:
+- Good Energy Foods? in Elkins (small)
+- A couple in Lewisburg
+
+
+
+Green Box (garbage facility)
+	Wed	8a - 4p (5p summer)
+	Sat	8a - 4p (5p summer)
+	Sun 	1p - 4p (6p summer)
+	Also open sunday hours on Memorial, Independence, Labor, Columbus, Veterans, and Thanksgiving day holidays
+	Walk-in access available 24/7
+
+Varner 304-456-4505
+	Towing, Commercial Mechanic
+
+Metals: Valley Steel, 30 mins towards elkins
+
+Frontier Support:
+	Main Menu: 877-669-5535
+		1 - current customer, customer service
+		or
+		2 - current customer, install date
+		or
+		3 - current customer, billing or technical support
+			-> 1 - english residential
+			My # is (304) 456-5564
+		or
+		4 - new customer, interested in services
+		    or adding services to existing account
+		OOPS no longer the menu below
+		-> 2 - customer support
+		   9 - other technical support
+		   # - further assistance
+		   
+			My # is (304) 456-5564
+	800-239-4430
+		"special promotion for select callers" 2018-11-15
+		didn't listen to further
+	Tech Dept: 888-440-2096
+		1 - english
+			304 456 5564
+		-> 
+
+Green Bank Anechoic Chamber
+	Jansky Laboratory
+	Carla Beaudet
+	cbeaudet@nrao.edu
+	304-456-2126
+	general number: 304-456-2011
+	https://www.federallabs.org/labs/gbo-rf-anechoic-chamber-antenna-test-range
+	https://www.cv.nrao.edu/~hliszt/RFI/RFI.htm
+
+
+Benita Via 8p, 7p
+	304-456-5598 but professional services would rather office be called
+		Professional Care Services P.O. Box 1731 Ekins, WV 26241
+		Wendy Collins: (304) 591-1834 wendy26collins@gmail.com <==
+
+Cancer Places
+	- WVU Medicines, Morgantown
+	- UHC United Health Center, Bridgeport
+	- UVA is excellent but a couple hours away
+	something small in elkins
+	Davis Memorial Cancer Center
+	801 Harrison Ave, Elkins
+	Dr Fleming
+	304 637 3640
+	fax: 304 637 3644
+	
+Gwyn Cole
+	304 456 5300
+
+James Reese
+	304 456 4525
+
+Diane Schou
+	304 456 5525
+		(p book says 5225, 4469, 5558)
+	Telephone: use line 4
+	B-room: don't turn fan on
+
+Dentist
+	413 586 6186
+
+Dr Bouboulis
+	Advanced Allergy, Immunology, & Asthma
+	advanced-allergy.com
+	203 655 9904
+	CLOSED EACH DAY 12:30p - 2:15p 
+	M 9:15a - 4:30p
+	Tu 8a - 9:15a - 4p
+	W 9:15a - 4:30p
+	Th 9:15 - 4:30p
+	F closed
+	Sa 9a - 12:30p
+
+	PHONE MENU
+		1: front desk, appointments
+			-> extension or voicemail box
+		2: nurse
+			-> voicemail box
+		3: quest phlebotomist
+		4: prescriptions
+		... billing # to call listed instead of 5
+		6: administrative assistance, medical records
+
+	1. restart trmt, info
+		2018-10-31
+		-> got nurse, remembered discontinuing things with maya some time ago
+		-> going to talk with dr bouboulis
+		-> aware that not allergic to azithromycin, allergic to amoxicillin
+	2. get missing antibiotic
+		green bank pharmacy
+		PO Box 85
+		90 Route 28
+		Green Bank, WV 24944
+		Phone: (304) 456-3333
+		Fax: (304) 456-3070
+		M-Thu 9a-5:30p
+
+NVC Practice Group
+	Blacksburg, VA; ~3 hr drive alternate sundays 7pm-8:30pm patriciabevan@mac.com
+
+Slingshot Contacts
+	Spring Village Ecology 757 Madison St, Harrisonberg, VA
+	Little Grill 621 N Main St, Harrisonburg, VA
+	Living Energy Farm 1022 Bibb Store Rd, Louisa, VA
+	Twin Oaks Community 138 Twin Oaks Rd, Louisa, VA
+	Vine & Fig 715 N Maine St, Harrisonburg, VA
+	Wayside Popular Education 1100 Mill Pond Rd, Faber, VA
+
+	Woodfolk House, Charlottesville, VA (434) 305-8622 Aurora DeMarco
+
+	Mind(ful) Liberation Project 2026 Parkwood Ave Apt C, Richmond, VA
+	Rag & Bones Bicycle 3110 W. Leigh St, Richmond, VA
+	Small Friends 105 N 17th St, Richmond, VA
+
+Lentil Soup
+	1/4 cup olive oil
+	1 medium onion
+	2 carrots
+	4 garlic cloves
+	2 tsp cumin
+	1 tsp curry powd
+	1/2 tsp thyme
+	28 oz diced tomatoes (drain into water measure)
+	1 cup lentils
+	32 oz (4 cup) veg broth
+	2 cup water
+	1+ tsp salt
+	pinch red pepper flakes
+	freshly ground black pepper
+	1 cup collard greens or kale
+	1/2 to 1 medium lemon juice
+
+	1. warm oil until shimmering
+	2. carrot & onion to softened and turning translucent, ~5 mins
+	   garlic, cumin, curry, thyme until fragrant, ~30 seconds
+	   drained tomatoes, a few minutes
+	3. lentils & liquids + 1 tsp salt, pepper flakes pinch, generous black pepper
+	   bring to boil, then simmer until lentils cooked, ~30 minutes
+	4. puree 2 cups
+	5. chopped greens until desired softness, ~5 minutes
+	   remove from heat, half of lemon juice
+	   taste & salt, pepper, lemon juice until flavors sing
+	   serve immediately (4 days n fridge, or several months frozen)
+
+Quinoa Veggie Soup
+	3 tbsp olive oil
+	1 medium onion
+	3 carrots
+	2 celery stalks
+	1-2 cups seasonal veggies e.g. zuchini, yellow squash, bell pepper, sweet potatoes, butternut squash
+		-> chopped as small as carrots for same cook time !
+	6 garlic cloves
+	1/2 tsp thyme
+	28 oz diced tomatoes (drain into water measure)
+	1 cup quinoa, scant (more or less to adjust soup)
+	32 oz (4 cup) veg broth
+	2 cup water
+	1 tsp salt
+	2 bay leaves
+	pinch red pepper flakes
+	freshly ground black pepper
+	15 oz great northern beans or chickpeas
+	>=1 cup kale or collard greens
+	1 tsp lemon juice
+	optional freshly grated parmesan
+
+	1. warm oil until shimmer
+	   onion, carrot, celery, veggies, pinch of salt until onion softened + turning translucent, ~6-8 mins
+	2. garlic and thyme until fragrent, ~1 minute
+	   tomatoes for a few more minutes
+	3. quinoa & liquids + 1 tsp slt, 2 bay leaves, red pepper flakes pinch, generous black pepper
+	   boil then simmer
+	4. 25 minutes, then beans and greens as desired, ~>=5 minutes
+	   i like to cook the beans more, and the greens less
+	   can also do 8 hours on low heat, or in slow cooker
+	5. remove from heat & remove bay leaves
+	   taste & pepper, up to 1/2 tsp salt, until flavors sing
+	   divide into bowls, optionally top with grated parmesan
+	
+
+# CRUFT TO SORT UP
+
+## every shift 10 minutes:
+- [ ] interpersonal notes
+	^-- what did I mean by interpersonal here?  judging by surrounding items, I might be working with existing objects that I have ... or I might be practivcing taking them
+- [ ] papers and planning
+	-- note this was separate from interpersonal notes ...
+ ====>		there might be clues in the history, e.g. my 'daily tasks' goal of my morning routne.  these were likely separate tasks
+
+
+
+
+
+## doable task ideas
+set up internet
+ Make a project for working on these organization systems.
+ work on EE lab report for 6 hours total
+ make door for trailer
+ build simple trailer (1 alu layer)
+ hire tech-savvy researcher, worker, executive assistant
+ review local resources from activist planner; zine place only opens for events
+ make haven phone work
+ finish backup of old drive data, remember my annex is in there!
+ buy truck
+ update trailer sticker
+ get a new eye doctor
+ visit mill180
+ visit artsy place katie found
+ visit makerspace to the south
+ restaple walls trailer
+ sync inventory list with this repo
+ resume symptom log; staff can help
+ figure out if mt.gox will give me my money or if I am too late
+
+## confusing task ideas
+- [ ] submit job posting, could mention familiarity with linux command line and neuroscience or machine learning
+- [ ] clean laptop using high concentration rubbing alcohol
+- [ ] check bridge st packages
+- [ ] get dermal tops removed
+- [ ] get ears pierced
+- [ ] get more dermals, replace any dermals not working
+- [ ] put bounty on prereq for hyperdb improvement
+- [ ] run bounty updater and keep it running always
+- [ ] put bounty on rest of tasks needed to create dat sensor and video streams, databases, websites, and archives that are timestamped on blockchain
+- [ ] put bounties on openbci issues
+- [ ] do my morning routine
+- [ ] get my cbd oil from the car, take it, and mark having took it
+- [ ] put salt water on my piercings
+- [ ] open the mail I got from the eastern mass
+- [ ] open the mail on the table downstairs
+- [ ] do something with my AAA card on the stairs
+- [ ] open the mail I have stored in my possessions
+- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
+- [ ] build & test a small box
+- [ ] Find trailer registration
+- [ ] consolidate possessions
+- [ ] learn about shielded vestibules
+- [ ] learn to weld
+- [ ] find person to build room for me
+- [ ] organize notes for shielding goals somewhere
+- [ ] brass used for knife edge on door; how to connect this to wall?
+    -> probably you could bolt it into threaded holes and seal the joint
+  - [ ] how do existing structures do it?
+  - [ ] what attenuation properties provided by high conductivity of brass?
+  - [ ] what materials will work for 200dB walls?
+- [ ] follow up neurologist dartmouth hitchcock; include question re white matter
+      note: katie found local neurologist
+- [ ] remember + consolidate in writing importance of shielding using common or scavanged materials (e.g. say i can't receive mail or cannot phone or email or have no money)
+- [ ] Finish EE lab report
+- [ ] Add items for tasks not on this list
+- [ ] figure out junk in passat
+
+# DONE
+- Content moved to 01-Calendar-Log.txt .
+
+######
+
+# Agreements
+1. agree upon process
+  - discussion proceeds to follow only current topic, which is listed in agenda
+2.  first agenda topic is to brainstorm and agree upon initial agenda topics
+  - each topic has a priority, 1st priority items always are dealt with before lower priorities
+  - 1st priority items are added to agenda with a deadline.  if discussion is incomplete when deadline is hit, item may be readded to agenda for further discussion
+
+= Create Agenda Topics = Priority 1 = Deadlin: 8:20 am
+  Time use: 50%
+    -> we started late and it is INCREDIBLY hard to get anything done
+    -> can we plan our use of tiem better?
+  Effort: 100%
+  Effectiveness: 60%
+    -> there were agenda topics I cared about that were left out
+= When Talking Next = Priority 1? = Deadline 8:25 am
+  TEE: 100% 100% 100%
+= Make Major Tasks/Goals Document = Priority 2 = Deadline 8:40
+  TEE: 40% 200% 40%
+    -> I spent a lot of time confused during this
+      Jim seemed to also be confused
+    -> I had strong chest contractions and it was very hard to do this
+= Make List of Where to Look for Concerns to Integrate = Priority 2 = Deadline 8:50
+  TEE: 70% 80% 100%
+    -> I feel this was more successful than planned
+    -> maybe could have made it more complex? set goals higher? or used less time?
+= CANCELED Brainstorm Agenda for Tomorrow? = Deadline 9:00
+= Checking Out at the End = 9:00 - 9:10 =
+  TEE: 100% 200% 50%
+    -> I struggled here and couldn't meet my mental goals
+    -> I left out things I wanted to address
+    -> I couldn't hear Jim's expressions well
+
+    -> TEE improvement:
+      - rate each timespan something was done during for Time Use, Difficulty, and Effectiveness
+      - we want things to have good use of time, low effort engaged, and high effectiveness
+      - second half of check-in: celebrate items with good ratios, discuss items with poor ratios
+    -> Further thoughts:
+      - general check-outs usually just have each person give a general sense of what went well and what went poorly and suggestions for next time, or some variant
+      - Karl is often in a state of mind where he can't really generalize or combine information in his mind, so the TEE detail approach is helpful for him, but it is not a good use of time overall
+      - Ideas:
+      - could check in with Karl, and try TEE approach or try things generally
+      - could take some space to calm down, see if Karl's ability to generalize opens up after engaging in some 'therepeutic' behavior like exchanging how we are doing and talking briefly about day
+      - Karl also has an issue where his mind goes all wonky when he thinks about certain things among a group of things.  TEE is rote enough that he can try to apply it to all things and keep using it if they make him all wonky.
+
+    TEE: rate time use, difficulty, effectiveness
+         missing: wellness of participants
+    Jim: what went well, what went poorly, suggestions for improvement
+
+
+Other Concerns?
+
+  Jim TEE:
+    - agenda process, brainstorming, assigning priority, having deadlines means you are using time effectively. we did that. 100% time
+    - addressed effort: impressed with me pushing through. feels we were on task 100% effort
+    - effectiveness: stumbled a little when we created document, not that effective due to missing on box 50% effectiveness
+  Karl feels unsatisfied with regard to including necessary concerns in the process.
+  Jim's concerned that we mostly behaved in a rote manner, didn't really integrate meaning of information
+
+Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
+
+
+= CONCERNS / GOALS =
+  - Jim knowing K's day-to-day status
+  - Daily routine strategies
+  - Truck off Diane's land
+  - Concerns listed elsewhere
+
+  - Financial
+    - Overdraws
+    - Tax liability
+  - Medical
+    - Cancer followup
+    - Other
+  - Upcoming obligations
+  - Daily life ease
+    - meals
+    - not being disgusting or unwieldy
+  - Possessions
+  - Documents / information
+  - Education
+  - Personal work
+    - shielding
+    - information security, community collaboration, targeted individuals
+  - Working with others with similar goals
+  - Broaden social community
+  - Connecting with telescope
+  - Connection with family
+  - ease of use and interoperability of this document
+
+= MAJOR TASKS / ACTIVITIES =
+
+ ::WORKING ON MERGING WITH Routine/01-Tasks_Shielded_Space # Goals
+ 	with intent of getting ttrack script working
+
+  - LIFE?: TLC's, daily life ease, activities of happiness, meeting the needs of others
+  	EARTH
+  - MONEY: Managing financial wellness
+  - RESPONS: Completing responsibilities
+  	- BODY: Managing physical / medical wellness
+
+  - SAFE: Personal work - shielding, etc. 
+  	SUST
+	REC
+	DEMO
+	PUB
+  	MVF?
+
+  BACKEND
+  	- EDU: School and Career behavior
+
+  TASKORG
+          - Finding / processing more concerns, obligations, goals, tasks
+          - Personalizing daily routine/ strategies / time management
+          - Major and medium-term life planning
+            - Delegation
+  	- Handling possessions + documents (truck)
+
+Places to find concerns, tasks, goals:
+  - For Everything
+    - Stuff I haven't looked at yet
+    - Stuff i've looked but haven't dealt with yet
+    - Stuff I meant to deal with but have not successfully done so
+      - notably my memory is decreasing so i may have assumed i'd remember something but completely forgot it
+  - Physical
+    - things other people know or think of
+    - => physical mail
+    - phone system
+      - frontier voicemail
+      - google voicemail
+      - google texts
+      - mobile phone texts
+    - nearby notebooks
+    - papers file
+    - subscriptions / utilities i may need to maintain
+    - boxes that may contain documents similar to this or related
+    - hard-to-find notes that are nearby e.g. in a backpack
+  - Digital
+    - github/fuzzyTew/todo repo
+      - 00-Organizer file
+      - 'UPCOMING' section
+      - 'present concerns' section which is unfortunately unlabeled
+      - other sections
+    - other documents in this repo
+  - other files on my computer
+  - files in storage or recoverable
+  - e-mail
+    - => e-mail i haven't read
+    - old starred e-mails i've dropped
+    - e-mails i've sent myself to remind myself of things and ignored
+    - just plain old e-mail
+  - facebook interactions
+  - stuff not thought of
+
+
+# 2018-11-19 08:12 AM Jim Taggart Meeting
+
+08:15
+- [X] talking with Jim
+08:16
+- [X] to 08:21 Agenda
+      update to 08:26
+      update to 08:45
+- [X] to 09:00 merging last document
+  -> let's schedule followup
+- [X] to 09:10 Jim's concern with truck
+- [X] to 09:20 scheduling future calls; jeremy?
+- [ ] to 09:30 discuss TEE
+  -> ran out of time, realized kate call 9:30
+- [ ] to 09:40 checkout
+
+Karl:
+  TDE not addressed enough.
+    I really want to start adjusting things to improve in the face of my difficulty getting senses of stuff.  The only way we began to address this was by moving the old doc into this one -- nothing was actually done with it.
+  Success: got through rough spot at beginning! jim took over agenda tracking to my satisfaction which was really freeing!
+  suggestion: maybe we could have two meetigns, one to work on _process_ and another to get things _done_ ?
+
+Jim:
+  Stuck between 'process' and 'getting things done'.
+  Appreciates suggestion above.
+  
+
+concerns:
+- merging last document
+  subconcerns:
+      - document will be lost unless enters todo repository; karl's memory is not a place to keep things
+      - jim not on board with regard to using this time to make file that unifies concerns in todo repository
+      - other item i forgot
+- scheduling future calls; jeremy?
+- TEE use
+- plan next green bank visit nov 28th/29th
+  OR address Jim's concern around trunk staying so long
+
+- finances, with specific goal
+- physical/medical scheduling (CCIL?)
+- voicemail
+- beginning enumerating concerns from sources
+- plan truck
+- new pressing concerns:
+  - dad's email, car registration
+
+# Next meeting:
+- discuss two meetings, one for process and organization tools, another for getting work don
+
+# 2018-11-20 08:14 Jim Taggart mtg
+
+Jim Taggart must wrap up prior to 9:30a.
+
+- [ ] Agree to Process
+	- meeting follows agenda with hard deadlins
+	- first agenda item is to agree on agenda
+  - meeting ediquete call-out practice?
+  - label items whether coming from Jim or Karl
+- [X] to 08:30 or earlier Agenda
+
+- [X] to 08:45 or earlier: Prior 1: plan for separating process from work
+
+			- any decisions / goals regarding check-out / check-in / other meeting norms
+
+			-> propose 2 meetings per day, process meeting and work meeting
+				-> perhaps 3rd post-portem meeting is one with jeremy or kate
+			
+
+- [X] to 09:10 or earlier: Prior 1: time / priority management
+	- philosophy of time management
+    K: "I'd like to be aware of the things I want to do and need to do, and I'd like to feel like I'm getting them done."
+
+	- integrating goals / tasks
+    -> let's move towards merging UPCOMING list with Present Concerns list
+  - TDE concept
+
+      -> Shielding Project
+      -> Responsibilities
+        -> other things that are also good to do
+        -> nicotine: can make goals that are unpleasant pleasant, goals that are impossible, doable
+      -> Nicotine Dispenser
+      -> Meetings with Jim focused on timely effectiveness
+
+- [X] to 09:20 or earlier: Prior 2: current events updates
+			- truck / ccil
+			- kate / jeremy involvement
+
+- check-out:
+  
+
+# 2018-11-20 12:32 Jim Taggart mtg
+Must end by 1:30
+
+Jim has had sophisticated jobs where productivity is really important, and he's had to design his own
+personal systems.  What he's trying to do is help me develop my own productivity system.  Both of us
+are not feeling good about the process.  Yesterday Karl yelled at him.  Karl wants to include other
+people in the process ... he wants people who are smrter or can type faster; Karl's throwing all these
+collaborative interfaces at him and expecting him to use them within five minutes of looking.
+Jim's sensing that we're not connecting on how to move forward on this system.
+Jim's suggesting that we find on the market a personal productivity system, that is sophisticated,
+for me and him to look at it together and see if that might be a better fit than what we're trying
+to customize together.
+
+K: It sounds like you're feeling frustrated because this is difficult.  Is that correct?
+J: I'm very patient, and I'm not frustrated, but I did wake up last night, concerned about this meeting.
+Whatever's happening re personal coaching system, there's tension and anxiety and there's a gap in
+communication.  Jim's availed himself a couple of times a day now for a process meeting and a work meeting.
+
+K: It sounds like you're feeling a lot of tension and anxiety around a need for us to communicate and work
+more effectively.  Is that right?
+
+J: What would be helpful for me is that at the end of our meetings, that we create an agenda for the next
+meeting.  Instead of starting the day with having to create an agenda, we have an agenda from the previous
+day for working on the next day.  Do you think we could spend a few minutes trying to create an agenda
+for tomorrow morning?
+
+K: <got blocked around typing>
+
+
+# 2018-11-21 08:14 Work Mtg to 9:15
+
+- [X] Agenda
+	-> "personal productivity system"
+- [ ] to 9:15 Consolidating Lists
+
+	-> Jim expresses again desire for task priorities:
+			1. Next
+			2. Later
+			3. Extra
+
+
+		
+	-> Way to associate it with time: schedule, day week month, quarterly?
+
+
+Next Process Mtg:
+- any decisions / goals regarding check-out / check-in / other meeting norms
+  => address any decisions or goals regarding the meeting process
+    (karl had things he wanted to talk about, change, or stress, or check-in regarding)
+- TDE concept (meeting use and goal use)
+
+
+Next Either Mtg:
+- integrating goals / tasks
+  -> let's move towards merging UPCOMING list with Present Concerns list
