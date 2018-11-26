@@ -28,6 +28,12 @@ Dispenser got clogged when viscosity was high enough to stay on brush.
 Options: - increase viscosity after dispensing, by e.g. mixing with toothpaste
 	 - pursue drill bit inside powder approach, to push powder out of box in controlled manner
 	 => mix with thickening powder after dispensing to increase viscosity for brushing
+2018-11-25
+Setting up dispenser again with thickening plan.  I have graduated cylinders to measure volume correctly.
+I found the smallest dispensing unit is almost exactly 1.0 mL
+I found the next larger dispensing unit to be 1.6 mL, maybe 1.7 mL occasionally
+I found the largest dispending unit to dispense up to 4.3 mL, but sometimes down to only 4.0 mL
+1.0 mL		1.6 mL		4.3 mL
 
 
 == goal 1 ==
