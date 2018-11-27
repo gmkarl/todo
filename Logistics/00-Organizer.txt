@@ -449,17 +449,24 @@ youtube/vimeo: search consensus decision-making
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2018-11-27 Tue
+  - [X] 5:29a - early aux brushing left over from yesterday
+  - [X] 7:31a - brushing
   - [ ] 8:00a - 9:00a Jim Work Mtg
   	-> Jim canceled due to driving
-  	- [ ] 9:30 - Kate calls early to check in
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+  - [ ] 9:33a - aux brushing
+	- [X][ ] 10:00a - 11:00a Kate call Fri, Tue
            Jim Process Mtg w/ Kate
 	   -> Jim canceled due to driving
   - [ ] 11:00am Nurse from CCIL potentially arrives
     Cheryl Warner
     304 838-9060
+    	-> will be recheduled; Cheryl had accident
 	- [X] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 	- [ ] buy 4mg lozenges and return package
+  - [ ] 11:35a - brushing
+  - [ ] 1:37p - aux brushing
+  - [ ] 3:39p - brushing
+  - [ ] 5:41p - aux brushing
     
 - [ ] 2018-11-28 Wed
   - Jim visit arrive at 100p
@@ -468,6 +475,8 @@ youtube/vimeo: search consensus decision-making
   - Jim Visit
 
 - [ ] 2018-11-30 Fri
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+  - [ ] 1:00p maybe help Gwyn with speech video recording
   - [ ] 6:00p Maya Gail Taylor calls for introductory free consult
 
 - jeremy wants more specific time planned for xmas meeting
@@ -479,7 +488,14 @@ youtube/vimeo: search consensus decision-making
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
         Jim Process Mtg w/ Jeremy
 
+- [ ] 2018-12-04 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+
 - [ ] 2018-12-05 Wed
+	- [ ] 1:00 PM Drs Appointment Elkins?
+		Jenny L Cross
+		911 Gorman Avenue Suite 201
+		Elkins, WV 26241
 	- [ ] 3:00 PM Drs Appointment Elkins
 		Bring mailed paperwork, insurance card, medications
 		Tygart Valley Medical Specialties
@@ -487,6 +503,9 @@ youtube/vimeo: search consensus decision-making
 		Old Physicians Office Building
 		Suite 201
 		Elkins, WV
+
+- [ ] 2018-12-07 Fri
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2018-12-11
 
@@ -1459,3 +1478,4 @@ Next Process Mtg:
 Next Either Mtg:
 - integrating goals / tasks
   -> let's move towards merging UPCOMING list with Present Concerns list
+
