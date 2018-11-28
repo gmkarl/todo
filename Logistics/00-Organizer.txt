@@ -448,89 +448,27 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [X] 2018-11-22 Thu
-  - [X] 7:30a - brushing
-	- [ ] 9:00am - begin work unloading truck with Gwyn & Ben
-	-> RESCHEDULED to Sat
-  - [X] 9:50a - aux brushing
-  - [X] 12:00o - brushing
-  - [X] make vegetable dish
-  - [X] 2:10p - aux brushing
-  - [X] 2:20p - meet Gwyn at her place to leave
-  	-> i was about 20 mins late
-	- Thanksgiving Day
-	- [X] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
-			BRING A VEGETABLE DISH
-	-> went well ! mostly. vegetable dish was a hit
-  - [X] 5:10p - brushing
-  	-> did late
-  - [ ] 7:20p - aux brushing
-  - Jim not working
-
-- [!] 2018-11-23 Fri
-	- [X] 7:30a - brushing
+- [!] 2018-11-27 Tue
   - [ ] 8:00a - 9:00a Jim Work Mtg
-  	-> I think Jim canceled this but haven't fully read the text message
-	- no Kate call this day
-	- [X] 9:50a - aux brushing
-  - [ ] 12:00p - 1:00p Jim Process Mtg
-  	-> I think Jim canceled this but haven't fully read the text message
-  	- [ ] 12:01p - brushing
-	- [ ] 2:12p - aux brushing
-	- [ ] 4:23p - brushing
-	- [ ] 6:34p - aux brushing
-	
-- [ ] 2018-11-24 Sat
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-  - [ ] 9:00am? - begin work unloading truck with Gwyn & Ben
-    - jim not available for afternoon mtg
-  - [ ] Work with Gwyn and Ben to unload truck !
-
-- [ ] 2018-11-25 Sun
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-  - [ ] 12:00p - 1:00p Jim Process Mtg
-	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-
-- [ ] 2018-11-26 Mon
-	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
-			- want to get back on all 4 antibiotics
-		call comes from  203 655 9904
-		call goes to 207 518 8256
-		             304 456 5564
-	-> doxycycline first
-		100mg 2/day
-	-> 5 days later, assuming you're not herxing, add azithromycin
-		500mg 1/day after dinner
-	-> 5 days later again, add bactrim
-		double-strength  2/day after meals
-	-> 5 days later again, add mepron yellow liquid (1/2 teaspoon twice a day)
-	-> 5 days later again, increase mepron to (1 teaspoon twice a day)
-	-> stay until babesia, bartonella, and anaplasma go away
-		1st anaplasma leaves
-		2nd babesia leaves
-		3rd bartonella leaves
-	minimum 8hrs apart
-	stays 6-9 months
-	neuropathy can 
-	-> would like to talk in about a month
-  - [ ] 8:00a - 9:00a Jim Work Mtg (interrupt if Bouboulis calls !!!)
-	- [X] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
-        Jim Process Mtg w/ Jeremy
-  - [ ] 3:00p or later: Jim calls conferencing with Dr Bouboulis
-
-- [ ] 2018-11-27 Tue
-  - [ ] 8:00a - 9:00a Jim Work Mtg
+  	-> Jim canceled due to driving
+  	- [ ] 9:30 - Kate calls early to check in
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
            Jim Process Mtg w/ Kate
+	   -> Jim canceled due to driving
   - [ ] 11:00am Nurse from CCIL potentially arrives
     Cheryl Warner
     304 838-9060
+	- [X] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
+	- [ ] buy 4mg lozenges and return package
     
-- - [ ] 2018-11-28 Wed
+- [ ] 2018-11-28 Wed
   - Jim visit arrive at 100p
   
-- 2018-11-29
+- [ ] 2018-11-29 Thu
   - Jim Visit
+
+- [ ] 2018-11-30 Fri
+  - [ ] 6:00p Maya Gail Taylor calls for introductory free consult
 
 - jeremy wants more specific time planned for xmas meeting
 
@@ -550,11 +488,13 @@ youtube/vimeo: search consensus decision-making
 		Suite 201
 		Elkins, WV
 
+- [ ] 2018-12-11
+
 - [ ] 2018-12-14
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
-	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/
+	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
 
 - [ ] 2018-12-18
 	- [ ] kate could do in-person shift today
