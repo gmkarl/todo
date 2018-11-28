@@ -444,6 +444,8 @@ youtube/vimeo: search consensus decision-making
 
 # CALENDAR
 
+9a-4p mountain time m-f
+
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [X] 2018-11-22 Thu
@@ -466,11 +468,11 @@ youtube/vimeo: search consensus decision-making
   - Jim not working
 
 - [!] 2018-11-23 Fri
-	- [ ] 7:30a - brushing
+	- [X] 7:30a - brushing
   - [ ] 8:00a - 9:00a Jim Work Mtg
   	-> I think Jim canceled this but haven't fully read the text message
 	- no Kate call this day
-	- [ ] 9:50a - aux brushing
+	- [X] 9:50a - aux brushing
   - [ ] 12:00p - 1:00p Jim Process Mtg
   	-> I think Jim canceled this but haven't fully read the text message
   	- [ ] 12:01p - brushing
@@ -487,6 +489,7 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-11-25 Sun
   - [ ] 8:00a - 9:00a Jim Work Mtg
   - [ ] 12:00p - 1:00p Jim Process Mtg
+	- [ ] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
 
 - [ ] 2018-11-26 Mon
 	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
@@ -494,9 +497,26 @@ youtube/vimeo: search consensus decision-making
 		call comes from  203 655 9904
 		call goes to 207 518 8256
 		             304 456 5564
+	-> doxycycline first
+		100mg 2/day
+	-> 5 days later, assuming you're not herxing, add azithromycin
+		500mg 1/day after dinner
+	-> 5 days later again, add bactrim
+		double-strength  2/day after meals
+	-> 5 days later again, add mepron yellow liquid (1/2 teaspoon twice a day)
+	-> 5 days later again, increase mepron to (1 teaspoon twice a day)
+	-> stay until babesia, bartonella, and anaplasma go away
+		1st anaplasma leaves
+		2nd babesia leaves
+		3rd bartonella leaves
+	minimum 8hrs apart
+	stays 6-9 months
+	neuropathy can 
+	-> would like to talk in about a month
   - [ ] 8:00a - 9:00a Jim Work Mtg (interrupt if Bouboulis calls !!!)
-	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+	- [X] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
         Jim Process Mtg w/ Jeremy
+  - [ ] 3:00p or later: Jim calls conferencing with Dr Bouboulis
 
 - [ ] 2018-11-27 Tue
   - [ ] 8:00a - 9:00a Jim Work Mtg
@@ -506,7 +526,7 @@ youtube/vimeo: search consensus decision-making
     Cheryl Warner
     304 838-9060
     
-- 2018-11-28
+- - [ ] 2018-11-28 Wed
   - Jim visit arrive at 100p
   
 - 2018-11-29
@@ -516,6 +536,10 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
+
+- [ ] 2018-12-03 Mon
+	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+        Jim Process Mtg w/ Jeremy
 
 - [ ] 2018-12-05 Wed
 	- [ ] 3:00 PM Drs Appointment Elkins
@@ -546,6 +570,7 @@ youtube/vimeo: search consensus decision-making
 - mom says I could visit any time, she's in newton, she has medical appts on 23rd and 29th, 23rd is small
 
 - Jeremy available 12-26 through 12-28
+- Kate could make 12-26 or 12-27 work
 
 - [ ] 2018-12-21
 	- [ ] kate could do in-person shift today
@@ -997,6 +1022,19 @@ Dr Bouboulis
 	Th 9:15 - 4:30p
 	F closed
 	Sa 9a - 12:30p
+
+	PRESCRIPTION
+		1. Doxycycline 100mg 2/day
+		wait 5 days to ensure no bad reaction from herxing
+		2. Add Azithromycin 500mg 1/day after dinner
+		wait 5 days to ensure no bad reaction from herxing
+		3. Add Bactrim double-strength 2/day after meals
+		wait 5 days to ensure no bad reaction from herxing
+		4. Add 1/2 teaspoon Mepron 2/day
+		wait 5 days
+		5. Increase Mepron to 1 teaspoon 2/day
+		contact Dr Bouboulis 1 month from step 1
+		treatment will likely last 9 months
 
 	PHONE MENU
 		1: front desk, appointments
