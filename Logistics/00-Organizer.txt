@@ -462,11 +462,16 @@ youtube/vimeo: search consensus decision-making
     304 838-9060
     	-> will be recheduled; Cheryl had accident
 	- [X] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-	- [ ] buy 4mg lozenges and return package
+	- [X] buy 4mg lozenges and return package
   - [ ] 11:35a - brushing
   - [ ] 1:37p - aux brushing
   - [ ] 3:39p - brushing
   - [ ] 5:41p - aux brushing
+
+  reschedule blood draw at davis medical center / dr fleming
+  304-637-3640 8a-4p mon-fri
+  -> get labs drawn with PCP, fax to davis medical 304 637 3644
+     
     
 - [ ] 2018-11-28 Wed
   - Jim visit arrive at 100p
@@ -490,6 +495,8 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2018-12-04 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] 7:30a or any time afterward Blood Draw
+		bring laboratory requisition form to green bank community care
 
 - [ ] 2018-12-05 Wed
 	- [ ] 1:00 PM Drs Appointment Elkins?
@@ -508,12 +515,19 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2018-12-11
+	- [ ] 12:45p - online NCV workshop with Gregg Kendrick
 
 - [ ] 2018-12-14
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
 	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
+	- [ ] 10:45a Oncological Follow-up
+		Dr Fleming
+		Davis Medical Center
+		801 Harrison Ave
+		Elkins, WV 26241
+		davishealthsystem.org
 
 - [ ] 2018-12-18
 	- [ ] kate could do in-person shift today
