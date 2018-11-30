@@ -17,12 +17,12 @@ rating_trials=$((0))
 rating_successes=$((0))
 rating_startsecs=$(($(date +%s)))
 
-if (( last_successes <= baseline / 2 ))
+if (( last_successes < baseline ))
 then
-  baseline=$((baseline - 1))
+  baseline=$((last_successes))
 elif (( last_successes > baseline ))
 then
-  baseline=$((baseline + 1))
+  baseline=$((baseline + 2))
 fi
 
 echo $((rating_successes)) $((baseline)) > "$routine".laststatus
