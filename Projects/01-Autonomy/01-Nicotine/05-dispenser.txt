@@ -56,6 +56,10 @@ That's about
 
 Maybe I'll try putting 64 mg in 50 mL, giving a goal dosage of 0.974336 mL / dispense.
 
+Okay, I'm planning to write a program to track the dispensing.
+Likely use ROOT & TFile.  I'll need to store how much volume is in the dispenser, and update it when dispensing happens.
+Then it can predict the size of the dose, and later control how many doses etc.
+
 == goal 1 ==
 probably a cage or metal box with an opening for power & networking, and a door.
 door must be openable from inside by powered device
