@@ -448,8 +448,9 @@ youtube/vimeo: search consensus decision-making
 
 - [!] 2018-12-01
 	- [X] 6:35a - brushing
-	- [ ] 8:50a - aux brushing
-        - [ ][ ] 9:00a - jim mtg
+	- [X] 8:50a - aux brushing
+        - [X][X] 9:00a - jim mtg
+	- [X] CONTACT JEREMY regarding Jim meeting monday
 	- [ ] 11:05a - brushing
 	- [ ] 1:20p - aux brushing
 	- [ ] 3:35p - brushing
@@ -468,18 +469,32 @@ youtube/vimeo: search consensus decision-making
 	- [ ] ~8:00a - MEDS after bkfst
 		100mg doxycycline
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
+        	Jim Process Mtg w/ Jeremy
+		Jim T will try to join meeting.  Need to check with Jeremy to verify is okay.
+		Jim is ready to be sent away if not a good time.
+		Jim can meet later in the day if it doesn't work.
+	- [ ] 3:00p - Jim Work Mtg
+		-> meetings can often slide later if karl has trouble making them or wants them to move
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
-        Jim Process Mtg w/ Jeremy
 
 - [ ] 2018-12-04 Tue
+	- [ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
 	- [ ] 7:30a or any time afterward Blood Draw
 		bring laboratory requisition form to green bank community care
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
                 Kate available for possible Jim meeting
+		Jim Process Mtg w/ Kate
         - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
+	- [ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
 
 - [ ] 2018-12-05 Wed
+	- [ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] 10:00a - Jim Work Mtg
+		-> could do process mtg later in day? maybe call tygart valley and see if 1:00p appointment really exists
 	- [ ] 1:00 PM Drs Appointment Elkins?
 		Jenny L Cross
 		911 Gorman Avenue Suite 201
@@ -491,13 +506,39 @@ youtube/vimeo: search consensus decision-making
 		Old Physicians Office Building
 		Suite 201
 		Elkins, WV
+	- [ ] 5:30p - Jim Process Mtg
+	- [ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+
+- [ ] 2018-12-06 Thu
+	- [ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] 10:00a - Jim Work Mtg
+	- [ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
 
 - [ ] 2018-12-07 Fri
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] 8:30a - Jim Team Meeting
 	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] 12:00p - Jim Process Mtg
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+
+- [ ] 2018-12-08 Sat
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] 10:00a - Jim check-in: Jim is busy, can't do large mtg
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
 
 - [ ] 2018-12-09 Sun
-	- Jim Taggart visits
+	- [ ][ ] ~8:00a - MEDS after bkfst
+	- Jim Taggart visits in evening after spending day traveling
+	- [ ] 6:00p - Jim Process Mtg
+	- [ ][ ] ~6:30p - MEDS after dinnr
 
 - [ ] 2018-12-10 Mon
 	- Jim Taggart
@@ -1526,4 +1567,35 @@ Next Process Mtg:
 Next Either Mtg:
 - integrating goals / tasks
   -> let's move towards merging UPCOMING list with Present Concerns list
+
+# 2018-12-01 09:18 meeting again to 10:00a
+-> concerns:
+	- getting back to regular meetings, such that other stuff doesn't get in the way
+		-> no deadline, as much as needed, and then reportback if extra
+	- reportback
+		-> nvc counseling/mediation/friendwork
+		-> trip to mass
+		-> riley
+		-> hiring an organizer?
+
+	- goalwork
+		- adding people to the team without clear roles
+			- dr mooney's role?
+			- nvc counselor
+			- kate & jeremy
+			- (riley/organizer/gwyn?)
+	- what is the purpose?
+
+Jim is a little under the gun and has less time than he may have before, I believe.
+
+Jim feels uncomfortable.  He says that it may cost my father more dollars to meet with both Jeremy and Jim.
+Jim is not uncomfortable.  He feels he's not authorized to be paid by my father to join a meeting Jeremy is also paid for.
+Jim is going to ask my father about it.  I'd like to also express to him that I feel I gain more from time spent with both
+Jeremy and Jim at the same time, than individually, and request that this be authorized.
+
+# MEETING PROCESS
+-> concerns become agenda items
+-> items are prioritized with deadlines
+-> at start of meeting, check for consent with all participants before continuing, to both process and agenda
+
 
