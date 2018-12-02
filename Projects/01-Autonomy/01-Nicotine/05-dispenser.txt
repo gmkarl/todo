@@ -85,3 +85,12 @@ hacking up a soap dispenser would be the way to go.  This is cheap and simple.
 Will probably want a pipe to feed liquid into dispenser, with a valve on it to
 keep it from drying out.
 Sounds simple and doable.
+
+== PLANNING ==
+
+# monologue
+I'll need a metric to rank the VALUE of DEVELOPING and MAINTAINING different habits
+I'll also need a metric to judge the EFFECTIVENESS of different approaches to development and maintainence
+Propose adding numbers to different current habits, and possible new habits
+	some of these numbers could relate to the goal the habits pursue, and their effectiveness in pursuit of that goal
+
