@@ -88,7 +88,10 @@ Sounds simple and doable.
 
 == PLANNING ==
 
-# monologue
+METRICS:
+	- IMPORTANCE of habit
+	- DEVELOPMENT of habit, whether I am at my goal with regard to doing it
+
 I'll need a metric to rank the VALUE of DEVELOPING and MAINTAINING different habits
 I'll also need a metric to judge the EFFECTIVENESS of different approaches to development and maintainence
 Propose adding numbers to different current habits, and possible new habits
