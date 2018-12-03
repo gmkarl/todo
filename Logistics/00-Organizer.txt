@@ -437,6 +437,10 @@ youtube/vimeo: search consensus decision-making
 			One of Prudentwriter's Paypal accounts took the money back, saying unauthorized transaction.  Prudentwriter said he'll make it work.  Chat with him will be destroyed in 6 days.
 			Place 0.79 ETH in escrow to jimmy13.
 			Expecting $198.88 from Jaakoforssen66@aol.com
+
+		2018-12-03 13:21 ET
+			Finalized a different trade with jimmy13 after price change.  screenshot in dom0
+			Opened 2.6 eth for $404.43 with leahsv
 			
     2018-11-20 15:42 ET
       sold 13414.50458902 nem, purchasing 7.98606173 eth
@@ -446,44 +450,29 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-02 Sun
-	-> med regimen moved to Monday, so I can attend NVC group without worrying about med start
-	- [X] 6:35a - brushing
-	- [X] 8:50a - aux brushing
-	- [ ] review docs for blacksburg group
-	- [ ] 11:05a - brushing
-	- [ ] 1:20p - aux brushing
-	- [ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
-		2014 Northside Dr
-		Blacksburg, VA 
-	- [ ] 3:35p - brushing
-	- [ ] 5:50p - aux brushing
-	- [ ][ ] 8:00p - street giraffes first sunday of the month
-	  call 530 881-1212  (or maybe 701 801-1211)
-	  meeting id in email
-	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
-
-- [ ] 2018-12-03 Mon
+- [!] 2018-12-03 Mon
 	- Med regimen with Gwyn starts
-	- [ ] 6:35a - brushing
-	- [ ] reschedule brushings to match day
-	- [ ] ~8:00a - MEDS after bkfst
+	- [X] 8:50a - brushing
+	- [X] reschedule brushings to match day
+		-> woke up to gwyn, started brushing off-schedule
+	- [X] ~8:00a - MEDS after bkfst
 		100mg doxycycline
-	- [ ] 8:50a - aux brushing
 	- [ ] Schedule med regimen
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
         	Jim Process Mtg w/ Jeremy
 		Jim T will try to join meeting.  Need to check with Jeremy to verify is okay.
 		Jim is ready to be sent away if not a good time.
 		Jim can meet later in the day if it doesn't work.
-	- [ ] 11:05a - brushing
-	- [ ] 1:20p - aux brushing
-	- [ ] 3:00p - Jim Work Mtg
+	- [ ] 12:06p - aux brushing
+	- [ ] 2:22p - brushing
+	- [ ] 4:00p - Jim Work Mtg
 		-> meetings can often slide later if karl has trouble making them or wants them to move
-	- [ ] 3:35p - brushing
-	- [ ] 5:50p - aux brushing
+		-> Jim around 10:30a requested to move this meeting from 3pm to 4pm for Dr Mooney to join
+	- [ ] 5:08p - aux brushing
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
+	- [ ] 7:24p - brushing
+	- [ ] 9:40p - aux brushing
 
 - [ ] 2018-12-04 Tue
 	- [ ] ~8:00a - MEDS after bkfst
@@ -548,6 +537,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~6:30p - MEDS after dinnr
 
 - [ ] 2018-12-10 Mon
+	- [ ] 11:00a Jeremy call w/ Jim
 	- Jim Taggart
 
 - [ ] 2018-12-11
@@ -569,12 +559,18 @@ youtube/vimeo: search consensus decision-making
 		Elkins, WV 26241
 		davishealthsystem.org
 
+- [ ] 2018-12-16 Sun
+	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA 
+
 - [ ] 2018-12-18
 	- [ ] kate could do in-person shift today
 
 - Jeremy available 12-19 through 12-21
 
 - [ ] 2018-12-20
+	
 	- [ ] 3pm? leave for charlottesville
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 8
@@ -605,6 +601,12 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-02 Wed
 	- [ ] Jim can drive me back from MA
+
+- [ ] 2019-01-06 Sun
+	- [ ][ ] 8:00p - street giraffes first sunday of the month
+	  call 530 881-1212  (or maybe 701 801-1211)
+	  meeting id in email
+	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 	         
 - [ ] 2019-01-28
 	- [ ][ ] 6:30 PM food
@@ -1601,6 +1603,21 @@ Jim feels uncomfortable.  He says that it may cost my father more dollars to mee
 Jim is not uncomfortable.  He feels he's not authorized to be paid by my father to join a meeting Jeremy is also paid for.
 Jim is going to ask my father about it.  I'd like to also express to him that I feel I gain more from time spent with both
 Jeremy and Jim at the same time, than individually, and request that this be authorized.
+
+AGENDA EXAMPLE
+- 11:41 - brainstorm concerns
+	- time for checkout
+	- karl connecting with jim
+	- goal management work
+	- finding a way to manage my time with high effectiveness
+		and a sense of URGENCY since I have to handle every next day
+	- lack of time to tackle these things
+	- acknowledgement that these things are very important
+	- meeting with dr mooney
+	- skipped the check-ins
+- 11:43 - pick prioritized agenda items with time limits
+- 11:48 - appointment this afternoon
+- 11:50 - check-out
 
 # MEETING PROCESS
 -> concerns become agenda items
