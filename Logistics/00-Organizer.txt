@@ -482,6 +482,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
                 Kate available for possible Jim meeting
 		Jim Process Mtg w/ Kate
+	- [ ] 11:15a - Celia calls
         - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
@@ -537,6 +538,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~6:30p - MEDS after dinnr
 
 - [ ] 2018-12-10 Mon
+	- [ ] 9:00a-10:00a Dr Mooney call w/ Jim
 	- [ ] 11:00a Jeremy call w/ Jim
 	- Jim Taggart
 
@@ -545,7 +547,7 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2018-12-12 Wed
 	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
-	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2018-12-14
 	- [ ][ ] gbo internship application supposed to come up this month
@@ -1618,6 +1620,28 @@ AGENDA EXAMPLE
 - 11:43 - pick prioritized agenda items with time limits
 - 11:48 - appointment this afternoon
 - 11:50 - check-out
+
+2018-12-03 4:06p Dr Mooney & Jim
+Concerns:
+	- mooney & kar not connecting
+		- karl & celia telescope volunteer
+		- mooney & karl approach / focus
+	- designing an organizational/time management/personal productivity system
+		could dr mooney be helpful with his background in working with karl?
+	- karl's day/shower
+	- karl update
+Agenda:
+	- 4:17 Mooney & Karl connection
+		Dr Mooney did not have 304 number before.
+		He has been calling 207 518 8256.
+		He tried skype when numbers didn't work.
+		Celia will contact on Tue.
+	- 4:42 Designing a System
+		-> purpose of productivity system is kind of to hold lists as unpacked
+
+	- 4:... dr mooney & karl focus moving forward
+		
+	-  Post-Meeting, Jim elps Karl resume dy
 
 # MEETING PROCESS
 -> concerns become agenda items
