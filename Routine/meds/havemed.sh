@@ -22,7 +22,7 @@ grep ^.., "$csv" | grep -v CONTAINS | grep -v RECOMMENDED | sort -u
 echo ''
 echo 'Yay!  Meds time!'
 echo ''
-$TORIFY git pull
+$TORIFY git pull 2> /dev/null
 echo ''
 echo 'Enter meds in the form "ID Dosage".  Hit enter when you take it!'
 med='go'

@@ -104,8 +104,6 @@ LO, LifeExtension Super Omega-3, 1 softgel
 
 Antibiotic Meds
 DX, Doxycycline Hyclate, 1 tablet
-BM, Bactrim DS, 1 tablet
-AT, Atovaquone / Mepron, 5 milliliters
 
 Lunch Meds
 TB, Klaire Labs Ther-Biotic Complete, 1 capsule
@@ -2158,3 +2156,4 @@ Time, Med, Dosage, Notes
 2018-12-03T08:44:58-05:00,N2,.28,
 2018-12-03T12:19:57-05:00,N2,.30,"aux"
 2018-12-03T17:16:08-05:00,N2,.62,
+2018-12-03T19:09:16-05:00,DX,1,
