@@ -450,48 +450,14 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-03 Mon
-	- Med regimen with Gwyn starts
-	- [X] 8:50a - brushing
-	- [X] reschedule brushings to match day
-		-> woke up to gwyn, started brushing off-schedule
-	- [X] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] Schedule med regimen
-	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
-        	Jim Process Mtg w/ Jeremy
-		Jim T will try to join meeting.  Need to check with Jeremy to verify is okay.
-		Jim is ready to be sent away if not a good time.
-		Jim can meet later in the day if it doesn't work.
-	- [ ] 12:06p - aux brushing
-	- [ ] 2:22p - brushing
-	- [ ] 4:00p - Jim Work Mtg
-		-> meetings can often slide later if karl has trouble making them or wants them to move
-		-> Jim around 10:30a requested to move this meeting from 3pm to 4pm for Dr Mooney to join
-	- [ ] 5:08p - aux brushing
-	- [ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-	- [ ] 7:24p - brushing
-	- [ ] 9:40p - aux brushing
-
-- [ ] 2018-12-04 Tue
-	- [ ] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] 7:30a or any time afterward Blood Draw
-		bring laboratory requisition form to green bank community care
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-                Kate available for possible Jim meeting
-		Jim Process Mtg w/ Kate
-	- [ ] 11:15a - Celia calls
-        - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
-	- [ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-
-- [ ] 2018-12-05 Wed
+- [!] 2018-12-05 Wed
 	- [ ] ~8:00a - MEDS after bkfst
 		100mg doxycycline
 	- [ ] 10:00a - Jim Work Mtg
 		-> could do process mtg later in day? maybe call tygart valley and see if 1:00p appointment really exists
+	- [ ][ ] I missed my blood draw yesterday.  Let's try to just drop in some day and see if they can do it.  Probably will be significant wait time.
+	- [ ] Try to find lab form for blood draw.  Is it in car? bag? in-box-area?
+	- [ ] 11:15a celia calls? -> likely plan to miss this, no time for it with travel to elkins
 	- [ ] 1:00 PM Drs Appointment Elkins?
 		Jenny L Cross
 		911 Gorman Avenue Suite 201
@@ -511,6 +477,9 @@ youtube/vimeo: search consensus decision-making
 	- [ ] ~8:00a - MEDS after bkfst
 		100mg doxycycline
 	- [ ] 10:00a - Jim Work Mtg
+        - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
+		-> Cheryl will call if weather is too bad again.
+		   can text/call 838-9060
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 
@@ -520,6 +489,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ] 8:30a - Jim Team Meeting
 	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+		-> Kate says can meet with Jim 10a
 	- [ ] 12:00p - Jim Process Mtg
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
