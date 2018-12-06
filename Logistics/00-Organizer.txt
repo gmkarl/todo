@@ -450,44 +450,21 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-05 Wed
+- [!] 2018-12-06 Thu
 	- [X] ~8:00a - MEDS after bkfst
 		100mg doxycycline
-	- [ ] 10:00a - Jim Work Mtg
-		-> could do process mtg later in day? maybe call tygart valley and see if 1:00p appointment really exists
-	- [X][X] I missed my blood draw yesterday.  Let's try to just drop in some day and see if they can do it.  Probably will be significant wait time.
-	- [X] Try to find lab form for blood draw.  Is it in car? bag? in-box-area?
-		-> was in car
-	- [ ] 11:15a celia calls
-		TRY TO MAKE THIS CALL !
-		-> i called but it had been rescheduled to friday; there was some confusion due to things changing during the day (see texts with dr mooney at *-9407)
-		-> turns out my text to dr mooney had never sent, and filling in the surrounding that had it looked like I wanted to cancel
-	- [ ] 1:00 PM Drs Appointment Elkins?
-		-> this was outdated, had been moved to 3
-	- [ ] 3:00 PM Drs Appointment Elkins
-		Jenny L Cross
-		Bring mailed paperwork, insurance card, medications
-		Tygart Valley Medical Specialties
-		911 Gorman Avenue
-		Old Physicians Office Building
-		Suite 201
-		Elkins, WV 26241
-		-> rescheduled to Jan 2 due to snow over Cheat Mtn at Gwyn's request
-		-> later in the morning I drove the local roads which had been plowed clear of snow, it probably would have been fine to go in my judgement
-	- [X] BEFORE 2pm, blood draw at community care
-	- [ ] 5:30p - Jim Process Mtg
-	- [ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-
-- [ ] 2018-12-06 Thu
-	- [ ] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] 10:00a - Jim Work Mtg
-        - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
+  - [X] 9:35a - brushing
+	- [X] 10:00a - Jim Work Mtg
+	- [ ] 11:30a - Gwyn returns
+  - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
 		-> Cheryl will call if weather is too bad again.
 		   can text/call 838-9060
+  - [ ] 1:06p - aux brushing
+	- [ ] 3:22p - brushing
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
+	- [ ] 7:08p - aux brushing
+  - [ ] 9:24p - brushing
 
 - [ ] 2018-12-07 Fri
 	- [ ][ ] ~8:00a - MEDS after bkfst
@@ -496,6 +473,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 		-> Kate says can meet with Jim 10a
+		   Jim says for us to call him
 	- [ ] 12:00p - Jim Process Mtg
 	- [ ] 1:15p - celia call
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -1367,17 +1345,17 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
  	with intent of getting ttrack script working
 
   - LIFE?: TLC's, daily life ease, activities of happiness, meeting the needs of others
-  	EARTH
+				EARTH
   - MONEY: Managing financial wellness
   - RESPONS: Completing responsibilities
   	- BODY: Managing physical / medical wellness
 
   - SAFE: Personal work - shielding, etc. 
-  	SUST
-	REC
-	DEMO
-	PUB
-  	MVF?
+				SUST
+				REC
+				DEMO
+				PUB
+				MVF?
 
   BACKEND
   	- EDU: School and Career behavior
@@ -1388,6 +1366,20 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
           - Major and medium-term life planning
             - Delegation
   	- Handling possessions + documents (truck)
+
+	BLOCKED
+	SLEEP
+
+	Nowadays:
+				- CONFUSED (could be BLOCKED) <--
+				- DOWNTIME
+				- SLEEP
+				- GWYN (could be SOCIAL or TLCs) <--
+				- ROUTINES <--
+				- EVENTS <--
+				- PRIMARY PROJECT
+				- MAINTENANCE
+				- AUX PROJECTS
 
 Places to find concerns, tasks, goals:
   - For Everything
@@ -1645,6 +1637,32 @@ Agenda:
 	truck, second antibiotics
 
 	-> jim will call Elkins Truck & Wrecker Service
+
+2018-12-06 10:03a Work Mtg
+- organizing goals
+- reportbacks
+10:12 - done agenda
+10:34 - Methods
+	Jim wants to list methods he's observed.
+	- Next, Later, Extra
+	- Backlog Todo, Doing, Done
+	- Doing the things that are most difficult when you have the most power to do them
+		(mark twain: in the morning)
+	- Fixing tools for the job: undoing blocks w n2?, repairing equipment
+	- Projects:
+		- Action Steps / Backburner
+		  ie Next, (Later), Extra
+		- Reference Materials
+	- Time Boxing:
+		Categories of Activity go in Blocks of Time
+	Propose for Projects:
+		- Next
+		- Resources
+		- Extra / Backburner
+			-> this is a place to put the cool ideas that churn up but aren't atm worth the time
+			-> even ones that don't belong in this project, perhaps
+ - List Processing
+	
 
 # MEETING PROCESS
 -> concerns become agenda items
