@@ -1,4 +1,4 @@
-///bin/bash -c '. /usr/bin/thisroot.sh; /usr/bin/root -l "'"$0"'"'; exit $?
+///bin/bash -c '. /usr/bin/thisroot.sh; exec /usr/bin/root -l "'"$0"'"'
 
 #include <TFile.h>
 
