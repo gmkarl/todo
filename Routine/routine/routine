@@ -8,6 +8,7 @@ ttrackdir="../ttrack"
 export NO_SYNC=1
 cat "$FILE" | {
 
+echo "HEY HEY! I'm MOVING this concept into ==> routine2.C <== .  use system(3) to reuse script work. YES YES YES !!!!!"
 echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
 
 # let's add a rating to use for dosage suggestions
