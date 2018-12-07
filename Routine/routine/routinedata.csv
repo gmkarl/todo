@@ -3250,3 +3250,4 @@ EY, evening, , 2018-12-07T00:21:35+00:00, Eye Lubricant, finished earlier
 FD, evening, 2018-12-07T00:21:37+00:00, 2018-12-07T00:34:23+00:00, Dinner and Meds,
 BT, evening, , 2018-12-07T00:34:26+00:00, Brush Teeth, finished earlier
 BT18, brushing, 2018-12-07T00:20:11+00:00, 2018-12-07T00:34:31+00:00, Have started current routine or no current routine,
+BT19B, brushing, , 2018-12-07T11:28:39+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
