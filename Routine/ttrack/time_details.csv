@@ -217,6 +217,8 @@ Time,Action,Goal,Task
 1543761569,stop,RESPONS,Meds
 1543861653,start,RESPONS,Eye Lubricant
 1543861686,stop,RESPONS,Eye Lubricant
+1543876275,start,RESPONS,Fissure Treatment
+1543876398,stop,RESPONS,Fissure Treatment
 1543877604,start,RESPONS,Meds
 1543877639,start,RESPONS,Meds
 1543877648,start,RESPONS,Meds
