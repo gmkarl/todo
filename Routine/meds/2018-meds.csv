@@ -85,8 +85,10 @@ N2g, Nicorette Nicotine Polacrilex Gum 2mg, 1 piece
 N2g, CONTAINS nicotine polacrilex, 2 milligrams
 N4, QuitTube Nicotine Lozenge 4mg, 1 lozenge
 N4, CONTAINS nicotine polacrilex, 4 milligrams
-N1, Nicotine Lozenge Soap Dispenser Solution, 1 squirt
+N1, Nicotine Lozenge Solution, 1 milliliters
 N1, CONTAINS nicotine polacrilex, 1 milligrams
+AZ, Azithromycin, 1 tablet
+AZ, CONTAINS azithromycin equiv. monohydrate, 500 milligrams
 
 Morning Meds
 B2, Nature's Truth B-12 1000 mcg, 1 tablet
@@ -104,6 +106,7 @@ LO, LifeExtension Super Omega-3, 1 softgel
 
 Antibiotic Meds
 DX, Doxycycline Hyclate, 1 tablet
+AZ, Azithromycin, 1 tablet
 
 Lunch Meds
 TB, Klaire Labs Ther-Biotic Complete, 1 capsule
@@ -2192,3 +2195,4 @@ Time, Med, Dosage, Notes
 2018-12-07T18:57:24-05:00,DX,1,
 2018-12-08T08:27:19-05:00,DX,1,
 2018-12-08T13:49:28-05:00,IB,1,
+2018-12-08T19:47:54-05:00,IB,1,
