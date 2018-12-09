@@ -485,27 +485,62 @@ youtube/vimeo: search consensus decision-making
 	- [ ] 10:00a - Jim check-in: Jim is busy, can't do large mtg
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
+		500mg azithromycin
 
 - [ ] 2018-12-09 Sun
 	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
 	- Jim Taggart visits in evening after spending day traveling
 	- [ ] 6:00p - Jim Process Mtg
 	- possibly dinner with Gwyn & Jim
+				Karl will drive Gwyn
 	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
 
 - [ ] 2018-12-10 Mon
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
 	- [ ] 9:00a-10:00a Dr Mooney call w/ Jim
 	- [ ] 11:00a Jeremy call w/ Jim
 	- Jim Taggart
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
 
-- [ ] 2018-12-11
+- [ ] 2018-12-11 Tue
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+  - [ ] 9:00a-10:00a - Cheryl CCIL visits
+								Talked with Cheryl on phone at 12:18p Thu 12/6.
+								She agreed to come for this time.
 	- [ ] 12:45p - online NCV workshop with Gregg Kendrick
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
 
 - [ ] 2018-12-12 Wed
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
 	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
 
-- [ ] 2018-12-14
+- [ ] 2018-12-13 Thu
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+		Bactrim DS
+
+- [ ] 2018-12-14 Fri
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
@@ -516,6 +551,19 @@ youtube/vimeo: search consensus decision-making
 		801 Harrison Ave
 		Elkins, WV 26241
 		davishealthsystem.org
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+		Bactrim DS
+
+- [ ] 2018-12-15 Sat
+	- [ ][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+		Bactrim DS
 
 - [ ] 2018-12-16 Sun
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
