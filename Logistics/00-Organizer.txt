@@ -448,11 +448,12 @@ youtube/vimeo: search consensus decision-making
 
 - [!] 2018-11-30 Fri
         - [X] 5:45a - brushing
-        - [ ] 7:44a - aux brushing
-        - [ ][ ] 8:00a - jim work mtg?
+        - [X] 7:44a - aux brushing
+        - [ ][X] 8:00a - jim work mtg?
+                -> jim's available 9am tomorrow, not any time today
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
         - [ ] 11:05a - brushing
-        - [ ][ ] 12:00p - jim process mtg?
+        - [ ][X] 12:00p - jim process mtg?
   - [ ] 1:00p maybe help Gwyn with speech video recording
         - [ ] 1:15p - aux brushing
         - [ ] 3:25p - brushing
@@ -463,6 +464,7 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
+        - [ ][ ] 9:00a - jim mtg
 
 - [ ] 2018-12-02 Sun
 	- Med regiment with Gwyn starts
