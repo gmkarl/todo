@@ -1,6 +1,3 @@
-=======
-<<<<<<< HEAD
->>>>>>> incoming/1543601538-host-482b10e7/master
 Time,Action,Goal,Task
 1540469339,start,RESPONS,Brush Teeth
 1540469651,stop,RESPONS,Brush Teeth
@@ -190,6 +187,12 @@ Time,Action,Goal,Task
 1543585044,stop,RESPONS,Eye Lubricant
 1543594120,start,RESPONS,Brush Teeth
 1543594794,stop,RESPONS,Brush Teeth
+1543601735,start,RESPONS,Brush Teeth
+1543601930,stop,RESPONS,Brush Teeth
+1543613134,start,RESPONS,Brush Teeth
+1543613518,stop,RESPONS,Brush Teeth
+1543624639,start,RESPONS,Brush Teeth
+1543624866,stop,RESPONS,Brush Teeth
 1543677325,start,RESPONS,Meds
 1543677496,stop,RESPONS,Meds
 1543681678,start,RESPONS,Meds

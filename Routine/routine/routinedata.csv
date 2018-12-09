@@ -3086,3 +3086,28 @@ BT10, brushing, 2018-11-30T16:28:44+00:00, 2018-11-30T16:28:47+00:00, Toothpaste
 BT40, brushing, 2018-11-30T16:28:48+00:00, 2018-11-30T16:29:16+00:00, Eye lubricant,
 BT15, brushing, 2018-11-30T16:37:34+00:00, 2018-11-30T16:37:44+00:00, N2 scheduling (rating/ttrack/goals/tasks) work: 2 min, UNFINISHED
 BT19B, brushing, 2018-11-30T16:37:47+00:00, 2018-11-30T17:37:05+00:00, Dispenser work: 5 min,
+BT19B, brushing, 2018-11-30T18:15:14+00:00, 2018-11-30T18:15:34+00:00, Finalize lozenge percent,
+BT20, brushing, 2018-11-30T18:15:35+00:00, 2018-11-30T18:18:50+00:00, Brush Teeth,
+BT19, brushing, 2018-11-30T18:18:52+00:00, 2018-11-30T18:27:31+00:00, Measure and dose lozenge percent,
+BT00, brushing, 2018-11-30T18:27:40+00:00, 2018-11-30T18:31:19+00:00, Information task: 1 min,
+BT10, brushing, 2018-11-30T18:31:21+00:00, 2018-11-30T18:31:26+00:00, Toothpaste / Flossing / Fluoride attempt correct,
+BT40, brushing, 2018-11-30T18:31:28+00:00, 2018-11-30T18:31:52+00:00, Eye lubricant,
+BT19B, brushing, 2018-11-30T18:32:07+00:00, 2018-11-30T19:50:00+00:00, Dispenser work: 5 min,
+BT19B, brushing, 2018-11-30T21:24:56+00:00, 2018-11-30T21:25:30+00:00, Finalize lozenge percent,
+BT20, brushing, 2018-11-30T21:25:34+00:00, 2018-11-30T21:31:58+00:00, Brush Teeth,
+BT19, brushing, 2018-11-30T21:31:59+00:00, 2018-11-30T21:37:56+00:00, Measure and dose lozenge percent,
+BT19AB, brushing, 2018-11-30T21:38:01+00:00, 2018-11-30T21:43:50+00:00, If time, work towards exercise routine & finish if not yet today,
+BT00, brushing, 2018-11-30T21:43:57+00:00, 2018-11-30T21:44:04+00:00, Information task: 1 min, UNFINISHED
+BT10, brushing, 2018-11-30T21:44:07+00:00, 2018-11-30T21:44:14+00:00, Toothpaste / Flossing / Fluoride attempt correct,
+BT40, brushing, 2018-11-30T21:49:23+00:00, 2018-11-30T21:49:54+00:00, Eye lubricant,
+BT19B, brushing, 2018-12-01T00:36:24+00:00, 2018-12-01T00:37:18+00:00, Finalize lozenge percent,
+BT20, brushing, 2018-12-01T00:37:19+00:00, 2018-12-01T00:41:06+00:00, Brush Teeth,
+BT19, brushing, 2018-12-01T00:41:08+00:00, 2018-12-01T00:51:06+00:00, Measure and dose lozenge percent,
+BT19B, brushing, 2018-12-01T11:39:25+00:00, 2018-12-01T11:39:54+00:00, Finalize lozenge percent,
+BT20, brushing, , 2018-12-01T11:40:00+00:00, Brush Teeth, finished earlier
+BT19, brushing, 2018-12-01T11:40:03+00:00, 2018-12-01T11:44:51+00:00, Measure and dose lozenge percent,
+BT10, brushing, 2018-12-01T11:45:05+00:00, 2018-12-01T11:45:08+00:00, Toothpaste / Flossing / Fluoride attempt correct,
+BT40, brushing, 2018-12-01T11:45:24+00:00, 2018-12-01T11:45:56+00:00, Eye lubricant,
+B, morning, , 2018-12-01T11:46:43+00:00, Get Out of Bed, finished earlier
+T, morning, 2018-12-01T11:46:45+00:00, 2018-12-01T12:24:27+00:00, Calendar and Routine Todo List,
+EY, morning, , 2018-12-01T12:24:32+00:00, Eye Lubricant, finished earlier
