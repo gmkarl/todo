@@ -451,14 +451,15 @@ youtube/vimeo: search consensus decision-making
         - [X] 7:44a - aux brushing
         - [ ][X] 8:00a - jim work mtg?
                 -> jim's available 9am tomorrow, not any time today
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-        - [ ] 11:05a - brushing
+	- [X][X] 10:00a - 11:00a Kate call Fri, Tue
+        - [X] 11:05a - brushing
         - [ ][X] 12:00p - jim process mtg?
   - [ ] 1:00p maybe help Gwyn with speech video recording
         - [ ] 1:15p - aux brushing
-        - [ ] 3:25p - brushing
-        - [ ] 5:35p - aux brushing
+  - [ ] 3:00p - Blacksburg NVC group intro
+        - [ ] 4:25p - brushing
   - [ ] 6:00p Maya Gail Taylor calls for introductory free consult
+        - [ ] 7:35p - aux brushing
 
 - jeremy wants more specific time planned for xmas meeting
 
@@ -482,6 +483,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ] 7:30a or any time afterward Blood Draw
 		bring laboratory requisition form to green bank community care
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+                Kate available for possible Jim meeting
         - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
 
 - [ ] 2018-12-05 Wed
@@ -545,7 +547,16 @@ youtube/vimeo: search consensus decision-making
 	- [ ] kate could do in-person shift today
 
 - [ ] 2018-12-23 Sun
-	- mom proposes I could arrive today and leave Thu the 27th
+        - Spend day packing to go to MA.
+        - [ ] 12:00p - leave for Charlottesville to visit family
+          Park car in airport parking lot and pay with amex card
+        - Flight leaves from Charlottesville airport @ 4:07 PM.
+          American Airlines flight number 5488 to 1843
+        - [ ] 10:39p - arrive boston
+
+- [ ] 2018-12-29
+        - [ ] 11:09a - American Airlines flight 1915 leaves Boston
+        - [ ] 3:37p - flight 5488 arrives Charlottesville
 
 - [ ] 2019-01-02 Wed
 	- [ ] Jim can drive me back from MA
