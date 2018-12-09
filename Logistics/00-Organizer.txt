@@ -450,67 +450,13 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-03 Mon
-	- Med regimen with Gwyn starts
-	- [X] 8:50a - brushing
-	- [X] reschedule brushings to match day
-		-> woke up to gwyn, started brushing off-schedule
-	- [X] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] Schedule med regimen
-	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
-        	Jim Process Mtg w/ Jeremy
-		Jim T will try to join meeting.  Need to check with Jeremy to verify is okay.
-		Jim is ready to be sent away if not a good time.
-		Jim can meet later in the day if it doesn't work.
-	- [ ] 12:06p - aux brushing
-	- [ ] 2:22p - brushing
-	- [ ] 4:00p - Jim Work Mtg
-		-> meetings can often slide later if karl has trouble making them or wants them to move
-		-> Jim around 10:30a requested to move this meeting from 3pm to 4pm for Dr Mooney to join
-	- [ ] 5:08p - aux brushing
-	- [ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-	- [ ] 7:24p - brushing
-	- [ ] 9:40p - aux brushing
-
-- [ ] 2018-12-04 Tue
+- [!] 2018-12-06 Thu
 	- [ ] ~8:00a - MEDS after bkfst
 		100mg doxycycline
-	- [ ] 7:30a or any time afterward Blood Draw
-		bring laboratory requisition form to green bank community care
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-                Kate available for possible Jim meeting
-		Jim Process Mtg w/ Kate
-	- [ ] 11:15a - Celia calls
+	- [ ] 10:00a - Jim Work Mtg
         - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
-	- [ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-
-- [ ] 2018-12-05 Wed
-	- [ ] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] 10:00a - Jim Work Mtg
-		-> could do process mtg later in day? maybe call tygart valley and see if 1:00p appointment really exists
-	- [ ] 1:00 PM Drs Appointment Elkins?
-		Jenny L Cross
-		911 Gorman Avenue Suite 201
-		Elkins, WV 26241
-	- [ ] 3:00 PM Drs Appointment Elkins
-		Bring mailed paperwork, insurance card, medications
-		Tygart Valley Medical Specialties
-		911 Gorman Avenue
-		Old Physicians Office Building
-		Suite 201
-		Elkins, WV
-	- [ ] 5:30p - Jim Process Mtg
-	- [ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-
-- [ ] 2018-12-06 Thu
-	- [ ] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] 10:00a - Jim Work Mtg
+		-> Cheryl will call if weather is too bad again.
+		   can text/call 838-9060
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 
@@ -520,7 +466,9 @@ youtube/vimeo: search consensus decision-making
 	- [ ] 8:30a - Jim Team Meeting
 	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+		-> Kate says can meet with Jim 10a
 	- [ ] 12:00p - Jim Process Mtg
+	- [ ] 1:15p - celia call
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 
@@ -535,6 +483,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:00a - MEDS after bkfst
 	- Jim Taggart visits in evening after spending day traveling
 	- [ ] 6:00p - Jim Process Mtg
+	- possibly dinner with Gwyn & Jim
 	- [ ][ ] ~6:30p - MEDS after dinnr
 
 - [ ] 2018-12-10 Mon
@@ -602,7 +551,14 @@ youtube/vimeo: search consensus decision-making
         - [ ] 3:37p - flight 5488 arrives Charlottesville
 
 - [ ] 2019-01-02 Wed
-	- [ ] Jim can drive me back from MA
+	- [ ] 2:00p
+		Jenny L Cross
+		Bring mailed paperwork, insurance card, medications
+		Tygart Valley Medical Specialties
+		911 Gorman Avenue
+		Old Physicians Office Building
+		Suite 201
+		Elkins, WV 26241
 
 - [ ] 2019-01-06 Sun
 	- [ ][ ] 8:00p - street giraffes first sunday of the month
@@ -978,6 +934,12 @@ Eye Prescr.
 		- refresh gel drops / refresh PM
 		- systane complete optimal dry eye relief
 		can check ingreds to judge thickness
+
+Green Bank Community Care
+	304 456-5115
+		Menu:
+		1 -> health center
+		2 -> billing
 
 Health food stores:
 - Good Energy Foods? in Elkins (small)
@@ -1642,6 +1604,18 @@ Agenda:
 	- 4:... dr mooney & karl focus moving forward
 		
 	-  Post-Meeting, Jim elps Karl resume dy
+
+2018-12-05 10:35a
+	10:40a work concerns
+		- jim followup
+			5-10 items
+		- karl weary
+		- some work?
+	unk prioritize, set deadlines, ensure consensus
+
+	truck, second antibiotics
+
+	-> jim will call Elkins Truck & Wrecker Service
 
 # MEETING PROCESS
 -> concerns become agenda items
