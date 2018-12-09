@@ -193,8 +193,14 @@ Time,Action,Goal,Task
 1543613518,stop,RESPONS,Brush Teeth
 1543624639,start,RESPONS,Brush Teeth
 1543624866,stop,RESPONS,Brush Teeth
+1543672332,start,RESPONS,Brush Teeth
+1543672523,stop,RESPONS,Brush Teeth
 1543677325,start,RESPONS,Meds
 1543677496,stop,RESPONS,Meds
+1543679575,start,RESPONS,Fissure Treatment
+1543679817,stop,RESPONS,Fissure Treatment
+1543679823,start,RESPONS,Eye Lubricant
+1543679860,stop,RESPONS,Eye Lubricant
 1543681678,start,RESPONS,Meds
 1543681717,stop,RESPONS,Meds
 1543761414,start,RESPONS,Meds

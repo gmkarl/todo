@@ -3111,3 +3111,20 @@ BT40, brushing, 2018-12-01T11:45:24+00:00, 2018-12-01T11:45:56+00:00, Eye lubric
 B, morning, , 2018-12-01T11:46:43+00:00, Get Out of Bed, finished earlier
 T, morning, 2018-12-01T11:46:45+00:00, 2018-12-01T12:24:27+00:00, Calendar and Routine Todo List,
 EY, morning, , 2018-12-01T12:24:32+00:00, Eye Lubricant, finished earlier
+BT18, brushing, 2018-12-01T11:46:22+00:00, 2018-12-01T13:51:42+00:00, Have started current routine or no current routine,
+BT19B, brushing, 2018-12-01T13:51:51+00:00, 2018-12-01T13:52:11+00:00, Finalize lozenge percent,
+BT20, brushing, 2018-12-01T13:52:12+00:00, 2018-12-01T13:55:23+00:00, Brush Teeth,
+BT19, brushing, 2018-12-01T13:55:26+00:00, 2018-12-01T15:08:55+00:00, Measure and dose lozenge percent,
+BT00, brushing, 2018-12-01T15:09:08+00:00, 2018-12-01T15:13:07+00:00, Information task: 1 min,
+BT10, brushing, 2018-12-01T15:13:12+00:00, 2018-12-01T15:13:14+00:00, Toothpaste / Flossing / Fluoride attempt correct,
+BT40, brushing, 2018-12-01T15:13:17+00:00, 2018-12-01T15:13:41+00:00, Eye lubricant,
+MB, morning, , 2018-12-01T15:13:57+00:00, Make Bed, finished earlier
+FD, morning, 2018-12-01T15:14:05+00:00, 2018-12-01T15:24:52+00:00, Breakfast and Meds,
+BT, morning, , 2018-12-01T15:24:58+00:00, Brush Teeth, finished earlier
+NN, morning, 2018-12-01T15:25:08+00:00, 2018-12-01T15:34:31+00:00, NVC Note, UNFINISHED
+SH, morning, 2018-12-01T15:34:33+00:00, 2018-12-01T15:52:54+00:00, Shave and Shower,
+FT, morning, 2018-12-01T15:52:55+00:00, 2018-12-01T15:56:57+00:00, Fissure Treatment,
+CL, morning, , 2018-12-01T15:57:01+00:00, Put Clothes On, finished earlier
+EY, morning, 2018-12-01T15:57:03+00:00, 2018-12-01T15:57:40+00:00, Eye Lubricant,
+T, morning, 2018-12-01T15:57:42+00:00, 2018-12-01T16:01:52+00:00, Update Todo List,
+BT18, brushing, 2018-12-01T15:13:45+00:00, 2018-12-01T16:02:11+00:00, Have started current routine or no current routine,
