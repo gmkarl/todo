@@ -444,37 +444,17 @@ youtube/vimeo: search consensus decision-making
 
 # CALENDAR
 
-9a-4p mountain time m-f
-
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-11-27 Tue
-  - [X] 5:29a - early aux brushing left over from yesterday
-  - [X] 7:31a - brushing
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-  	-> Jim canceled due to driving
-  - [ ] 9:33a - aux brushing
-	- [X][ ] 10:00a - 11:00a Kate call Fri, Tue
-           Jim Process Mtg w/ Kate
-	   -> Jim canceled due to driving
-  - [ ] 11:00am Nurse from CCIL potentially arrives
-    Cheryl Warner
-    304 838-9060
-    	-> will be recheduled; Cheryl had accident
-	- [X] Sign up for Dec NVC workshop $95 https://www.basileia.org/intronvc.html
-	- [X] buy 4mg lozenges and return package
-  - [ ] 11:35a - brushing
-  - [ ] 1:37p - aux brushing
-  - [ ] 3:39p - brushing
-  - [ ] 5:41p - aux brushing
-
-  reschedule blood draw at davis medical center / dr fleming
-  304-637-3640 8a-4p mon-fri
-  -> get labs drawn with PCP, fax to davis medical 304 637 3644
-     
-    
 - [ ] 2018-11-28 Wed
-  - Jim visit arrive at 100p
+  - [X] 11:38a <- did yesterday's aux brushing, should be a non-aux time
+  - [ ] 1:41p aux brushing
+  - [ ] 1:42p Jim arrives
+  - [ ] 2:00p meeting with Gwyn and Jim
+  - [ ] 3:44p brushing
+  - [ ] 5:47p aux brushing
+  - [ ] 7:50p brushing
+  - [ ] 9:53p aux brushing
   
 - [ ] 2018-11-29 Thu
   - Jim Visit
