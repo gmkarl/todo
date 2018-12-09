@@ -446,22 +446,17 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [ ] 2018-11-28 Wed
-  - [X] 11:38a <- did yesterday's aux brushing, should be a non-aux time
-  - [ ] 1:41p aux brushing
-  - [ ] 1:42p Jim arrives
-  - [ ] 2:00p meeting with Gwyn and Jim
-  - [ ] 3:44p brushing
-  - [ ] 5:47p aux brushing
-  - [ ] 7:50p brushing
-  - [ ] 9:53p aux brushing
-  
-- [ ] 2018-11-29 Thu
-  - Jim Visit
-
-- [ ] 2018-11-30 Fri
+- [!] 2018-11-30 Fri
+        - [X] 5:45a - brushing
+        - [ ] 7:44a - aux brushing
+        - [ ][ ] 8:00a - jim work mtg?
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+        - [ ] 11:05a - brushing
+        - [ ][ ] 12:00p - jim process mtg?
   - [ ] 1:00p maybe help Gwyn with speech video recording
+        - [ ] 1:15p - aux brushing
+        - [ ] 3:25p - brushing
+        - [ ] 5:35p - aux brushing
   - [ ] 6:00p Maya Gail Taylor calls for introductory free consult
 
 - jeremy wants more specific time planned for xmas meeting
@@ -469,14 +464,23 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-12-01
 	- [ ] Renew truck registration, expires 2018-12-31
 
+- [ ] 2018-12-02 Sun
+	- Med regiment with Gwyn starts
+	- [ ] Schedule med regimen
+	- [ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+
 - [ ] 2018-12-03 Mon
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
         Jim Process Mtg w/ Jeremy
 
 - [ ] 2018-12-04 Tue
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 7:30a or any time afterward Blood Draw
 		bring laboratory requisition form to green bank community care
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+        - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
 
 - [ ] 2018-12-05 Wed
 	- [ ] 1:00 PM Drs Appointment Elkins?
@@ -494,8 +498,18 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-12-07 Fri
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
+- [ ] 2018-12-09 Sun
+	- Jim Taggart visits
+
+- [ ] 2018-12-10 Mon
+	- Jim Taggart
+
 - [ ] 2018-12-11
 	- [ ] 12:45p - online NCV workshop with Gregg Kendrick
+
+- [ ] 2018-12-12 Wed
+	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
+	- [ ][ ] 12:00 pm Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2018-12-14
 	- [ ][ ] gbo internship application supposed to come up this month
@@ -784,6 +798,7 @@ Voicemail:
 	*100
 		pin is 6 digits
 	304 799 6891
+    2018-11-29: voicemail is finally being fixed: ref # 4450496
 
 VOICEMAIL NOTES
 
@@ -988,6 +1003,9 @@ Dr Bouboulis
 		5. Increase Mepron to 1 teaspoon 2/day
 		contact Dr Bouboulis 1 month from step 1
 		treatment will likely last 9 months
+		
+		Gwyn considers coming by 8:00a, sometimes 8:30a
+		        and around 6:30p, after possible work
 
 	PHONE MENU
 		1: front desk, appointments
@@ -996,6 +1014,8 @@ Dr Bouboulis
 			-> voicemail box
 		3: quest phlebotomist
 		4: prescriptions
+                        -> for refills, contact your pharmacy
+                        -> prescriptions may take 48-72 hrs
 		... billing # to call listed instead of 5
 		6: administrative assistance, medical records
 

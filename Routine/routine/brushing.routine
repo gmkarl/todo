@@ -6,7 +6,6 @@ BT-5	Verify finished last run of routine
 BT00	Information task: 1 min
 BT10	Toothpaste / Flossing / Fluoride attempt correct
 BT40	Eye lubricant
-BT17B	Migrate routine data off airgapped phone: 1 min
 BT18	Have started current routine or no current routine
 BT13	Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux)
 BT15	N2 scheduling (rating/ttrack/goals/tasks) work: 2 min
