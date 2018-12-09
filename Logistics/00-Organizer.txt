@@ -446,35 +446,42 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-01
+- [!] 2018-12-02 Sun
+	-> med regimen moved to Monday, so I can attend NVC group without worrying about med start
 	- [X] 6:35a - brushing
 	- [X] 8:50a - aux brushing
-        - [X][X] 9:00a - jim mtg
-	- [X] CONTACT JEREMY regarding Jim meeting monday
+	- [ ] review docs for blacksburg group
 	- [ ] 11:05a - brushing
 	- [ ] 1:20p - aux brushing
-	- [ ] 3:35p - brushing
-	- [ ] 5:50p - aux brushing
-
-- [ ] 2018-12-02 Sun
-	-> med regimen moved to Monday, so I can attend NVC group without worrying about med start
-	- [ ] Schedule med regimen
 	- [ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
 		2014 Northside Dr
 		Blacksburg, VA 
-	EMAIL HAS DOCS FOR SUN GROUP
+	- [ ] 3:35p - brushing
+	- [ ] 5:50p - aux brushing
+	- [ ][ ] 8:00p - street giraffes first sunday of the month
+	  call 530 881-1212  (or maybe 701 801-1211)
+	  meeting id in email
+	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 
 - [ ] 2018-12-03 Mon
 	- Med regimen with Gwyn starts
+	- [ ] 6:35a - brushing
+	- [ ] reschedule brushings to match day
 	- [ ] ~8:00a - MEDS after bkfst
 		100mg doxycycline
+	- [ ] 8:50a - aux brushing
+	- [ ] Schedule med regimen
 	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
         	Jim Process Mtg w/ Jeremy
 		Jim T will try to join meeting.  Need to check with Jeremy to verify is okay.
 		Jim is ready to be sent away if not a good time.
 		Jim can meet later in the day if it doesn't work.
+	- [ ] 11:05a - brushing
+	- [ ] 1:20p - aux brushing
 	- [ ] 3:00p - Jim Work Mtg
 		-> meetings can often slide later if karl has trouble making them or wants them to move
+	- [ ] 3:35p - brushing
+	- [ ] 5:50p - aux brushing
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 
@@ -580,7 +587,6 @@ youtube/vimeo: search consensus decision-making
 	-> Kate ended up proposing 12-28: she has a client on 12-27
 
 - [ ] 2018-12-21
-	- [ ] kate could do in-person shift today
 
 - [ ] 2018-12-23 Sun
         - Spend day packing to go to MA.
@@ -1357,6 +1363,9 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
   - Connection with family
   - ease of use and interoperability of this document
 
+-> NIC PLANNING is in
+	Projects/01-Autonomy/01-Nicotine/05-dispenser.txt
+	in section == PLANNING ==
 = MAJOR TASKS / ACTIVITIES =
 
  ::WORKING ON MERGING WITH Routine/01-Tasks_Shielded_Space # Goals
