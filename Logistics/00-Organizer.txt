@@ -453,13 +453,18 @@ youtube/vimeo: search consensus decision-making
 - [!] 2018-12-06 Thu
 	- [X] ~8:00a - MEDS after bkfst
 		100mg doxycycline
+  - [X] 9:35a - brushing
 	- [X] 10:00a - Jim Work Mtg
 	- [ ] 11:30a - Gwyn returns
   - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
 		-> Cheryl will call if weather is too bad again.
 		   can text/call 838-9060
+  - [ ] 1:06p - aux brushing
+	- [ ] 3:22p - brushing
 	- [ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
+	- [ ] 7:08p - aux brushing
+  - [ ] 9:24p - brushing
 
 - [ ] 2018-12-07 Fri
 	- [ ][ ] ~8:00a - MEDS after bkfst
