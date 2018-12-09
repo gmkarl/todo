@@ -86,6 +86,7 @@ public:
 	{
 		_file.Write();
 		_file.Flush();
+		_file.ReOpen("READ");
 		_file.ReOpen("UPDATE");
 	}
 
