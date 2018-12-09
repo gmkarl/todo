@@ -451,10 +451,11 @@ youtube/vimeo: search consensus decision-making
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2018-12-06 Thu
-	- [ ] ~8:00a - MEDS after bkfst
+	- [X] ~8:00a - MEDS after bkfst
 		100mg doxycycline
-	- [ ] 10:00a - Jim Work Mtg
-        - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
+	- [X] 10:00a - Jim Work Mtg
+	- [ ] 11:30a - Gwyn returns
+  - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
 		-> Cheryl will call if weather is too bad again.
 		   can text/call 838-9060
 	- [ ] ~6:30p - MEDS after dinnr
@@ -467,6 +468,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 		-> Kate says can meet with Jim 10a
+		   Jim says for us to call him
 	- [ ] 12:00p - Jim Process Mtg
 	- [ ] 1:15p - celia call
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -1338,17 +1340,17 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
  	with intent of getting ttrack script working
 
   - LIFE?: TLC's, daily life ease, activities of happiness, meeting the needs of others
-  	EARTH
+				EARTH
   - MONEY: Managing financial wellness
   - RESPONS: Completing responsibilities
   	- BODY: Managing physical / medical wellness
 
   - SAFE: Personal work - shielding, etc. 
-  	SUST
-	REC
-	DEMO
-	PUB
-  	MVF?
+				SUST
+				REC
+				DEMO
+				PUB
+				MVF?
 
   BACKEND
   	- EDU: School and Career behavior
@@ -1359,6 +1361,20 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
           - Major and medium-term life planning
             - Delegation
   	- Handling possessions + documents (truck)
+
+	BLOCKED
+	SLEEP
+
+	Nowadays:
+				- CONFUSED (could be BLOCKED) <--
+				- DOWNTIME
+				- SLEEP
+				- GWYN (could be SOCIAL or TLCs) <--
+				- ROUTINES <--
+				- EVENTS <--
+				- PRIMARY PROJECT
+				- MAINTENANCE
+				- AUX PROJECTS
 
 Places to find concerns, tasks, goals:
   - For Everything
@@ -1616,6 +1632,32 @@ Agenda:
 	truck, second antibiotics
 
 	-> jim will call Elkins Truck & Wrecker Service
+
+2018-12-06 10:03a Work Mtg
+- organizing goals
+- reportbacks
+10:12 - done agenda
+10:34 - Methods
+	Jim wants to list methods he's observed.
+	- Next, Later, Extra
+	- Backlog Todo, Doing, Done
+	- Doing the things that are most difficult when you have the most power to do them
+		(mark twain: in the morning)
+	- Fixing tools for the job: undoing blocks w n2?, repairing equipment
+	- Projects:
+		- Action Steps / Backburner
+		  ie Next, (Later), Extra
+		- Reference Materials
+	- Time Boxing:
+		Categories of Activity go in Blocks of Time
+	Propose for Projects:
+		- Next
+		- Resources
+		- Extra / Backburner
+			-> this is a place to put the cool ideas that churn up but aren't atm worth the time
+			-> even ones that don't belong in this project, perhaps
+ - List Processing
+	
 
 # MEETING PROCESS
 -> concerns become agenda items
