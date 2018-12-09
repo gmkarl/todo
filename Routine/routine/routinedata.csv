@@ -3267,3 +3267,4 @@ BT19B, brushing, 2018-12-09T14:45:17+00:00, 2018-12-09T14:45:19+00:00, Finalize 
 BT20, brushing, 2018-12-09T14:45:22+00:00, 2018-12-09T14:52:49+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
 BT19, brushing, 2018-12-09T14:52:51+00:00, 2018-12-09T14:58:05+00:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
 BT40, brushing, 2018-12-09T14:58:06+00:00, 2018-12-09T14:58:33+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
+BTX1, brushing, 2018-12-09T14:58:38+00:00, 2018-12-09T15:29:21+00:00, Shielding Measurement: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w},
