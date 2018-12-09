@@ -3158,3 +3158,28 @@ BT19, brushing, 2018-12-02T13:53:51+00:00, 2018-12-02T14:00:02+00:00, Measure an
 BT40, brushing, 2018-12-02T14:00:04+00:00, 2018-12-02T14:00:44+00:00, Eye lubricant,
 T, morning, 2018-12-02T12:00:23+00:00, 2018-12-02T14:05:22+00:00, Calendar and Routine Todo List,
 EY, morning, , 2018-12-02T14:05:26+00:00, Eye Lubricant, finished earlier
+MB, morning, 2018-12-02T14:05:33+00:00, 2018-12-02T14:24:34+00:00, Make Bed,
+FD, morning, 2018-12-02T14:24:41+00:00, 2018-12-02T15:24:39+00:00, Breakfast and Meds,
+BT, morning, , 2018-12-02T15:24:46+00:00, Brush Teeth, finished earlier
+SH, morning, 2018-12-02T17:24:19+00:00, 2018-12-02T18:21:20+00:00, Shave and Shower,
+BT19B, brushing, 2018-12-02T18:21:33+00:00, 2018-12-02T18:22:07+00:00, Finalize lozenge percent (importance: high as needed for strategy; development: measure past),
+BT20, brushing, 2018-12-02T18:22:11+00:00, 2018-12-02T18:24:46+00:00, Brush Teeth (importance: high as needed for strategy; development: measure past),
+BT19, brushing, 2018-12-02T18:24:50+00:00, 2018-12-02T18:33:29+00:00, Measure and dose lozenge percent (importance: high as needed for strategy; development: measure past),
+BT40, brushing, 2018-12-02T18:33:31+00:00, 2018-12-02T18:34:17+00:00, Eye lubricant,
+BT19B, brushing, , 2018-12-02T20:37:21+00:00, Finalize lozenge percent (importance: high as needed for strategy; development: measure past), finished earlier
+BT20, brushing, 2018-12-02T20:37:22+00:00, 2018-12-02T20:39:59+00:00, Brush Teeth (importance: high as needed for strategy; development: measure past),
+BT19, brushing, 2018-12-02T20:40:15+00:00, 2018-12-02T20:48:21+00:00, Measure and dose lozenge percent (importance: high as needed for strategy; development: measure past),
+BT19B, brushing, 2018-12-02T22:50:04+00:00, 2018-12-02T22:50:22+00:00, Finalize lozenge percent (importance: high as needed for strategy; development: measure past),
+BT20, brushing, 2018-12-02T22:50:35+00:00, 2018-12-02T22:52:56+00:00, Brush Teeth (importance: high as needed for strategy; development: measure past),
+BT19B, brushing, , 2018-12-03T13:45:59+00:00, Finalize lozenge percent (importance: high as needed for strategy; development: measure past), finished earlier
+BT20, brushing, , 2018-12-03T13:46:06+00:00, Brush Teeth (importance: high as needed for strategy; development: measure past), finished earlier
+BT19, brushing, 2018-12-03T13:46:16+00:00, 2018-12-03T14:21:16+00:00, Measure and dose lozenge percent (importance: high as needed for strategy; development: measure past),
+BT40, brushing, 2018-12-03T14:21:17+00:00, 2018-12-03T14:21:52+00:00, Eye lubricant,
+B, morning, , 2018-12-03T14:38:06+00:00, Get Out of Bed, finished earlier
+BT18, brushing, 2018-12-03T14:37:46+00:00, 2018-12-03T17:18:14+00:00, Have started current routine or no current routine,
+BT19B, brushing, 2018-12-03T17:18:22+00:00, 2018-12-03T17:19:52+00:00, Finalize lozenge percent (importance: high as needed for strategy; development: measure past),
+BT20, brushing, 2018-12-03T17:19:53+00:00, 2018-12-03T17:25:11+00:00, Brush Teeth (importance: high as needed for strategy; development: measure past),
+BT19, brushing, 2018-12-03T17:25:12+00:00, 2018-12-03T17:53:28+00:00, Measure and dose lozenge percent (importance: high as needed for strategy; development: measure past),
+T, morning, 2018-12-03T14:38:08+00:00, 2018-12-03T18:27:32+00:00, Calendar and Routine Todo List,
+BT40, brushing, 2018-12-03T18:27:36+00:00, 2018-12-03T18:28:03+00:00, Eye lubricant,
+EY, morning, 2018-12-03T18:27:33+00:00, 2018-12-03T18:28:06+00:00, Eye Lubricant,
