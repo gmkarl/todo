@@ -450,46 +450,45 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-06 Thu
-	- [X] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-  - [X] 9:35a - brushing
-	- [X] 10:00a - Jim Work Mtg
-	- [ ] 11:30a - Gwyn returns
-  - [ ] 12:00p - CCIL meeting with Cheryl & Gwyn
-		-> Cheryl will call if weather is too bad again.
-		   can text/call 838-9060
-  - [ ] 1:06p - aux brushing
-	- [ ] 3:22p - brushing
-	- [ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-	- [ ] 7:08p - aux brushing
-  - [ ] 9:24p - brushing
 
-- [ ] 2018-12-07 Fri
-	- [ ][ ] ~8:00a - MEDS after bkfst
+- [X] 2018-12-07 Fri
+	- [X][X] ~8:00a - MEDS after bkfst
 		100mg doxycycline
-	- [ ] 8:30a - Jim Team Meeting
+	- [X] 8:30a - Jim Team Meeting
+				-> mostly moved to Mon, likely during dinner
 	- [ ] Renew truck registration, expires 2018-12-31
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [X][X] 10:00a - 11:00a Kate call Fri, Tue
 		-> Kate says can meet with Jim 10a
 		   Jim says for us to call him
 	- [ ] 12:00p - Jim Process Mtg
+				-> moved to join Celi call due to karl struggling
 	- [ ] 1:15p - celia call
-	- [ ][ ] ~6:30p - MEDS after dinnr
+				
+	- [X][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
+	-> Gwyn was very worrid about me being in a confused state and I bruoght my computer to bed.
+	   I'd like to not struggle with Gwyn as to what I do at night.  I could use some discussion around my owrries that brushing my teeth when I'm doing poorly, or withuot nicotine, could impact the nicotine strategy.
 
 - [ ] 2018-12-08 Sat
-	- [ ][ ] ~8:00a - MEDS after bkfst
+	- [X][ ] ~8:00a - MEDS after bkfst
 		100mg doxycycline
 	- [ ] 10:00a - Jim check-in: Jim is busy, can't do large mtg
-	- [ ][ ] ~6:30p - MEDS after dinnr
+	- [X][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		500mg azithromycin
+	-> I stayed in bed the whole day, with my computer.
+	   Thinking maybe not bring my computer to bed, although it certainly helped me feel less anxious.
+	   I'm having a _really_ rough time, coincident with starting these meds.
+	   Wondering if maybe 5 days to start each new med is too fast for me.
 
-- [ ] 2018-12-09 Sun
-	- [ ][ ] ~8:00a - MEDS after bkfst
+- [!] 2018-12-09 Sun
+	- [X] 6:24a - brushing
+	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
+	- [ ] 9:45a - aux brushing aux
+	- [ ] 12:00p - brushing
+	- [ ] 2:15p - aux brushing aux
+	- [ ] 4:30p - brushing
 	- Jim Taggart visits in evening after spending day traveling
 	- [ ] 6:00p - Jim Process Mtg
 	- possibly dinner with Gwyn & Jim
@@ -497,30 +496,36 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		500mg azithromycin
+	- [ ] 6:45p - aux brushing aux
 
 - [ ] 2018-12-10 Mon
-	- [ ][ ] ~8:00a - MEDS after bkfst
+	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 	- [ ] 9:00a-10:00a Dr Mooney call w/ Jim
 	- [ ] 11:00a Jeremy call w/ Jim
 	- Jim Taggart
+	- [ ] 1:00p - meet truck service @ truck
+	- [ ] 3:30p - celia call
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		500mg azithromycin
 
 - [ ] 2018-12-11 Tue
-	- [ ][ ] ~8:00a - MEDS after bkfst
+	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
-  - [ ] 9:00a-10:00a - Cheryl CCIL visits
+  - [ ] starting btwn 9:00a-10:00a - Cheryl CCIL visits
 								Talked with Cheryl on phone at 12:18p Thu 12/6.
 								She agreed to come for this time.
+				-> NEED TO RESCHEDULE
+	- [ ][ ] 9:45a - 11:00a Kate call Fri, Tue, early today to check in for jim
+				-> 10:00 Conference with Jim
 	- [ ] 12:45p - online NCV workshop with Gregg Kendrick
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		500mg azithromycin
 
 - [ ] 2018-12-12 Wed
-	- [ ][ ] ~8:00a - MEDS after bkfst
+	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
@@ -529,7 +534,7 @@ youtube/vimeo: search consensus decision-making
 		500mg azithromycin
 
 - [ ] 2018-12-13 Thu
-	- [ ][ ] ~8:00a - MEDS after bkfst
+	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -538,9 +543,10 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
 
 - [ ] 2018-12-14 Fri
-	- [ ][ ] ~8:00a - MEDS after bkfst
+	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
@@ -557,7 +563,7 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
 
 - [ ] 2018-12-15 Sat
-	- [ ][ ] ~8:00a - MEDS after bkfst
+	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -1711,6 +1717,75 @@ Agenda:
 			-> even ones that don't belong in this project, perhaps
  - List Processing
 	
+2018-12-07 10:11a Jim & Kate Mtg
+- concerns:
+				- organization share:
+								- learning from kate regarding experience working with me to get organized
+								- status share re: organization
+				- keeping up in future
+								- schedule
+				- jim out of country from 14th through 29th
+				  karl traveling home 23rd to 29th, Newton Mass
+					14th - 23rd: contact for Karl
+- agenda:
+								both kate and jim were up with a client last night
+								karl also had some up at night
+								but it's friday, says jim =)
+				10:25
+								- jim out of country
+												Kate, abstractly, is happy to be point person.  But needs to check in with Windhorse.
+												Likely okay for short term while Jim is traveling.
+												Jim will check in with Bill; have not specifically discussed this yet.  (May be added expense.)
+												Jim will report back to Karl and Kate on Monday.
+																Another client will be transitioning out of Windhorse during that timeframe.  It is the only reason there could be a hiccup.
+								- schedule next mtg
+												Tue 10a
+												
+				10:35
+								- organization share
+								Jim feels we are making progress at becoming aware of Karl's life things.
+								Next step: getting things done
+								Some progress both fronts.
+								Kind of limping re: improving organizational system.  Goal: Karl's self sufficiency.
+								Some categories, lists of things, concerns.
+								When in person, able to move forward on some responsibilities.  (medical, financial, possession-management)
+								Still much work left.
+								Impressed with Karl's perseverance.  wants to be more organized, more aware, more productive.
+								Jim also has much perseverance.
+								Feels better about some of these issues, but system has not really improved to the point of having a groove.
+												Karl expresses search for groove that is the search for the groove: an ongoing journey of improving system.
+								Jim reports excitement of Karl for things like doing lab reports for degree.
+
+								Day-to-day struggles eat up so much time that it is hard to make serious progress on the things that excite Karl.
+
+								We're talking about methods / strategies, to carve out time for these things.
+
+								Jim would like to get in a groove on making progress on these things.
+
+								re: groove.  Jim likes achievement.  He starts things and puts his whole being into them.  He's not going to give up on Karl.
+								He's up for the challenge.  But it can be frustrating at times.
+								Good to acknowledge enormity of it.
+
+								Breakthrough yesterday.
+								Jim's an achiever.  Building his patience.
+								
+								- ideas/open loops:
+												- hiring organizer for possessions
+												- ttrack system
+
+												- celebrating buildable achievements
+												- karl kind of pushed achievement-celebration on jim withotu listening strongly to his place
+																-> very inspiring to know jim shares this value for accomplishment
+																   ==> perhaps more dialogue around our search for it <==
+				10:55
+								- check-out
+				11:00
+				
+VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
+				consider occasional sense of conflict could be both of us searching for achievement to happen soon
+
+2018-12-07 12:02p Jim Process Mtg
+				
 
 # MEETING PROCESS
 -> concerns become agenda items

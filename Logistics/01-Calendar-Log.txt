@@ -797,3 +797,4 @@ blacksburg group:
 		- [ ] prepare for application? remember call is just for prep too
 - [ ] 2018-10-08 Mon
 	- [ ] 10:00a Celia help NRAO application (maple leaf clinic)
+
