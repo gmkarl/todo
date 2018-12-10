@@ -437,6 +437,10 @@ youtube/vimeo: search consensus decision-making
 			One of Prudentwriter's Paypal accounts took the money back, saying unauthorized transaction.  Prudentwriter said he'll make it work.  Chat with him will be destroyed in 6 days.
 			Place 0.79 ETH in escrow to jimmy13.
 			Expecting $198.88 from Jaakoforssen66@aol.com
+
+		2018-12-03 13:21 ET
+			Finalized a different trade with jimmy13 after price change.  screenshot in dom0
+			Opened 2.6 eth for $404.43 with leahsv
 			
     2018-11-20 15:42 ET
       sold 13414.50458902 nem, purchasing 7.98606173 eth
@@ -446,91 +450,131 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [X] 2018-11-22 Thu
-  - [X] 7:30a - brushing
-	- [ ] 9:00am - begin work unloading truck with Gwyn & Ben
-	-> RESCHEDULED to Sat
-  - [X] 9:50a - aux brushing
-  - [X] 12:00o - brushing
-  - [X] make vegetable dish
-  - [X] 2:10p - aux brushing
-  - [X] 2:20p - meet Gwyn at her place to leave
-  	-> i was about 20 mins late
-	- Thanksgiving Day
-	- [X] 3:00pm - buffet at MountainQuest with locals for Thanksgiving
-			BRING A VEGETABLE DISH
-	-> went well ! mostly. vegetable dish was a hit
-  - [X] 5:10p - brushing
-  	-> did late
-  - [ ] 7:20p - aux brushing
-  - Jim not working
 
-- [!] 2018-11-23 Fri
-	- [ ] 7:30a - brushing
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-  	-> I think Jim canceled this but haven't fully read the text message
-	- no Kate call this day
-	- [ ] 9:50a - aux brushing
-  - [ ] 12:00p - 1:00p Jim Process Mtg
-  	-> I think Jim canceled this but haven't fully read the text message
-  	- [ ] 12:01p - brushing
-	- [ ] 2:12p - aux brushing
-	- [ ] 4:23p - brushing
-	- [ ] 6:34p - aux brushing
-	
-- [ ] 2018-11-24 Sat
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-  - [ ] 9:00am? - begin work unloading truck with Gwyn & Ben
-    - jim not available for afternoon mtg
-  - [ ] Work with Gwyn and Ben to unload truck !
-
-- [ ] 2018-11-25 Sun
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-  - [ ] 12:00p - 1:00p Jim Process Mtg
-
-- [ ] 2018-11-26 Mon
-	- Dr Bouboulis calls at an unknown time; meeting to restart treatment
-			- want to get back on all 4 antibiotics
-		call comes from  203 655 9904
-		call goes to 207 518 8256
-		             304 456 5564
-  - [ ] 8:00a - 9:00a Jim Work Mtg (interrupt if Bouboulis calls !!!)
-	- [ ] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
-        Jim Process Mtg w/ Jeremy
-
-- [ ] 2018-11-27 Tue
-  - [ ] 8:00a - 9:00a Jim Work Mtg
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-           Jim Process Mtg w/ Kate
-  - [ ] 11:00am Nurse from CCIL potentially arrives
-    Cheryl Warner
-    304 838-9060
-    
-- 2018-11-28
-  - Jim visit arrive at 100p
-  
-- 2018-11-29
-  - Jim Visit
-
-- jeremy wants more specific time planned for xmas meeting
-
-- [ ] 2018-12-01
+- [X] 2018-12-07 Fri
+	- [X][X] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+	- [X] 8:30a - Jim Team Meeting
+				-> mostly moved to Mon, likely during dinner
 	- [ ] Renew truck registration, expires 2018-12-31
+	- [X][X] 10:00a - 11:00a Kate call Fri, Tue
+		-> Kate says can meet with Jim 10a
+		   Jim says for us to call him
+	- [ ] 12:00p - Jim Process Mtg
+				-> moved to join Celi call due to karl struggling
+	- [ ] 1:15p - celia call
+				
+	- [X][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+	-> Gwyn was very worrid about me being in a confused state and I bruoght my computer to bed.
+	   I'd like to not struggle with Gwyn as to what I do at night.  I could use some discussion around my owrries that brushing my teeth when I'm doing poorly, or withuot nicotine, could impact the nicotine strategy.
 
-- [ ] 2018-12-05 Wed
-	- [ ] 3:00 PM Drs Appointment Elkins
-		Bring mailed paperwork, insurance card, medications
-		Tygart Valley Medical Specialties
-		911 Gorman Avenue
-		Old Physicians Office Building
-		Suite 201
-		Elkins, WV
+- [ ] 2018-12-08 Sat
+	- [X][ ] ~8:00a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] 10:00a - Jim check-in: Jim is busy, can't do large mtg
+	- [X][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+	-> I stayed in bed the whole day, with my computer.
+	   Thinking maybe not bring my computer to bed, although it certainly helped me feel less anxious.
+	   I'm having a _really_ rough time, coincident with starting these meds.
+	   Wondering if maybe 5 days to start each new med is too fast for me.
 
-- [ ] 2018-12-14
+- [!] 2018-12-09 Sun
+	- [X] 6:24a - brushing
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] 9:45a - aux brushing aux
+	- [ ] 12:00p - brushing
+	- [ ] 2:15p - aux brushing aux
+	- [ ] 4:30p - brushing
+	- Jim Taggart visits in evening after spending day traveling
+	- [ ] 6:00p - Jim Process Mtg
+	- possibly dinner with Gwyn & Jim
+				Karl will drive Gwyn
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+	- [ ] 6:45p - aux brushing aux
+
+- [ ] 2018-12-10 Mon
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+	- [ ] 9:00a-10:00a Dr Mooney call w/ Jim
+	- [ ] 11:00a Jeremy call w/ Jim
+	- Jim Taggart
+	- [ ] 1:00p - meet truck service @ truck
+	- [ ] 3:30p - celia call
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+
+- [ ] 2018-12-11 Tue
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+  - [ ] starting btwn 9:00a-10:00a - Cheryl CCIL visits
+								Talked with Cheryl on phone at 12:18p Thu 12/6.
+								She agreed to come for this time.
+				-> NEED TO RESCHEDULE
+	- [ ][ ] 9:45a - 11:00a Kate call Fri, Tue, early today to check in for jim
+				-> 10:00 Conference with Jim
+	- [ ] 12:45p - online NCV workshop with Gregg Kendrick
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+
+- [ ] 2018-12-12 Wed
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
+	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+
+- [ ] 2018-12-13 Thu
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+		Bactrim DS
+
+- [ ] 2018-12-14 Fri
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
-	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/
+	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
+	- [ ] 10:45a Oncological Follow-up
+		Dr Fleming
+		Davis Medical Center
+		801 Harrison Ave
+		Elkins, WV 26241
+		davishealthsystem.org
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+		Bactrim DS
+
+- [ ] 2018-12-15 Sat
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+		Bactrim DS
+
+- [ ] 2018-12-16 Sun
+	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA 
 
 - [ ] 2018-12-18
 	- [ ] kate could do in-person shift today
@@ -538,6 +582,7 @@ youtube/vimeo: search consensus decision-making
 - Jeremy available 12-19 through 12-21
 
 - [ ] 2018-12-20
+	
 	- [ ] 3pm? leave for charlottesville
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 8
@@ -546,15 +591,41 @@ youtube/vimeo: search consensus decision-making
 - mom says I could visit any time, she's in newton, she has medical appts on 23rd and 29th, 23rd is small
 
 - Jeremy available 12-26 through 12-28
+- Kate could make 12-26 or 12-27 work
+	-> Kate ended up proposing 12-28: she has a client on 12-27
 
 - [ ] 2018-12-21
-	- [ ] kate could do in-person shift today
 
 - [ ] 2018-12-23 Sun
-	- mom proposes I could arrive today and leave Thu the 27th
+        - Spend day packing to go to MA.
+        - [ ] 12:00p - leave for Charlottesville to visit family
+          Park car in airport parking lot and pay with amex card
+        - Flight leaves from Charlottesville airport @ 4:07 PM.
+          American Airlines flight number 5488 to 1843
+        - [ ] 10:39p - arrive boston
+
+- [ ] 2018-12-28
+	- likely shift with Kate
+
+- [ ] 2018-12-29
+        - [ ] 11:09a - American Airlines flight 1915 leaves Boston
+        - [ ] 3:37p - flight 5488 arrives Charlottesville
 
 - [ ] 2019-01-02 Wed
-	- [ ] Jim can drive me back from MA
+	- [ ] 2:00p
+		Jenny L Cross
+		Bring mailed paperwork, insurance card, medications
+		Tygart Valley Medical Specialties
+		911 Gorman Avenue
+		Old Physicians Office Building
+		Suite 201
+		Elkins, WV 26241
+
+- [ ] 2019-01-06 Sun
+	- [ ][ ] 8:00p - street giraffes first sunday of the month
+	  call 530 881-1212  (or maybe 701 801-1211)
+	  meeting id in email
+	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 	         
 - [ ] 2019-01-28
 	- [ ][ ] 6:30 PM food
@@ -806,6 +877,7 @@ Voicemail:
 	*100
 		pin is 6 digits
 	304 799 6891
+    2018-11-29: voicemail is finally being fixed: ref # 4450496
 
 VOICEMAIL NOTES
 
@@ -892,6 +964,29 @@ Caverns
 		New Mexico: Kokopelli's Cave, $280/night
 		Greece: The Lava Cave also e.g. volcano hikes, $350/night
 
+NVC Distance Mediator/Counselors speaking English
+	Allan Rohlfs, CA (prisons, restorative justice, social change, violence prevention)
+
+	Peggy Smith, ME? (restorative justice, social change, violence prevention)
+	Roberta I. Wall, NC (restorative justice, social change, violence prevention)
+		steps2peace.com
+
+	Carolyne Dupre, Quebec (restorative justice, social change)
+	Erin Merrihew, WA (restorative justice, social change)
+	Fred Sly, OR (prisons, restorative justice, social change)
+	Jacinthe Theriault-Fortier, Quebec (restorative justice, social change)
+	Jacqueline Muller, CO (prisons, restorative justice)
+	Mair Alight, WA (prisons, social change, violence prevention)
+	MJardine, British Columbia (prisons, social change, violence prevention)
+	Martine Algier, CA (prisons, restorative justice, social change)
+	Roxy, CA (social change, violence prevention)
+	Shantigarbha, UK (prisons, restorative justice, social change)
+
+	Marilyn Mullen, WY (restorative justice)
+	Matthew Ramsay, British Columbia ()
+	JM111, CA (violence prevention)
+	Donna Steckal, PHD, AZ (social change)
+
 Eye Prescr.
 	2018-10-26 Kevin Cox
 	-5.50 -5.75 (might want to check re prev prescr, wildly similar eye strengths)
@@ -900,6 +995,12 @@ Eye Prescr.
 		- refresh gel drops / refresh PM
 		- systane complete optimal dry eye relief
 		can check ingreds to judge thickness
+
+Green Bank Community Care
+	304 456-5115
+		Menu:
+		1 -> health center
+		2 -> billing
 
 Health food stores:
 - Good Energy Foods? in Elkins (small)
@@ -998,6 +1099,22 @@ Dr Bouboulis
 	F closed
 	Sa 9a - 12:30p
 
+	PRESCRIPTION
+		1. Doxycycline 100mg 2/day
+		wait 5 days to ensure no bad reaction from herxing
+		2. Add Azithromycin 500mg 1/day after dinner
+		wait 5 days to ensure no bad reaction from herxing
+		3. Add Bactrim double-strength 2/day after meals
+		wait 5 days to ensure no bad reaction from herxing
+		4. Add 1/2 teaspoon Mepron 2/day
+		wait 5 days
+		5. Increase Mepron to 1 teaspoon 2/day
+		contact Dr Bouboulis 1 month from step 1
+		treatment will likely last 9 months
+		
+		Gwyn considers coming by 8:00a, sometimes 8:30a
+		        and around 6:30p, after possible work
+
 	PHONE MENU
 		1: front desk, appointments
 			-> extension or voicemail box
@@ -1005,6 +1122,8 @@ Dr Bouboulis
 			-> voicemail box
 		3: quest phlebotomist
 		4: prescriptions
+                        -> for refills, contact your pharmacy
+                        -> prescriptions may take 48-72 hrs
 		... billing # to call listed instead of 5
 		6: administrative assistance, medical records
 
@@ -1271,23 +1390,26 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
   - Connection with family
   - ease of use and interoperability of this document
 
+-> NIC PLANNING is in
+	Projects/01-Autonomy/01-Nicotine/05-dispenser.txt
+	in section == PLANNING ==
 = MAJOR TASKS / ACTIVITIES =
 
  ::WORKING ON MERGING WITH Routine/01-Tasks_Shielded_Space # Goals
  	with intent of getting ttrack script working
 
   - LIFE?: TLC's, daily life ease, activities of happiness, meeting the needs of others
-  	EARTH
+				EARTH
   - MONEY: Managing financial wellness
   - RESPONS: Completing responsibilities
   	- BODY: Managing physical / medical wellness
 
   - SAFE: Personal work - shielding, etc. 
-  	SUST
-	REC
-	DEMO
-	PUB
-  	MVF?
+				SUST
+				REC
+				DEMO
+				PUB
+				MVF?
 
   BACKEND
   	- EDU: School and Career behavior
@@ -1298,6 +1420,20 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
           - Major and medium-term life planning
             - Delegation
   	- Handling possessions + documents (truck)
+
+	BLOCKED
+	SLEEP
+
+	Nowadays:
+				- CONFUSED (could be BLOCKED) <--
+				- DOWNTIME
+				- SLEEP
+				- GWYN (could be SOCIAL or TLCs) <--
+				- ROUTINES <--
+				- EVENTS <--
+				- PRIMARY PROJECT
+				- MAINTENANCE
+				- AUX PROJECTS
 
 Places to find concerns, tasks, goals:
   - For Everything
@@ -1481,3 +1617,179 @@ Next Process Mtg:
 Next Either Mtg:
 - integrating goals / tasks
   -> let's move towards merging UPCOMING list with Present Concerns list
+
+# 2018-12-01 09:18 meeting again to 10:00a
+-> concerns:
+	- getting back to regular meetings, such that other stuff doesn't get in the way
+		-> no deadline, as much as needed, and then reportback if extra
+	- reportback
+		-> nvc counseling/mediation/friendwork
+		-> trip to mass
+		-> riley
+		-> hiring an organizer?
+
+	- goalwork
+		- adding people to the team without clear roles
+			- dr mooney's role?
+			- nvc counselor
+			- kate & jeremy
+			- (riley/organizer/gwyn?)
+	- what is the purpose?
+
+Jim is a little under the gun and has less time than he may have before, I believe.
+
+Jim feels uncomfortable.  He says that it may cost my father more dollars to meet with both Jeremy and Jim.
+Jim is not uncomfortable.  He feels he's not authorized to be paid by my father to join a meeting Jeremy is also paid for.
+Jim is going to ask my father about it.  I'd like to also express to him that I feel I gain more from time spent with both
+Jeremy and Jim at the same time, than individually, and request that this be authorized.
+
+AGENDA EXAMPLE
+- 11:41 - brainstorm concerns
+	- time for checkout
+	- karl connecting with jim
+	- goal management work
+	- finding a way to manage my time with high effectiveness
+		and a sense of URGENCY since I have to handle every next day
+	- lack of time to tackle these things
+	- acknowledgement that these things are very important
+	- meeting with dr mooney
+	- skipped the check-ins
+- 11:43 - pick prioritized agenda items with time limits
+- 11:48 - appointment this afternoon
+- 11:50 - check-out
+
+2018-12-03 4:06p Dr Mooney & Jim
+Concerns:
+	- mooney & kar not connecting
+		- karl & celia telescope volunteer
+		- mooney & karl approach / focus
+	- designing an organizational/time management/personal productivity system
+		could dr mooney be helpful with his background in working with karl?
+	- karl's day/shower
+	- karl update
+Agenda:
+	- 4:17 Mooney & Karl connection
+		Dr Mooney did not have 304 number before.
+		He has been calling 207 518 8256.
+		He tried skype when numbers didn't work.
+		Celia will contact on Tue.
+	- 4:42 Designing a System
+		-> purpose of productivity system is kind of to hold lists as unpacked
+
+	- 4:... dr mooney & karl focus moving forward
+		
+	-  Post-Meeting, Jim elps Karl resume dy
+
+2018-12-05 10:35a
+	10:40a work concerns
+		- jim followup
+			5-10 items
+		- karl weary
+		- some work?
+	unk prioritize, set deadlines, ensure consensus
+
+	truck, second antibiotics
+
+	-> jim will call Elkins Truck & Wrecker Service
+
+2018-12-06 10:03a Work Mtg
+- organizing goals
+- reportbacks
+10:12 - done agenda
+10:34 - Methods
+	Jim wants to list methods he's observed.
+	- Next, Later, Extra
+	- Backlog Todo, Doing, Done
+	- Doing the things that are most difficult when you have the most power to do them
+		(mark twain: in the morning)
+	- Fixing tools for the job: undoing blocks w n2?, repairing equipment
+	- Projects:
+		- Action Steps / Backburner
+		  ie Next, (Later), Extra
+		- Reference Materials
+	- Time Boxing:
+		Categories of Activity go in Blocks of Time
+	Propose for Projects:
+		- Next
+		- Resources
+		- Extra / Backburner
+			-> this is a place to put the cool ideas that churn up but aren't atm worth the time
+			-> even ones that don't belong in this project, perhaps
+ - List Processing
+	
+2018-12-07 10:11a Jim & Kate Mtg
+- concerns:
+				- organization share:
+								- learning from kate regarding experience working with me to get organized
+								- status share re: organization
+				- keeping up in future
+								- schedule
+				- jim out of country from 14th through 29th
+				  karl traveling home 23rd to 29th, Newton Mass
+					14th - 23rd: contact for Karl
+- agenda:
+								both kate and jim were up with a client last night
+								karl also had some up at night
+								but it's friday, says jim =)
+				10:25
+								- jim out of country
+												Kate, abstractly, is happy to be point person.  But needs to check in with Windhorse.
+												Likely okay for short term while Jim is traveling.
+												Jim will check in with Bill; have not specifically discussed this yet.  (May be added expense.)
+												Jim will report back to Karl and Kate on Monday.
+																Another client will be transitioning out of Windhorse during that timeframe.  It is the only reason there could be a hiccup.
+								- schedule next mtg
+												Tue 10a
+												
+				10:35
+								- organization share
+								Jim feels we are making progress at becoming aware of Karl's life things.
+								Next step: getting things done
+								Some progress both fronts.
+								Kind of limping re: improving organizational system.  Goal: Karl's self sufficiency.
+								Some categories, lists of things, concerns.
+								When in person, able to move forward on some responsibilities.  (medical, financial, possession-management)
+								Still much work left.
+								Impressed with Karl's perseverance.  wants to be more organized, more aware, more productive.
+								Jim also has much perseverance.
+								Feels better about some of these issues, but system has not really improved to the point of having a groove.
+												Karl expresses search for groove that is the search for the groove: an ongoing journey of improving system.
+								Jim reports excitement of Karl for things like doing lab reports for degree.
+
+								Day-to-day struggles eat up so much time that it is hard to make serious progress on the things that excite Karl.
+
+								We're talking about methods / strategies, to carve out time for these things.
+
+								Jim would like to get in a groove on making progress on these things.
+
+								re: groove.  Jim likes achievement.  He starts things and puts his whole being into them.  He's not going to give up on Karl.
+								He's up for the challenge.  But it can be frustrating at times.
+								Good to acknowledge enormity of it.
+
+								Breakthrough yesterday.
+								Jim's an achiever.  Building his patience.
+								
+								- ideas/open loops:
+												- hiring organizer for possessions
+												- ttrack system
+
+												- celebrating buildable achievements
+												- karl kind of pushed achievement-celebration on jim withotu listening strongly to his place
+																-> very inspiring to know jim shares this value for accomplishment
+																   ==> perhaps more dialogue around our search for it <==
+				10:55
+								- check-out
+				11:00
+				
+VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
+				consider occasional sense of conflict could be both of us searching for achievement to happen soon
+
+2018-12-07 12:02p Jim Process Mtg
+				
+
+# MEETING PROCESS
+-> concerns become agenda items
+-> items are prioritized with deadlines
+-> at start of meeting, check for consent with all participants before continuing, to both process and agenda
+
+

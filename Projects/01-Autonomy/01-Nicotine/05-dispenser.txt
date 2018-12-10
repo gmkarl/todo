@@ -1,5 +1,6 @@
 goal 1: secure box that cannot be disassembled reasonably and dispenses nicotine
 	only when some computer-verifiable condition has been met
+goal 2: device can control the quantity of nicotine precisely
 
 further goals:
 	- prevent removal of substance from body?
@@ -54,3 +55,45 @@ That's about
 65.685 mg in  50 mL
 
 Maybe I'll try putting 64 mg in 50 mL, giving a goal dosage of 0.974336 mL / dispense.
+
+Okay, I'm planning to write a program to track the dispensing.
+Likely use ROOT & TFile.  I'll need to store how much volume is in the dispenser, and update it when dispensing happens.
+Then it can predict the size of the dose, and later control how many doses etc.
+
+== goal 1 ==
+probably a cage or metal box with an opening for power & networking, and a door.
+door must be openable from inside by powered device
+device is likely a single board computer, raspberry pi
+
+raspberry pi will run off of power, plug into network (similar to camera project)
+and dispense N2.
+
+: monologue 1
+	How will device dispense n2?  opening a door is reasonable ... will need
+some engineering to design dispensing.
+Could have a hopper with a shutter on it.  How determine that n2 dispensed by
+hopper in proper amount?
+	-> could guess it based on shutter timing =/
+	-> this could work with powder too; clumping could be an issue, but could
+	   have a dessicant that's replaceable
+There's a great answer to this question at https://robotics.stackexchange.com/questions/1259/how-to-measure-and-dispense-a-finite-amount-of-powder-or-liquid/1261#1261
+which has a short url of https://robotics.stackexchange.com/a/1261
+
+I'm thinking a box with a round hole at the bottom, with an augur bit that pushes things through the hole ...
+Actually, after reading how much more precise liquid dosing can be, I'm thinking
+hacking up a soap dispenser would be the way to go.  This is cheap and simple.
+Will probably want a pipe to feed liquid into dispenser, with a valve on it to
+keep it from drying out.
+Sounds simple and doable.
+
+== PLANNING ==
+
+METRICS:
+	- IMPORTANCE of habit
+	- DEVELOPMENT of habit, whether I am at my goal with regard to doing it
+
+I'll need a metric to rank the VALUE of DEVELOPING and MAINTAINING different habits
+I'll also need a metric to judge the EFFECTIVENESS of different approaches to development and maintainence
+Propose adding numbers to different current habits, and possible new habits
+	some of these numbers could relate to the goal the habits pursue, and their effectiveness in pursuit of that goal
+
