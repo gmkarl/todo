@@ -3272,3 +3272,4 @@ BT19B, brushing, , 2018-12-10T15:18:00+00:00, Finalize lozenge percent, finished
 BT20, brushing, , 2018-12-10T15:18:03+00:00, Brush Teeth, finished earlier
 BT19, brushing, , 2018-12-10T15:18:08+00:00, Measure and dose lozenge percent, finished earlier
 BT19B, brushing, 2018-12-10T20:52:53+00:00, 2018-12-10T20:53:04+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2018-12-10T20:53:06+00:00, 2018-12-10T21:00:37+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
