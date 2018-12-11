@@ -3306,3 +3306,4 @@ BT19, brushing, , 2018-12-11T15:13:38+00:00, Measure and dose lozenge percent {V
 BT40, brushing, 2018-12-11T15:13:39+00:00, 2018-12-11T15:13:58+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
 BT19B, brushing, 2018-12-11T19:39:28+00:00, 2018-12-11T19:47:34+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
 BT20, brushing, 2018-12-11T19:47:36+00:00, 2018-12-11T19:50:42+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
+BT19, brushing, 2018-12-11T19:50:44+00:00, 2018-12-11T19:56:07+00:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
