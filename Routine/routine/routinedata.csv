@@ -3301,3 +3301,4 @@ EY, morning, 2018-12-11T14:13:06+00:00, 2018-12-11T14:13:49+00:00, Eye Lubricant
 T, morning, 2018-12-11T14:13:50+00:00, 2018-12-11T14:14:31+00:00, Update Todo List,
 BT18, brushing, 2018-12-11T12:50:52+00:00, 2018-12-11T14:55:39+00:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
 BT19B, brushing, 2018-12-11T14:55:43+00:00, 2018-12-11T14:55:54+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2018-12-11T14:55:55+00:00, 2018-12-11T15:13:34+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
