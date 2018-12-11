@@ -445,81 +445,26 @@ youtube/vimeo: search consensus decision-making
     2018-11-20 15:42 ET
       sold 13414.50458902 nem, purchasing 7.98606173 eth
           that's roughly 0.00059533 eth/nem
+    2018-12-10 12:30 ET
+      posted order to sell 20731.0 nem for 0.43410714 BTC
+      	price: 0.00002094 btc/nem
 
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-
-- [X] 2018-12-07 Fri
-	- [X][X] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [X] 8:30a - Jim Team Meeting
-				-> mostly moved to Mon, likely during dinner
-	- [ ] Renew truck registration, expires 2018-12-31
-	- [X][X] 10:00a - 11:00a Kate call Fri, Tue
-		-> Kate says can meet with Jim 10a
-		   Jim says for us to call him
-	- [ ] 12:00p - Jim Process Mtg
-				-> moved to join Celi call due to karl struggling
-	- [ ] 1:15p - celia call
-				
-	- [X][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-	-> Gwyn was very worrid about me being in a confused state and I bruoght my computer to bed.
-	   I'd like to not struggle with Gwyn as to what I do at night.  I could use some discussion around my owrries that brushing my teeth when I'm doing poorly, or withuot nicotine, could impact the nicotine strategy.
-
-- [ ] 2018-12-08 Sat
-	- [X][ ] ~8:00a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] 10:00a - Jim check-in: Jim is busy, can't do large mtg
-	- [X][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		500mg azithromycin
-	-> I stayed in bed the whole day, with my computer.
-	   Thinking maybe not bring my computer to bed, although it certainly helped me feel less anxious.
-	   I'm having a _really_ rough time, coincident with starting these meds.
-	   Wondering if maybe 5 days to start each new med is too fast for me.
-
-- [!] 2018-12-09 Sun
-	- [X] 6:24a - brushing
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] 9:45a - aux brushing aux
-	- [ ] 12:00p - brushing
-	- [ ] 2:15p - aux brushing aux
-	- [ ] 4:30p - brushing
-	- Jim Taggart visits in evening after spending day traveling
-	- [ ] 6:00p - Jim Process Mtg
-	- possibly dinner with Gwyn & Jim
-				Karl will drive Gwyn
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		500mg azithromycin
-	- [ ] 6:45p - aux brushing aux
-
-- [ ] 2018-12-10 Mon
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-	- [ ] 9:00a-10:00a Dr Mooney call w/ Jim
-	- [ ] 11:00a Jeremy call w/ Jim
-	- Jim Taggart
-	- [ ] 1:00p - meet truck service @ truck
-	- [ ] 3:30p - celia call
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		500mg azithromycin
-
-- [ ] 2018-12-11 Tue
-	- [ ][ ] ~8:30a - MEDS after bkfst
+- [!] 2018-12-11 Tue
+	- [X][X] ~8:30a - MEDS after bkfst
 		100mg doxycycline
   - [ ] starting btwn 9:00a-10:00a - Cheryl CCIL visits
 								Talked with Cheryl on phone at 12:18p Thu 12/6.
 								She agreed to come for this time.
 				-> NEED TO RESCHEDULE
-	- [ ][ ] 9:45a - 11:00a Kate call Fri, Tue, early today to check in for jim
-				-> 10:00 Conference with Jim
-	- [ ] 12:45p - online NCV workshop with Gregg Kendrick
+		-> call Gwyn at old number when Cheryl arrives
+	- [ ] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
+	- [ ] Renew truck registration, expires 2018-12-31
+	- [ ] missed celia call; follow up
+	- [ ] 12:45p - online NVC workshop with Gregg Kendrick
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		500mg azithromycin
@@ -528,7 +473,10 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
+	- [ ] (10:45a?) 11:00 am - call with Kate and Jim, rescheduled Kate
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] Visit Gwyn's mom's house to look at computer.  Jean won't be there
+		-> wiring cat damage solution? twist ties? labels for replugging?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		500mg azithromycin
@@ -576,8 +524,8 @@ youtube/vimeo: search consensus decision-making
 		2014 Northside Dr
 		Blacksburg, VA 
 
-- [ ] 2018-12-18
-	- [ ] kate could do in-person shift today
+- [ ] 2018-12-18 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - Jeremy available 12-19 through 12-21
 
@@ -606,12 +554,14 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2018-12-28
 	- likely shift with Kate
+	- shift with Jeremy
 
 - [ ] 2018-12-29
         - [ ] 11:09a - American Airlines flight 1915 leaves Boston
         - [ ] 3:37p - flight 5488 arrives Charlottesville
 
 - [ ] 2019-01-02 Wed
+	- [ ] 1:00p - Jim Taggart arrives? will sort out where to meet, maybe elkins
 	- [ ] 2:00p
 		Jenny L Cross
 		Bring mailed paperwork, insurance card, medications
@@ -621,11 +571,17 @@ youtube/vimeo: search consensus decision-making
 		Suite 201
 		Elkins, WV 26241
 
+- [ ] 2019-01-03 Thu
+	- Jim Taggart
+
 - [ ] 2019-01-06 Sun
 	- [ ][ ] 8:00p - street giraffes first sunday of the month
 	  call 530 881-1212  (or maybe 701 801-1211)
 	  meeting id in email
 	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
+
+- [ ] 2019-01-07 Mon
+	- [ ] Jeremy and Jim?
 	         
 - [ ] 2019-01-28
 	- [ ][ ] 6:30 PM food
@@ -878,6 +834,11 @@ Voicemail:
 		pin is 6 digits
 	304 799 6891
     2018-11-29: voicemail is finally being fixed: ref # 4450496
+    2018-12-10: called again, tech said my voicemail had been canceled while processing the 11-29 ticket
+    Woman on phone said she filed a lawsuit after much legwork, water testing, etc, with the company causing pollution resulting in cancer
+    Stated she re-added me to voicemail.  Still does not work.
+
+    	
 
 VOICEMAIL NOTES
 
@@ -1041,10 +1002,9 @@ Frontier Support:
 	800-239-4430
 		"special promotion for select callers" 2018-11-15
 		didn't listen to further
-	Tech Dept: 888-440-2096
+	DSL Tech Dept: 888-440-2096
 		1 - english
 			304 456 5564
-		-> 
 
 Green Bank Anechoic Chamber
 	Jansky Laboratory
@@ -1786,6 +1746,34 @@ VALUABLE: dialogue around mutual search for a sense of accomplishment/achievemen
 
 2018-12-07 12:02p Jim Process Mtg
 				
+2018-
+	Jeremy, at 11:27a
+		I was going to make an attempt to summarize what I heard Jim say was his perception of part of what might be going on.
+		Then I was going to check in with Jim to see if that's accurate.
+		Then I was also inviting any part of Karl as best he can to also listen, as best as possible, and an opportunity to reflect
+		back to see if it's accurate.
+		If Karl doesn't have the capacity to reflect now, he may have this later, and can discuss with Jim.
+
+		What I think I heard from you, Jim, was a thought that because Karl has been in more distress lately, Gwyn has a tendency to 
+		linger lonegr, and have more difficulty leaving.  Wondering if perhaps this has been actually increasing Karl's distress,
+		rather than relieving it.
+			Jim: Yes
+		Karl, were you able to hear that and maybe reflet back f any part seems accurate to you?
+			K: There's some truth to that; I see Gwyn a lot and it can be harder to settle into my own groove of the day.
+			   I don't feel it would be fair to blame my current behavior on seeing her so much during these previous days.
+			   My guess at why I'm struggling right now would partly be because I have intensely struggled in this environment before.
+			   I've noticed that when I have intense experiences, I tend to re-experience them in a prolonged manner when I stay in the environment
+			   I had them in.
+			   I'm pretty scared around blaming Gwyn for anything when I don't feel my mind is functioning very well, because there are a lot of small
+			   things I've been irritated about around hr the past couple days, and I could create a problem due to a confusion in my own mind becoming
+			   weirdly large or something.
+		...
+		While there does, I heard you saying, while there is some truth to having some difficulty with Gwyn staying longer, you feel scared of blaming her,
+		and you feel scared that given your current state of mind, some irritations you have might become or seem bigger.  Is that right?
+			
+		I wonder if there is a way to try to work with the parts of you that feel scared y this topic ... and if this topic is less scary, maybe it will be
+		less triggering to the parts fo you that don't want to talk about anytihng scary.
+			
 
 # MEETING PROCESS
 -> concerns become agenda items
