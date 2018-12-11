@@ -3290,3 +3290,4 @@ BT19, brushing, , 2018-12-11T11:46:23+00:00, Measure and dose lozenge percent {V
 BT40, brushing, 2018-12-11T11:46:26+00:00, 2018-12-11T11:47:21+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
 BTX1, brushing, 2018-12-11T11:47:24+00:00, 2018-12-11T12:50:40+00:00, Shielding Measurement: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w},
 B, morning, , 2018-12-11T12:51:03+00:00, Get Out of Bed, finished earlier
+T, morning, 2018-12-11T12:51:04+00:00, 2018-12-11T13:20:32+00:00, Calendar and Routine Todo List,
