@@ -475,7 +475,7 @@ youtube/vimeo: search consensus decision-making
 	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
 	- [ ] (10:45a?) 11:00 am - call with Kate and Jim, rescheduled Kate
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
-	- [ ] Visit Gwyn's mom's house to look at computer.  Jean won't be there
+	- [ ] 2:00 pm - Visit Gwyn's mom's house to look at computer.  Jean won't be there
 		-> wiring cat damage solution? twist ties? labels for replugging?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
@@ -485,6 +485,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
+	- [ ] 10:00a - 11:00a - Celia call
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
@@ -573,6 +574,9 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-03 Thu
 	- Jim Taggart
+
+- [ ] 2019-01-04 Fri
+	- [ ] 10:00a - Kate & Jim call
 
 - [ ] 2019-01-06 Sun
 	- [ ][ ] 8:00p - street giraffes first sunday of the month
@@ -1741,9 +1745,6 @@ Agenda:
 								- check-out
 				11:00
 
-VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
-				consider occasional sense of conflict could be both of us searching for achievement to happen soon
-
 2018-12-07 12:02p Jim Process Mtg
 
 2018-
@@ -1774,8 +1775,53 @@ VALUABLE: dialogue around mutual search for a sense of accomplishment/achievemen
 		I wonder if there is a way to try to work with the parts of you that feel scared y this topic ... and if this topic is less scary, maybe it will be
 		less triggering to the parts fo you that don't want to talk about anytihng scary.
 
+2018-12-12 11:03a Jim & Kate
+	check-in
+			Kate just had wonderful -- and meditation for half-hour and -- about -- subjectivity that she really found enriching.
+			Jim rolled into driveway at 3am and was up at seven with tasklist of things to accomplish
+					... signing car over to sun so ... stop at bank .. loans, title
+					running a little ragged [rushed to meeting]
+					has until 11:45a, has to pick up client at 12:30p in killington, takes 40-45 min
+					expresses thanks
+	concerns / thoughts:
+		it is 11:22a, i introduced a lot of pause not engaging
+		- schedule next mtg
+		- Kate's role while Jim is in Africa
+		- plan/around karl's behavior interrelates task planning and goals
+	to 11:27 - schedule next mtg
+		Fri Jan 4, 10a
+	to 11:35 - discuss Kate's role
+		Jim in Rwanda on 2018-12-14.  Returns on 2018-12-30, and works on the 31st.
+		Karl in Boston 2018-12-23 to 2018-12-29.
+		Kate on meditation retreat 2018-12-28 to 2019-01-03.
+		Bill authorized any additional billing and agrees Kate is logical person to step in as "point person".
+		Jim depicts Kate as doing her regular 2/wk meeting but also being available for any serious matters that came up.
+		Kate can do this and has been approved by WH.  Will not produce an additional bill unless time is used.
+		Kate calls it crisis coverage.
+		Kate says feel free to reach out with logistical issues, such as paying medical bills, too.
+		If 10 is crisis, feel free to reach out at 8.
+	to 11:40 - addressing karl's behavior situation
+	to 11:45 - recap & potential next items
+		Jim: feels great to work together all 3, have Kate as a backup
+		     appreciates Karl's humor [?]
+		Kate: feels sense of connection with both of us.  appreciated call and what we were able to relate to.
+			   hopes Jim has wonderful vacation
+				 looks forward to stepping into role in Karl's team
+				 next mtg with Karl 12/14 10a
 
-# MEETING PROCESS
--> concerns become agenda items
--> items are prioritized with deadlines
--> at start of meeting, check for consent with all participants before continuing, to both process and agenda
+2018-12-12 12:04 Dr Mooney
+	items:
+		- organization
+
+		- goals
+
+VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
+				consider occasional sense of conflict could be both of us searching for achievement to happen soon
+
+# MEETING PROCESS PROPOSAL
+Notes / Agenda on https://floobits.com/fuzzyTew/todo in Logistics/00-Organizer.txt
+-> check-in, 90 secs/person (Kate)
+-> at start of meeting, check for consent with all participants before continuing, to both process and agenda (Karl)
+-> concerns become agenda items (Karl)
+-> items are prioritized with deadlines (Karl)
+-> recap, check-out: to connect as human beings (Kate)
