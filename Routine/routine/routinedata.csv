@@ -3321,3 +3321,4 @@ B, morning, , 2018-12-12T18:12:19+00:00, Get Out of Bed, finished earlier
 BT19B, brushing, 2018-12-12T18:12:57+00:00, 2018-12-12T18:13:23+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
 BT20, brushing, 2018-12-12T18:13:24+00:00, 2018-12-12T18:16:11+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
 BT19, brushing, 2018-12-12T18:16:14+00:00, 2018-12-12T18:22:15+00:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
+BT40, brushing, 2018-12-12T18:22:17+00:00, 2018-12-12T18:22:56+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
