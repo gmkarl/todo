@@ -316,7 +316,7 @@ I5 integrating scuttlebutt with e-mail or matrix
 
 	IDEAL PLAN:
 		- dosing applied frequently throughout the day, automatically and securely, based on testable metrics
-		
+
 - I'd like to start this.
 	- Program reads from todo repo, stored in todo repo.
 	- Service installed on filesystem from source in todo repo for now.
@@ -326,7 +326,7 @@ I5 integrating scuttlebutt with e-mail or matrix
 - I really need a TIME MANAGEMENT next step !!!!!
 	GOAL: using n2 helps me meet my goals
 	SUBGOAL: program checks tasks, doses result
-	
+
 	WORK INCLUDES:
 		- routine system prompts me to continue (already)
 		- tasks system allows time logging (already)
@@ -342,8 +342,8 @@ leslie recommends Bookstore in baltimore:
 	red emma's
 
 youtube/vimeo: search consensus decision-making
-	
-	
+
+
 
 # FINANCES
 	Goal:
@@ -391,7 +391,7 @@ youtube/vimeo: search consensus decision-making
 		2018-11-10: 21.1 Eth
 		2018-09-26: 42.7 Eth
 
-		
+
 				2018-11-07
 		2018-10-29: DISPUTED IN BUYER'S FAVOR 2018-11-07 antonpeters@home.nl $257.82 = $270.00 - $12.18
 			likely ethhockey opened 2018-10-28 paid 2018-10-29
@@ -409,14 +409,14 @@ youtube/vimeo: search consensus decision-making
 			likely leahsv, opened 2018-10-25, paid 2018-10-25
 		2018-10-25: DISPUTED IN BUYER'S FAVOR 2018-11-12 wolfgang.dignoes@icloud.com $264.51 = $277.00 - $12.49
 			likely ethhockey, opened 2018-10-24, paid 2018-10-25
-		2018-10-25: IN DISPUTE AbdullaMahmood3333@hotmail.com $640.22 = $670.00 - $29.78 
+		2018-10-25: IN DISPUTE AbdullaMahmood3333@hotmail.com $640.22 = $670.00 - $29.78
 			likely markodeal, opened 2018-10-24, paid 2018-10-25
 
 		ethhockey: 2 transactions disputed in other's favor from differing accounts
 		markodeal: 1 good transction, 1 disputed, differing accounts
 		leahsv: 2 transactions split into 4, all disputed in my favor, herbertpfanzelt@gmx.de
 		jimmy12: 1 good transaction Jaakkoforssen66@aol.com
-			
+
 		2018-11-14 18:54 ET
 			Placed 2 ETH in escrow to leahsv.
 			Expecting $459.62 from herbertpfanzelt@gmx.de
@@ -431,7 +431,7 @@ youtube/vimeo: search consensus decision-making
 			1 eth for $208.65
 			Screenshots in dom0
 		2018-11-15 06:56 ET
-			
+
 		2018-11-16 08:35 ET
 			leahsv has not followed through with payment
 			One of Prudentwriter's Paypal accounts took the money back, saying unauthorized transaction.  Prudentwriter said he'll make it work.  Chat with him will be destroyed in 6 days.
@@ -441,7 +441,7 @@ youtube/vimeo: search consensus decision-making
 		2018-12-03 13:21 ET
 			Finalized a different trade with jimmy13 after price change.  screenshot in dom0
 			Opened 2.6 eth for $404.43 with leahsv
-			
+
     2018-11-20 15:42 ET
       sold 13414.50458902 nem, purchasing 7.98606173 eth
           that's roughly 0.00059533 eth/nem
@@ -487,8 +487,8 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
-		500mg azithromycin
 		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-14 Fri
 	- [ ][ ] ~8:30a - MEDS after bkfst
@@ -507,8 +507,8 @@ youtube/vimeo: search consensus decision-making
 		davishealthsystem.org
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
-		500mg azithromycin
 		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-15 Sat
 	- [ ][ ] ~8:30a - MEDS after bkfst
@@ -516,13 +516,13 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
-		500mg azithromycin
 		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-16 Sun
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
 		2014 Northside Dr
-		Blacksburg, VA 
+		Blacksburg, VA
 
 - [ ] 2018-12-18 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
@@ -530,7 +530,7 @@ youtube/vimeo: search consensus decision-making
 - Jeremy available 12-19 through 12-21
 
 - [ ] 2018-12-20
-	
+
 	- [ ] 3pm? leave for charlottesville
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 8
@@ -582,7 +582,7 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-07 Mon
 	- [ ] Jeremy and Jim?
-	         
+
 - [ ] 2019-01-28
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
@@ -591,7 +591,7 @@ youtube/vimeo: search consensus decision-making
 		226 Comfort Inn Dr.
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
-		
+
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
@@ -623,7 +623,7 @@ Routes for safety:
 	- reliable collaboration & information sharing
 	- TOOLS to comprehend issues, e.g. EEG and radio work
 	- TECHNIQUES to get things done, such as nicotine
-	
+
 	Short term:
 	- nicotine & technocratic motivators and logs
 	- collaboration with others who can help?
@@ -665,12 +665,12 @@ Routes for safety:
 			- should work to shrink and archive possessions, selling them
 	- want to live kindly in all ways, and slowly move towards that ideal
 	- want to support ideals, people, etc that I value
-	
-	
 
 
 
-- personal consistency: to do what I want, 
+
+
+- personal consistency: to do what I want,
 
 # ACTIONABLE TASKS
 
@@ -687,7 +687,7 @@ Routes for safety:
 		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL?
 		- information and tracking of activities and projects is stored in folders regarding them
 			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Kate's desire to distinguish between these.
-			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.  
+			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.
 		- projects/activities concept: activites == actionable tasks == each fits in time alloction system on phone
 		- use PROJECTS folder to organize what needs to be done in general
 			- activities folder would be a sibling.  we already have TASKS folder that can be the same.
@@ -838,7 +838,7 @@ Voicemail:
     Woman on phone said she filed a lawsuit after much legwork, water testing, etc, with the company causing pollution resulting in cancer
     Stated she re-added me to voicemail.  Still does not work.
 
-    	
+
 
 VOICEMAIL NOTES
 
@@ -901,7 +901,7 @@ Caverns
 		Rt 58
 		Ewing, VA 24248
 		804-248-2817
-		
+
 
 	more can be found at: cavern.com
 	caves on public property may be generally accessible
@@ -997,7 +997,7 @@ Frontier Support:
 		-> 2 - customer support
 		   9 - other technical support
 		   # - further assistance
-		   
+
 			My # is (304) 456-5564
 	800-239-4430
 		"special promotion for select callers" 2018-11-15
@@ -1031,7 +1031,7 @@ Cancer Places
 	Dr Fleming
 	304 637 3640
 	fax: 304 637 3644
-	
+
 Gwyn Cole
 	304 456 5300
 
@@ -1051,7 +1051,7 @@ Dr Bouboulis
 	Advanced Allergy, Immunology, & Asthma
 	advanced-allergy.com
 	203 655 9904
-	CLOSED EACH DAY 12:30p - 2:15p 
+	CLOSED EACH DAY 12:30p - 2:15p
 	M 9:15a - 4:30p
 	Tu 8a - 9:15a - 4p
 	W 9:15a - 4:30p
@@ -1071,7 +1071,7 @@ Dr Bouboulis
 		5. Increase Mepron to 1 teaspoon 2/day
 		contact Dr Bouboulis 1 month from step 1
 		treatment will likely last 9 months
-		
+
 		Gwyn considers coming by 8:00a, sometimes 8:30a
 		        and around 6:30p, after possible work
 
@@ -1182,7 +1182,7 @@ Quinoa Veggie Soup
 	5. remove from heat & remove bay leaves
 	   taste & pepper, up to 1/2 tsp salt, until flavors sing
 	   divide into bowls, optionally top with grated parmesan
-	
+
 
 # CRUFT TO SORT UP
 
@@ -1364,7 +1364,7 @@ Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
   - RESPONS: Completing responsibilities
   	- BODY: Managing physical / medical wellness
 
-  - SAFE: Personal work - shielding, etc. 
+  - SAFE: Personal work - shielding, etc.
 				SUST
 				REC
 				DEMO
@@ -1457,7 +1457,7 @@ Karl:
 Jim:
   Stuck between 'process' and 'getting things done'.
   Appreciates suggestion above.
-  
+
 
 concerns:
 - merging last document
@@ -1498,7 +1498,7 @@ Jim Taggart must wrap up prior to 9:30a.
 
 			-> propose 2 meetings per day, process meeting and work meeting
 				-> perhaps 3rd post-portem meeting is one with jeremy or kate
-			
+
 
 - [X] to 09:10 or earlier: Prior 1: time / priority management
 	- philosophy of time management
@@ -1520,7 +1520,7 @@ Jim Taggart must wrap up prior to 9:30a.
 			- kate / jeremy involvement
 
 - check-out:
-  
+
 
 # 2018-11-20 12:32 Jim Taggart mtg
 Must end by 1:30
@@ -1563,7 +1563,7 @@ K: <got blocked around typing>
 			3. Extra
 
 
-		
+
 	-> Way to associate it with time: schedule, day week month, quarterly?
 
 
@@ -1637,7 +1637,7 @@ Agenda:
 		-> purpose of productivity system is kind of to hold lists as unpacked
 
 	- 4:... dr mooney & karl focus moving forward
-		
+
 	-  Post-Meeting, Jim elps Karl resume dy
 
 2018-12-05 10:35a
@@ -1676,7 +1676,7 @@ Agenda:
 			-> this is a place to put the cool ideas that churn up but aren't atm worth the time
 			-> even ones that don't belong in this project, perhaps
  - List Processing
-	
+
 2018-12-07 10:11a Jim & Kate Mtg
 - concerns:
 				- organization share:
@@ -1700,7 +1700,7 @@ Agenda:
 																Another client will be transitioning out of Windhorse during that timeframe.  It is the only reason there could be a hiccup.
 								- schedule next mtg
 												Tue 10a
-												
+
 				10:35
 								- organization share
 								Jim feels we are making progress at becoming aware of Karl's life things.
@@ -1728,7 +1728,7 @@ Agenda:
 
 								Breakthrough yesterday.
 								Jim's an achiever.  Building his patience.
-								
+
 								- ideas/open loops:
 												- hiring organizer for possessions
 												- ttrack system
@@ -1740,12 +1740,12 @@ Agenda:
 				10:55
 								- check-out
 				11:00
-				
+
 VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
 				consider occasional sense of conflict could be both of us searching for achievement to happen soon
 
 2018-12-07 12:02p Jim Process Mtg
-				
+
 2018-
 	Jeremy, at 11:27a
 		I was going to make an attempt to summarize what I heard Jim say was his perception of part of what might be going on.
@@ -1754,7 +1754,7 @@ VALUABLE: dialogue around mutual search for a sense of accomplishment/achievemen
 		back to see if it's accurate.
 		If Karl doesn't have the capacity to reflect now, he may have this later, and can discuss with Jim.
 
-		What I think I heard from you, Jim, was a thought that because Karl has been in more distress lately, Gwyn has a tendency to 
+		What I think I heard from you, Jim, was a thought that because Karl has been in more distress lately, Gwyn has a tendency to
 		linger lonegr, and have more difficulty leaving.  Wondering if perhaps this has been actually increasing Karl's distress,
 		rather than relieving it.
 			Jim: Yes
@@ -1770,14 +1770,12 @@ VALUABLE: dialogue around mutual search for a sense of accomplishment/achievemen
 		...
 		While there does, I heard you saying, while there is some truth to having some difficulty with Gwyn staying longer, you feel scared of blaming her,
 		and you feel scared that given your current state of mind, some irritations you have might become or seem bigger.  Is that right?
-			
+
 		I wonder if there is a way to try to work with the parts of you that feel scared y this topic ... and if this topic is less scary, maybe it will be
 		less triggering to the parts fo you that don't want to talk about anytihng scary.
-			
+
 
 # MEETING PROCESS
 -> concerns become agenda items
 -> items are prioritized with deadlines
 -> at start of meeting, check for consent with all participants before continuing, to both process and agenda
-
-
