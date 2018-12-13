@@ -106,6 +106,7 @@ LO, LifeExtension Super Omega-3, 1 softgel
 
 Antibiotic Meds
 DX, Doxycycline Hyclate, 1 tablet
+BM, Bactrim DS, 1 tablet
 AZ, Azithromycin, 1 tablet
 
 Lunch Meds
@@ -2250,3 +2251,4 @@ Time, Med, Dosage, Notes
 2018-12-12T15:06:43-05:00,IB,1,
 2018-12-12T18:14:49-05:00,DX,1,
 2018-12-12T18:15:05-05:00,AZ,1,
+2018-12-13T09:27:16-05:00,DX,1,
