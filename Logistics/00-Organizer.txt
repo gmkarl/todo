@@ -464,7 +464,8 @@ youtube/vimeo: search consensus decision-making
 	- [ ] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
 	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ] missed celia call; follow up
-	- [ ] 12:45p - online NVC workshop with Gregg Kendrick
+		-> rescheduled with Dr Mooney 12-12 Wed
+	- [X] 12:45p - online NVC workshop with Gregg Kendrick
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		500mg azithromycin
@@ -528,9 +529,13 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-12-18 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
+- [ ] 2018-12-19 Wed
+	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+	
 - Jeremy available 12-19 through 12-21
 
 - [ ] 2018-12-20
+	- [ ] 10:00a-11:00a - Celia call
 
 	- [ ] 3pm? leave for charlottesville
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
