@@ -1,4 +1,51 @@
 # DONE
+- [ ] 2018-12-13 Thu
+	- [X][X] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [X] 10:00a - 11:00a - Celia call
+		-> like usual, I was pretty confused for this.
+		   Celia and I opened a shared document to work on the document.
+			 I felt she had entered some things different than I wanted, so I wanted to work on it with her.
+			 It was helpful to have the time allocated and someone there to help me focus on it.  Otherwise I would not have done it at all.
+			 We spent a lot of extra time after with me trying to send her some old notes, which she eventually received the bulk of.
+	- [X][X] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+	-> this was a rough evening
+- [ ] 2018-12-12 Wed
+	- [X][X] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
+	- [X] (10:45a?) 11:00 am - call with Kate and Jim, rescheduled Kate
+	- [X][X] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] 2:00 pm - Visit Gwyn's mom's house to look at computer.  Jean won't be there
+		-> wiring cat damage solution? twist ties? labels for replugging?
+		-> rescheduled to gwyn's convience
+	- [X][X] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
+	-> didn't do my routines this day
+- [x] 2018-12-11 Tue
+	- [X][X] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+  - [ ] starting btwn 9:00a-10:00a - Cheryl CCIL visits
+								Talked with Cheryl on phone at 12:18p Thu 12/6.
+								She agreed to come for this time.
+				-> NEED TO RESCHEDULE
+		-> call Gwyn at old number when Cheryl arrives
+		-> I don't quite remember this; I think she arrived much later.
+	- [ ] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
+		-> have not done this yet
+	- [ ] Renew truck registration, expires 2018-12-31
+	  -> have not done this yet
+	- [ ] missed celia call; follow up
+		-> rescheduled with Dr Mooney 12-12 Wed
+	- [X] 12:45p - online NVC workshop with Gregg Kendrick
+	- [X][X] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		500mg azithromycin
 - [X] 2018-12-10 Mon
 	- [X][X] ~8:30a - MEDS after bkfst
 		100mg doxycycline
@@ -55,7 +102,7 @@
 	- [ ] 12:00p - Jim Process Mtg
 				-> moved to join Celi call due to karl struggling
 	- [ ] 1:15p - celia call
-				
+
 	- [X][X] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 	-> Gwyn was very worrid about me being in a confused state and I bruoght my computer to bed.
@@ -140,7 +187,7 @@
 	- [X] 1:20p - aux brushing
 	- [X][X] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
 		2014 Northside Dr
-		Blacksburg, VA 
+		Blacksburg, VA
 	- [X] 3:35p - brushing
 	- [X] 5:50p - aux brushing
 	- [ ][X] 8:00p - street giraffes first sunday of the month
@@ -190,7 +237,7 @@ blacksburg group:
 	6:30p - 8:00p
 	please contact via e-mail
 	2014 Northside Dr
-	Blacksburg, VA 
+	Blacksburg, VA
 
 	When you come in, will be asked to say a couple sentences about why you are here, and what you are looking for.
 - jeremy wants more specific time planned for xmas meeting
@@ -270,7 +317,7 @@ blacksburg group:
 		3rd bartonella leaves
 	minimum 8hrs apart
 	stays 6-9 months
-	neuropathy can 
+	neuropathy can
 	-> would like to talk in about a month
   - [ ] 8:00a - 9:00a Jim Work Mtg (interrupt if Bouboulis calls !!!)
 	- [X] 11:00a - 11:50a Jeremy Psychotherapy; need to schedule next week
@@ -451,7 +498,7 @@ blacksburg group:
 	- [ ] 1:00p Jim Taggart arrives, Gwyn visits for meeting including CCIL
 		-> was very ill; saw these people but business was not done
 	- [X] 2:20 pm drs appt jennifer lambert
-		-> was moved to 11:30 
+		-> was moved to 11:30
 - [X] 2018-11-12 Mon
 		- [X] 6:30a brushing
 		- [X] 9:30a aux brushing
@@ -634,7 +681,7 @@ blacksburg group:
 	- [ ][ ] 4:50p Brush Teeth Aux routine
 	- [ ][ ] 7:20p Brush Teeth routine
 	- [ ][ ] ? Brush Teeth Aux routine
-	
+
 	I changed my route of administration of nicotine.
 	Half of it falls into my glass instead of on my toothbrush.
 	I could lose my ability to brush my teeth and get addicted for real.
@@ -858,4 +905,3 @@ blacksburg group:
 		- [ ] prepare for application? remember call is just for prep too
 - [ ] 2018-10-08 Mon
 	- [ ] 10:00a Celia help NRAO application (maple leaf clinic)
-

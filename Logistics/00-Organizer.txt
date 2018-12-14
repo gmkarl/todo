@@ -453,55 +453,20 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-11 Tue
-	- [X][X] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-  - [ ] starting btwn 9:00a-10:00a - Cheryl CCIL visits
-								Talked with Cheryl on phone at 12:18p Thu 12/6.
-								She agreed to come for this time.
-				-> NEED TO RESCHEDULE
-		-> call Gwyn at old number when Cheryl arrives
-	- [ ] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
-	- [ ] Renew truck registration, expires 2018-12-31
-	- [ ] missed celia call; follow up
-		-> rescheduled with Dr Mooney 12-12 Wed
-	- [X] 12:45p - online NVC workshop with Gregg Kendrick
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		500mg azithromycin
-
-- [ ] 2018-12-12 Wed
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-	HW for Dr Mooney some time ago: Wkbook reading comprehension exercises, ch 1, pg 55
-	- [ ] (10:45a?) 11:00 am - call with Kate and Jim, rescheduled Kate
-	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
-	- [ ] 2:00 pm - Visit Gwyn's mom's house to look at computer.  Jean won't be there
-		-> wiring cat damage solution? twist ties? labels for replugging?
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		500mg azithromycin
-
-- [ ] 2018-12-13 Thu
+- [!] 2018-12-14 Fri
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
-	- [ ] 10:00a - 11:00a - Celia call
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-14 Fri
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] Reschedule Dr Fleming
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+	- [ ] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
+	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 10:45a Oncological Follow-up
+		-> CANCELED by dr yesterday
 		Dr Fleming
 		Davis Medical Center
 		801 Harrison Ave
@@ -516,22 +481,30 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
+	- gwyn / jean computer swap?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
 
 - [ ] 2018-12-16 Sun
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
 		2014 Northside Dr
 		Blacksburg, VA
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-18 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2018-12-19 Wed
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
-	
+
 - Jeremy available 12-19 through 12-21
 
 - [ ] 2018-12-20
@@ -558,7 +531,10 @@ youtube/vimeo: search consensus decision-making
           American Airlines flight number 5488 to 1843
         - [ ] 10:39p - arrive boston
 
-- [ ] 2018-12-28
+- [ ] 2018-12-26 Wed
+	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+
+- [ ] 2018-12-28 Fri
 	- likely shift with Kate
 	- shift with Jeremy
 
