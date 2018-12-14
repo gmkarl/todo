@@ -534,9 +534,11 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-12-26 Wed
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
 
+- [ ] 2018-12-27 Thu
+	- [ ] 12:00p - 1:00p IP Jeremy in person
+	- [ ] 1:00p - 4:00p Kate BA shift
+
 - [ ] 2018-12-28 Fri
-	- likely shift with Kate
-	- shift with Jeremy
 
 - [ ] 2018-12-29
         - [ ] 11:09a - American Airlines flight 1915 leaves Boston
