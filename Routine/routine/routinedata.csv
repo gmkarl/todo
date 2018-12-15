@@ -3351,3 +3351,4 @@ T, morning, 2018-12-15T10:35:43-05:00, 2018-12-15T10:38:50-05:00, Update Todo Li
 T, evening, , 2018-12-15T17:16:05-05:00, Update Todo List, finished earlier
 EY, evening, 2018-12-15T17:16:07-05:00, 2018-12-15T17:16:33-05:00, Eye Lubricant,
 BT18, brushing, 2018-12-15T17:14:59-05:00, 2018-12-15T17:16:43-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
+BT19B, brushing, 2018-12-15T17:16:45-05:00, 2018-12-15T17:19:42-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
