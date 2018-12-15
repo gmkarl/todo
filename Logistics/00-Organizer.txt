@@ -461,12 +461,13 @@ youtube/vimeo: search consensus decision-making
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
 		-> application is available.
 		-> requires "letters of recommendation from three people who can evaluate my ability, experience, and potential"
-			Let's
+			Let's:
 			- continue EE degree
 			- actively participate in the open source radio astronomy project
 			- get volunteer work at the telescope
-	- [ ] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
-	- [ ] Renew truck registration, expires 2018-12-31
+	- [X] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
+			-> called 234 294 0119 medic management, left voicemail
+	- [X] Renew truck registration, expires 2018-12-31
 	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
@@ -486,6 +487,9 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
+	- [ ] call Medic Management re: dr bouboulis bill I lost, can send to tufts or other insurance?
+	    left voicemail 11:00a Sat 12/15
+			234 294 0119 (phone menu at 203 655 9904 has number)
 	- gwyn / jean computer swap?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
@@ -1057,6 +1061,18 @@ Dr Bouboulis
 	F closed
 	Sa 9a - 12:30p
 
+	PHONE MENU
+		1: front desk, appointments
+			-> extension or voicemail box
+		2: nurse
+			-> voicemail box
+		3: quest phlebotomist
+		4: prescriptions
+                        -> for refills, contact your pharmacy
+                        -> prescriptions may take 48-72 hrs
+		instead of 5, for billing call Medic Management 234 294 0119
+		6: administrative assistance, medical records
+
 	PRESCRIPTION
 		1. Doxycycline 100mg 2/day
 		wait 5 days to ensure no bad reaction from herxing
@@ -1072,18 +1088,6 @@ Dr Bouboulis
 
 		Gwyn considers coming by 8:00a, sometimes 8:30a
 		        and around 6:30p, after possible work
-
-	PHONE MENU
-		1: front desk, appointments
-			-> extension or voicemail box
-		2: nurse
-			-> voicemail box
-		3: quest phlebotomist
-		4: prescriptions
-                        -> for refills, contact your pharmacy
-                        -> prescriptions may take 48-72 hrs
-		... billing # to call listed instead of 5
-		6: administrative assistance, medical records
 
 	1. restart trmt, info
 		2018-10-31
