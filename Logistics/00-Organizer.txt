@@ -453,35 +453,21 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-14 Fri
+- [!] 2018-12-15 Sat
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
-	- [ ] Reschedule Dr Fleming
 	- [ ][ ] gbo internship application supposed to come up this month
 	         https://science.nrao.edu/opportunities/student-programs/summerstudents
-	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+		-> application is available.
+		-> requires "letters of recommendation from three people who can evaluate my ability, experience, and potential"
+			Let's
+			- continue EE degree
+			- actively participate in the open source radio astronomy project
+			- get volunteer work at the telescope
 	- [ ] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
 	- [ ] Renew truck registration, expires 2018-12-31
 	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] 10:45a Oncological Follow-up
-		-> CANCELED by dr yesterday
-		Dr Fleming
-		Davis Medical Center
-		801 Harrison Ave
-		Elkins, WV 26241
-		davishealthsystem.org
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-15 Sat
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- gwyn / jean computer swap?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
@@ -491,23 +477,37 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
-		2014 Northside Dr
-		Blacksburg, VA
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2018-12-17 Mon
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- gwyn / jean computer swap?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
 
 - [ ] 2018-12-18 Tue
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-19 Wed
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
 
 - Jeremy available 12-19 through 12-21
 
-- [ ] 2018-12-20
+- [ ] 2018-12-20 Thu
 	- [ ] 10:00a-11:00a - Celia call
 
 	- [ ] 3pm? leave for charlottesville
@@ -515,13 +515,8 @@ youtube/vimeo: search consensus decision-making
 		CHAPTER 8
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
-- mom says I could visit any time, she's in newton, she has medical appts on 23rd and 29th, 23rd is small
-
-- Jeremy available 12-26 through 12-28
-- Kate could make 12-26 or 12-27 work
-	-> Kate ended up proposing 12-28: she has a client on 12-27
-
-- [ ] 2018-12-21
+- [ ] 2018-12-21 Fri
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2018-12-23 Sun
         - Spend day packing to go to MA.
@@ -545,6 +540,10 @@ youtube/vimeo: search consensus decision-making
         - [ ] 3:37p - flight 5488 arrives Charlottesville
 
 - [ ] 2019-01-02 Wed
+	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+				-> internet brochure may not be updated for a couple months; check for brochure in-person
+				-> may also be a newsletter
+				-> can also just e-mail and ask to sign up for next seti/high tech tour
 	- [ ] 1:00p - Jim Taggart arrives? will sort out where to meet, maybe elkins
 	- [ ] 2:00p
 		Jenny L Cross
@@ -562,6 +561,9 @@ youtube/vimeo: search consensus decision-making
 	- [ ] 10:00a - Kate & Jim call
 
 - [ ] 2019-01-06 Sun
+	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA
 	- [ ][ ] 8:00p - street giraffes first sunday of the month
 	  call 530 881-1212  (or maybe 701 801-1211)
 	  meeting id in email
@@ -569,6 +571,15 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-07 Mon
 	- [ ] Jeremy and Jim?
+
+- [ ] 2019-01-08 Tue
+	- [ ] 1:45p Oncological Follow-up
+		-> rescheduled to this day from last year
+		Dr Fleming
+		Davis Medical Center
+		801 Harrison Ave
+		Elkins, WV 26241
+		davishealthsystem.org
 
 - [ ] 2019-01-28
 	- [ ][ ] 6:30 PM food
