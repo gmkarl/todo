@@ -3356,3 +3356,4 @@ BT20, brushing, 2018-12-15T17:19:43-05:00, 2018-12-15T17:23:49-05:00, Brush Teet
 BT19, brushing, 2018-12-15T17:23:51-05:00, 2018-12-15T17:30:39-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
 BT40, brushing, , 2018-12-15T17:30:43-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h}, finished earlier
 B, morning, , 2018-12-16T07:41:44-05:00, Get Out of Bed, finished earlier
+T, morning, 2018-12-16T07:41:45-05:00, 2018-12-16T07:54:09-05:00, Calendar and Routine Todo List,
