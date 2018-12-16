@@ -453,35 +453,24 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-15 Sat
+- [!] 2018-12-16 Sun
+	- [X] 7:20a - brushing
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] gbo internship application supposed to come up this month
-	         https://science.nrao.edu/opportunities/student-programs/summerstudents
-		-> application is available.
-		-> requires "letters of recommendation from three people who can evaluate my ability, experience, and potential"
-			Let's:
-			- continue EE degree
-			- actively participate in the open source radio astronomy project
-			- get volunteer work at the telescope
-	- [X] call Dr Bouboulis -- get bill I lost for phone consult sent to Tufts
-			-> called 234 294 0119 medic management, left voicemail
-	- [X] Renew truck registration, expires 2018-12-31
+	- [ ] 9:37a - aux brushing
+	- [ ] 10:30a - 12:30p - remove jean + gwyn's credit card information from jean's computer + amazon
+	- [ ] 11:54a - brushing
+	- [ ] Contact Jim regarding pursuing telescope internship, brief notes in 2018-12-15 01-Calendar-Log.txt
+	- [ ] Contact astronomer regarding likelihood for internship acceptance
 	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
+	- [ ] 2:11p - aux brushing
+	- [ ] 4:28p - brushing
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
-
-- [ ] 2018-12-16 Sun
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
+	- [ ] 6:45p - aux brushing
 
 - [ ] 2018-12-17 Mon
 	- [ ][ ] ~8:30a - MEDS after bkfst
@@ -507,17 +496,28 @@ youtube/vimeo: search consensus decision-making
 		500mg azithromycin
 
 - [ ] 2018-12-19 Wed
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
-
-- Jeremy available 12-19 through 12-21
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-20 Thu
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
 	- [ ] 10:00a-11:00a - Celia call
-
-	- [ ] 3pm? leave for charlottesville
+	- [ ] 3pm? leave for charlottesville BRING MEDS
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 8
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-21 Fri
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
