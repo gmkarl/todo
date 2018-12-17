@@ -454,7 +454,7 @@ youtube/vimeo: search consensus decision-making
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2018-12-17 Mon
-	- [ ][ ] ~8:30a - MEDS after bkfst
+	- [X][X] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ] call Medic Management re: dr bouboulis bill I lost, can send to tufts or other insurance?
