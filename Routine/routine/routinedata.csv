@@ -3373,3 +3373,4 @@ EX, morning, 2018-12-17T09:29:59-05:00, 2018-12-17T10:10:41-05:00, Morning Exerc
 FD, morning, 2018-12-17T10:10:42-05:00, 2018-12-17T10:29:15-05:00, Breakfast and Meds,
 BT18, brushing, , 2018-12-17T10:29:22-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}, finished earlier
 BT19B, brushing, 2018-12-17T10:29:23-05:00, 2018-12-17T10:36:40-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2018-12-17T10:36:41-05:00, 2018-12-17T10:39:57-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
