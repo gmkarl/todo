@@ -453,33 +453,17 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-16 Sun
-	- [X] 7:20a - brushing
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ] 9:37a - aux brushing
-	- [ ] 10:30a - 12:30p - remove jean + gwyn's credit card information from jean's computer + amazon
-	- [ ] 11:54a - brushing
-	- [ ] Contact Jim regarding pursuing telescope internship, brief notes in 2018-12-15 01-Calendar-Log.txt
-	- [ ] Contact astronomer regarding likelihood for internship acceptance
-	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
-	- [ ] 2:11p - aux brushing
-	- [ ] 4:28p - brushing
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-	- [ ] 6:45p - aux brushing
-
-- [ ] 2018-12-17 Mon
+- [!] 2018-12-17 Mon
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ] call Medic Management re: dr bouboulis bill I lost, can send to tufts or other insurance?
 	    left voicemail 11:00a Sat 12/15
 			234 294 0119 (phone menu at 203 655 9904 has number)
-	- gwyn / jean computer swap?
+	- [ ] Contact Jim regarding pursuing telescope internship (and davis college?), brief notes in 2018-12-15 01-Calendar-Log.txt
+	- [ ] Contact astronomer regarding likelihood for internship acceptance
+	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
+	- [ ] look into davis college in elkins
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
@@ -520,7 +504,23 @@ youtube/vimeo: search consensus decision-making
 		500mg azithromycin
 
 - [ ] 2018-12-21 Fri
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2018-12-22 Sat
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-23 Sun
         - Spend day packing to go to MA.
