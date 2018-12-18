@@ -460,7 +460,13 @@ youtube/vimeo: search consensus decision-making
 	- [ ] call Medic Management re: dr bouboulis bill I lost, can send to tufts or other insurance?
 	    left voicemail 11:00a Sat 12/15
 			234 294 0119 (phone menu at 203 655 9904 has number)
+			received call 2:08p
+			if i have out-of-network benefits, i could try sending receipt to insurance company
+					but dr bouboulis is not contracted
+			can call office and give cc# to pay (front desk, britney or stella, i'll be forwarded to someone appropriate)
+			-> called front desk 2:51p, left voicemail
 	- [ ] Contact Jim regarding pursuing telescope internship (and davis college?), brief notes in 2018-12-15 01-Calendar-Log.txt
+				-> contacted Kate, Jim is in Rwanda
 	- [ ] Contact astronomer regarding likelihood for internship acceptance
 	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
 	- [ ] look into davis college in elkins
@@ -484,6 +490,7 @@ youtube/vimeo: search consensus decision-making
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ] feed & refresh sourdough
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
