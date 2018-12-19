@@ -1,11 +1,15 @@
+BT18	Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}
 BT19B	Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}
 BT20	Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}
 BT19	Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%}
+BT32	Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%}
 BT40	Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h}
-BTX1  Shielding Measurement: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w}
-BTX2  Shielding Construction: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w}
-BT18	Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}
 BT15	N2 scheduling (rating/ttrack/goals/tasks) work: 30 min {VALUE: 0.7; REASON: strategy itself; GOAL: 14/w}
+BTX1  Shielding Measurement: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w}
+BTX4	Logistics & Obligations: 30 min {VALUE: 0.4; REASON: life maintenance; GOAL: 7/w}
+BTX5	Academic & Career Work: 30 min {VALUE: 0.6; REASON: credentials, contacts, experience; GOAL: 7/w}
+BTX3	Issues/bounties/collaboration/structures: 30 min {VALUE: 0.5; REASON: effectiveness; GOAL 14/w}
+BTX2  Shielding Construction: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w}
 BT19AB	If time, work towards exercise routine & finish if not yet today
 BT-5	Verify finished last run of routine
 BT00	Information task: 1 min
@@ -15,7 +19,6 @@ BT19B   Dispenser work: 5 min
 BT25	Review list and concept of present concerns (include ref to old concerns)
 BT30	Verify Toothpaste / Flossing / Fluoride attempt correct
 BT31	Verify lozenge percent correct
-BT32	Verify did not lose track of items while brushing
 BT33	Verify correctly evaluated routine
 BT50	Box put away
 BT60	Sensory awareness (or Aux)
