@@ -448,49 +448,22 @@ youtube/vimeo: search consensus decision-making
     2018-12-10 12:30 ET
       posted order to sell 20731.0 nem for 0.43410714 BTC
       	price: 0.00002094 btc/nem
+		2018-12-19
+			sold 2.0 eth for 0.05406 BTC
 
 # CALENDAR
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-17 Mon
-	- [X][X] ~8:30a - MEDS after bkfst
+- [!] 2018-12-19 Wed
+	- [X][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
-	- [ ] call Medic Management re: dr bouboulis bill I lost, can send to tufts or other insurance?
-	    left voicemail 11:00a Sat 12/15
-			234 294 0119 (phone menu at 203 655 9904 has number)
-			received call 2:08p
-			if i have out-of-network benefits, i could try sending receipt to insurance company
-					but dr bouboulis is not contracted
-			can call office and give cc# to pay (front desk, britney or stella, i'll be forwarded to someone appropriate)
-			-> called front desk 2:51p, left voicemail
-	- [ ] Contact Jim regarding pursuing telescope internship (and davis college?), brief notes in 2018-12-15 01-Calendar-Log.txt
-				-> contacted Kate, Jim is in Rwanda
-	- [ ] Contact astronomer regarding likelihood for internship acceptance
-	- [ ] Sign up for NVC core concepts course that follows intro ($475?) https://www.basileia.org/nvccore.html
-	- [ ] look into davis college in elkins
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-18 Tue
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-19 Wed
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
-	- [ ] feed & refresh sourdough
+	- [X][X] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+		-> he called me at 1pm, not sure where the reschedule came from
+	- [X] feed & refresh sourdough
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
@@ -530,15 +503,46 @@ youtube/vimeo: search consensus decision-making
 		500mg azithromycin
 
 - [ ] 2018-12-23 Sun
-        - Spend day packing to go to MA.
-        - [ ] 12:00p - leave for Charlottesville to visit family
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+        - Spend morning packing to go to MA.
+        - [ ] 11:00a - leave for Charlottesville to visit family
           Park car in airport parking lot and pay with amex card
         - Flight leaves from Charlottesville airport @ 4:07 PM.
           American Airlines flight number 5488 to 1843
         - [ ] 10:39p - arrive boston
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2018-12-24 Mon
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2018-12-25 Tue
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-26 Wed
-	- [ ][ ] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-27 Thu
 	- [ ] 12:00p - 1:00p IP Jeremy in person
@@ -549,6 +553,9 @@ youtube/vimeo: search consensus decision-making
 - [ ] 2018-12-29
         - [ ] 11:09a - American Airlines flight 1915 leaves Boston
         - [ ] 3:37p - flight 5488 arrives Charlottesville
+
+- [ ] 2018-01-01 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2019-01-02 Wed
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
@@ -567,6 +574,8 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-03 Thu
 	- Jim Taggart
+	- [ ][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
+			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
 
 - [ ] 2019-01-04 Fri
 	- [ ] 10:00a - Kate & Jim call
@@ -584,13 +593,31 @@ youtube/vimeo: search consensus decision-making
 	- [ ] Jeremy and Jim?
 
 - [ ] 2019-01-08 Tue
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 1
+				-> could be helpful to set up screen recording
+
+- [ ] 2018-01-09 Wed
 	- [ ] 1:45p Oncological Follow-up
-		-> rescheduled to this day from last year
+		-> rescheduled to this day
 		Dr Fleming
 		Davis Medical Center
 		801 Harrison Ave
 		Elkins, WV 26241
 		davishealthsystem.org
+		304 637 3640
+		fax: 304 637 3644
+
+- [ ] 2019-01-10 Thu
+	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
+
+- [ ] 2019-01-15 Tue
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
+
+- [ ] 2019-01-22 Tue
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
+
+- [ ] 2019-01-23 Wed
+	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2019-01-28
 	- [ ][ ] 6:30 PM food
@@ -600,6 +627,15 @@ youtube/vimeo: search consensus decision-making
 		226 Comfort Inn Dr.
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
+
+- [ ] 2019-01-29 Tue
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
+
+- [ ] 2019-02-05 Tue
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5
+
+- [ ] 2019-02-12 Tue
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 6 (final)
 
 
 - [ ] 2019-02-14
