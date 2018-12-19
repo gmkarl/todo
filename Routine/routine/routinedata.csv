@@ -547,7 +547,6 @@ SH, morning, 2018-04-08T12:00:04-04:00, 2018-04-08T12:00:06-04:00, Shave and Sho
 FT, morning, 2018-04-08T12:00:10-04:00, 2018-04-08T12:15:50-04:00, Fissure Treatment,
 CL, morning, 2018-04-08T12:15:53-04:00, 2018-04-08T12:39:52-04:00, Put Clothes On,
 EY, morning, 2018-04-08T13:57:31-04:00, 2018-04-08T13:57:58-04:00, Eye Lubricant,
-<<<<<<< HEAD
 B, morning, 2018-04-09T06:17:03-04:00, 2018-04-09T06:20:03-04:00, Get Out of Bed,
 T, morning, 2018-04-09T06:23:37-04:00, 2018-04-09T06:29:58-04:00, Calendar and Routine Todo List,
 EY, morning, 2018-04-09T06:42:27-04:00, 2018-04-09T06:44:09-04:00, Eye Lubricant,
@@ -3313,14 +3312,21 @@ BT19B, brushing, 2018-12-11T22:37:47+00:00, 2018-12-11T22:38:31+00:00, Finalize 
 BT20, brushing, 2018-12-11T22:38:33+00:00, 2018-12-11T22:41:19+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
 BT19, brushing, 2018-12-11T22:41:22+00:00, 2018-12-11T22:46:24+00:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
 BT40, brushing, , 2018-12-11T22:47:14+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h}, finished earlier
-BT19B, brushing, 2018-12-12T11:15:15+00:00, 2018-12-12T11:18:27+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
-BT20, brushing, 2018-12-12T11:18:29+00:00, 2018-12-12T11:21:32+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
-BT19, brushing, 2018-12-12T11:21:33+00:00, 2018-12-12T11:27:46+00:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
-BT40, brushing, 2018-12-12T11:27:47+00:00, 2018-12-12T11:28:44+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
+<<<<<<< HEAD
 BT19B, brushing, 2018-12-12T10:12:10-05:00, 2018-12-12T10:12:32-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
 BT20, brushing, 2018-12-12T10:12:33-05:00, 2018-12-12T10:15:34-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
 BT19, brushing, 2018-12-12T10:15:36-05:00, 2018-12-12T10:22:05-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
 BT40, brushing, 2018-12-12T10:22:07-05:00, 2018-12-12T10:22:28-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
+BT19B, brushing, 2018-12-12T11:15:15+00:00, 2018-12-12T11:18:27+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2018-12-12T11:18:29+00:00, 2018-12-12T11:21:32+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
+BT19, brushing, 2018-12-12T11:21:33+00:00, 2018-12-12T11:27:46+00:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
+BT40, brushing, 2018-12-12T11:27:47+00:00, 2018-12-12T11:28:44+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
+B, morning, , 2018-12-12T18:12:19+00:00, Get Out of Bed, finished earlier
+BT19B, brushing, 2018-12-12T18:12:57+00:00, 2018-12-12T18:13:23+00:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2018-12-12T18:13:24+00:00, 2018-12-12T18:16:11+00:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
+BT19, brushing, 2018-12-12T18:16:14+00:00, 2018-12-12T18:22:15+00:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
+BT40, brushing, 2018-12-12T18:22:17+00:00, 2018-12-12T18:22:56+00:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
+BTX1, brushing, 2018-12-12T18:22:56+00:00, 2018-12-12T18:53:18+00:00, Shielding Measurement: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w},
 B, morning, , 2018-12-13T12:44:28-05:00, Get Out of Bed, finished earlier
 T, morning, 2018-12-13T12:44:32-05:00, 2018-12-13T12:44:35-05:00, Calendar and Routine Todo List, UNFINISHED
 EY, morning, 2018-12-13T12:44:36-05:00, 2018-12-13T12:49:29-05:00, Eye Lubricant,
