@@ -455,26 +455,13 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-19 Wed
-	- [X][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [X][X] 12:00 pm - 1:00pm Dr Mooney (every other week; copy forward 14 days)
-		-> he called me at 1pm, not sure where the reschedule came from
-	- [X] feed & refresh sourdough
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-20 Thu
+- [!] 2018-12-20 Thu
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ] 10:00a-11:00a - Celia call
-	- [ ] 3pm? leave for charlottesville BRING MEDS
+	- [ ] 2pm or 3pm? leave for charlottesville BRING MEDS
+				use slow route to save fuel
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 8
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
@@ -488,6 +475,8 @@ youtube/vimeo: search consensus decision-making
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
