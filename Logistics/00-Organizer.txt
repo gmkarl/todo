@@ -456,10 +456,11 @@ youtube/vimeo: search consensus decision-making
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2018-12-20 Thu
-	- [ ][ ] ~8:30a - MEDS after bkfst
+	- [X][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ] 10:00a-11:00a - Celia call
+		-> was I in the shower? 10:45a did not notice phone ring, came out of shower a bit ago
 	- [ ] 2pm or 3pm? leave for charlottesville BRING MEDS
 				use slow route to save fuel
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
