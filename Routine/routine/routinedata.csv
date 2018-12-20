@@ -3426,3 +3426,4 @@ BT32, brushing, 2018-12-20T07:44:25-05:00, 2018-12-20T07:44:26-05:00, Verify did
 BT40, brushing, , 2018-12-20T07:44:33-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h}, finished earlier
 BT18, brushing, , 2018-12-20T09:37:25-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}, finished earlier
 FD, morning, 2018-12-20T07:44:10-05:00, 2018-12-20T09:37:28-05:00, Breakfast and Meds,
+BT19B, brushing, , 2018-12-20T09:39:02-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
