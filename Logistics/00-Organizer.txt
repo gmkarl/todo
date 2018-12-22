@@ -455,35 +455,7 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-20 Thu
-	- [X][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ] 10:00a-11:00a - Celia call
-		-> was I in the shower? 10:45a did not notice phone ring, came out of shower a bit ago
-	- [ ] 2pm or 3pm? leave for charlottesville BRING MEDS
-				use slow route to save fuel
-	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
-		CHAPTER 8
-		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-21 Fri
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-22 Sat
+- [!] 2018-12-22 Sat
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
@@ -496,6 +468,9 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
+	- [ ] reschedule missed Celia call
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
         - Spend morning packing to go to MA.
         - [ ] 11:00a - leave for Charlottesville to visit family
           Park car in airport parking lot and pay with amex card
@@ -535,14 +510,37 @@ youtube/vimeo: search consensus decision-making
 		500mg azithromycin
 
 - [ ] 2018-12-27 Thu
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
 	- [ ] 12:00p - 1:00p IP Jeremy in person
 	- [ ] 1:00p - 4:00p Kate BA shift
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2018-12-28 Fri
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
-- [ ] 2018-12-29
+- [ ] 2018-12-29 Sat
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
         - [ ] 11:09a - American Airlines flight 1915 leaves Boston
         - [ ] 3:37p - flight 5488 arrives Charlottesville
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+Start adding Mepron with Gwyn to antibiotics on return.
 
 - [ ] 2018-01-01 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
@@ -568,7 +566,8 @@ youtube/vimeo: search consensus decision-making
 			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
 
 - [ ] 2019-01-04 Fri
-	- [ ] 10:00a - Kate & Jim call
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+			-> Jim in this call
 
 - [ ] 2019-01-06 Sun
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
@@ -602,6 +601,11 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-15 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
+
+- [ ] 2018-01-17 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 9
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2019-01-22 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3

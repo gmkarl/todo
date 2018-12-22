@@ -4,7 +4,11 @@
  *
  */
 
-// NOTE FOR STRATEGY: reorder after brushing event such that goals are met.  reorder prior to & during brushing event such that behavior is learned.
+// NOTES FOR STRATEGIES:
+//   independent dose:
+//   	order after brushing event such that goals are met.  reorder prior to & during brushing event such that behavior is learned.
+//   dependent dose or dosing:
+//   	move learned habits farther from dose, but keep dose dependent on them, to retain but dissociate
 
 // focus. work this script. memory loss.
 // keep focus. handle environ. because keep work.
