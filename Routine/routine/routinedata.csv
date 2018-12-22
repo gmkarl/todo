@@ -3447,3 +3447,4 @@ BT19, brushing, 2018-12-20T14:17:58-05:00, 2018-12-20T14:22:59-05:00, Measure an
 BT32, brushing, 2018-12-20T14:23:01-05:00, 2018-12-20T14:23:02-05:00, Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%}, UNFINISHED
 BT40, brushing, , 2018-12-20T14:23:05-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h}, finished earlier
 EY, midday, 2018-12-22T07:29:44-05:00, 2018-12-22T07:30:27-05:00, Eye Lubricant,
+B, morning, , 2018-12-22T07:30:36-05:00, Get Out of Bed, finished earlier
