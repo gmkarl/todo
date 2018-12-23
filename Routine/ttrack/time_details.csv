@@ -352,6 +352,7 @@ Time,Action,Goal,Task
 1545188446,stop,RESPONS,Meds
 1545238839,start,RESPONS,Meds
 1545238866,stop,RESPONS,Meds
+<<<<<<< HEAD
 1545271550,start,RESPONS,Meds
 1545271608,stop,RESPONS,Meds
 1545320015,start,RESPONS,Meds
@@ -373,3 +374,25 @@ Time,Action,Goal,Task
 1545524797,stop,RESPONS,Meds
 1545572629,start,RESPONS,Meds
 1545572662,stop,RESPONS,Meds
+=======
+1545255920,start,RESPONS,Eye Lubricant
+1545255943,stop,RESPONS,Eye Lubricant
+1545256718,start,RESPONS,Fissure Treatment
+1545256825,stop,RESPONS,Fissure Treatment
+1545256890,start,RESPONS,Eye Lubricant
+1545256907,stop,RESPONS,Eye Lubricant
+1545308830,start,RESPONS,Eye Lubricant
+1545308865,stop,RESPONS,Eye Lubricant
+1545316649,start,RESPONS,Brush Teeth
+1545317529,stop,RESPONS,Brush Teeth
+1545320030,start,RESPONS,Fissure Treatment
+1545320190,stop,RESPONS,Fissure Treatment
+1545320668,start,RESPONS,Eye Lubricant
+1545320690,stop,RESPONS,Eye Lubricant
+1545332866,start,RESPONS,Eye Lubricant
+1545332886,stop,RESPONS,Eye Lubricant
+1545333132,start,RESPONS,Brush Teeth
+1545481784,start,RESPONS,Eye Lubricant
+1545481827,stop,RESPONS,Eye Lubricant
+>>>>>>> 95b18c8c0617650511ae84e288e3293bb04a35ae
+1545606754,start,RESPONS,Meds
