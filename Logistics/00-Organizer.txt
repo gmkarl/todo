@@ -455,35 +455,8 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-22 Sat
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-23 Sun
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ] reschedule missed Celia call
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-        - Spend morning packing to go to MA.
-        - [ ] 11:00a - leave for Charlottesville to visit family
-          Park car in airport parking lot and pay with amex card
-        - Flight leaves from Charlottesville airport @ 4:07 PM.
-          American Airlines flight number 5488 to 1843
-        - [ ] 10:39p - arrive boston
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-24 Mon
-	- [ ][ ] ~8:30a - MEDS after bkfst
+- [!] 2018-12-24 Mon
+	- [X][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -495,6 +468,9 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
+	- [ ] reschedule missed Celia call
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
@@ -535,6 +511,8 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
         - [ ] 11:09a - American Airlines flight 1915 leaves Boston
         - [ ] 3:37p - flight 5488 arrives Charlottesville
+				- CALL GWYN when arrive green bank, for meds check-in
+				gwyn please FIND KARL if he does not contact you
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
@@ -613,7 +591,14 @@ Start adding Mepron with Gwyn to antibiotics on return.
 - [ ] 2019-01-23 Wed
 	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 
-- [ ] 2019-01-28
+- [ ] 2019-01-27 Sun
+	- [ ] 7:30a perhaps leave if going to friends meeting
+  - [ ] 10:00a Buckhannon "Preparative" Meeting?
+			Judy Seaman 304 636-7712
+			Meditation Chapel at West Virginia Wesleyan
+			Buckhannon, WV 26201
+
+- [ ] 2019-01-28 Mon
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
 		Mon Grotto meeting last monday of every month
