@@ -3467,3 +3467,4 @@ SH, morning, 2018-12-22T18:43:17-05:00, 2018-12-22T18:43:30-05:00, Shave and Sho
 B, morning, , 2018-12-24T08:47:15-05:00, Get Out of Bed, finished earlier
 BT19B, brushing, 2018-12-24T09:38:12-05:00, 2018-12-24T09:42:42-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
 BT20, brushing, 2018-12-24T09:42:43-05:00, 2018-12-24T09:45:56-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
+BT19, brushing, 2018-12-24T09:45:57-05:00, 2018-12-24T10:00:41-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
