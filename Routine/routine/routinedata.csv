@@ -3502,3 +3502,4 @@ T, morning, 2018-12-25T08:52:57-05:00, 2018-12-25T08:53:35-05:00, Update Todo Li
 BT18, brushing, 2018-12-25T07:23:13-05:00, 2018-12-25T08:53:38-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
 BT19B, brushing, , 2018-12-25T08:53:39-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
 BT20, brushing, , 2018-12-25T08:53:41-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}, finished earlier
+BT19, brushing, , 2018-12-25T08:53:42-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%}, finished earlier
