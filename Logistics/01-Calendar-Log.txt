@@ -1,4 +1,12 @@
 # DONE
+- [X] 2018-12-24 Mon
+	- [X][ ] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [X][ ] ~6:30p - MEDS after dinnr
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 - [X] 2018-12-23 Sun
 	- [X][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline

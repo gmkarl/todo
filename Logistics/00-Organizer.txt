@@ -455,22 +455,13 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-24 Mon
-	- [X][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-25 Tue
+- [!] 2018-12-25 Tue
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
-	- [ ] reschedule missed Celia call
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
 			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			-> hmm ... i guess this might get done by being in a 'logistics & scheduled' category of my nic routine
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
@@ -528,6 +519,7 @@ Start adding Mepron with Gwyn to antibiotics on return.
 				-> internet brochure may not be updated for a couple months; check for brochure in-person
 				-> may also be a newsletter
 				-> can also just e-mail and ask to sign up for next seti/high tech tour
+	- [ ] reschedule missed Celia call
 	- [ ] 1:00p - Jim Taggart arrives? will sort out where to meet, maybe elkins
 	- [ ] 2:00p
 		Jenny L Cross
