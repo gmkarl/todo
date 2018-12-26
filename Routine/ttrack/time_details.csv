@@ -413,4 +413,12 @@ Time,Action,Goal,Task
 1545741430,stop,RESPONS,Eye Lubricant
 >>>>>>> 7e2a2a1c70cb2f3aa2179292006acda9454eaf43
 1545742218,start,RESPONS,Meds
+<<<<<<< HEAD
 1545742461,stop,RESPONS,Meds
+=======
+1545745544,start,RESPONS,Fissure Treatment
+1545745665,stop,RESPONS,Fissure Treatment
+1545745928,start,RESPONS,Eye Lubricant
+1545745971,stop,RESPONS,Eye Lubricant
+>>>>>>> d1a6d0d3578cb93fe38371fa1d28340e79e98e99
+1545783956,start,RESPONS,Meds

@@ -3492,3 +3492,18 @@ B, morning, , 2018-12-25T07:23:26-05:00, Get Out of Bed, finished earlier
 T, morning, 2018-12-25T07:23:28-05:00, 2018-12-25T07:36:15-05:00, Calendar and Routine Todo List,
 EY, morning, 2018-12-25T07:36:16-05:00, 2018-12-25T07:37:10-05:00, Eye Lubricant,
 MB, morning, 2018-12-25T07:37:12-05:00, 2018-12-25T07:38:15-05:00, Make Bed,
+FD, morning, 2018-12-25T07:38:34-05:00, 2018-12-25T08:31:38-05:00, Breakfast and Meds,
+BT, morning, , 2018-12-25T08:31:43-05:00, Brush Teeth, finished earlier
+SH, morning, 2018-12-25T08:31:48-05:00, 2018-12-25T08:45:42-05:00, Shave and Shower,
+FT, morning, 2018-12-25T08:45:44-05:00, 2018-12-25T08:47:45-05:00, Fissure Treatment,
+CL, morning, 2018-12-25T08:47:49-05:00, 2018-12-25T08:52:06-05:00, Put Clothes On,
+EY, morning, 2018-12-25T08:52:08-05:00, 2018-12-25T08:52:51-05:00, Eye Lubricant,
+T, morning, 2018-12-25T08:52:57-05:00, 2018-12-25T08:53:35-05:00, Update Todo List,
+BT18, brushing, 2018-12-25T07:23:13-05:00, 2018-12-25T08:53:38-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
+BT19B, brushing, , 2018-12-25T08:53:39-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
+BT20, brushing, , 2018-12-25T08:53:41-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}, finished earlier
+BT19, brushing, , 2018-12-25T08:53:42-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%}, finished earlier
+BT32, brushing, 2018-12-25T08:53:48-05:00, 2018-12-25T08:53:48-05:00, Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%}, UNFINISHED
+BT40, brushing, , 2018-12-25T08:53:51-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h}, finished earlier
+BT19B, brushing, 2018-12-25T09:29:12-05:00, 2018-12-25T09:29:37-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2018-12-25T09:29:38-05:00, 2018-12-25T09:35:49-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
