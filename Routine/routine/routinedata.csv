@@ -3520,3 +3520,4 @@ BT18, brushing, , 2018-12-26T10:09:08-05:00, Have started current routine or no 
 BT19B, brushing, , 2018-12-26T10:09:11-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
 BT20, brushing, , 2018-12-26T10:09:12-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}, finished earlier
 BT19, brushing, , 2018-12-26T10:09:14-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%}, finished earlier
+BT32, brushing, 2018-12-26T10:09:17-05:00, 2018-12-26T10:09:18-05:00, Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%},
