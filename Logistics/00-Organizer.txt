@@ -456,13 +456,13 @@ youtube/vimeo: search consensus decision-making
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2018-12-25 Tue
-	- [ ][ ] ~8:30a - MEDS after bkfst
+	- [X][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
 			- meet woman at telescope involved in amateur work (ideas for what to say to)
 			-> hmm ... i guess this might get done by being in a 'logistics & scheduled' category of my nic routine
-	- [ ][ ] ~6:30p - MEDS after dinnr
+	- [X][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
@@ -484,6 +484,12 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
 	- [ ] 12:00p - 1:00p IP Jeremy in person
 	- [ ] 1:00p - 4:00p Kate BA shift
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- add 'LOGISTICS & SCHEDULED' to nice routine
+			- contact old profs etc for possible recommendations
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		100mg doxycycline
 		Bactrim DS
