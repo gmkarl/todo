@@ -3511,3 +3511,20 @@ B, morning, , 2018-12-26T07:59:05-05:00, Get Out of Bed, finished earlier
 T, morning, 2018-12-26T07:59:06-05:00, 2018-12-26T08:02:57-05:00, Calendar and Routine Todo List,
 EY, morning, 2018-12-26T08:03:01-05:00, 2018-12-26T08:03:36-05:00, Eye Lubricant,
 MB, morning, 2018-12-26T08:03:38-05:00, 2018-12-26T08:06:12-05:00, Make Bed,
+FD, morning, 2018-12-26T08:06:32-05:00, 2018-12-26T10:08:45-05:00, Breakfast and Meds,
+BT18, brushing, 2018-12-26T07:59:01-05:00, 2018-12-26T10:08:53-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
+BT19B, brushing, , 2018-12-26T10:08:55-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
+BT20, brushing, , 2018-12-26T10:08:56-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}, finished earlier
+BT19, brushing, , 2018-12-26T10:08:57-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%}, finished earlier
+BT18, brushing, , 2018-12-26T10:09:08-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}, finished earlier
+BT19B, brushing, , 2018-12-26T10:09:11-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
+BT20, brushing, , 2018-12-26T10:09:12-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}, finished earlier
+BT19, brushing, , 2018-12-26T10:09:14-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%}, finished earlier
+BT32, brushing, 2018-12-26T10:09:17-05:00, 2018-12-26T10:09:18-05:00, Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%},
+BT40, brushing, 2018-12-26T10:09:21-05:00, 2018-12-26T10:09:42-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
+BT, morning, 2018-12-26T10:08:46-05:00, 2018-12-26T10:09:46-05:00, Brush Teeth,
+SH, morning, 2018-12-26T10:09:49-05:00, 2018-12-26T10:18:33-05:00, Shave and Shower,
+FT, morning, 2018-12-26T10:18:34-05:00, 2018-12-26T10:20:24-05:00, Fissure Treatment,
+CL, morning, 2018-12-26T10:20:26-05:00, 2018-12-26T10:22:01-05:00, Put Clothes On,
+EY, morning, , 2018-12-26T10:22:07-05:00, Eye Lubricant, finished earlier
+T, morning, 2018-12-26T10:22:10-05:00, 2018-12-26T10:22:47-05:00, Update Todo List,
