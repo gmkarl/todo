@@ -441,3 +441,5 @@ Time,Action,Goal,Task
 1545837624,stop,RESPONS,Fissure Treatment
 >>>>>>> 874e447b900dd6ce188c10fc3ded755b21b12cd2
 1545868885,start,RESPONS,Meds
+1545868914,stop,RESPONS,Meds
+1545921351,start,RESPONS,Meds
