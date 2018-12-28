@@ -441,6 +441,16 @@ Time,Action,Goal,Task
 1545837624,stop,RESPONS,Fissure Treatment
 >>>>>>> 874e447b900dd6ce188c10fc3ded755b21b12cd2
 1545868885,start,RESPONS,Meds
+<<<<<<< HEAD
 1545868914,stop,RESPONS,Meds
 1545921351,start,RESPONS,Meds
 1545921371,stop,RESPONS,Meds
+=======
+1545918455,start,RESPONS,Eye Lubricant
+1545918510,stop,RESPONS,Eye Lubricant
+1545936539,start,RESPONS,Brush Teeth
+1545936543,stop,RESPONS,Brush Teeth
+1545937208,start,RESPONS,Eye Lubricant
+1545937233,stop,RESPONS,Eye Lubricant
+>>>>>>> 82570ac92365f431c8987342b9553792c47f4b68
+1545967395,start,RESPONS,Meds
