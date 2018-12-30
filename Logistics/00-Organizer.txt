@@ -455,79 +455,57 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-25 Tue
-	- [X][ ] ~8:30a - MEDS after bkfst
+- [ ] 2018-12-30 Sun
+	- [X][X] ~8:30a - MEDS after bkfst
 		100mg doxycycline
 		Bactrim DS
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-			-> hmm ... i guess this might get done by being in a 'logistics & scheduled' category of my nic routine
-	- [X][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-26 Wed
-	- Christmas celebration
-		- Christmas celebration
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
+	- [ ] Start adding Mepron with Gwyn to antibiotics on return.
 	- [ ][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
 
-- [ ] 2018-12-27 Thu
+- [ ] 2018-12-31 Mon
 	- [ ][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] 12:00p - 1:00p IP Jeremy in person
-	- [ ] 1:00p - 4:00p Kate BA shift
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- add 'LOGISTICS & SCHEDULED' to nice routine
-			- contact old profs etc for possible recommendations
-			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-			- other ideas, possibly from e-mail with astronomer
+	- [ ] Call pharmacy to refill doxycycline
 	- [ ][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
-
-- [ ] 2018-12-28 Fri
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-29 Sat
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-        - [ ] 11:09a - American Airlines flight 1915 leaves Boston
-        - [ ] 3:37p - flight 5488 arrives Charlottesville
-				- CALL GWYN when arrive green bank, for meds check-in
-				gwyn please FIND KARL if he does not contact you
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-Start adding Mepron with Gwyn to antibiotics on return.
 
 - [ ] 2018-01-01 Tue
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-01-02 Wed
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
 				-> internet brochure may not be updated for a couple months; check for brochure in-person
 				-> may also be a newsletter
 				-> can also just e-mail and ask to sign up for next seti/high tech tour
 	- [ ] reschedule missed Celia call
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- add 'LOGISTICS & SCHEDULED' to nice routine
+			- contact profs etc for possible recommendations
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
 	- [ ] 1:00p - Jim Taggart arrives? will sort out where to meet, maybe elkins
 	- [ ] 2:00p
 		Jenny L Cross
@@ -537,15 +515,49 @@ Start adding Mepron with Gwyn to antibiotics on return.
 		Old Physicians Office Building
 		Suite 201
 		Elkins, WV 26241
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-01-03 Thu
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
 	- Jim Taggart
 	- [ ][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
 			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-01-04 Fri
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 			-> Jim in this call
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-01-05 Sat
+	- [ ][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-01-06 Sun
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
