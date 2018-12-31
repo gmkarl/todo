@@ -1,3 +1,4 @@
+///bin/bash -c '/usr/bin/env root -l "'"$0"'"'; exit $?
 /* .C file for routine stuff
  *
  * NOW Thu Morn: SCRIPT GOAL judge history.  reorder routine. THEN run routine!  YES c++ root
@@ -546,6 +547,7 @@ private:
   {
     TObjString * val = static_cast<TObjString*>(keyvals->GetValue(name.c_str()));
     if (!val) throw std::runtime_error("not found: " + name);
+    return val;
   }
 };
 
