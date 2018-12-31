@@ -4,55 +4,46 @@
  *
  */
 
-// SMALL CLASSES: JUST 1 FUNC, with members
-//    BECAUSE get stuck big classes
-//    and BECAUSE need generality for reuse
+// NOTES FOR STRATEGIES:
+//   independent dose:
+//   	order after brushing event such that goals are met.  reorder prior to & during brushing event such that behavior is learned.
+//   dependent dose or dosing:
+//   	move learned habits farther from dose, but keep dose dependent on them, to retain but dissociate
 
-// Global Democracy tool concept could be used for handling Karl's life.
-//  The idea is that proposals exist, and they are backed by REASONS.  Each REASON has another REASON that supports why it is valid.
-//      People can discuss points in this way to discern what proposals to choose.
+// focus. work this script. memory loss.
+// keep focus. handle environ. because keep work.
+// yes yes =) work script c++, root, shell script! YES YES
+//
+// refill nic LATER due to this task importance.
+// maybe when spit? remember: schedule, refill nicotine to keep nic strength high
 
-// PROPOSAL: pause work on this task to instead experiment with democracy tool concept
-//    REASON: ?
-//    REASON: it reveals when ideas are good or not.
-//        REASON SUPPORTS: karl values good ideas, and when a proposal did not fill in any reason, it revealed that it could be a poor choice, despite being loud
-//              REASON THIS SUPPORTS: good ideas have good reasons. proposals with no reasons are more likely bad ideas.
-// note: spent all time typing reasons, did not do much work other than cleaning comments
-
-
-// Next:
-// 1. Finish this script to reorder toothbrush tasks
-//      BECAUSE need to use nicotine-learning time most effectively
-//              BEACUSE given current situation, mind suggests.  could inspect BECAUSE more, see next item
-//              BECAUSE was next step planned for judging nicotine tasks & approach VERY supportive of other nicotine judgement tasks
-//                      support BECAUSE:
-//                          is in ROOT which provides for charts, data storage, and scientific library
-//                                -> note: ROOT does not provide data decentralization. unfortunate.  solution could be ipfs and separate branch files, would take some effort
-//                          uses components that can be replugged and swapped
-//                          uses a language that is more flexible & powerful than old language
-//                          is compatible with old language, which has existing work
-//                          can read data produced by old work
-//  -> use system(3) to callout to shell for migration to c++
-//        BECAUSE migration to c++ without lots of work
-//  -> use strategies that can be changed:
-//        BECAUSE reuse & may not be the most-needed algorithmic addition
-//  -> assess whether or not routine has become normal
-//      how good am I at this task compared to others?
-//          BEACUSE not sure.  mind suggests.
-//  -> reorder routines to manage development
-//      BECAUSE current list does not reflect current needs, and order is half the battle
-// 2. Refine toothbrushing routine lists
-// 3. Fix rating usage in routine script
-
-// Root Macro.  Commands will be run by typing either object methods or global shortcuts.
-// global object at end to handle crashing
-
-// Can use root cli to check commands without switching windows.
+// arguments? => methods on Routine, or global shortcuts
+// -> script has main function calls script macro function
+// type commands! function calls!
+// make global object? maybe!
+// at end, for crash. (something is wrong with making global object, so put it at the end in case causes problem.  solve later, much later)
 
 // consolide notes
 
+// RESIST distraction when swishing
+
+// CSV: all in routinedata.csv, one big file
+// Code, Routine, Start Time, Stop Time, Description
+// separator = ", " and it tails the line
+//
+// process csv using c++? or system(3)?
+//  c++ -> need to look up how to split on token
+//  could use string loop
+//  ok
+//  c++ ->  need to look up how to read line
+//  use root to infer
+//  routinedata.csv
+//  
+//
 // system(3)
 // int system(const char *command)
+// really uses execl("/bin/sh", "sh", "-c", command, (char *) 0)
+// buts wraps using a synchronous fork()
 // RETURNS: exist status, also nonzero for error
 
 #include <fstream>
@@ -402,6 +393,10 @@ public:
   }
 
   std::string code;
+  std::string routine;
+  // time_t is UTC
+  time_t startTime;
+  time_t stopTime;
   std::string description;
 
   double value;
@@ -656,7 +651,7 @@ public:
 };
 
 template <typename Callable, typename... Metrics>
-RoutineMetricJudgementLambda<Callable,Metrics...> routineMetricJudgementLambda(Callable callable, Metrics &... metrics)
+RoutineMetricJudgementLambda<Callable,Metrics...> gRoutineMetricJudgementLambda(Callable callable, Metrics &... metrics)
 {
   return {callable, metrics...};
 }
@@ -870,7 +865,7 @@ public:
   std::string scriptCommand;
 };
 
-Routine brushing("brushing.routine");
+Routine gRoutineBrushing("brushing.routine");
 
 // - [ ] provide metrics for strat1
 //      - [ ] check proper directionality of metrics
@@ -886,31 +881,32 @@ Routine brushing("brushing.routine");
 //  importance = value * (1 - development)
 //  importance = value / development
 //  selectionMetric selects the highest one, so it will pick the highest value with the lowest development.
-RoutineMetricValue metricValue;
-RoutineMetricDevelopment metricDevelopment(7);
-auto metricNeededDevelopment = routineMetricJudgementLambda(
+RoutineMetricValue gMetricValue;
+RoutineMetricDevelopment gMetricDevelopment(7);
+auto gMetricNeededDevelopment = gRoutineMetricJudgementLambda(
   [](double value) -> double
   {
     return 1 - value;
   },
-  metricDevelopment
+  gMetricDevelopment
 );
-auto metricImportanceValueTimesNeededDevelopment = routineMetricJudgementLambda(
+auto gMetricImportanceValueTimesNeededDevelopment = gRoutineMetricJudgementLambda(
   [](double value, double neededDevelopment) -> double
   {
     return value * neededDevelopment;
   },
-  metricValue,
-  metricNeededDevelopment
+  gMetricValue,
+  gMetricNeededDevelopment
 );
 
-OrderingStrategyPrimaryAheadOfEvent strat1("BT20", metricImportanceValueTimesNeededDevelopment, metricDevelopment, 1.0, metricNeededDevelopment);
+OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat1("BT20", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricNeededDevelopment);
+
+InterfaceRoutineScript gInterfaceOldScript(". routine");
 
 void routine2()
 {
   // macro function
-  InterfaceRoutineScript interfaceOldScript(". routine");
-  brushing.run(strat1, interfaceOldScript);
+  gRoutineBrushing.run(gRoutOrderStrat1, gInterfaceOldScript);
 }
 
 // quick summary for us: Karl doesn't want to fight, and has a strategy known to resolve conflicts without fighting.
