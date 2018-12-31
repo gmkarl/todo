@@ -3546,3 +3546,4 @@ BT19B, brushing, , 2018-12-31T07:42:36-05:00, Finalize lozenge percent {VALUE: 1
 BT20, brushing, , 2018-12-31T07:42:39-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}, finished earlier
 BT19, brushing, , 2018-12-31T07:42:42-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%}, finished earlier
 BT32, brushing, , 2018-12-31T07:42:49-05:00, Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%}, finished earlier
+BT40, brushing, 2018-12-31T07:42:51-05:00, 2018-12-31T07:43:15-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
