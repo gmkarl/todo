@@ -3548,3 +3548,4 @@ BT19, brushing, , 2018-12-31T07:42:42-05:00, Measure and dose lozenge percent {V
 BT32, brushing, , 2018-12-31T07:42:49-05:00, Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%}, finished earlier
 BT40, brushing, 2018-12-31T07:42:51-05:00, 2018-12-31T07:43:15-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
 BT15, brushing, 2018-12-31T07:43:16-05:00, 2018-12-31T08:26:45-05:00, N2 scheduling (rating/ttrack/goals/tasks) work: 30 min {VALUE: 0.7; REASON: strategy itself; GOAL: 14/w},
+FD, morning, 2018-12-31T07:33:01-05:00, 2018-12-31T09:42:14-05:00, Breakfast and Meds,
