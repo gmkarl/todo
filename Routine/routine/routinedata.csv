@@ -3550,3 +3550,4 @@ BT40, brushing, 2018-12-31T07:42:51-05:00, 2018-12-31T07:43:15-05:00, Eye lubric
 BT15, brushing, 2018-12-31T07:43:16-05:00, 2018-12-31T08:26:45-05:00, N2 scheduling (rating/ttrack/goals/tasks) work: 30 min {VALUE: 0.7; REASON: strategy itself; GOAL: 14/w},
 FD, morning, 2018-12-31T07:33:01-05:00, 2018-12-31T09:42:14-05:00, Breakfast and Meds,
 BT18, brushing, 2018-12-31T09:42:19-05:00, 2018-12-31T09:42:20-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
+BT19B, brushing, 2018-12-31T09:42:22-05:00, 2018-12-31T09:42:44-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
