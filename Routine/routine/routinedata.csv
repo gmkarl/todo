@@ -3571,3 +3571,4 @@ BT32, brushing, 2018-12-31T14:22:42-05:00, 2018-12-31T14:22:43-05:00, Verify did
 BT40, brushing, 2018-12-31T14:22:47-05:00, 2018-12-31T14:23:13-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h},
 BT15, brushing, 2018-12-31T14:23:16-05:00, 2018-12-31T14:54:13-05:00, N2 scheduling (rating/ttrack/goals/tasks) work: 30 min {VALUE: 0.7; REASON: strategy itself; GOAL: 14/w},
 BT19B, brushing, 2018-12-31T16:35:49-05:00, 2018-12-31T16:43:22-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, , 2018-12-31T16:43:25-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h}, finished earlier
