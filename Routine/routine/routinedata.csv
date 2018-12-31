@@ -3542,3 +3542,4 @@ T, morning, 2018-12-31T07:20:15-05:00, 2018-12-31T07:23:24-05:00, Calendar and R
 EY, morning, 2018-12-31T07:23:30-05:00, 2018-12-31T07:23:54-05:00, Eye Lubricant,
 MB, morning, 2018-12-31T07:23:56-05:00, 2018-12-31T07:32:57-05:00, Make Bed,
 BT18, brushing, 2018-12-31T07:20:07-05:00, 2018-12-31T07:42:33-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
+BT19B, brushing, , 2018-12-31T07:42:36-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%}, finished earlier
