@@ -1,4 +1,14 @@
 # DONE
+- [X] 2018-12-30 Sun
+	- [X][X] ~8:30a - MEDS after bkfst
+		100mg doxycycline
+		Bactrim DS
+	- [ ] Start adding Mepron with Gwyn to antibiotics on return.
+	- [X][ ] ~6:30p - MEDS after dinnr
+		-> put off until tomorrow: 1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 - [X] 2018-12-29 Sat
 	- [X][ ] ~8:30a - MEDS after bkfst
 		100mg doxycycline

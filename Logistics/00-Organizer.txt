@@ -455,18 +455,8 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [ ] 2018-12-30 Sun
-	- [X][X] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
+- [!] 2018-12-31 Mon
 	- [ ] Start adding Mepron with Gwyn to antibiotics on return.
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-31 Mon
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
