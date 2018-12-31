@@ -6,10 +6,21 @@ FILE="${1}"
 routine="${FILE%.routine}"
 ttrackdir="../ttrack"
 export NO_SYNC=1
-cat "$FILE" | {
 
-echo "HEY HEY! I'm MOVING this concept into ==> routine2.C <== .  use system(3) to reuse script work. YES YES YES !!!!!"
-echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
+if test "$FILE" == "brushing.routine"
+then
+  if test "$2" != "fromroot" && test "$1" == "brushing.routine"
+  then
+    echo "Script has moved into routine2.C . "
+    exit -1
+  fi
+  echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
+  echo "More accurately, let's merge the rating stuff in this script into routine2.C"
+else
+  echo "HEY HEY! I'm MOVING this concept into ==> routine2.C <== .  use system(3) to reuse script work. YES YES YES !!!!!"
+fi
+
+cat "$FILE" | {
 
 # let's add a rating to use for dosage suggestions
 # for rating, we'll want to track total time taken, and amount of successes

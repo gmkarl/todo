@@ -4,6 +4,21 @@
  *
  */
 
+// issue list:
+// - [X] routine script is not passed the name of the script
+// - [X] brushing is broken up into multiple steps that will be shuffled by script
+//      options:
+//        - change brushing to one step
+//          -> ended up doing this one
+//        - provide for multiple steps to task <=
+// - [X] crash after items are removed from routine
+//        -> I had removed the reinforcement event
+// - [X] default goals are filled with 1% rather than 100%
+// - [X] primary task is repeatedly announced as new
+//  -> i added some logic changes, but the real issue here appears to be that the primary task is not retaining the strat_paoe keyval
+// - [X] /1w is not simplified away to /w
+// - [/] show current status towards goal to verify functionality
+
 // NOTES FOR STRATEGIES:
 //   independent dose:
 //   	order after brushing event such that goals are met.  reorder prior to & during brushing event such that behavior is learned.
@@ -108,18 +123,32 @@ public:
     char const * csvLine = line.c_str();
     char const * chunk = csvLine;
 
+    if (!*chunk) throw std::logic_error("csv line is empty");
+
     // code
     std::string code = delimAdvance(chunk, ',');
     ++ chunk;
+    delimAdvance(chunk, -' ');
+
+    if (!*chunk) throw std::runtime_error("missing line in history csv");
 
     // routine
     std::string routine = delimAdvance(chunk, ',');
     ++ chunk;
+    delimAdvance(chunk, -' ');
 
     // startTime
     struct tm _tm;
-    chunk = strptime(chunk, "%FT%T%z", &_tm);
-    time_t startTime = mktime(&_tm);
+    time_t startTime;
+    if (*chunk != ',')
+    {
+      chunk = strptime(chunk, "%FT%T%z", &_tm);
+      startTime = mktime(&_tm);
+    }
+    else
+    {
+      startTime = 0;
+    }
     
     if (*chunk != ',') throw std::runtime_error("unexpected data after startTime");
     ++ chunk;
@@ -228,6 +257,7 @@ public:
   virtual void rewind()
   {
     char linebuf[1024];
+    file.clear();
     file.seekg(0);
     // read header line and discard
     file.getline(linebuf, sizeof(linebuf));
@@ -235,10 +265,24 @@ public:
 
   virtual RoutineHistoryEntry next()
   {
-    char linebuf[1024];
-    file.getline(linebuf, sizeof(linebuf));
-    std::cerr << linebuf << std::endl;
-    if (file.eof()) throw std::range_error("EOF");
+    char linebuf[4096];
+    file.getline((char*)linebuf, sizeof(linebuf));
+    if (file.fail() || file.eof())
+    {
+      file.clear(); // reset state flags
+      file.get(); // try to read a byte
+      if (file.fail())
+      {
+        throw std::range_error("EOF");
+      }
+      else
+      {
+        throw std::runtime_error("History CSV line longer than allocated buffer");
+      }
+    }
+    //std::cerr << linebuf << std::endl;
+    if (*linebuf == 0)
+      return this->next();
     return RoutineHistoryEntry::fromCSVLine({linebuf});
   }
 
@@ -281,7 +325,7 @@ public:
     goalDenominator(other.goalDenominator),
     keyvals(new TMap())
   {
-    TMapIter iter(&*keyvals);
+    TMapIter iter(&*other.keyvals);
     for (TObjString * key; (key = (TObjString*)iter.Next());)
     {
       keyvals->Add(key, other.keyvals->GetValue(key));
@@ -300,6 +344,7 @@ public:
       {'y',60*60*24*365.25}
     };
     size_t timeidx;
+    double denom;
     // - [X] TODO: STORE THE NUMERATOR AND DENOMINATOR WHEN READ, DON'T REGENERATE THEM
     // - [X] write goal using numerator and denominator
     // - [X] update other classes to use numerator and denominator (getGoal method)
@@ -307,14 +352,17 @@ public:
     {
     case COUNT_PERCENT:
       // goal is pct
-      txts << goalNumerator << "%";
+      txts << goalNumerator * 100 / goalDenominator << "%";
       break;
     case COUNT_PERTIME:
       // goal is number / sec, stored is number / timeunit
       // - [X] write using numerator and denominator
       for (timeidx = 1; fmod(goalDenominator, timechars[timeidx].second) == 0; ++ timeidx);
       -- timeidx;
-      txts << goalNumerator << "/" << (goalDenominator / timechars[timeidx].second) << timechars[timeidx].first;
+      txts << goalNumerator << "/";
+      denom = goalDenominator / timechars[timeidx].second;
+      if (denom != 1) txts << denom;
+      txts << timechars[timeidx].first;
       break;
     case TIME_PERTIME:
       // - [X] write using numerator and denominator
@@ -323,7 +371,9 @@ public:
       txts << (goalNumerator / timechars[timeidx].second) << timechars[timeidx].first << "/";
       for (timeidx = 1; fmod(goalDenominator, timechars[timeidx].second) == 0; ++ timeidx);
       -- timeidx;
-      txts << (goalDenominator / timechars[timeidx].second) << timechars[timeidx].first;
+      denom = goalDenominator / timechars[timeidx].second;
+      if (denom != 1) txts << denom;
+      txts << timechars[timeidx].first;
       break;
     }
     // - [X] write all other fields -> '; KEY: value'
@@ -413,12 +463,19 @@ public:
 
   std::string getString(std::string name)
   {
-    return static_cast<TObjString*>(keyvals->GetValue(name.c_str()))->GetName();
+    try
+    {
+      return getVal(name)->GetName();
+    }
+    catch(std::runtime_error)
+    {
+      return {};
+    }
   }
 
   double getDouble(std::string name)
   {
-    return static_cast<TObjString*>(keyvals->GetValue(name.c_str()))->String().Atof();
+    return getVal(name)->String().Atof();
   }
 
   void set(std::string name, std::string value)
@@ -478,8 +535,17 @@ public:
     }
     else
     {
-      keyvals->Add(new TObjString(name.c_str()), new TObjString(value.c_str()));
+      auto key = new TObjString(name.c_str());
+      keyvals->DeleteEntry(key);
+      keyvals->Add(key, new TObjString(value.c_str()));
     }
+  }
+
+private:
+  TObjString * getVal(std::string const & name)
+  {
+    TObjString * val = static_cast<TObjString*>(keyvals->GetValue(name.c_str()));
+    if (!val) throw std::runtime_error("not found: " + name);
   }
 };
 
@@ -704,6 +770,7 @@ public:
 
     // RoutineMetric has double .measure(RoutineEntry &, RoutineHistory &)
     RoutineEntry * primary = 0;
+    RoutineEntry * nextPrimary = 0;
     RoutineEntry * reinforce = 0;
     double bestSelectionMetric = -std::numeric_limits<double>::infinity();
     auto lastEntryOrderingMetric = std::numeric_limits<double>::infinity();
@@ -718,13 +785,15 @@ public:
       }
       if (entry.getString(STATE_KEY_PRIMARY) == "primary")
       {
-        if (learnedMetric.measure(entry, history) > learnedCutoff)
+        auto learnedPct = learnedMetric.measure(entry, history) * 100 / learnedCutoff;
+        if (learnedPct >= 100)
         {
-          std::cout << "CONGRATULATIONS !! Successful learned " << entry.code << ": " << entry.description << std::endl;
+          std::cout << "CONGRATULATIONS !! Successful learned to " << learnedPct << "%: " << entry.code << ": " << entry.description << std::endl;
           entry.set(STATE_KEY_PRIMARY, "learned");
         }
         else
         {
+          std::cout << "Currently prioritizing (" << learnedPct << "%) " << entry.code << ": " << entry.description << std::endl;
           primary = &entry;
           continue;
         }
@@ -737,13 +806,12 @@ public:
         {
           if (learnedMetric.measure(entry, history) < learnedCutoff)
           {
-            std::cout << "Next we will develop " << entry.code << ": " << entry.description << std::endl;
-            primary = &entry;
+            nextPrimary = &entry;
           }
         }
       }
       auto entryOrderingMetric = tertiaryOrderingMetric.measure(entry, history);
-      if (entryOrderingMetric > lastEntryOrderingMetric)
+      if (entryOrderingMetric > lastEntryOrderingMetric && &*lastIt != reinforce)
       {
         // swap this with last
         std::cout << "Increasing priority of " << entryIt->code << ": " << entryIt->description << std::endl;
@@ -754,7 +822,15 @@ public:
 
     if (primary == 0)
     {
-      std::cout << "YOU HAVE LEARNED ALL YOUR GOAL HABITS.  Let's move forward." << std::endl;
+      primary = nextPrimary;
+      if (nextPrimary)
+      {
+        std::cout << "Next we will develop " << primary->code << ": " << primary->description << std::endl;
+      }
+      else
+      {
+        std::cout << "YOU HAVE LEARNED ALL YOUR GOAL HABITS.  Let's move forward." << std::endl;
+      }
     }
 
     if (reinforce == 0)
@@ -851,13 +927,13 @@ public:
 class InterfaceRoutineScript : public Interface
 {
 public:
-  InterfaceRoutineScript(std::string scriptCommand = ". routine")
+  InterfaceRoutineScript(std::string scriptCommand = "./routine")
   : scriptCommand(scriptCommand)
   { }
   virtual void runPrompts(Routine & routine, RoutineList & list)
   {
     list.toTextfile();
-    std::string cmdline = scriptCommand + " " + list.filename;
+    std::string cmdline = scriptCommand + " " + list.filename + " fromroot";
     auto ret = system(cmdline.c_str());
     if (ret) throw std::runtime_error("script command faile");
   }
@@ -899,9 +975,9 @@ auto gMetricImportanceValueTimesNeededDevelopment = gRoutineMetricJudgementLambd
   gMetricNeededDevelopment
 );
 
-OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat1("BT20", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricNeededDevelopment);
+OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat1("BT2Z", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricNeededDevelopment);
 
-InterfaceRoutineScript gInterfaceOldScript(". routine");
+InterfaceRoutineScript gInterfaceOldScript("./routine");
 
 void routine2()
 {
