@@ -3566,3 +3566,4 @@ FD, midday, 2018-12-31T12:30:24-05:00, 2018-12-31T14:11:41-05:00, Lunch and Meds
 BT18, brushing, , 2018-12-31T14:11:54-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}, finished earlier
 BT19B, brushing, 2018-12-31T14:11:59-05:00, 2018-12-31T14:14:57-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
 BT20, brushing, 2018-12-31T14:14:58-05:00, 2018-12-31T14:18:06-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
+BT19, brushing, 2018-12-31T14:18:10-05:00, 2018-12-31T14:22:40-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
