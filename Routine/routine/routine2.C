@@ -1,3 +1,4 @@
+///bin/bash -c '/usr/bin/env root -l "'"$0"'"'; exit $?
 /* .C file for routine stuff
  *
  * NOW Thu Morn: SCRIPT GOAL judge history.  reorder routine. THEN run routine!  YES c++ root
