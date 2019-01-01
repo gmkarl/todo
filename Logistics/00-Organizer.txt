@@ -485,7 +485,9 @@ youtube/vimeo: search consensus decision-making
 			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
 			- meet woman at telescope involved in amateur work (ideas for what to say to)
 			- other ideas, possibly from e-mail with astronomer
-	- [ ] 1:00p - Jim Taggart arrives? will sort out where to meet, maybe elkins
+	- [ ] 12:00p - Jim Taggart call
+	- [ ] 12:30p - Leave for Drs Appt in Elkins
+			bring mailed paperwork, insurance card, medications
 	- [ ] 2:00p
 		Jenny L Cross
 		Bring mailed paperwork, insurance card, medications
@@ -505,7 +507,7 @@ youtube/vimeo: search consensus decision-making
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- Jim Taggart
+	- Jim Taggart arrives in morning for day
 	- [ ][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
 			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -521,6 +523,7 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 			-> Jim in this call
+	- Jim taggart leaves midday
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1/2 tsp atovaquone
 		100mg doxycycline
