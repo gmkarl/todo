@@ -455,25 +455,13 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-31 Mon
-	- [ ] Start adding Mepron with Gwyn to antibiotics on return.
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] Call pharmacy to refill doxycycline
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-01 Tue
-	- [ ][ ] ~8:30a - MEDS after bkfst
+- [!] 2018-01-01 Tue
+	- [X][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+		-> not happening today.  Fri is with Jim.  Kate says she can call Wed 10a
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1/2 tsp atovaquone
 		100mg doxycycline
@@ -485,6 +473,7 @@ youtube/vimeo: search consensus decision-making
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call on our own
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
 				-> internet brochure may not be updated for a couple months; check for brochure in-person
 				-> may also be a newsletter
@@ -562,6 +551,7 @@ youtube/vimeo: search consensus decision-making
 	- [ ] Jeremy and Jim?
 
 - [ ] 2019-01-08 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 1
 				-> could be helpful to set up screen recording
 
@@ -578,6 +568,9 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-10 Thu
 	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
+
+- [ ] 2019-01-11 Fri
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2019-01-15 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
