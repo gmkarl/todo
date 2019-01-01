@@ -489,3 +489,5 @@ Time,Action,Goal,Task
 1546354584,stop,RESPONS,Meds
 1546354764,start,RESPONS,Brush Teeth
 1546356031,stop,RESPONS,Brush Teeth
+1546356814,start,RESPONS,Eye Lubricant
+1546356864,stop,RESPONS,Eye Lubricant
