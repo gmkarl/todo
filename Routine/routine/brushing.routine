@@ -2,7 +2,7 @@ BT18	Have started current routine or no current routine {VALUE: 0.7; REASON: str
 BT2Z	Finalize lozenge pct, Brush Teeth, Measure next dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}
 BT32	Verify did not lose track of items while brushing {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/d}
 BT40	Eye lubricant {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}
-BT15	N2 scheduling (rating/ttrack/goals/tasks) work: 30 min {VALUE: 1; REASON: consistency; GOAL: 100%}
+BT15	Use /Projects/ folder: N2 scheduling (rating/ttrack/goals/tasks) work: 30 min {VALUE: 1; REASON: consistency; GOAL: 100%}
 BTX1	Shielding Measurement: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w}
 BTX4	Logistics & Obligations: 30 min {VALUE: 0.4; REASON: life maintenance; GOAL: 7/w}
 BTX5	Academic & Career Work: 30 min {VALUE: 0.6; REASON: credentials, contacts, experience; GOAL: 7/w}
