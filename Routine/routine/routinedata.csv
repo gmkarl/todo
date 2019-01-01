@@ -3540,3 +3540,4 @@ EY, morning, 2019-01-01T09:45:48-05:00, 2019-01-01T09:46:35-05:00, Eye Lubricant
 FD, morning, 2019-01-01T09:46:47-05:00, 2019-01-01T09:59:22-05:00, Breakfast and Meds,
 BT18, brushing, 2019-01-01T09:44:10-05:00, 2019-01-01T09:59:33-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
 BT19B, brushing, 2019-01-01T09:59:37-05:00, 2019-01-01T10:11:36-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2019-01-01T10:11:38-05:00, 2019-01-01T10:15:08-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
