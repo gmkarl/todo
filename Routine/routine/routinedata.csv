@@ -3582,3 +3582,4 @@ EY, morning, 2019-01-02T07:24:45-05:00, 2019-01-02T07:25:14-05:00, Eye Lubricant
 MB, morning, 2019-01-02T07:25:20-05:00, 2019-01-02T08:02:41-05:00, Make Bed, UNFINISHED
 FD, morning, 2019-01-02T08:02:48-05:00, 2019-01-02T11:07:42-05:00, Breakfast and Meds, UNFINISHED
 BT18, brushing, 2019-01-02T07:12:00-05:00, 2019-01-02T11:07:46-05:00, Have started current routine or no current routine {VALUE: 0.7; REASON: strategy itself; GOAL: 14/w; strat_paoe: primary},
+BT2Z, brushing, 2019-01-02T11:07:48-05:00, 2019-01-02T11:21:26-05:00, Finalize lozenge pct, Brush Teeth, Measure next dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
