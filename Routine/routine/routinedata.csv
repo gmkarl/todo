@@ -3586,3 +3586,4 @@ BT2Z, brushing, 2019-01-02T11:07:48-05:00, 2019-01-02T11:21:26-05:00, Finalize l
 BT32, brushing, 2019-01-02T11:21:35-05:00, 2019-01-02T11:21:37-05:00, Verify did not lose track of items while brushing {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/d},
 BT, morning, 2019-01-02T11:07:43-05:00, 2019-01-02T11:22:03-05:00, Brush Teeth,
 BT40, brushing, 2019-01-02T11:21:40-05:00, 2019-01-02T11:22:05-05:00, Eye lubricant {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
+SH, morning, 2019-01-02T11:22:14-05:00, 2019-01-02T11:32:45-05:00, Shave and Shower,
