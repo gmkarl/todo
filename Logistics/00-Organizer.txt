@@ -456,11 +456,11 @@ youtube/vimeo: search consensus decision-making
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
 - [!] 2019-01-02 Wed
-	- [ ][ ] ~8:30a - MEDS after bkfst
+	- [X][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call on our own
+	- [X][ ] 10:00a - 11:00a Kate call on our own
 	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
 				-> internet brochure may not be updated for a couple months; check for brochure in-person
 				-> may also be a newsletter
