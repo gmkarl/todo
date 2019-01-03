@@ -455,46 +455,12 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2019-01-02 Wed
-	- [X][ ] ~8:30a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [X][ ] 10:00a - 11:00a Kate call on our own
-	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
-				-> internet brochure may not be updated for a couple months; check for brochure in-person
-				-> may also be a newsletter
-				-> can also just e-mail and ask to sign up for next seti/high tech tour
-	- [ ] reschedule missed Celia call
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
-			- 2. apply for internship & continue coursework (add to routine)
-			- contact profs etc for possible recommendations
-			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-			- other ideas, possibly from e-mail with astronomer
-	- [ ] 12:00p - Jim Taggart call
-	- [ ] 12:30p - Leave for Drs Appt in Elkins
-			bring mailed paperwork, insurance card, medications
-	- [ ] 2:00p
-		Jenny L Cross
-		Bring mailed paperwork, insurance card, medications
-		Tygart Valley Medical Specialties
-		911 Gorman Avenue
-		Old Physicians Office Building
-		Suite 201
-		Elkins, WV 26241
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-03 Thu
+- [!] 2019-01-03 Thu
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] get films (possibly water bottle) out of car
 	- [ ] ~10:00a Jim Taggart arrives
 	- [ ][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
 			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
@@ -512,6 +478,18 @@ youtube/vimeo: search consensus decision-making
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 			-> Jim in this call
 	- Jim taggart leaves midday
+	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+				-> internet brochure may not be updated for a couple months; check for brochure in-person
+				-> may also be a newsletter
+				-> can also just e-mail and ask to sign up for next seti/high tech tour
+	- [ ] reschedule missed Celia call
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
+			- 2. apply for internship & continue coursework (add to routine)
+			- contact profs etc for possible recommendations
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1/2 tsp atovaquone
 		100mg doxycycline
