@@ -7,19 +7,24 @@ routine="${FILE%.routine}"
 ttrackdir="../ttrack"
 export NO_SYNC=1
 
+CONTINUE=1
+
 if test "$FILE" == "brushing.routine"
 then
   if test "$2" != "fromroot" && test "$1" == "brushing.routine"
   then
     echo "Script has moved into routine2.C . "
-    exit -1
+    CONTINUE=0
+  else
+  	echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
+	echo "More accurately, let's merge the rating stuff in this script into routine2.C"
   fi
-  echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
-  echo "More accurately, let's merge the rating stuff in this script into routine2.C"
 else
   echo "HEY HEY! I'm MOVING this concept into ==> routine2.C <== .  use system(3) to reuse script work. YES YES YES !!!!!"
 fi
 
+if (( CONTINUE ))
+then
 cat "$FILE" | {
 
 # let's add a rating to use for dosage suggestions
@@ -134,3 +139,4 @@ printf "Total Duration=%d:%02d\n" $((rating_duration/60)) $((rating_duration%60)
 #      could for now just output pct and duration, and my job to note if they have fallen from target; target rises as reached reliably
 #	then either store and just output single metric, or integrate with dosing system later
 }
+fi

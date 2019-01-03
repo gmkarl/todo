@@ -1,4 +1,28 @@
 # DONE
+- [X] 2018-01-01 Tue
+	- [X][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+		-> not happening today.  Fri is with Jim.  Kate says she can call Wed 10a
+	- [X][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+- [X] 2018-12-31 Mon
+	- [X] Start adding Mepron with Gwyn to antibiotics on return.
+	- [X][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [X] Call pharmacy to refill doxycycline
+	- [X][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 - [X] 2018-12-30 Sun
 	- [X][X] ~8:30a - MEDS after bkfst
 		100mg doxycycline
