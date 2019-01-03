@@ -3599,3 +3599,4 @@ BTX5, brushing, 2019-01-03T09:12:30-05:00, 2019-01-03T09:29:33-05:00, Academic &
 BT2Z, brushing, 2019-01-03T09:29:37-05:00, 2019-01-03T09:37:43-05:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT40, brushing, 2019-01-03T09:37:45-05:00, 2019-01-03T09:38:20-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/d},
 BT32, brushing, 2019-01-03T09:38:25-05:00, 2019-01-03T09:38:25-05:00, Verify did not lose track of items while brushing {VALUE: 1; REASON: consistency; GOAL: 100%}, UNFINISHED
+BT, morning, 2019-01-03T09:08:57-05:00, 2019-01-03T09:38:33-05:00, Brush Teeth,
