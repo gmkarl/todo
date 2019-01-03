@@ -461,9 +461,12 @@ youtube/vimeo: search consensus decision-making
 		100mg doxycycline
 		Bactrim DS
 	- [ ] get films (possibly water bottle) out of car
-	- [ ] ~10:00a Jim Taggart arrives
-	- [ ][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
+	- [X][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
 			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
+	- [ ] ~11:00a Jim Taggart arrives
+	- [ ] 3:00p visit property with Jim
+		6764 Potomac Highlands Trail
+		Arbovale
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1/2 tsp atovaquone
 		100mg doxycycline
