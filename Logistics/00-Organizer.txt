@@ -470,6 +470,14 @@ youtube/vimeo: search consensus decision-making
 		Bactrim DS
 		500mg azithromycin
 
+Davis Medical Center
+	Scheduling requires everything to be in line.
+	They will call back and say "we cannot schedule this because we don't have an authorization."
+Medicaid says they will not authorize the CT scan unless a denial from my 'primary insurance' is available.
+A denial can not be acquired without the bill from the CT scan.
+	Medicaid: (888) 483-0793
+	- [ ] call medicaid and remove primary insurance? at least discuss authorizing scan before bill is available, due to davis medicaid's situation
+
 - [ ] 2019-01-04 Fri
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
