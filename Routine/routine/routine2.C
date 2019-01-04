@@ -658,6 +658,8 @@ public:
         return success / duration / goal;
       case RoutineEntry::TIME_PERTIME:
         return accumulation / static_cast<double>(duration) / goal;
+      default:
+	throw std::invalid_argument("bad goal type");
     }
   }
 
