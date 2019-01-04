@@ -3602,6 +3602,20 @@ BT32, brushing, 2019-01-03T09:38:25-05:00, 2019-01-03T09:38:25-05:00, Verify did
 BT, morning, 2019-01-03T09:08:57-05:00, 2019-01-03T09:38:33-05:00, Brush Teeth,
 SH, morning, 2019-01-03T09:38:38-05:00, 2019-01-03T09:44:40-05:00, Shave and Shower,
 FT, morning, 2019-01-03T09:44:41-05:00, 2019-01-03T09:47:22-05:00, Fissure Treatment,
+B, morning, , 2019-01-01T09:45:42-05:00, Get Out of Bed, finished earlier
+EY, morning, 2019-01-01T09:45:48-05:00, 2019-01-01T09:46:35-05:00, Eye Lubricant,
+FD, morning, 2019-01-01T09:46:47-05:00, 2019-01-01T09:59:22-05:00, Breakfast and Meds,
+BT18, brushing, 2019-01-01T09:44:10-05:00, 2019-01-01T09:59:33-05:00, Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w},
 CL, morning, , 2019-01-03T09:47:25-05:00, Put Clothes On, finished earlier
 EY, morning, , 2019-01-03T09:47:38-05:00, Eye Lubricant, finished earlier
 T, morning, 2019-01-03T09:47:39-05:00, 2019-01-03T09:49:03-05:00, Update Todo List,
+BT19B, brushing, 2019-01-01T09:59:37-05:00, 2019-01-01T10:11:36-05:00, Finalize lozenge percent {VALUE: 1.0; REASON: needed for strategy; GOAL: 100%},
+BT20, brushing, 2019-01-01T10:11:38-05:00, 2019-01-01T10:15:08-05:00, Brush Teeth {VALUE: 1.0; REASON: needed for strategy; GOAL: 6/24h},
+BT, morning, 2019-01-01T09:59:24-05:00, 2019-01-01T10:20:31-05:00, Brush Teeth,
+BT19, brushing, 2019-01-01T10:16:42-05:00, 2019-01-01T10:20:41-05:00, Measure and dose lozenge percent {VALUE: 0.1; REASON: inherently req; GOAL: 100%},
+BT32, brushing, 2019-01-01T10:20:45-05:00, 2019-01-01T10:20:47-05:00, Verify did not lose track of items while brushing {VALUE: 1.0; REASON: consistency; GOAL: 100%}, UNFINISHED
+BT40, brushing, , 2019-01-01T10:20:53-05:00, Eye lubricant {VALUE: 0.4; REASON: severe dry eye; GOAL: 6/24h}, finished earlier
+SH, morning, 2019-01-01T10:26:10-05:00, 2019-01-01T10:32:15-05:00, Shave and Shower,
+CL, morning, 2019-01-01T10:32:20-05:00, 2019-01-01T10:33:25-05:00, Put Clothes On,
+EY, morning, 2019-01-01T10:33:34-05:00, 2019-01-01T10:34:24-05:00, Eye Lubricant,
+T, morning, 2019-01-01T10:34:27-05:00, 2019-01-01T10:54:09-05:00, Update Todo List,
