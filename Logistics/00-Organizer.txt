@@ -87,7 +87,6 @@ lewisburg:
 - [ ][ ] pursue eeg work
 - [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
 - [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
-- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
@@ -455,37 +454,13 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2019-01-03 Thu
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] get films (possibly water bottle) out of car
-	- [X][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
-			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
-	- [ ] ~11:00a Jim Taggart arrives
-	- [ ] 3:00p visit property with Jim
-		6764 Potomac Highlands Trail
-		Arbovale
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-Davis Medical Center
-	Scheduling requires everything to be in line.
-	They will call back and say "we cannot schedule this because we don't have an authorization."
-Medicaid says they will not authorize the CT scan unless a denial from my 'primary insurance' is available.
-A denial can not be acquired without the bill from the CT scan.
-	Medicaid: (888) 483-0793
-	- [ ] call medicaid and remove primary insurance? at least discuss authorizing scan before bill is available, due to davis medicaid's situation
-
 - [ ] 2019-01-04 Fri
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] test films work on windows.  if not, get replacements.  if so, place in car.
+	- [ ] call Unicare? to get my insurance info to send to davis medical center
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 			-> Jim in this call
 	- Jim taggart leaves midday
@@ -493,7 +468,8 @@ A denial can not be acquired without the bill from the CT scan.
 				-> internet brochure may not be updated for a couple months; check for brochure in-person
 				-> may also be a newsletter
 				-> can also just e-mail and ask to sign up for next seti/high tech tour
-	- [ ] reschedule missed Celia call
+	- [X] reschedule missed Celia call
+				-> tentative with Dr Mooney; she may confirm by text
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
 			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
 			- 2. apply for internship & continue coursework (add to routine)
@@ -526,7 +502,7 @@ A denial can not be acquired without the bill from the CT scan.
 	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 
 - [ ] 2019-01-07 Mon
-	- [ ] Jeremy and Jim?
+	- [ ] 11:00a - 12:00p Jeremy and Jim?
 
 - [ ] 2019-01-08 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
@@ -545,6 +521,7 @@ A denial can not be acquired without the bill from the CT scan.
 		fax: 304 637 3644
 
 - [ ] 2019-01-10 Thu
+	- [ ] 10:00a - 11:00a Celia call
 	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2019-01-11 Fri
@@ -567,6 +544,7 @@ A denial can not be acquired without the bill from the CT scan.
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
 
 - [ ] 2019-01-23 Wed
+	- [ ][ ] 12:00p - 1:00p - Celia call (every week)
 	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2019-01-27 Sun
@@ -1822,6 +1800,67 @@ Agenda:
 
 VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
 				consider occasional sense of conflict could be both of us searching for achievement to happen soon
+
+2019-01-03 10:02 Dr Mooney
+	items:
+		- finding pen
+		- update
+			- jim hire organizer
+			- organization system
+			- shielding project?
+			- karl's post to mailing list
+		- check-in to see recent behavior
+		- wrapup to see how the meeting went
+
+	10:05
+	check-in:
+		started new year, two weeks since talked to dr mooney
+		- visited parents for xmas, also kate
+		- set up brushing/routine
+			- visited parents and froze up, it threw in the works and i've been somewhat struggling
+		- my laptop broke so my systems are slightly confused
+		- my parents gave me a new laptop for birthday, but it's not set up with floobits
+		10:10
+		- came up with plan for building working shielding space, lots of excitement around which has inhibited progress
+		- parents are planning to buy a house with me; jim and i are visiting a candidate today
+		- gettign better at nvc; i've used it successfully in one or two situations
+		- planning to attend a caving meeting with jim
+		- attending multiple nvc groups
+		- dropped some e-mail conversations i had
+		- my parents support me in pursuing an internship at the telescope but it is very hard to make progress on
+		- struggled to make progress with volunteership at telescope; missed celia's last call
+				-> should really schedule regular calls with celia
+		10:13
+			buyung house explanation: I asked my parents to co-sign a mortgage on a $40k house nearby, which jim had brought to my awarenes
+			would make it affordable for me.  they saw there was no pluming and it was very rundown, and make a counter-proposal the next day
+			that I buy a larger house with much better attributes, and they would make a large downpayment on it to give it a comparable mortgage
+		- jim took the truck tot he mechanic
+		- my parents gave me a brithday present of paying for the transmission
+		-> I want to call the mechanic and review the situation and bring some additional issues to their attention like broken AC and lift gate,
+		   but I keep forgetting to do this
+		10:15
+		gwyn is still visiting twice/day sometimes more
+			she often offers to work more than I am interested, speaking with the assumption that i want her to
+			i want to give her work but often am not looking for more things done
+	two best times for celia calls:
+			9:30a-5:00p m-f
+			- any time monday afternoon (1230 - 5)
+			- any time wednesday EXCEPT for the 9th when I have a cancer appt an hour away
+			- any time thursday _other_ than my talk with dr mooney (which apparently is mischeduled)
+					some weeks I am unavaialble Thu afternoon this happens 1/mo
+			- any time friday afternoon
+		10:21
+	email i posted to mailing list:
+		https://lists.cpunks.org/pipermail/cypherpunks/2019-January/044280.html
+		10:37
+	hiring an organizer with jim:
+	floobits with celia?
+	wrapup:
+		10:51 karl thinks things went okay !
+		  dr mooney is worried he took me somewhere that was too frightening
+			karl tries to clarify he was responsible for going there, and was trying to bring things there
+			dr mooney says karl is brave for sharing this with him today
+
 
 # MEETING PROCESS PROPOSAL
 Notes / Agenda on https://floobits.com/fuzzyTew/todo in Logistics/00-Organizer.txt
