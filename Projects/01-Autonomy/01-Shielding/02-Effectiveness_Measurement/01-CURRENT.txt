@@ -1,0 +1,12 @@
+last update: 2018-01-04
+
+- [ ] Measurement:
+Working on a set of scripts to acquire noise profiles without oscillation and measure S.E. from 4 measured histograms.
+Todo items in
+  - [ ] openemissions/shielding/effectiveness-measurement/noiscillate-data/test.cpp
+
+- [ ] Construction:
+Ordered some copper foil, and some thin solder to test soldering the copper foil.
+I could even just put the foil on cardboard or something.
+Plan to make a completely sealed enclosure and verify effectiveness of 2 thicknesses of foil.
+Would like to videotape construction of enclosure and testing, but note it is easy to repeat testing.
