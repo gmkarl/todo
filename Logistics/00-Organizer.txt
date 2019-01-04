@@ -87,7 +87,6 @@ lewisburg:
 - [ ][ ] pursue eeg work
 - [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
 - [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
-- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
@@ -455,83 +454,31 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-31 Mon
-	- [ ] Start adding Mepron with Gwyn to antibiotics on return.
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] Call pharmacy to refill doxycycline
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-01 Tue
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-02 Wed
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
-				-> internet brochure may not be updated for a couple months; check for brochure in-person
-				-> may also be a newsletter
-				-> can also just e-mail and ask to sign up for next seti/high tech tour
-	- [ ] reschedule missed Celia call
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- add 'LOGISTICS & SCHEDULED' to nice routine
-			- contact profs etc for possible recommendations
-			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-			- other ideas, possibly from e-mail with astronomer
-	- [ ] 1:00p - Jim Taggart arrives? will sort out where to meet, maybe elkins
-	- [ ] 2:00p
-		Jenny L Cross
-		Bring mailed paperwork, insurance card, medications
-		Tygart Valley Medical Specialties
-		911 Gorman Avenue
-		Old Physicians Office Building
-		Suite 201
-		Elkins, WV 26241
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-03 Thu
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- Jim Taggart
-	- [ ][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
-			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
+Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-01-04 Fri
 	- [ ][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] test films work on windows.  if not, get replacements.  if so, place in car.
+	- [ ] call Unicare? to get my insurance info to send to davis medical center
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 			-> Jim in this call
+	- Jim taggart leaves midday
+	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+				-> internet brochure may not be updated for a couple months; check for brochure in-person
+				-> may also be a newsletter
+				-> can also just e-mail and ask to sign up for next seti/high tech tour
+	- [X] reschedule missed Celia call
+				-> tentative with Dr Mooney; she may confirm by text
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
+			- 2. apply for internship & continue coursework (add to routine)
+			- contact profs etc for possible recommendations
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1/2 tsp atovaquone
 		100mg doxycycline
@@ -550,18 +497,17 @@ youtube/vimeo: search consensus decision-making
 		500mg azithromycin
 
 - [ ] 2019-01-06 Sun
-	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
-		2014 Northside Dr
-		Blacksburg, VA
+	- Blacksburg NVC group was canceled for Patricia to recover from surgery
 	- [ ][ ] 8:00p - street giraffes first sunday of the month
 	  call 530 881-1212  (or maybe 701 801-1211)
 	  meeting id in email
 	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 
 - [ ] 2019-01-07 Mon
-	- [ ] Jeremy and Jim?
+	- [ ] 11:00a - 12:00p Jeremy and Jim?
 
 - [ ] 2019-01-08 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 1
 				-> could be helpful to set up screen recording
 
@@ -577,7 +523,18 @@ youtube/vimeo: search consensus decision-making
 		fax: 304 637 3644
 
 - [ ] 2019-01-10 Thu
+	- [ ] 10:00a - 11:00a Celia call
 	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
+
+- [ ] 2019-01-11 Fri
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+						Jim Taggart to join
+	- [ ] Tim at Elkins Trucking Services said truck would be reviewed by end of this week (also open Sa morn)
+			  304 636 5330
+
+- [ ] 2019-01-14 Mon
+	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
+		turbotax pass is the one with horizontal lines
 
 - [ ] 2019-01-15 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
@@ -587,10 +544,16 @@ youtube/vimeo: search consensus decision-making
 		CHAPTER 9
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
+- [ ] 2018-01-20 Sun
+	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA
+
 - [ ] 2019-01-22 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
 
 - [ ] 2019-01-23 Wed
+	- [ ][ ] 12:00p - 1:00p - Celia call (every week)
 	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2019-01-27 Sun
@@ -611,6 +574,9 @@ youtube/vimeo: search consensus decision-making
 
 - [ ] 2019-01-29 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
+
+- [ ] 2019-02-01
+	- [ ] 3:00p - 5:00p Miki Kashtan course Responding to the Call of Our Times
 
 - [ ] 2019-02-05 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5
@@ -864,6 +830,26 @@ Voicemail:
     Woman on phone said she filed a lawsuit after much legwork, water testing, etc, with the company causing pollution resulting in cancer
     Stated she re-added me to voicemail.  Still does not work.
 
+Truck Mechanic
+	Elkins Trucking Services
+	304 636 5330
+	38 11 St
+	Please visit during business hours.
+	8a-5:30p M-F
+
+	2019-01-04 truck is in line for shop, not looked at yet
+						 should have it in before the end of next week
+	- [/] when do you think it'll be finished?
+				could you call me if you learn there will be a delay, so I can plan around it?
+				-> have not queued yet
+	- [X] have you received payment? is there more needed?
+				-> got request to order transmission, haven't looked at truck yet, may not be worth it
+	- [ ] aware of: AC, lift gate, speakers, brakes, (cab light?)
+	- [ ] what is the dial to the left of the wheel? changes engine noise
+	- [X] has new transmission arrived?
+				-> have not ordered yet
+	- [ ] how can I get personal stuff out of cab?
+
 
 
 VOICEMAIL NOTES
@@ -993,6 +979,10 @@ Health food stores:
 - Good Energy Foods? in Elkins (small)
 - A couple in Lewisburg
 
+
+CCIL / WV Choice
+	304-636-9396
+	Cheryl
 
 
 Green Box (garbage facility)
@@ -1837,8 +1827,129 @@ Agenda:
 
 		- goals
 
+2019-01-03 10:02 Dr Mooney
+	items:
+		- finding pen
+		- update
+			- jim hire organizer
+			- organization system
+			- shielding project?
+			- karl's post to mailing list
+		- check-in to see recent behavior
+		- wrapup to see how the meeting went
+
+	10:05
+	check-in:
+		started new year, two weeks since talked to dr mooney
+		- visited parents for xmas, also kate
+		- set up brushing/routine
+			- visited parents and froze up, it threw in the works and i've been somewhat struggling
+		- my laptop broke so my systems are slightly confused
+		- my parents gave me a new laptop for birthday, but it's not set up with floobits
+		10:10
+		- came up with plan for building working shielding space, lots of excitement around which has inhibited progress
+		- parents are planning to buy a house with me; jim and i are visiting a candidate today
+		- gettign better at nvc; i've used it successfully in one or two situations
+		- planning to attend a caving meeting with jim
+		- attending multiple nvc groups
+		- dropped some e-mail conversations i had
+		- my parents support me in pursuing an internship at the telescope but it is very hard to make progress on
+		- struggled to make progress with volunteership at telescope; missed celia's last call
+				-> should really schedule regular calls with celia
+		10:13
+			buyung house explanation: I asked my parents to co-sign a mortgage on a $40k house nearby, which jim had brought to my awarenes
+			would make it affordable for me.  they saw there was no pluming and it was very rundown, and make a counter-proposal the next day
+			that I buy a larger house with much better attributes, and they would make a large downpayment on it to give it a comparable mortgage
+		- jim took the truck tot he mechanic
+		- my parents gave me a brithday present of paying for the transmission
+		-> I want to call the mechanic and review the situation and bring some additional issues to their attention like broken AC and lift gate,
+		   but I keep forgetting to do this
+		10:15
+		gwyn is still visiting twice/day sometimes more
+			she often offers to work more than I am interested, speaking with the assumption that i want her to
+			i want to give her work but often am not looking for more things done
+	two best times for celia calls:
+			9:30a-5:00p m-f
+			- any time monday afternoon (1230 - 5)
+			- any time wednesday EXCEPT for the 9th when I have a cancer appt an hour away
+			- any time thursday _other_ than my talk with dr mooney (which apparently is mischeduled)
+					some weeks I am unavaialble Thu afternoon this happens 1/mo
+			- any time friday afternoon
+		10:21
+	email i posted to mailing list:
+		https://lists.cpunks.org/pipermail/cypherpunks/2019-January/044280.html
+		10:37
+	hiring an organizer with jim:
+	floobits with celia?
+	wrapup:
+		10:51 karl thinks things went okay !
+		  dr mooney is worried he took me somewhere that was too frightening
+			karl tries to clarify he was responsible for going there, and was trying to bring things there
+			dr mooney says karl is brave for sharing this with him today
+
+2019-01-04 Kate & Jim
+	10:13a
+	concerns:
+			- relay my new routine script
+			- discuss/plan/inform jim's work combining some of the organization concepts
+	10:14a
+			- J: when jim visits every other week, it's nice [to use the same structure]... usually come midday wednesday and then here for half the day, sometimes thursday ...
+			  if we use the same process, and i think we kind of do ... then we engage and have some sort of checkout ...
+				just being aware that we're using the same kind of process or organizational things when we're together for a long period of times
+				=> broadening what we're doing in these meetings to the whole time we're together (me and jim)
+		  - time tracking, involvement tracking
+			- Kt: purpose of these calls; to articulate that as well as to determine the frequency of them
+	10:18a
+	Purpose of These Calls
+			Kt - 6-8 wks ago Kr askd if the 3 of us could meet, my understanding it was for
+				1 - sometimes it's helpful to have a group conversation rather than 1-on-1, affects the dynamics
+				2 - related to organization systems, Kt and Kr had worked on that before
+				3 - historically, Kr and I have spent about a year together, or a little more; there could be a passing-on of best
+				    practices for relating
+				4 - Kt wants to show up in whatever way is supportive to you both
+			Jm - re: 1, value of involving many people, occasionally, perhaps more people
+					 re: organization systems, i was trying to start fresh, but after research involve new stuff
+					     early december lots of disorganization for Kr, didn't make much progress
+					 Kr wants to feel more organized and get stuff done in his life, bottom line, and people have experience and that's great
+					 also: getting point of view
+			10:27a
+			Kr - .getting stuck, other struggles
+			    .trouble communicating and collaborating
+			    .Jm, hiring an organizer
+			Jm - Action Method: look at everything in your life as a project.  Imagine a folder.  On the front are action steps
+			     to complete the project.  Inside the folder are the reference materials; things you need to complete the steps.
+				Jm has experience that Karl's routines are complex and interwoven [perhaps that they could even be getting in the way
+				of progress?].  I think he expresses a desire for simplicity, unsure.  Repeats focus on a system of 3 priorities.
+			...
+			10:44a
+			10:47a
+			Kt - breaking tasks up into categories: daily routine, ongoing projects, life-enriching goals
+					if Kr can attend to a bit of each, he might experience more fulfillment
+			Jm - in past we've discussed chunking each week or day into blocks: work, therapeutic lifestyle, social connection
+					Kr was trying to allocate whole days at once to things like this
+					impresed by all Kr has tried, but it doesn't seem anything really sticks and course is stayed
+			...
+			Jm - Karl keeps talking about bringing people in, but I think that complicates things.  We have the formation of a
+      			really interesting team here with Kate, Dr Mooney, Gwyn, Jeremy ...
+						I think the answer is somehow in how we're teaming ... this talk may not be efficient.  There's a lot of
+						possibly wasted effort that could be more efficient and effective.
+			Jm - requests meeting with most parties discussing how we are working together, to make more effective.
+			     prior to that perhaps could synthesize goals and priorities.  team's purpose is to support me to get that
+					 accomplished, and to think creatively about how.
+			Kt - when many ppl are working on similar things, it can be very helpful to have quarterly or monthly meetings.
+
 VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
 				consider occasional sense of conflict could be both of us searching for achievement to happen soon
+
+TIMEKEEPING: consider asking somebody to track how much each person speaks, so we can work on improving efficiency of meetings?
+
+LONGER-TERM CONCERNS:
+		- pressure of practical items going by unresolved and how much time addressing them is eaten up
+		- complexity and number of pieces that need structure, plan, effort to address
+		- intense struggle performing simple tasks, especially if high priority
+
+CONCEPTS / APPROACHES / REFERENCES:
+		-
 
 # MEETING PROCESS PROPOSAL
 Notes / Agenda on https://floobits.com/fuzzyTew/todo in Logistics/00-Organizer.txt

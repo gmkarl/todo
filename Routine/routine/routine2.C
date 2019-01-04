@@ -445,9 +445,6 @@ public:
 
   std::string code;
   std::string routine;
-  // time_t is UTC
-  time_t startTime;
-  time_t stopTime;
   std::string description;
 
   double value;
@@ -554,6 +551,9 @@ private:
 void swap(RoutineEntry &a, RoutineEntry &b)
 {
   using std::swap;
+  swap(a.code, b.code);
+  swap(a.routine, b.routine);
+  swap(a.description, b.description);
   swap(a.value, b.value);
   swap(a.reason, b.reason);
   swap(a.goalNumerator, b.goalNumerator);
@@ -658,6 +658,8 @@ public:
         return success / duration / goal;
       case RoutineEntry::TIME_PERTIME:
         return accumulation / static_cast<double>(duration) / goal;
+      default:
+	throw std::invalid_argument("bad goal type");
     }
   }
 

@@ -1,4 +1,94 @@
 # DONE
+- [X] 2019-01-03 Thu
+	- [X][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [X] get films (possibly water bottle) out of car
+	- [ ] call truck mechanic
+		-> did not get to this, but learned from Jim that truck mechanic is aware of AC and lift gate, the biggest issues
+	- [X][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
+			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
+	- [X] ~11:00a Jim Taggart arrives
+	- [X] 3:00p visit property with Jim
+		6764 Potomac Highlands Trail
+		Arbovale
+		-> property looks awesome but my dad may not like auxiliary building with missing floor, lots of mold, and dead rat
+	- [X][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+Davis Medical Center
+	Scheduling requires everything to be in line.
+	They will call back and say "we cannot schedule this because we don't have an authorization."
+Medicaid says they will not authorize the CT scan unless a denial from my 'primary insurance' is available.
+A denial can not be acquired without the bill from the CT scan.
+	Medicaid: (888) 483-0793
+	- [X] call medicaid and remove primary insurance? at least discuss authorizing scan before bill is available, due to davis medicaid's situation
+	-> turns out the issue is that I have Unicare now, rather than straight medicaid
+
+- [X] call southern states? to determine post-install status, e.g. bill payment, signature
+- [X] 2019-01-02 Wed
+	- [X][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [X][ ] 10:00a - 11:00a Kate call on our own
+	- [ ][X] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+				-> internet brochure may not be updated for a couple months; check for brochure in-person
+				-> may also be a newsletter
+				-> can also just e-mail and ask to sign up for next seti/high tech tour
+		-> gbo was closed on tue, wed
+	- [ ] reschedule missed Celia call
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
+			- 2. apply for internship & continue coursework (add to routine)
+			- contact profs etc for possible recommendations
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
+	- [X] 12:00p - Jim Taggart call
+	- [X] 12:30p - Leave for Drs Appt in Elkins
+			bring mailed paperwork, insurance card, medications
+	- [X] 2:00p
+		Jenny L Cross
+		Bring mailed paperwork, insurance card, medications
+		Tygart Valley Medical Specialties
+		911 Gorman Avenue
+		Old Physicians Office Building
+		Suite 201
+		Elkins, WV 26241
+	- [X][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+- [X] 2018-01-01 Tue
+	- [X][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+		-> not happening today.  Fri is with Jim.  Kate says she can call Wed 10a
+	- [X][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+- [X] 2018-12-31 Mon
+	- [X] Start adding Mepron with Gwyn to antibiotics on return.
+	- [X][ ] ~8:30a - MEDS after bkfst
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [X] Call pharmacy to refill doxycycline
+	- [X][ ] ~6:30p - MEDS after dinnr
+		1/2 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 - [X] 2018-12-30 Sun
 	- [X][X] ~8:30a - MEDS after bkfst
 		100mg doxycycline
