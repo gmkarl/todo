@@ -457,19 +457,21 @@ youtube/vimeo: search consensus decision-making
 Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-01-04 Fri
-	- [ ][ ] ~8:30a - MEDS after bkfst
+	- [X][X] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] test films work on windows.  if not, get replacements.  if so, place in car.
+	- [X] test films work on windows.  if not, get replacements.  if so, place in car.
+		-> they work in windows 10
 	- [ ] call Unicare? to get my insurance info to send to davis medical center
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [X][ ] 10:00a - 11:00a Kate call Fri, Tue
 			-> Jim in this call
 	- Jim taggart leaves midday
-	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
+	- [X][X] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
 				-> internet brochure may not be updated for a couple months; check for brochure in-person
 				-> may also be a newsletter
 				-> can also just e-mail and ask to sign up for next seti/high tech tour
+				-> I got a copy of the dates, photocopied it
 	- [X] reschedule missed Celia call
 				-> tentative with Dr Mooney; she may confirm by text
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
@@ -505,6 +507,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-01-07 Mon
 	- [ ] 11:00a - 12:00p Jeremy and Jim?
+	- [ ] register for GBO tours, can do walk-in or call or e-mail
+	- [ ] call neurologist, make sure neuropsych testing happens?
+	- [ ] find number for uni?care, call and get my member info
+		I think it might be 800 782-0095; I had that written in a window
 
 - [ ] 2019-01-08 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
@@ -539,7 +545,11 @@ Jim Taggart's laptop: Dell express service code #10882328761
 - [ ] 2019-01-15 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
 
+- [ ] 2018-01-16 Wed
+	- Jim Taggart
+
 - [ ] 2018-01-17 Thu
+	- Jim Taggart plans to attend NVC group
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 9
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
@@ -564,6 +574,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			Buckhannon, WV 26201
 
 - [ ] 2019-01-28 Mon
+	- Jim will meet me at this meeting
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
 		Mon Grotto meeting last monday of every month
@@ -573,6 +584,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Wayne Perkins <jwperkins0@gmail.com>
 
 - [ ] 2019-01-29 Tue
+	- Jim Taggart morning
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
 
 - [ ] 2019-02-01
