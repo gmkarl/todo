@@ -539,6 +539,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			  304 636 5330
 
 - [ ] 2019-01-14 Mon
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
 		turbotax pass is the one with horizontal lines
 
@@ -832,6 +833,25 @@ Routes for safety:
 Green Bank, WV 24944
 	UPS delivered stright to my door, marked my address as 6330 Potomac Highlands Trail / Ste 7
 					I had written it as 6328 / tiny home behind shed, and they rewrote it as above to suite 7
+
+House Purchase:
+	- I'll need to write a check for $1000 with accompanying note that I'm not
+	  expecting it to be deposited until they have agreed to the offer.
+		Bill will send $1000 to First Citizens.
+	- Terms of offer.
+	  Contingent on the following being done:
+	  1. Approval of a mortgage for the house for $50,000 with a 30 year term,
+		   at the prevailing interest rate.
+			 - ask broker way to say this, if standard time period is specified
+			 - ask how long it would take to get a mortgage in this community
+		2. The buyer has a week to have the home and septic system inspected.
+		3. Removal of all the trash, clothing, and personal items from the
+		   primary building, and removal of everything from the rundown front
+			 building.
+		4. Broom sweeping of both properties before closing.
+	- Broker may ask me to be preapproved for a mortgage.  If needed, Bill will
+	  walk me through.
+	- Clarify that furniture, appliances, and tools will convey with the property.
 
 Voicemail:
 	*100
