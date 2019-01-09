@@ -3634,3 +3634,29 @@ FT, morning, 2019-01-04T16:38:57-05:00, 2019-01-04T16:48:44-05:00, Fissure Treat
 CL, morning, 2019-01-04T16:48:45-05:00, 2019-01-04T16:55:02-05:00, Put Clothes On,
 EY, morning, 2019-01-04T16:55:04-05:00, 2019-01-04T16:55:40-05:00, Eye Lubricant,
 T, morning, 2019-01-04T16:55:42-05:00, 2019-01-04T17:04:47-05:00, Update Todo List, UNFINISHED
+B, morning, , 2019-01-08T09:02:51-05:00, Get Out of Bed, finished earlier
+EY, morning, 2019-01-08T09:14:06-05:00, 2019-01-08T09:14:47-05:00, Eye Lubricant,
+MB, morning, 2019-01-08T09:14:49-05:00, 2019-01-08T09:27:05-05:00, Make Bed,
+BT, morning, , 2019-01-08T09:27:13-05:00, Brush Teeth, finished earlier
+SH, morning, 2019-01-08T09:27:16-05:00, 2019-01-08T09:40:47-05:00, Shave and Shower,
+FT, morning, 2019-01-08T09:40:48-05:00, 2019-01-08T09:41:19-05:00, Fissure Treatment, UNFINISHED
+CL, morning, 2019-01-08T09:41:20-05:00, 2019-01-08T09:43:24-05:00, Put Clothes On,
+EY, morning, 2019-01-08T09:43:25-05:00, 2019-01-08T09:44:11-05:00, Eye Lubricant,
+EY, evening, 2019-01-08T20:11:59-05:00, 2019-01-08T20:12:57-05:00, Eye Lubricant,
+FD, evening, 2019-01-08T20:13:01-05:00, 2019-01-08T20:19:36-05:00, Dinner and Meds,
+BT, evening, , 2019-01-08T20:19:41-05:00, Brush Teeth, finished earlier
+EY, evening, , 2019-01-08T20:21:36-05:00, Eye Lubricant, finished earlier
+DG, evening, 2019-01-08T20:21:38-05:00, 2019-01-08T20:22:14-05:00, Dental Guard,
+SL, evening, 2019-01-08T21:53:39-05:00, 2019-01-09T06:58:08-05:00, Sleep,
+B, morning, , 2019-01-09T06:58:15-05:00, Get Out of Bed, finished earlier
+T, morning, 2019-01-09T06:58:20-05:00, 2019-01-09T07:10:27-05:00, Calendar and Routine Todo List,
+EY, morning, 2019-01-09T07:10:29-05:00, 2019-01-09T07:11:19-05:00, Eye Lubricant,
+MB, morning, 2019-01-09T07:11:21-05:00, 2019-01-09T07:24:48-05:00, Make Bed,
+FD, morning, , 2019-01-09T09:10:24-05:00, Breakfast and Meds, finished earlier
+BT2Z, brushing, 2019-01-09T09:10:58-05:00, 2019-01-09T09:35:19-05:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
+BT, morning, 2019-01-09T09:10:37-05:00, 2019-01-09T09:35:23-05:00, Brush Teeth,
+SH, morning, 2019-01-09T09:35:27-05:00, 2019-01-09T09:49:39-05:00, Shave and Shower,
+CL, morning, 2019-01-09T09:49:42-05:00, 2019-01-09T09:53:54-05:00, Put Clothes On,
+EY, morning, 2019-01-09T09:53:55-05:00, 2019-01-09T09:54:48-05:00, Eye Lubricant,
+T, morning, 2019-01-09T09:55:03-05:00, 2019-01-09T09:55:46-05:00, Update Todo List,
+BT2Z, brushing, 2019-01-09T11:29:37-05:00, 2019-01-09T11:39:26-05:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
