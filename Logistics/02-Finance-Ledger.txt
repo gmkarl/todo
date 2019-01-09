@@ -4,7 +4,8 @@ Capital One pmt bounced, min is $50
 Upcoming Payments:
 18-01-08 [ ] $12.18 paypal debcard negative balance
 18-01-08 [ ] $51.22 paypal payment request, metals payment bounced
-18-01-08 [ ] $30.00 PO Box 117 debcard
+18-01-08 [ ] $30.00 debcard PO Box 117
+18-01-08 [ ] $15.93 paypal impulse purchase of a computer game
 
 Autopayments
 Day	What			Amount
