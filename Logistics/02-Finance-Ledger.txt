@@ -2,10 +2,9 @@ Urgent Debts:
 Capital One pmt bounced, min is $50
 
 Upcoming Payments:
-18-01-08 [ ] $12.18 paypal debcard negative balance
-18-01-08 [ ] $51.22 paypal payment request, metals payment bounced
 18-01-08 [ ] $30.00 debcard PO Box 117
-18-01-08 [ ] $15.93 paypal impulse purchase of a computer game
+
+Available balance: $140.20
 
 Autopayments
 Day	What			Amount
@@ -32,3 +31,8 @@ Day	What			Amount
 07-00 PO Box 117  $36
 12-25	CBS All Access		$100
 12-00	Truck Registration?	$280
+
+Initiated Finished
+18-01-08  18-01-09 [X] $12.18 paypal debcard negative balance
+18-01-08  18-01-09 [X] $51.22 paypal payment request, metals payment bounced
+18-01-08  18-01-09 [X] $15.93 paypal impulse purchase of a computer game
