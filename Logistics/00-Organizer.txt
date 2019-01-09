@@ -457,13 +457,14 @@ youtube/vimeo: search consensus decision-making
 Jim Taggart's laptop: Dell express service code #10882328761
 
 - [!] 2018-01-09 Wed
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 	- Leave for oncology on the earlier side as some snow is falling throughout the day
 	- Buy some wrap/soup ingredients in elkins?
 	- [ ] 1:45p Oncological Follow-up
+	  TELL DR FLEMING ABOUT DR SIVAK EYE APPT
 		-> rescheduled to this day
 		Dr Fleming
 		Davis Medical Center
@@ -563,6 +564,15 @@ Jim Taggart's laptop: Dell express service code #10882328761
 - [ ] 2019-01-29 Tue
 	- Jim Taggart morning
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
+
+- [ ] 2019-01-31 Wed
+	- [ ] 11:00a - Dr Sivak, eye dr
+				if reasonable, BRING ANY RECORDS FROM BOSTON AREA RE: FACE STUFF
+				referral from Dr Cross, ENT
+	  Mon General Hospital
+		600 Suncrest Town center
+		Morgantown, WV 26505
+		304 598 2200 x243
 
 - [ ] 2019-02-01
 	- [ ] 3:00p - 5:00p Miki Kashtan course Responding to the Call of Our Times
