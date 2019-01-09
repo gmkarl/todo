@@ -4,6 +4,8 @@ last update: 2018-01-04
 Working on a set of scripts to acquire noise profiles without oscillation and measure S.E. from 4 measured histograms.
 Todo items in
   - [ ] openemissions/shielding/effectiveness-measurement/noiscillate-data/test.cpp
+      Current work with more todo in
+      - [ ] 1-2-gen-diff-hist.cpp
 
 - [ ] Construction:
 Ordered some copper foil, and some thin solder to test soldering the copper foil.
