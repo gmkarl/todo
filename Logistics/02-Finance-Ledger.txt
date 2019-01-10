@@ -2,9 +2,10 @@ Urgent Debts:
 Capital One pmt bounced, min is $50
 
 Upcoming Payments:
+18-01-10 [ ] $35.74 pp debcard ebay eye lubricant & osha root for gwyn
 18-01-08 [ ] $30.00 debcard PO Box 117
 
-Available balance: $140.20
+Available balance: $1279.93
 
 Autopayments
 Day	What			Amount
@@ -12,8 +13,9 @@ Day	What			Amount
 05	Capital One	 	 $50
 08	IPSDC.ORG?               $10
 08	Zwiebelfreunde E.V.??	  $5
+09  Burning Books           $100
 11	Cascadia Forest Dfndrs   $20
-12	Trust Rental	      -$1300
+12	Trust Rental	      -$1305
 19-01-14Capital One		 $50
 16	Frontier Internet/Phone  $72
 17	Earth First!		 $20
@@ -33,6 +35,7 @@ Day	What			Amount
 12-00	Truck Registration?	$280
 
 Initiated Finished
+18-01-09  18-01-10 [X] $29.53 debcard lunch with gwyn in elkins at vintage
 18-01-08  18-01-09 [X] $12.18 paypal debcard negative balance
 18-01-08  18-01-09 [X] $51.22 paypal payment request, metals payment bounced
 18-01-08  18-01-09 [X] $15.93 paypal impulse purchase of a computer game
