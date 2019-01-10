@@ -456,34 +456,13 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2018-01-09 Wed
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- Leave for oncology on the earlier side as some snow is falling throughout the day
-	- Buy some wrap/soup ingredients in elkins?
-	- [ ] 1:45p Oncological Follow-up
-	  TELL DR FLEMING ABOUT DR SIVAK EYE APPT
-		-> rescheduled to this day
-		Dr Fleming
-		Davis Medical Center
-		801 Harrison Ave
-		Elkins, WV 26241
-		davishealthsystem.org
-		304 637 3640
-		fax: 304 637 3644
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1/2 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-10 Thu
+- [!] 2019-01-10 Thu
+	- [ ] move appt to car
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] prep for celia call
 	- [ ] 10:00a - 11:00a Celia call
 	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
 	- [ ] review materials for nvc core concepts class
@@ -602,6 +581,14 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		               800-251-3627
 - [ ] 2019-03-03
 	Gwyn's birthday?
+
+- [ ] 2019-04-03 Wed
+	- [ ] GET BLOOD WORK DONE FOR PET SCAN
+
+- [ ] 2019-04-10 Wed
+	- [ ] 2:00p Oncology PET Scan
+			Davis Cancer Center or whatnot
+			Elkins
 
 - [ ] 2019-10-02
 	Kate's Birthday
@@ -833,6 +820,7 @@ House Purchase:
 	- Contact realtor and say I would like to make an offer.
 	  Cheryl Dean
 	  304 940-0607
+					304 799-4002
 	- Terms of offer.
 	  Contingent on the following being done:
 	  1. Approval of a mortgage for the house for $50,000 with a 30 year term,
@@ -857,6 +845,13 @@ House Purchase:
 			- some things may be left in workspace
 			- needs to talk to sister, will call her this evening and talk to her
 			- Cheryl will call back tomorrow with result pricewie
+	- 2018-01-09
+			- Owners countered with $100,000 .  I replied with $94,000, Cheryl will
+			  get back to me.  Owner wants to leave upstairs Tommy stove, but may
+				take some furniture.
+			- mom says I could fax the check, but it sounds like it's not needed
+			- mom recommends I accept any offer they provide, and if they don't
+			  counter we can counter with more.
 
 Voicemail:
 	*100
@@ -890,6 +885,12 @@ Truck Mechanic
 
 
 VOICEMAIL NOTES
+844-779-1040
+	Fri Dec 28 12:53P
+		Mon Power
+Cheryl Dean
+	2019-01-09 3:02p
+		304 799 4002
 
 Caverns
 	WVCC provides access to public caves
@@ -1036,6 +1037,21 @@ Metals: Valley Steel, 30 mins towards elkins
 
 Frontier Support:
 	Main Menu: 877-669-5535
+		1 - new residential customer, interested in service
+		2 - current customer
+			1 - transfer to new address
+			2 - make changes to existing service
+			3 - billing questions
+			4 - installation date questions
+			9 - all other technical support
+				frontier.com/helpcenter
+				1 - english residential
+
+				2 - english business
+				3 - spanish residential
+				4 - spanish business
+		3 - new commmerical customer
+
 		1 - current customer, customer service
 		or
 		2 - current customer, install date
@@ -1052,12 +1068,24 @@ Frontier Support:
 		   # - further assistance
 
 			My # is (304) 456-5564
-	800-239-4430
 		"special promotion for select callers" 2018-11-15
 		didn't listen to further
 	DSL Tech Dept: 888-440-2096
 		1 - english
 			304 456 5564
+
+	Voicemail Access
+		2018-01-09
+				I haven't had voicemail for at least a month.
+				Right now I "have" voicemail but it rejects my pin.
+				I just called support and got the new pin 922846, but
+				this pin still did not work.
+				I've now called support again, 6:24pm.
+				Michelle recovered a pin from December 11, 602169
+				She tried this pin and it worked.
+				unexpected number was set as my contact number:
+					800-239-4430
+				Can now access my voicemail !!
 
 Green Bank Anechoic Chamber
 	Jansky Laboratory
