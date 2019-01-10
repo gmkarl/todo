@@ -105,7 +105,7 @@ LO, LifeExtension Super Omega-3, 1 softgel
 LO, LifeExtension Super Omega-3, 1 softgel
 
 Antibiotic Meds
-AT, Atovaquone / Mepron, 2.5 milliliters
+AT, Atovaquone / Mepron, 5 milliliters
 DX, Doxycycline Hyclate, 1 tablet
 BM, Bactrim DS, 1 tablet
 AZ, Azithromycin, 1 tablet
@@ -205,3 +205,4 @@ Time, Med, Dosage, Notes
 2019-01-09T08:59:25-05:00,LO,1,
 2019-01-09T09:13:59-05:00,N4,.22,
 2019-01-09T11:29:21-05:00,N4,.24,"aux"
+2019-01-09T19:15:31-05:00,AT,5,
