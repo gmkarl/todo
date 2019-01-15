@@ -458,7 +458,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [!] 2019-01-10 Thu
 	- [ ] move appt to car
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
@@ -475,14 +475,14 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
 			- meet woman at telescope involved in amateur work (ideas for what to say to)
 			- other ideas, possibly from e-mail with astronomer
-	- [ ][ ] ~6:30p - MEDS after dinnr
+	- [X][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
 
 - [ ] 2019-01-11 Fri
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [X][ ] 10:00a - 11:00a Kate call Fri, Tue
 						Jim Taggart to join
 	- [ ] Tim at Elkins Trucking Services said truck would be reviewed by end of this week (also open Sa morn)
 			  304 636 5330
@@ -494,36 +494,36 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			is canceled.  need to convey to unicare cannot use old insurance
 			Tygart Valley Medical Specialists
 		I think it might be 800 782-0095; I had that written in a window
-	- [ ][ ] ~6:30p - MEDS after dinnr
+	- [X][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
 
 - [ ] 2019-01-14 Mon
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+	- [ ][X] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 			-> missed this, but mark for next time
-	- [ ][ ] 12:45p - Basileia monthly Zoom NVC practice (every 3rd Mon 12:45p)
+	- [ ][X] 12:45p - Basileia monthly Zoom NVC practice (every 2rd Mon 12:45p)
 					          register at https://calendly.com/basileia/monthly-practice
 			-> missed this, but mark for next time
 	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
 		turbotax pass is the one with horizontal lines
-	- [ ][ ] ~6:30p - MEDS after dinnr
+	- [X][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
 
 - [ ] 2019-01-15 Tue
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [X][X] 10:00a - 11:00a Kate call Fri, Tue
 				jim nonpresent
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
 	- X[ ] 2:30p or 3:00p - hosue inspection with Jim possibly Bill
@@ -535,12 +535,13 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2018-01-16 Wed
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 	- XJim Taggart
 		-> canceled
+	- [ ] 2:00p oil change at F+F
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -567,6 +568,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -603,6 +605,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -614,6 +617,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -755,6 +759,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-02-05 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5
+
+- [ ] 2019-02-11 Mon
+	- [ ][ ] 12:45p - Basileia monthly Zoom NVC practice (every 2rd Mon 12:45p)
+					          register at https://calendly.com/basileia/monthly-practice
 
 - [ ] 2019-02-12 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 6 (final)
