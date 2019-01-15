@@ -6,4 +6,4 @@ def outtime(mins):
 	print str(hrs) + "h " + str(mins) + "m"
 
 for a in xrange(6):
-	outtime(7*60 + (a) * 130)
+	outtime(7*60 + (a) * 125)
