@@ -3672,3 +3672,16 @@ BT, morning, , 2019-01-10T09:55:26-05:00, Brush Teeth, finished earlier
 SH, morning, 2019-01-10T09:55:29-05:00, 2019-01-10T10:09:30-05:00, Shave and Shower,
 B, morning, , 2019-01-11T09:38:45-05:00, Get Out of Bed, finished earlier
 EY, morning, 2019-01-11T09:38:49-05:00, 2019-01-11T09:39:28-05:00, Eye Lubricant,
+FD, morning, 2019-01-11T09:39:41-05:00, 2019-01-11T09:39:42-05:00, Breakfast and Meds, UNFINISHED
+BT, morning, , 2019-01-11T09:39:45-05:00, Brush Teeth, finished earlier
+B, morning, , 2019-01-15T08:20:04-05:00, Get Out of Bed, finished earlier
+T, morning, 2019-01-15T08:20:06-05:00, 2019-01-15T08:28:48-05:00, Calendar and Routine Todo List, UNFINISHED
+EY, morning, 2019-01-15T08:28:50-05:00, 2019-01-15T08:29:23-05:00, Eye Lubricant,
+MB, morning, 2019-01-15T08:29:30-05:00, 2019-01-15T08:45:29-05:00, Make Bed,
+EX, morning, 2019-01-15T08:50:58-05:00, 2019-01-15T09:32:25-05:00, Morning Exercises,
+FD, morning, 2019-01-15T09:32:26-05:00, 2019-01-15T09:55:52-05:00, Breakfast and Meds,
+BT, morning, 2019-01-15T09:55:53-05:00, 2019-01-15T11:30:36-05:00, Brush Teeth,
+SH, morning, 2019-01-15T11:36:00-05:00, 2019-01-15T11:54:35-05:00, Shave and Shower,
+CL, morning, , 2019-01-15T11:54:38-05:00, Put Clothes On, finished earlier
+EY, morning, 2019-01-15T11:54:40-05:00, 2019-01-15T11:55:16-05:00, Eye Lubricant,
+T, morning, 2019-01-15T11:55:18-05:00, 2019-01-15T21:16:50-05:00, Update Todo List, UNFINISHED
