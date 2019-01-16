@@ -525,9 +525,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Bactrim DS
 	- [X][X] 10:00a - 11:00a Kate call Fri, Tue
 				jim nonpresent
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
+	- [X] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
 	- X[ ] 2:30p or 3:00p - hosue inspection with Jim possibly Bill
 		-> canceled
+	- [ ] email core concepts antendees re: phone meeting, numbers & times
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
