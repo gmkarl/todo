@@ -463,7 +463,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- [ ] review materials for nvc core concepts class
-	- [ ] contact nvc class peers, at least check e-mail!
+	- [X] contact nvc class peers, at least check e-mail!
 		- email core concepts antendees re: phone meeting, numbers & times (copied in from elsewhere)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -516,6 +516,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
+	Jim Taggart arrives in afternoon
+	- [ ] 2:30p - Home inspection with Kent Downey
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -527,6 +529,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	Jim Taggart here
 	- [ ] register for GBO tours, can do walk-in or call or e-mail
 	- [ ][ ] 12:00p - 1:00p - Celia call (every week)
 	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
