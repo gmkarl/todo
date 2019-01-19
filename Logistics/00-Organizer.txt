@@ -456,131 +456,16 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-01-10 Thu
-	- [ ] move appt to car
-	- [X][ ] ~8:15a - MEDS after bkfst
+- [!] 2018-01-19 Sat
+	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] prep for celia call
-	- [ ] 10:00a - 11:00a Celia call
-	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He said it would have been reviewed by the 12th.
+			304 636 5330
 	- [ ] review materials for nvc core concepts class
-	- [ ] try to get printer working
-	- [ ] contact peers, at least check e-mail!
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
-			- 2. apply for internship & continue coursework (add to routine)
-			- contact profs etc for possible recommendations
-			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-			- other ideas, possibly from e-mail with astronomer
-	- [X][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-11 Fri
-	- [X][ ] 10:00a - 11:00a Kate call Fri, Tue
-						Jim Taggart to join
-	- [ ] Tim at Elkins Trucking Services said truck would be reviewed by end of this week (also open Sa morn)
-			  304 636 5330
-	- [ ] register for GBO tours, can do walk-in or call or e-mail
-	- [ ] call neurologist, make sure neuropsych testing happens?
-	- [ ] find number for uni?care, call and get my member info
-			1 800 782 0095
-			-> dr cross's office says unicare won't authorize until primary insurance
-			is canceled.  need to convey to unicare cannot use old insurance
-			Tygart Valley Medical Specialists
-		I think it might be 800 782-0095; I had that written in a window
-	- [X][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-14 Mon
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][X] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
-			-> missed this, but mark for next time
-	- [ ][X] 12:45p - Basileia monthly Zoom NVC practice (every 2rd Mon 12:45p)
-					          register at https://calendly.com/basileia/monthly-practice
-			-> missed this, but mark for next time
-	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
-		turbotax pass is the one with horizontal lines
-	- [X][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-15 Tue
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [X][X] 10:00a - 11:00a Kate call Fri, Tue
-				jim nonpresent
-	- [X] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
-	- X[ ] 2:30p or 3:00p - hosue inspection with Jim possibly Bill
-		-> canceled
-	- [ ] email core concepts antendees re: phone meeting, numbers & times
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-16 Wed
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- XJim Taggart
-		-> canceled
-	- [ ] 2:00p oil change at F+F
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-17 Thu
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- XJim Taggart plans to attend NVC group
-	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
-		CHAPTER 9
-		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-18 Fri
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-19 Sat
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+	- [ ] contact nvc class peers, at least check e-mail!
+		- email core concepts antendees re: phone meeting, numbers & times (copied in from elsewhere)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -592,6 +477,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
+		turbotax pass is the one with horizontal lines
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
 		2014 Northside Dr
 		Blacksburg, VA
@@ -606,6 +493,13 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
+			- 2. apply for internship & continue coursework (add to routine)
+			- contact profs etc for possible recommendations
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -631,6 +525,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] register for GBO tours, can do walk-in or call or e-mail
 	- [ ][ ] 12:00p - 1:00p - Celia call (every week)
 	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -644,6 +539,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] call neurologist, make sure neuropsych testing happens?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -655,6 +551,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -771,6 +668,11 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
+
+- [ ] 2019-02-21 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 9
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2019-02-22 Fri
 	- [ ] 6:00 A leave for eye appt
