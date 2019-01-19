@@ -87,6 +87,7 @@ lewisburg:
 - [ ][ ] pursue eeg work
 - [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
 - [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
+- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
 - [ ] DO MY LAB REPORTS !  think how empowering this would be
 		with time limit.  remember to reward based on progress.
 		-> should be doable with n2
@@ -1181,6 +1182,7 @@ Frontier Support:
 		   # - further assistance
 
 			My # is (304) 456-5564
+	800-239-4430
 		"special promotion for select callers" 2018-11-15
 		didn't listen to further
 	DSL Tech Dept: 888-440-2096

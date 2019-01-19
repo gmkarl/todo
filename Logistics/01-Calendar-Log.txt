@@ -204,7 +204,7 @@
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
-- [ ] 2019-01-05 Sat
+- [!] 2019-01-05 Sat
 	- [X][ ] ~8:30a - MEDS after bkfst
 		1/2 tsp atovaquone
 		100mg doxycycline
