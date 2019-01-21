@@ -457,38 +457,8 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2018-01-19 Sat
+- [!] 2018-01-21 Mon
 	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] review materials for nvc core concepts class
-	- [X] contact nvc class peers, at least check e-mail!
-		- email core concepts antendees re: phone meeting, numbers & times (copied in from elsewhere)
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-20 Sun
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
-		turbotax pass is the one with horizontal lines
-	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
-		2014 Northside Dr
-		Blacksburg, VA
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-01-21 Mon
-	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
@@ -514,6 +484,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] review materials for nvc core concepts class
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
 	Jim Taggart arrives in afternoon
@@ -545,6 +516,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- [ ] call neurologist, make sure neuropsych testing happens?
+	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
+		turbotax pass is the one with horizontal lines
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -655,6 +628,9 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	- [ ] 3:00p - 5:00p Miki Kashtan course Responding to the Call of Our Times
 
 - [ ] 2019-02-03 Sun
+	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA
 	- [ ][ ] 8:00p - street giraffes first sunday of the month
 	  call 530 881-1212  (or maybe 701 801-1211)
 	  meeting id in email
@@ -673,6 +649,11 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
+
+- [ ] 2019-02-17 Sun
+	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA
 
 - [ ] 2019-02-21 Thu
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
