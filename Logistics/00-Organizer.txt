@@ -457,7 +457,7 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-01-22 Tue
+- [!] 2019-01-23 Wed
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -465,22 +465,6 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He said it would have been reviewed by the 12th.
 			M-F 9a=5:30p see 'Truck Mechanic' section below
 			304 636 5330
-	- [ ] review materials for nvc core concepts class
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
-	Jim Taggart arrives in afternoon
-	- [ ] 2:30p - Home inspection with Kent Downey
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-23 Wed
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
 	Jim Taggart here
 	- [ ] register for GBO tours, can do walk-in or call or e-mail
 	- [ ][ ] 12:00p - 1:00p - Celia call (every week)
@@ -577,6 +561,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- Jim Taggart morning
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] review nvc core concepts materials
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -614,6 +600,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2019-02-01 Fri
+	- [ ] 1:30p CAT scan davis medical center, call hospital to reschedule
 	- [ ] 3:00p - 5:00p Miki Kashtan course Responding to the Call of Our Times
 
 - [ ] 2019-02-03 Sun
@@ -635,6 +622,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 - [ ] 2019-02-12 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 6 (final)
 
+- [ ] 2019-02-13 Wed
+	- [ ] 1:30p - Dr Cross followup after CAT scan
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
