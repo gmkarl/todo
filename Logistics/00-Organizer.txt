@@ -457,32 +457,13 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-01-23 Wed
+- [!] 2019-01-24 Thu
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [X] check in with Tim at Elkins Trucking Service regarding truck.  He said it would have been reviewed by the 12th.
-			M-F 9a=5:30p see 'Truck Mechanic' section below
-			304 636 5330
-			-> I'm so satisfied to have done this!  The truck should be done by feb 2!
-	Jim Taggart here
-	- [ ] register for GBO tours, can do walk-in or call or e-mail
-	- [ ][ ] 12:00p - 1:00p - Celia call (every week)
-			-> Celia has canceled this, I forgot to remove it from my schedule
-	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
-	- [ ] 2:30p - meeting with Gwyn and Jim
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-24 Thu
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+	- [ ] drive to Staunton with Jim Taggart to swap vehicles back
+	- [ ] coordinate with Jim Reese to fix floor back up
 	- [ ] call neurologist, make sure neuropsych testing happens?
 	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
 		turbotax pass is the one with horizontal lines
@@ -497,6 +478,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] register for GBO tours, can do walk-in or call or e-mail
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
