@@ -457,28 +457,16 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-01-24 Thu
+- [!] 2019-01-25 Fri
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] drive to Staunton with Jim Taggart to swap vehicles back
-	- [ ] coordinate with Jim Reese to fix floor back up
-	- [ ] call neurologist, make sure neuropsych testing happens?
-	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
-		turbotax pass is the one with horizontal lines
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-25 Fri
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+	- [ ] do laundry
 	- [ ] register for GBO tours, can do walk-in or call or e-mail
+	- [ ] call neurologist, make sure neuropsych testing happens?
+	- [ ] check class situation at gbo?
+	- [ ] coordinate with Jim Reese to fix floor back up
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -488,8 +476,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-01-26 Sat
 	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to this telescope stuff
 			- 2. apply for internship & continue coursework (add to routine)
-			- contact profs etc for possible recommendations
+			- contact profs etc for possible recommendations for internship
 			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
 			- meet woman at telescope involved in amateur work (ideas for what to say to)
 			- other ideas, possibly from e-mail with astronomer
