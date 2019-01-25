@@ -457,64 +457,13 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2018-01-21 Mon
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He said it would have been reviewed by the 12th.
-			M-F 9a=5:30p see 'Truck Mechanic' section below
-			304 636 5330
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to here
-			- 2. apply for internship & continue coursework (add to routine)
-			- contact profs etc for possible recommendations
-			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-			- other ideas, possibly from e-mail with astronomer
-	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-22 Tue
+- [!] 2019-01-24 Thu
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] review materials for nvc core concepts class
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
-	Jim Taggart arrives in afternoon
-	- [ ] 2:30p - Home inspection with Kent Downey
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-23 Wed
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	Jim Taggart here
-	- [ ] register for GBO tours, can do walk-in or call or e-mail
-	- [ ][ ] 12:00p - 1:00p - Celia call (every week)
-	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-24 Thu
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+	- [ ] drive to Staunton with Jim Taggart to swap vehicles back
+	- [ ] coordinate with Jim Reese to fix floor back up
 	- [ ] call neurologist, make sure neuropsych testing happens?
 	- Tax payment plan available https://www.irs.gov/payments/online-payment-agreement-application
 		turbotax pass is the one with horizontal lines
@@ -529,6 +478,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] register for GBO tours, can do walk-in or call or e-mail
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -538,9 +488,11 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-01-26 Sat
 	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+			- 2. apply for internship & continue coursework (add to routine)
+			- contact profs etc for possible recommendations
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -568,6 +520,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 	- Jim will meet me at this meeting
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
@@ -588,6 +541,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- Jim Taggart morning
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] review nvc core concepts materials
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -600,6 +555,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] 11:00a NOTHING TO EAT OR DRINK PRIOR TO CAT SCAN 3 HRS
+	- [ ] 1:30p CAT scan davis medical center
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -636,8 +593,16 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	  meeting id in email
 	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 
+- [ ] 2019-02-04 Mon
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He said it would be running by the end of last week.
+			M-F 9a=5:30p see 'Truck Mechanic' section below
+			304 636 5330
+
 - [ ] 2019-02-05 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5
+
+- [ ] 2019-02-06 Wed
+	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 
 - [ ] 2019-02-11 Mon
 	- [ ][ ] 12:45p - Basileia monthly Zoom NVC practice (every 2rd Mon 12:45p)
@@ -646,6 +611,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 - [ ] 2019-02-12 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 6 (final)
 
+- [ ] 2019-02-13 Wed
+	- [ ] 1:30p - Dr Cross followup after CAT scan
 
 - [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
@@ -959,20 +926,31 @@ Truck Mechanic
 	304 636 5330
 	38 11 St
 	Please visit during business hours.
-	8a-5:30p M-F
+	9a-5:30p M-F
 
 	2019-01-04 truck is in line for shop, not looked at yet
 						 should have it in before the end of next week
-	- [/] when do you think it'll be finished?
+	2019-01-23 truck is in the shop for transmission, new one has been ordered, should be done by 2019-02-02
+						 starter was bad and has been replaced
+	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
 				-> have not queued yet
+				-> Sat 2019-02-02
 	- [X] have you received payment? is there more needed?
 				-> got request to order transmission, haven't looked at truck yet, may not be worth it
-	- [ ] aware of: AC, lift gate, speakers, brakes, (cab light?)
-	- [ ] what is the dial to the left of the wheel? changes engine noise
+				-> transmission ordered, will send estimate to gmkarl@gmail.com 2019-01-23
+	- [X] aware of: AC, lift gate, speakers, brakes, (cab light?)
+				-> added to ticket
+	- [X] what is the dial to the left of the wheel? changes engine noise
+				-> will investigate
 	- [X] has new transmission arrived?
 				-> have not ordered yet
-	- [ ] how can I get personal stuff out of cab?
+	- [X] how can I get personal stuff out of cab?
+			-> can visit
+
+		- in shop, engine runs fine, transmission ordered
+				new starter replaced
+
 
 Insurance
 	Uni?care
@@ -2108,6 +2086,93 @@ Agenda:
 		- house
 		- Celia
 		- wrap-up at end
+
+2019-01-23 13:05p Dr Mooney
+	Agenda:
+		- Celia
+		- check-in on Karl and Karl's family and the House purchase
+		- Check-in on Jim and Jim's involvement
+		- How things are going with support staff (Gwyn)
+		- Focus for work with Dr Mooney (brainstorm, check-in)
+					questions for inspiration are: what does dr mooney see his role as? what does karl see his role as?
+
+	Let's go
+		- Celia
+				didn't get call at 12:00p (which is kind of good because I was having a water emergency involving taking up the carpet)
+				Celia does not have the time to consistently meet with Karl.  Doesn't want to promise things she can't follow through on.
+				Dr Mooney is going to pursue this, find somebody else.
+		- check-in on Karl and Karl's family and the House purchase
+				My parents seem okay ... I visited them? over christmas ...
+				I talked with them recently, but I don't remember what about ...
+				but they seem somewhat wellish?
+				Karl has been kind of fluctuating ... some really rough days, some ok days generally marked
+				by high doses of nicotine.  I've been thinking of my experience as being at the nadir of what
+				I call "looping" -- where I stop my productive activity, forget a big chunk of it, and do something
+				else for a while.  It's generally associated with intense suffering prior.
+				So I've been figuring this is the case and playing a lot of video games, which has not really
+				involved suffering at all.
+				I'm trying to get back on the nicotine and associate it with being productive.  Maybe looping can stop.
+				"Has it run its course with regard to functionality?"  [With behavioral plans, some reinforcers can
+				sustain themselves and some cannot without increases.] "With any substance that is addictive, like
+				nicotine, your body is going to demand more to get the same result."
+				The effect decreasing that I'm concerned about is how easy it is to take the nicotine.
+				It seems to be getting harder.
+				House looks like ti will happen fi we are okay with asbestos etc derelict house.
+		- Check-in on Jim and Jim's involvement
+				Jim is helping with the house inspections; he seems to have kind of taken charge of them.
+				I've also asked him to keep tabs on some obligations that I'm having trouble remembering
+				  that came up when I was with him.
+				He visits every two weeks.
+				He's a little taxed and will be staying in the area longer this week in order to attend with me
+				a caving group meeting that I wanted to try next weekish.
+				Jim is also kind of managing Gwyn, orchestrating payment and such.
+				I'm asking Jim to hire an organizer for me; he offered to once.  My things are hard to find
+				and it would be incredible to have an ally in having everything have a place.
+				Jim sometimes tries to task Gwyn with tasks that are not that aligned with my relationship with her;
+				I haven't quite sorted that out.
+		- How things are going with support staff (Gwyn)
+				I generally try to encourage things with Gwyn to mostly be about giving me meds, which is
+				what I was looking for at the start.  I haven't gotten good at communicating with her in
+				depth at this time; so it can be hard to get on the same page about workable strategies
+				for workarounds to my issues.
+		- Focus for work with Dr Mooney (brainstorm, check-in)
+					questions for inspiration are: what does dr mooney see his role as? what does karl see his role as?
+
+					What does Dr Mooney see his role as?
+						(What is Karl's role in relation to that?)
+						"I see, in some ways, looking at the bigger picture and looking from a behavioral point of view,
+						 developing strategies, that sort of thing, asking some of the more difficult questions,
+						 and approaching things from a macro rather than micro point of view."
+
+					- Looking at the bigger picture and approaching things from a macro rather than a micro point of view
+							"looking at more 'what are you doing, what are you able to do' and 'how can we get you there'
+							as opposed to focusing on the day-to-day functioning.  What are your larger goals and how can
+							we set you off in that direction?  You may not reach a certain goal, but you make decisions
+							along the way."
+					- Developing strategies, that sort of thing
+					- Asking some of the more difficult questions
+
+					Has
+					- Experience with working with
+							- autism-spectrum individuals
+							- recoverees from radiation treatment
+							- psychosis diagnosees
+							and the "bowl of spaghetti" such people are in
+
+					What does Karl see Dr Mooney's role as?
+
+					Goal Relevance:
+						Dr Mooney has interest in helping organize my goals and priorities, while keeping in mind my values.
+
+					Strategy Relevance:
+						Dr Mooney has interest in finding workarounds for the obstructions in my daily life and my pursuit of my goals.
+
+					Dr Mooney requests involvement of Jim and Gwyn regarding strategies and "goal-setting".
+						Worries discussions will remain in floobits and not reach the real world.
+
+					Karl texted Jim regarding Dr Mooney's request for meetings involving Jim and Gwyn.
+					Dates and times were suggested.
+
 
 
 VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
