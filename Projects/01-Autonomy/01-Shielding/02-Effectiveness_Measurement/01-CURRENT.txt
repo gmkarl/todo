@@ -7,6 +7,8 @@ Todo items in
       Current work with more todo in
       - [ ] 1-2-gen-diff-hist.cpp
 
+  - [ ] Notes on traditional measurement methods in 01-Traditional_Measurement.txt
+
 - [ ] Construction:
 Ordered some copper foil, and some thin solder to test soldering the copper foil.
 I could even just put the foil on cardboard or something.

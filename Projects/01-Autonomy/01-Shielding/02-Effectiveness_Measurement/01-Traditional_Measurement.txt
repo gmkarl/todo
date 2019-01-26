@@ -1,0 +1,16 @@
+
+Books / Resources:
+	- [ ] Electromagnetic Compatibility, 3rd Edition, David Weston
+		- [ ] Equipment section
+		- [ ] Measurement section
+	- [ ] Architectural Shielding
+	- [ ] Government specifications for commercial measurement
+	- [ ] New books off internet
+	- [ ] Research papers?
+	- [ ] EMI Shielding Supplier Guide?
+	- [ ] Recommendatoins from e-mail
+	- [ ] Professional contacts
+
+Electromagnetic Compatibility, 3rd ed, David Weston
+	Ch 9 pg683: EMI Measurement, Control Requirements, and Test Methods
+	
