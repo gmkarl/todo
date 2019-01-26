@@ -5,6 +5,10 @@ Books / Resources:
 		- [ ] Measurement section
 	- [ ] Architectural Shielding
 	- [ ] Government specifications for commercial measurement
+		- [ ] CISPR 22
+		- [ ] ANSI-C63.4
+		- [ ] DEF STAN
+		- [ ] MIL-STD-461
 	- [ ] New books off internet
 	- [ ] Research papers?
 	- [ ] EMI Shielding Supplier Guide?
@@ -13,4 +17,16 @@ Books / Resources:
 
 Electromagnetic Compatibility, 3rd ed, David Weston
 	Ch 9 pg683: EMI Measurement, Control Requirements, and Test Methods
+	==> pg684
+
+	EUT: Equipment Under Test
 	
+	- Conducted and radiated emissions of the ambient with the EUT powered down must always be made prior to EMI testing.
+	- Always ensure that equipment used to measure the test level has a CURRENT CALIBRATION and that a sanity check on the equipment is made.
+		Sanity check: connect signal generator to input.
+
+	ERRORS
+	9.1
+		Errors greater than 30dB can be made during measurement, and when there is a discrepency, both theory and technique should be examined to find the error.
+		It is easy for measurement equipment to affect results.
+		Due to the difficulty of measurement, design should be based on theory, and measurement used to validate it.
