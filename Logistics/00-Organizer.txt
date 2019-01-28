@@ -493,7 +493,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2019-01-28 Mon
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
@@ -502,7 +502,9 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		or
 		after Feb 23 (25 is mon) or in march 
 		or jim says AM on maybe feb 19 or feb 20
+		-> this morning was pretty tight and tense; I think I'll skip this
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+		-> contacted Jeremy regarding rescheduling this
 	- [ ] 12:00p - mtg with Jim and Gwyn and Dr Mooney
 	- Jim will meet me at this meeting
 	- [ ][ ] 6:30 PM food
