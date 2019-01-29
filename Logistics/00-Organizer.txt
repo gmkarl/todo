@@ -457,32 +457,7 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-01-28 Mon
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] 10:00a - call dr bouboulis and schedule check-in either
-		10:15a Sat Feb 9
-	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
-		-> contacted Jeremy regarding rescheduling this
-		-> kept vascillating, texting him more
-	- [ ] 12:00p - mtg with Jim and Gwyn and Dr Mooney
-	- Jim will meet me at this meeting
-	- [ ][ ] 6:30 PM food
-		~7:00 PM official meeting
-		Mon Grotto meeting last monday of every month
-		Beanery American Grill
-		226 Comfort Inn Dr.
-		Morgantown, WV 26508
-		Wayne Perkins <jwperkins0@gmail.com>
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-29 Tue
+- [!] 2019-01-29 Tue
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -546,12 +521,17 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] review nvc core concepts materials
 	- [ ] register for GBO tours, can do walk-in or call or e-mail
-	- [ ] call neurologist, make sure neuropsych testing happens?
+	- [X] call neurologist, make sure neuropsych testing happens?
 		2019-01-28
 			referral was sent to chestnut ridge in morgantown on november 29th
 			304 598 6400
 			called and left voicemail with number
+			they called back
+			half day appt, verbal & a little written
+			8:15a or =>12:30a<=
+		-> did this 2019-01-28
 	- [ ] check class situation at gbo?
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
 			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to this telescope stuff
@@ -688,8 +668,28 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Charlottesville, VA`
 		To reschedule: 434-924-5485 (ideally 3 days advance notice)
 		               800-251-3627
+
+- [ ] 2019-02-25 Mon
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Beanery American Grill
+		226 Comfort Inn Dr.
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+
 - [ ] 2019-03-03
 	Gwyn's birthday?
+
+- [ ] 2018-03-12 Tue
+- [ ] 2018-03-13 Wed
+	- [ ] 8:30a - leave for morgantown
+	- [ ] 12:30a - half day neuropsych testing, verbal and a little pencil & paper
+		Dr Christina Wilson
+		1 Medical Center Dr.
+		Morgantown, WV 26506
+
+- [ ] 2018-03-14 Thu
 
 - [ ] 2019-04-03 Wed
 	- [ ] GET BLOOD WORK DONE FOR PET SCAN
