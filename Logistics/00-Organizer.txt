@@ -463,11 +463,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- [ ] 10:00a - call dr bouboulis and schedule check-in either
-		AM? on Fri Feb 8 or Thu Feb 7 (8 is Fri,)
-		or
-		after Feb 23 (25 is mon) or in march 
-		or jim says AM on maybe feb 19 or feb 20
-		-> this morning was pretty tight and tense; I think I'll skip this
+		10:15a Sat Feb 9
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 		-> contacted Jeremy regarding rescheduling this
 		-> kept vascillating, texting him more
@@ -552,6 +548,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Bactrim DS
 	- [ ] register for GBO tours, can do walk-in or call or e-mail
 	- [ ] call neurologist, make sure neuropsych testing happens?
+		2019-01-28
+			referral was sent to chestnut ridge in morgantown on november 29th
+			304 598 6400
+			called and left voicemail with number
 	- [ ] check class situation at gbo?
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
 			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to this telescope stuff
@@ -628,6 +628,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] leave or plan to leave for dr bouboulis meeting on sat
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -650,6 +651,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] 10:15a DR BOUBOULIS IN PERSON VISIT
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -973,6 +975,12 @@ Voicemail:
     Woman on phone said she filed a lawsuit after much legwork, water testing, etc, with the company causing pollution resulting in cancer
     Stated she re-added me to voicemail.  Still does not work.
 
+	2018-1-28 voicemail check
+		304 473 1440 Thu 12:10pm
+			Jennifer at clinic
+			call me back and we'll talk it over
+		
+
 Truck Mechanic
 	Elkins Trucking Services
 	304 636 5330
@@ -1143,6 +1151,7 @@ Green Bank Community Care
 		Menu:
 		1 -> health center
 		2 -> billing
+	Fax: 304 456-5118
 
 Health food stores:
 - Good Energy Foods? in Elkins (small)
