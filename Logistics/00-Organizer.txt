@@ -458,10 +458,12 @@ youtube/vimeo: search consensus decision-making
 Jim Taggart's laptop: Dell express service code #10882328761
 
 - [!] 2019-01-30 Wed
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+		-> gwyn was away letting me sleep late so I gave meds to myself
+		   did not realize was missing meds when sleepily asked to be woken up less
 	- [ ] pick up doxycycline, atovaquone, and bactrim
 	- [ ] 11:00a NOTHING TO EAT OR DRINK PRIOR TO CAT SCAN 3 HRS
 	- [ ] 1:30p CAT scan davis medical center
