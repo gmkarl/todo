@@ -457,27 +457,12 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-01-29 Tue
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] refill doxycycline and atovaquone !!!!!!!
-	- Jim Taggart morning
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] review nvc core concepts materials
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-30 Wed
+- [!] 2019-01-30 Wed
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] pick up doxycycline, atovaquone, and bactrim
 	- [ ] 11:00a NOTHING TO EAT OR DRINK PRIOR TO CAT SCAN 3 HRS
 	- [ ] 1:30p CAT scan davis medical center
 	- [ ][ ] ~6:30p - MEDS after dinnr
