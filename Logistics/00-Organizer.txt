@@ -458,7 +458,7 @@ youtube/vimeo: search consensus decision-making
 Jim Taggart's laptop: Dell express service code #10882328761
 
 - [!] 2019-02-01 Fri
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
