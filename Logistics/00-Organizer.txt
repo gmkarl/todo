@@ -457,47 +457,12 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-01-30 Wed
+- [!] 2019-02-01 Fri
 	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-		-> gwyn was away letting me sleep late so I gave meds to myself
-		   did not realize was missing meds when sleepily asked to be woken up less
-	- [ ] pick up doxycycline, atovaquone, and bactrim
-	- [ ] 11:00a NOTHING TO EAT OR DRINK PRIOR TO CAT SCAN 3 HRS
-	- [ ] 1:30p CAT scan davis medical center
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-01-31 Thu
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] 11:00a - Dr Sivak, eye dr
-				if reasonable, BRING ANY RECORDS FROM BOSTON AREA RE: FACE STUFF
-				referral from Dr Cross, ENT
-	  Mon General Hospital
-		600 Suncrest Town center
-		Morgantown, WV 26505
-		304 598 2200 x243
-		-> I missed this, slept in after it being suffocatingly hot at night making sleep hard
-		   at EJ's place
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-01 Fri
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] 3:00p - 5:00p Miki Kashtan course Responding to the Call of Our Times
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -573,7 +538,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] 9:00a - Kate call rescheduled to 9a for today
+	- [ ][ ] 9:00a - 10:00a - Kate call rescheduled to 9a for today (usu. 10a Fri, Tue)
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -610,6 +575,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
