@@ -1,13 +1,15 @@
 last update: 2018-01-04
 
 - [ ] Measurement:
-Working on a set of scripts to acquire noise profiles without oscillation and measure S.E. from 4 measured histograms.
-Todo items in
-  - [ ] openemissions/shielding/effectiveness-measurement/noiscillate-data/test.cpp
-      Current work with more todo in
-      - [ ] 1-2-gen-diff-hist.cpp
-
-  - [ ] Notes on traditional measurement methods in 01-Traditional_Measurement.txt
+  Made simple script but results are not what was expected.
+  - [ ] Take notes on electromagnetic compatibility / shielding resource material and plan correct way to measure S.E. to compare with crafted way.
+  	- [ ] Notes on traditional measurement methods in 01-Traditional_Measurement.txt
+  - [ ] Reuse noiscillate setup with new soapyRTLSDR changes (timing can be fixed).  Resolve misalignment bug and possible other bugs (some assumption of shifted average could be false?)
+  - [ ] Build enclosable emitter / detector setup to measure actual shielded enclosure.
+	Todo items in
+	  - [ ] openemissions/shielding/effectiveness-measurement/noiscillate-data/test.cpp
+      	Current work with more todo in
+	  - [ ] ?-?-*.cpp
 
 - [ ] Construction:
 Ordered some copper foil, and some thin solder to test soldering the copper foil.
