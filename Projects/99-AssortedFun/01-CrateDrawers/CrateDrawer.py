@@ -100,15 +100,22 @@ class TabbedCorner:
 			self.filler = None
 
 	def fill(self, filler):
+		if self in TabbedCorner.corners:
+			print 'already filled', self.v
+			raise Exception("already filled")
 		TabbedCorner.corners[self] = filler
 		self.filler = TabbedCorner.corners[self]
+		self.filled = True
 
 	def __hash__(self):
 		return (hash(self.v.x) << 1) ^ hash(self.v.y) ^ (hash(self.v.z) << 2)
+	def __eq__(self, other):
+		return self.__hash__() == other.__hash__()
+	def __ne__(self, other):
+		return not (self.__eq__(other))
 
 # NEXT:
-#  1. There's a bug with some box corners where they do not get filled.
-#  2. Each face corner needs exactly 1 screw slot and 1 screw tab to prevent self-intersection
+#  Each face corner needs exactly 1 screw slot and 1 screw tab to prevent self-intersection
 class TabbedEdge:
 	@staticmethod
 	def FromFaces(tabbing, face1, face2):
@@ -126,10 +133,6 @@ class TabbedEdge:
 					# to the edge
 					edgeDir = vs1[1] - vs1[0]
 					edgeDir /= edgeDir.Length
-					cutDirection1 = face1.CenterOfMass - (vs1[0] + vs1[1]) / 2
-					cutDirection1 -= cutDirection1.dot(edgeDir) * edgeDir
-					cutDirection2 = face2.CenterOfMass - (vs1[0] + vs1[1]) / 2
-					cutDirection2 -= cutDirection2.dot(edgeDir) * edgeDir
 					ret.append( (
 						TabbedEdge(tabbing, vs1[0], vs1[1], face1, face2, cutFlag, True, True),
 						TabbedEdge(tabbing, vs1[0], vs1[1], face2, face1, not cutFlag, True, True)
@@ -190,8 +193,11 @@ class TabbedEdge:
 
 		# fill for corner 1
 		if self.c1.filler != self.cutFace:
-			slotpos = -self.tabbing.slotCutOverlap
-			slotlen = self.tabbing.thickness + self.tabbing.slotCutOverlap
+			slotpos = 0
+			slotlen = self.tabbing.thickness
+			if not self.cutMid1:
+				slotpos -= self.tabbing.slotCutOverlap
+				slotlen += self.tabbing.slotCutOverlap
 			if not tabnext:
 				slotlen += self.tabbing.slotCutOverlap
 			self.addslot(slotpos, slotlen)
@@ -217,6 +223,8 @@ class TabbedEdge:
 				#slotlen = 2 * (goalScrewPos - pos)
 				#slotlen = goalScrewPos + self.tabbing.screwTabWidth / 2 - pos
 				slotlen = self.tabbing.screwTabWidth
+				if pos + slotlen > self.dist - self.tabbing.thickness:
+					slotlen = self.dist - self.tabbing.thickness - pos
 				screwpos = pos + slotlen / 2
 				if tabnext:
 				 	self.addscrewtab(screwpos)
@@ -229,15 +237,20 @@ class TabbedEdge:
 					break
 			else:
 				# place a tab
+				tabwidth = self.tabbing.tabWidth
+				if pos + tabwidth > self.dist - self.tabbing.thickness:
+					tabwidth = self.dist - self.tabbing.thickness - pos
 				if not tabnext:
-					self.addslot(pos, self.tabbing.tabWidth)
-				pos += self.tabbing.tabWidth
+					self.addslot(pos, tabwidth)
+				pos += tabwidth
 			tabnext = not tabnext
 
 		# fill for corner 2
 		if self.c2.filler != self.cutFace:
 			slotpos = self.dist - self.tabbing.thickness
-			slotlen = self.tabbing.thickness + self.tabbing.slotCutOverlap
+			slotlen = self.tabbing.thickness
+			if not self.cutMid2:
+				slotlen += self.tabbing.slotCutOverlap
 			if tabnext:
 				slotlen += self.tabbing.slotCutOverlap
 				slotpos -= self.tabbing.slotCutOverlap
@@ -269,7 +282,12 @@ class TabbedEdge:
 	def addscrewtab(self, screwPos):
 		if self.tabbing.screwDiameter:
 			margin = (self.tabbing.thickness - self.tabbing.screwDiameter) / 2
-			self.addcut(screwPos - self.tabbing.screwDiameter / 2, self.tabbing.screwDiameter, margin, margin + self.tabbing.screwDiameter)
+			#self.addcut(screwPos - self.tabbing.screwDiameter / 2, self.tabbing.screwDiameter, margin, margin + self.tabbing.screwDiameter)
+			cut = Part.makeCylinder(self.tabbing.screwDiameter / 2, self.tabbing.thickness * 3, self.c1.v + self.tabbing.thickness / 2 * self.cutDirection + screwPos * self.unitv - self.tabbing.thickness * 2 * self.cutNormal, self.cutNormal)
+			if self.cuts is None:
+				self.cuts = cut
+			else:
+				self.cuts = self.cuts.fuse(cut)
 
 	def addscrewslot(self, startPos, screwPos, length):
 		# other side to tab into
@@ -416,8 +434,9 @@ class CrateDrawer:
 			back_wall = back_wall.cut(cuts[0].calculate())
 			bottom_wall = bottom_wall.cut(cuts[1].calculate())
 
-		back_wall.Placement.move(v(0,th*2,0))
-		bottom_wall.Placement.move(v(0,0,-th*2))
+		# offset parts to see better
+		#back_wall.Placement.move(v(0,th*2,0))
+		#bottom_wall.Placement.move(v(0,0,-th*2))
 		
 		fp.Shape = Part.Compound([left_wall, right_wall, back_wall, bottom_wall])
 
