@@ -30,6 +30,23 @@ screwMaker = ScrewMaker.Instance()
 # When not listening, interrupt with your need.  Other party wants actual communication to happen too.
 #  can be helpful to ask what the person wants back when expressing (could be empathy they're unaware of)
 #   marshall had the experience of 'i'm having some confusing following you; what is it you want back from me saying this?' 'oh nothing in particular' 'well is it all right if I ignore you then?' 'do and I'll kill you!' this seemed to help the person talk more clearly to others even, but it's notable marshall was probably already known to be very caring and that statement would have been out of character as a real insult
+# when other party not speaking productively, interrupt to connect with their need:
+#	"excuse me, excuse me for interrupting, but I really want to be sure I'm connecting to
+#	what you want me to hear by telling me this.  Are you saying that you feel angry right now
+#	about this thing in the past, and you'd really like some understanding about how painful it was?"
+#		-> guess was wrong: she decided she felt hurt rather than angry; was very relevent to
+#		   present moment
+# practice:
+#	- list messages people have said that make one afraid to express oneself
+#		things one is most afraid of hearing
+#		what are these replies we do not express?
+#		how might the other respond?
+#		how can we empathize with this response?
+#		"oh, you're too sensitive" hmm... i'm saying my safety relies on what they say
+#			but what's relevent is how to respond to that next, the feeling and need
+#			maybe they're feeling frustrated because they need understanding for what they said or experienced
+#		hey this PREPARES YOU for the hard things!
+#		comparable: WRITE DOWN hard things you hear!
 
 # to really listen to stories from the past, listen for what is alive in the person NOW
 
@@ -89,6 +106,12 @@ class TabbedCorner:
 	def __hash__(self):
 		return (hash(self.v.x) << 1) ^ hash(self.v.y) ^ (hash(self.v.z) << 2)
 
+# [ ] TODO
+# i'll need a way to:
+#  1. make tabbed edges with screws only on one face
+#	-> specify screw presence per-face rather than overall
+#  2. make tabbed edges that pierce a face.  screws can only easily be screwed into the face
+#	-> have some flag, or detect, not to cut past negative left values, for each face
 class TabbedEdge:
 	@staticmethod
 	def FromFaces(tabbing, face1, face2):
@@ -229,12 +252,47 @@ class TabbedEdge:
 			# nut body
 			self.addcut(screwPos - self.tabbing.nutDiameter / 2, self.tabbing.nutDiameter, self.tabbing.screwMinLength - self.tabbing.nutThickness, self.tabbing.screwMinLength)
 
+class FastenedFace:
+	def __init__(self, tabbing, v1, v2, width1, width2, cutDirection, widthDirection):
+		self.v1 = v1
+		self.v2 = v2
+		self.dist = (v2 - v1).Length
+		self.margin = self.tabbing.nutDiameter / 2
+		self.cutDirection = cutDirection / cutDirection.Length
+		widthDirection /= widthDirection.Length
+		width1 -= self.margin
+		width2 -= self.margin
+		self.widthVector1 = width1 * -widthDirection
+		self.widthVector2 = width2 * widthDirection
+		projectedScrewDistance = math.sqrt(self.tabbing.screwDistance ** 2 - (width1 + width2) ** 2)
+		self.lengthVector = (v2 - v1) / self.dist
+		self.screwCount = int(math.ceil((self.dist - self.margin * 2) / projectedScrewDistance) + 1)
+
+	def calculate(self):
+		screwPosDelta = (self.dist - self.margin * 2) / (self.screwCount - 1)
+		screwPoss = [idx * screwDelta + self.margin for idx in xrange(self.screwCount)]
+		cuts = None
+		side2 = False
+		for pos in screwPoss:
+			vec = self.v1 + self.lengthVector * screwPosDelta
+			if side2:
+				vec += self.widthVector1
+			else:
+				vec += self.widthVector2
+			cut = Part.makeCylinder(self.tabbing.screwDiameter / 2, self.tabbing.thickness * 5, vec - self.tabbing.thickness * 2.5 * self.cutDirection, self.cutDirection)
+			if cuts is None:
+				cuts = cut
+			else:
+				cuts = cuts.fuse(cut)
+			side2 = not side2
+		return cuts
+
 class CrateDrawer:
 	def __init__(self, obj, doc):
-		obj.addProperty('App::PropertyLength', 'crateWidth', 'CrateDrawer', 'Width of a crate')
-		obj.crateWidth = u('2 ft')
+		obj.addProperty('App::PropertyLength', 'crateInnerWidth', 'CrateDrawer', 'Inner width of a crate')
+		obj.crateInnerWidth = u('12 in')
 		obj.addProperty('App::PropertyLength', 'crateHeight', 'CrateDrawer', 'Height of a crate minus overlap')
-		obj.crateHeight = u('18 in')
+		obj.crateHeight = u('10 in')
 		obj.addProperty('App::PropertyLength', 'thickness', 'CrateDrawer', 'Material thickness')
 		obj.thickness = u('0.25 in')
 		obj.addProperty('App::PropertyLength', 'overlap', 'CrateDrawer', 'Stacking overlap')
@@ -246,9 +304,9 @@ class CrateDrawer:
 		obj.addProperty('App::PropertyDistance', 'screwSpacing', 'CrateDrawer', 'Screw spacing')
 		obj.screwSpacing = u('6 in')
 		obj.addProperty('App::PropertyLength', 'screwMaxLength', 'CrateDrawer', 'Maximum screw length')
-		obj.screwMaxLength = u('14 mm')
+		obj.screwMaxLength = u('16 mm')
 		obj.addProperty('App::PropertyLength', 'screwMinLength', 'CrateDrawer', 'Minimum screw length')
-		obj.screwMinLength = u('12 mm')
+		obj.screwMinLength = u('14 mm')
 		obj.addProperty('App::PropertyLength', 'screwDiameter', 'CrateDrawer', 'Screw Diameter')
 		obj.screwDiameter = u('3 mm')
 		obj.addProperty('App::PropertyLength', 'nutDiameter', 'CrateDrawer', 'Nut Diameter')
@@ -280,7 +338,7 @@ class CrateDrawer:
 			self.tabbing = Tabbing(fp.tabSpacing, fp.thickness)
 
 		th = fp.thickness
-		owid = fp.crateWidth - 2 * screwOffset
+		owid = fp.crateInnerWidth + th * 2# - 2 * screwOffset
 		ohit = fp.crateHeight
 
 		c = TabbedCorner
@@ -308,6 +366,10 @@ class CrateDrawer:
 
 		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, back_face):
 			left_wall = left_wall.cut(cuts[0].calculate())
+			back_wall = back_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, right_face, back_face):
+			right_wall = right_wall.cut(cuts[0].calculate())
 			back_wall = back_wall.cut(cuts[1].calculate())
 		
 		fp.Shape = Part.Compound([left_wall, right_wall, back_wall])
