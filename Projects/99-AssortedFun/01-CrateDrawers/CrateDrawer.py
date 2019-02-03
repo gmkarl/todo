@@ -106,12 +106,9 @@ class TabbedCorner:
 	def __hash__(self):
 		return (hash(self.v.x) << 1) ^ hash(self.v.y) ^ (hash(self.v.z) << 2)
 
-# [ ] TODO
-# i'll need a way to:
-#  1. make tabbed edges with screws only on one face
-#	-> specify screw presence per-face rather than overall
-#  2. make tabbed edges that pierce a face.  screws can only easily be screwed into the face
-#	-> have some flag, or detect, not to cut past negative left values, for each face
+# NEXT:
+#  1. There's a bug with some box corners where they do not get filled.
+#  2. Each face corner needs exactly 1 screw slot and 1 screw tab to prevent self-intersection
 class TabbedEdge:
 	@staticmethod
 	def FromFaces(tabbing, face1, face2):
@@ -134,32 +131,45 @@ class TabbedEdge:
 					cutDirection2 = face2.CenterOfMass - (vs1[0] + vs1[1]) / 2
 					cutDirection2 -= cutDirection2.dot(edgeDir) * edgeDir
 					ret.append( (
-						TabbedEdge(tabbing, vs1[0], vs1[1], cutDirection1, cutFlag),
-						TabbedEdge(tabbing, vs1[0], vs1[1], cutDirection2, not cutFlag)) )
+						TabbedEdge(tabbing, vs1[0], vs1[1], face1, face2, cutFlag, True, True),
+						TabbedEdge(tabbing, vs1[0], vs1[1], face2, face1, not cutFlag, True, True)
+					) )
 		return ret
 				
 
-	def __init__(self, tabbing, v1, v2, cutDirection, cutFlag):
+	def __init__(self, tabbing, v1, v2, cutFace, otherFace, cutFlag, cutScrewFlag, otherScrewFlag, cutMidLeft= False, cutMid1 = False, cutMid2 = False):
 		self.c1 = TabbedCorner(v1)
 		self.c2 = TabbedCorner(v2)
+		self.cutFace = cutFace
+		self.otherFace = otherFace
+		self.cutMidLeft = cutMidLeft
+		self.cutMid1 = cutMid1
+		self.cutMid2 = cutMid2
 		self.dist = (v2 - v1).Length
 		if self.dist == 0:
 			raise Exception('endpoints are coincident')
 		self.unitv = (v2 - v1) / self.dist
 		self.tabbing = tabbing
+		cutDirection = cutFace.CenterOfMass - (v1 + v2) / 2
+		cutDirection -= cutDirection.dot(self.unitv) * self.unitv
 		if cutDirection.Length == 0:
 			raise Exception('cut direction is zero')
 		self.cutDirection = cutDirection / cutDirection.Length
 		self.cutFlag = cutFlag
 		self.cutNormal = self.unitv.cross(self.cutDirection)
-		if self.tabbing.screwDistance:
+		self.cutScrewFlag = cutScrewFlag and self.tabbing.screwDistance
+		self.otherScrewFlag = otherScrewFlag and self.tabbing.screwDistance
+		self.screwFlag = self.cutScrewFlag or self.otherScrewFlag
+		if self.screwFlag:
 			self.screwCount = int(math.ceil(self.dist / self.tabbing.screwDistance) + 1)
 		else:
 			self.screwCount = 0
 		if not self.c1.filled and cutFlag:
-			self.c1.fill(self)
+			self.c1.fill(self.cutFace)
 		elif not self.c2.filled and not cutFlag:
-			self.c2.fill(self)
+			self.c2.fill(self.cutFace)
+		self.haveEnd1 = (self.c1.filler == self.cutFace or self.c1.filler == self.otherFace)
+		self.haveEnd2 = (self.c2.filler == self.cutFace or self.c2.filler == self.otherFace)
 		if self.tabbing.screwDistance:
 			if self.screwCount % 2 != 0:
 				++ self.screwCount
@@ -179,7 +189,7 @@ class TabbedEdge:
 		tabnext = self.cutFlag
 
 		# fill for corner 1
-		if self.c1.filler != self:
+		if self.c1.filler != self.cutFace:
 			slotpos = -self.tabbing.slotCutOverlap
 			slotlen = self.tabbing.thickness + self.tabbing.slotCutOverlap
 			if not tabnext:
@@ -188,10 +198,21 @@ class TabbedEdge:
 		pos += self.tabbing.thickness
 
 		while pos < self.dist - self.tabbing.thickness:
+			# self.cutScrewFlag indicates we can make screw tabs here
+			# self.otherScrewFlag indicates we can make screw slots here
+			if tabnext:
+				canscrewhere = self.cutScrewFlag
+				canscrewnext = self.otherScrewFlag
+			else:
+				canscrewhere = self.otherScrewFlag
+				canscrewnext = self.cutScrewFlag
 			possibleScrewPos = pos + self.tabbing.screwTabWidth / 2
-			nextScrewPos = pos + self.tabbing.tabWidth + self.tabbing.screwTabWidth / 2
+			if canscrewnext:
+				nextScrewPos = pos + self.tabbing.tabWidth + self.tabbing.screwTabWidth / 2
+			else:
+				nextScrewPos = pos + self.tabbing.tabWidth * 2 + self.tabbing.screwTabWidth / 2
 			goalScrewPos = self.screwPositions[screwIdx]
-			if abs(goalScrewPos - possibleScrewPos) < abs(goalScrewPos - nextScrewPos):
+			if canscrewhere and abs(goalScrewPos - possibleScrewPos) < abs(goalScrewPos - nextScrewPos):
 				# place a screw
 				#slotlen = 2 * (goalScrewPos - pos)
 				#slotlen = goalScrewPos + self.tabbing.screwTabWidth / 2 - pos
@@ -214,7 +235,7 @@ class TabbedEdge:
 			tabnext = not tabnext
 
 		# fill for corner 2
-		if self.c2.filler != self:
+		if self.c2.filler != self.cutFace:
 			slotpos = self.dist - self.tabbing.thickness
 			slotlen = self.tabbing.thickness + self.tabbing.slotCutOverlap
 			if tabnext:
@@ -225,6 +246,13 @@ class TabbedEdge:
 		return self.cuts
 		
 	def addcut(self, startPos, length, left, right):
+		if self.cutMidLeft and left < 0:
+			left = 0
+		if self.cutMid1 and startPos < 0:
+			length += startPos
+			startPos = 0
+		if self.cutMid2 and startPos + length > self.dist:
+			length = self.dist - startPos
 		raw_coords = [v(left, 0, 0), v(right, 0, 0), v(right, length, 0), v(left, length, 0), v(left, 0, 0)]
 		coords = [self.c1.v + coord.x * self.cutDirection + (coord.y + startPos) * self.unitv - self.tabbing.thickness * 2 * self.cutNormal for coord in raw_coords]
 		front = Part.Face(Part.makePolygon(coords))
@@ -289,6 +317,8 @@ class FastenedFace:
 
 class CrateDrawer:
 	def __init__(self, obj, doc):
+		obj.addProperty('App::PropertyLength', 'crateOuterWidth', 'CrateDrawer', 'Outer width of a crate')
+		obj.crateOuterWidth = u('13 in')
 		obj.addProperty('App::PropertyLength', 'crateInnerWidth', 'CrateDrawer', 'Inner width of a crate')
 		obj.crateInnerWidth = u('12 in')
 		obj.addProperty('App::PropertyLength', 'crateHeight', 'CrateDrawer', 'Height of a crate minus overlap')
@@ -338,7 +368,7 @@ class CrateDrawer:
 			self.tabbing = Tabbing(fp.tabSpacing, fp.thickness)
 
 		th = fp.thickness
-		owid = fp.crateInnerWidth + th * 2# - 2 * screwOffset
+		owid = fp.crateOuterWidth - 2 * screwOffset
 		ohit = fp.crateHeight
 
 		c = TabbedCorner
@@ -359,10 +389,12 @@ class CrateDrawer:
 		left_face = Part.Face(Part.makePolygon([ops[0].v,ops[1].v,ops[2].v,ops[3].v,ops[0].v]))
 		right_face = Part.Face(Part.makePolygon([ops[4].v,ops[5].v,ops[6].v,ops[7].v,ops[4].v]))
 		back_face = Part.Face(Part.makePolygon([ops[1].v,ops[2].v,ops[6].v,ops[5].v,ops[1].v]))
+		bottom_face = Part.Face(Part.makePolygon([ops[0].v,ops[1].v,ops[5].v,ops[4].v,ops[0].v]))
 
 		left_wall = left_face.extrude(v(th,0,0))
 		right_wall = right_face.extrude(v(-th,0,0))
 		back_wall = back_face.extrude(v(0,-th,0))
+		bottom_wall = bottom_face.extrude(v(0,0,th))
 
 		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, back_face):
 			left_wall = left_wall.cut(cuts[0].calculate())
@@ -371,8 +403,23 @@ class CrateDrawer:
 		for cuts in TabbedEdge.FromFaces(self.tabbing, right_face, back_face):
 			right_wall = right_wall.cut(cuts[0].calculate())
 			back_wall = back_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, bottom_face):
+			left_wall = left_wall.cut(cuts[0].calculate())
+			bottom_wall = bottom_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, right_face, bottom_face):
+			right_wall = right_wall.cut(cuts[0].calculate())
+			bottom_wall = bottom_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, back_face, bottom_face):
+			back_wall = back_wall.cut(cuts[0].calculate())
+			bottom_wall = bottom_wall.cut(cuts[1].calculate())
+
+		back_wall.Placement.move(v(0,th*2,0))
+		bottom_wall.Placement.move(v(0,0,-th*2))
 		
-		fp.Shape = Part.Compound([left_wall, right_wall, back_wall])
+		fp.Shape = Part.Compound([left_wall, right_wall, back_wall, bottom_wall])
 
 def makeCrate():
 		if not FreeCAD.ActiveDocument:
