@@ -457,33 +457,13 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-02-03 Sun
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		-> taking meds by myself as gwyn is at cottage
-		-> leave her a note that I took them after bkfst!
-	- [ ] leave gwyn meds note or tell her I took them
-	- [ ][ ] 11:30a - leave for Blacksburg group 3:00p - 4:30p, 1st and 3rd sundays/mo
-		2014 Northside Dr
-		Blacksburg, VA
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-	- [ ][ ] 8:00p - street giraffes first sunday of the month
-	  call 530 881-1212  (or maybe 701 801-1211)
-	  meeting id in email
-	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
-
-- [ ] 2019-02-04 Mon
+- [!] 2019-02-04 Mon
 	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+		-> missed this
 	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He said it would be running by the end of last week.
 			M-F 9a=5:30p see 'Truck Mechanic' section below
 			304 636 5330
@@ -604,6 +584,9 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		To reschedule: 434-924-5485 (ideally 3 days advance notice)
 		               800-251-3627
 
+- [ ] 2019-02-24 Sun
+	Is Gwyn's birthday in 1 week?
+
 - [ ] 2019-02-25 Mon
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
@@ -613,8 +596,19 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
 
-- [ ] 2019-03-03
+- [ ] 2019-03-02 Sat
+	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
+	  BUT NOTE tomorrow might be Gwyn's birthday
+
+- [ ] 2019-03-03 Sun
 	Gwyn's birthday?
+	- [ ][ ] 11:30a - leave for Blacksburg group 3:00p - 4:30p, 1st and 3rd sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA
+	- [ ][ ] 8:00p - street giraffes first sunday of the month
+	  call 530 881-1212  (or maybe 701 801-1211)
+	  meeting id in email
+	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 
 - [ ] 2018-03-12 Tue
 - [ ] 2018-03-13 Wed
