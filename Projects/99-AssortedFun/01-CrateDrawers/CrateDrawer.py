@@ -91,6 +91,9 @@ class Tabbing:
 
 class TabbedCorner:
 	corners = {}
+	@staticmethod
+	def reset():
+		TabbedCorner.corners = {}
 	def __init__(self, v):
 		self.v = v
 		if self in TabbedCorner.corners:
@@ -414,6 +417,8 @@ class CrateDrawer:
 		right_wall = right_face.extrude(v(-th,0,0))
 		back_wall = back_face.extrude(v(0,-th,0))
 		bottom_wall = bottom_face.extrude(v(0,0,th))
+
+		TabbedCorner.reset()
 
 		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, back_face):
 			left_wall = left_wall.cut(cuts[0].calculate())
