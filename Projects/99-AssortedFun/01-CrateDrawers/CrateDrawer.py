@@ -118,7 +118,13 @@ class TabbedCorner:
 	def __ne__(self, other):
 		return not (self.__eq__(other))
 
+# NEXT:
+# The two floor approaches of sending beams down below don't really work because the pieces to affix them are so close to each other.
+# Alternative solutions include multiple layers so no cross-connections are needed inside here,
+#   or using the wide floor with a layer of floor flat against it below (easiest).
+
 class TabbedEdge:
+	trace = False
 	@staticmethod
 	def FromFaces(tabbing, face1, face2):
 		v2v = lambda vv: v(vv.X, vv.Y, vv.Z)
@@ -131,10 +137,6 @@ class TabbedEdge:
 				vs2 = [v2v(x) for x in edge2.Vertexes]
 				if (samev(vs1[0], vs2[0]) and samev(vs1[1], vs2[1])) or (samev(vs1[0], vs2[1]) and samev(vs1[1], vs2[0])):
 					cutFlag = coordlist(vs1[0]) < coordlist(vs1[1])
-					# we only want the component of cutDirection that is normal
-					# to the edge
-					edgeDir = vs1[1] - vs1[0]
-					edgeDir /= edgeDir.Length
 					ret.append( (
 						TabbedEdge(tabbing, vs1[0], vs1[1], face1, face2, cutFlag, True, True),
 						TabbedEdge(tabbing, vs1[0], vs1[1], face2, face1, not cutFlag, True, True)
@@ -142,7 +144,7 @@ class TabbedEdge:
 		return ret
 				
 
-	def __init__(self, tabbing, v1, v2, cutFace, otherFace, cutFlag, cutScrewFlag, otherScrewFlag, cutMidLeft= False, cutMid1 = False, cutMid2 = False):
+	def __init__(self, tabbing, v1, v2, cutFace, otherFace, cutFlag, cutScrewFlag, otherScrewFlag, cutMidLeft= False, cutMid1 = False, cutMid2 = False, corner1Flag = True, corner2Flag = True):
 		self.c1 = TabbedCorner(v1)
 		self.c2 = TabbedCorner(v2)
 		self.cutFace = cutFace
@@ -150,12 +152,18 @@ class TabbedEdge:
 		self.cutMidLeft = cutMidLeft
 		self.cutMid1 = cutMid1
 		self.cutMid2 = cutMid2
+		self.corner1Flag = corner1Flag
+		self.corner2Flag = corner2Flag
 		self.dist = (v2 - v1).Length
 		if self.dist == 0:
 			raise Exception('endpoints are coincident')
 		self.unitv = (v2 - v1) / self.dist
 		self.tabbing = tabbing
 		cutDirection = cutFace.CenterOfMass - (v1 + v2) / 2
+		if TabbedEdge.trace:
+			print 'face center of mass = ', cutFace.CenterOfMass
+			print 'edge direction = ', self.unitv
+			print 'edge to center of mass arrow = ', cutDirection
 		cutDirection -= cutDirection.dot(self.unitv) * self.unitv
 		if cutDirection.Length == 0:
 			raise Exception('cut direction is zero')
@@ -178,9 +186,18 @@ class TabbedEdge:
 		if self.tabbing.screwDistance:
 			if self.screwCount % 2 != 0:
 				++ self.screwCount
-			screwOffset = self.tabbing.screwTabWidth / 2 + self.tabbing.thickness + self.tabbing.screwEdgeDistance
-			screwDelta = (self.dist - screwOffset * 2) / (self.screwCount - 1)
-			self.screwPositions = [idx * screwDelta + screwOffset for idx in xrange(self.screwCount)]
+			screwOffset = self.tabbing.screwTabWidth / 2 + self.tabbing.screwEdgeDistance
+			screwOffset2 = screwOffset
+			if self.corner1Flag:
+				screwOffset += self.tabbing.thickness
+			if self.corner2Flag:
+				screwOffset2 += self.tabbing.thickness
+			if screwOffset > self.dist:
+				self.screwCount = 1
+				self.screwPositions = [self.dist / 2]
+			else:
+				screwDelta = (self.dist - screwOffset + screwOffset2) / (self.screwCount - 1)
+				self.screwPositions = [idx * screwDelta + screwOffset for idx in xrange(self.screwCount)]
 		else:
 			self.screwPositions = []
 	
@@ -192,20 +209,32 @@ class TabbedEdge:
 
 		screwIdx = 0
 		tabnext = self.cutFlag
+		if TabbedEdge.trace:
+			print 'Calculating from ', self.c1.v, ' to ', self.c2.v
+			print 'Cutting in direction ', self.cutDirection
 
-		# fill for corner 1
-		if self.c1.filler != self.cutFace:
-			slotpos = 0
-			slotlen = self.tabbing.thickness
-			if not self.cutMid1:
-				slotpos -= self.tabbing.slotCutOverlap
-				slotlen += self.tabbing.slotCutOverlap
-			if not tabnext:
-				slotlen += self.tabbing.slotCutOverlap
-			self.addslot(slotpos, slotlen)
-		pos += self.tabbing.thickness
+		if self.corner1Flag:
+			# fill for corner 1
+			if self.c1.filler != self.cutFace:
+				slotpos = 0
+				slotlen = self.tabbing.thickness
+				if not self.cutMid1:
+					slotpos -= self.tabbing.slotCutOverlap
+					slotlen += self.tabbing.slotCutOverlap
+				if not tabnext:
+					slotlen += self.tabbing.slotCutOverlap
+				if TabbedEdge.trace:
+					print "Slotting corner 1 from ", slotpos, " to ", slotpos + slotlen
+				self.addslot(slotpos, slotlen)
+			elif TabbedEdge.trace:
+				print "Tabbing corner 1 from ", pos, " to ", pos + self.tabbing.thickness
+			pos += self.tabbing.thickness
+		if self.corner2Flag:
+			stopTabbingAt = self.dist - self.tabbing.thickness
+		else:
+			stopTabbingAt = self.dist
 
-		while pos < self.dist - self.tabbing.thickness - self.tabbing.slotCutOverlap:
+		while pos < stopTabbingAt - self.tabbing.slotCutOverlap:
 			# self.cutScrewFlag indicates we can make screw tabs here
 			# self.otherScrewFlag indicates we can make screw slots here
 			if tabnext:
@@ -228,35 +257,49 @@ class TabbedEdge:
 				#slotlen = 2 * (goalScrewPos - pos)
 				#slotlen = goalScrewPos + self.tabbing.screwTabWidth / 2 - pos
 				slotlen = self.tabbing.screwTabWidth
-				if pos + slotlen > self.dist - self.tabbing.thickness:
-					slotlen = self.dist - self.tabbing.thickness - pos
+				if pos + slotlen > stopTabbingAt:
+					slotlen = stopTabbingAt - pos
 				screwpos = pos + slotlen / 2
 				if tabnext:
 				 	self.addscrewtab(screwpos)
 				else:
 				 	self.addscrewslot(pos, screwpos, slotlen)
+				if TabbedEdge.trace:
+					print "Placing screw at ", screwpos, " from ", pos, " to ", pos + slotlen
 				pos += slotlen
 				screwIdx = screwIdx + 1
 			else:
+				if TabbedEdge.trace:
+					if canscrewhere:
+						print "Waiting at ", possibleScrewPos, " for ", nextScrewPos, " which is closer to screw goal pos of ", goalScrewPos
 				# place a tab
 				tabwidth = self.tabbing.tabWidth
-				if pos + tabwidth > self.dist - self.tabbing.thickness:
-					tabwidth = self.dist - self.tabbing.thickness - pos
+				if pos + tabwidth > stopTabbingAt:
+					tabwidth = stopTabbingAt - pos
 				if not tabnext:
+					if TabbedEdge.trace:
+						print "Slotting from ", pos, " to ", pos + tabwidth
 					self.addslot(pos, tabwidth)
+				elif TabbedEdge.trace:
+					print "Tabbing from ", pos, " to ", pos + tabwidth
 				pos += tabwidth
 			tabnext = not tabnext
 
-		# fill for corner 2
-		if self.c2.filler != self.cutFace:
-			slotpos = self.dist - self.tabbing.thickness
-			slotlen = self.tabbing.thickness
-			if not self.cutMid2:
-				slotlen += self.tabbing.slotCutOverlap
-			if tabnext:
-				slotlen += self.tabbing.slotCutOverlap
-				slotpos -= self.tabbing.slotCutOverlap
-			self.addslot(slotpos, slotlen)
+		if self.corner2Flag:
+			# fill for corner 2
+			if self.c2.filler != self.cutFace:
+				slotpos = self.dist - self.tabbing.thickness
+				slotlen = self.tabbing.thickness
+				if not self.cutMid2:
+					slotlen += self.tabbing.slotCutOverlap
+				if tabnext:
+					slotlen += self.tabbing.slotCutOverlap
+					slotpos -= self.tabbing.slotCutOverlap
+				if TabbedEdge.trace:
+					print "Slotting corner 2 from ", slotpos, " to ", slotpos + slotlen
+				self.addslot(slotpos, slotlen)
+			elif TabbedEdge.trace:
+				print "Tabbing corner 1 from ", pos, " to ", pos + self.tabbing.thickness
 
 		return self.cuts
 		
@@ -349,6 +392,8 @@ class CrateDrawer:
 		obj.overlap = u('0.5 in')
 		obj.addProperty('App::PropertyLength', 'tabSpacing', 'CrateDrawer', 'Tab spacing')
 		obj.tabSpacing = u('1 in')
+		obj.addProperty('App::PropertyLength', 'floorHeight', 'CrateDrawer', 'Floor beam height')
+		obj.floorHeight = obj.tabSpacing
 		obj.addProperty('App::PropertyBool', 'screws', 'CrateDrawer', 'Whether to use screws or just glue')
 		obj.screws = True
 		obj.addProperty('App::PropertyDistance', 'screwSpacing', 'CrateDrawer', 'Screw spacing')
@@ -393,32 +438,30 @@ class CrateDrawer:
 		owid = fp.crateOuterWidth - 2 * screwOffset
 		ohit = fp.crateHeight
 
-		c = TabbedCorner
+		TabbedCorner.reset()
+
+		parts = []
+
 		ops = [
-			c(v(-owid / 2,-owid / 2, 0)),
-			c(v(-owid / 2, owid / 2, 0)),
-			c(v(-owid / 2, owid / 2, ohit)),
-			c(v(-owid / 2,-owid / 2, ohit)),
-			c(v( owid / 2,-owid / 2, 0)),
-			c(v( owid / 2, owid / 2, 0)),
-			c(v( owid / 2, owid / 2, ohit)),
-			c(v( owid / 2,-owid / 2, ohit))
+			v(-owid / 2,-owid / 2, 0),
+			v(-owid / 2, owid / 2, 0),
+			v(-owid / 2, owid / 2, ohit),
+			v(-owid / 2,-owid / 2, ohit),
+			v( owid / 2,-owid / 2, 0),
+			v( owid / 2, owid / 2, 0),
+			v( owid / 2, owid / 2, ohit),
+			v( owid / 2,-owid / 2, ohit)
 		]
 
-		for c in ops:
-			c.v += v(owid / 2, -owid / 2, 0)
-
-		left_face = Part.Face(Part.makePolygon([ops[0].v,ops[1].v,ops[2].v,ops[3].v,ops[0].v]))
-		right_face = Part.Face(Part.makePolygon([ops[4].v,ops[5].v,ops[6].v,ops[7].v,ops[4].v]))
-		back_face = Part.Face(Part.makePolygon([ops[1].v,ops[2].v,ops[6].v,ops[5].v,ops[1].v]))
-		bottom_face = Part.Face(Part.makePolygon([ops[0].v,ops[1].v,ops[5].v,ops[4].v,ops[0].v]))
+		left_face = Part.Face(Part.makePolygon([ops[0],ops[1],ops[2],ops[3],ops[0]]))
+		right_face = Part.Face(Part.makePolygon([ops[4],ops[5],ops[6],ops[7],ops[4]]))
+		back_face = Part.Face(Part.makePolygon([ops[1],ops[2],ops[6],ops[5],ops[1]]))
+		#bottom_face = Part.Face(Part.makePolygon([ops[0],ops[1],ops[5],ops[4],ops[0]]))
 
 		left_wall = left_face.extrude(v(th,0,0))
 		right_wall = right_face.extrude(v(-th,0,0))
 		back_wall = back_face.extrude(v(0,-th,0))
-		bottom_wall = bottom_face.extrude(v(0,0,th))
-
-		TabbedCorner.reset()
+		#bottom_wall = bottom_face.extrude(v(0,0,th))
 
 		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, back_face):
 			left_wall = left_wall.cut(cuts[0].calculate())
@@ -428,23 +471,132 @@ class CrateDrawer:
 			right_wall = right_wall.cut(cuts[0].calculate())
 			back_wall = back_wall.cut(cuts[1].calculate())
 
-		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, bottom_face):
-			left_wall = left_wall.cut(cuts[0].calculate())
-			bottom_wall = bottom_wall.cut(cuts[1].calculate())
+		#for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, bottom_face):
+		#	left_wall = left_wall.cut(cuts[0].calculate())
+		#	bottom_wall = bottom_wall.cut(cuts[1].calculate())
 
-		for cuts in TabbedEdge.FromFaces(self.tabbing, right_face, bottom_face):
-			right_wall = right_wall.cut(cuts[0].calculate())
-			bottom_wall = bottom_wall.cut(cuts[1].calculate())
+		#for cuts in TabbedEdge.FromFaces(self.tabbing, right_face, bottom_face):
+		#	right_wall = right_wall.cut(cuts[0].calculate())
+		#	bottom_wall = bottom_wall.cut(cuts[1].calculate())
 
-		for cuts in TabbedEdge.FromFaces(self.tabbing, back_face, bottom_face):
-			back_wall = back_wall.cut(cuts[0].calculate())
-			bottom_wall = bottom_wall.cut(cuts[1].calculate())
+		#for cuts in TabbedEdge.FromFaces(self.tabbing, back_face, bottom_face):
+		#	back_wall = back_wall.cut(cuts[0].calculate())
+		#	bottom_wall = bottom_wall.cut(cuts[1].calculate())
+
+		# structure for settling under floor
+		iwid = fp.crateInnerWidth
+		fhit = fp.floorHeight
+		floor_overlap = fp.overlap
+
+		#ops = [
+		#	v(-iwid / 2,-iwid / 2, self.tabbing.thickness),
+		#	v(-iwid / 2, iwid / 2, self.tabbing.thickness),
+		#	v(-iwid / 2, iwid / 2, -floor_overlap),
+		#	v(-iwid / 2,-iwid / 2, -floor_overlap),
+		#	v( iwid / 2,-iwid / 2, self.tabbing.thickness),
+		#	v( iwid / 2, iwid / 2, self.tabbing.thickness),
+		#	v( iwid / 2, iwid / 2, -floor_overlap),
+		#	v( iwid / 2,-iwid / 2, -floor_overlap)
+		#]
+
+		#settle_left_face = Part.Face(Part.makePolygon([ops[0],ops[1],ops[2],ops[3],ops[0]]))
+		#settle_right_face = Part.Face(Part.makePolygon([ops[4],ops[5],ops[6],ops[7],ops[4]]))
+		#settle_back_face = Part.Face(Part.makePolygon([ops[1],ops[2],ops[6],ops[5],ops[1]]))
+		#settle_front_face = Part.Face(Part.makePolygon([ops[0],ops[3],ops[4],ops[7],ops[0]]))
+
+		#settle_left_wall = settle_left_face.extrude(v(th,0,0))
+		#settle_right_wall = settle_right_face.extrude(v(-th,0,0))
+		#settle_back_wall = settle_back_face.extrude(v(0,-th,0))
+		#settle_front_wall = settle_front_face.extrude(v(0,th,0))
+
+		#bottom_wall = bottom_wall.cut(TabbedEdge(self.tabbing, ops[0], ops[1], bottom_face, settle_left_face, False, True, False, True, True, True, False, False).calculate())
+		#settle_left_wall = settle_left_wall.cut(TabbedEdge(self.tabbing, ops[0], ops[1], settle_left_face, bottom_face, True, False, True, False, False, False, False, False).calculate())
+		#
+		#parts.append(settle_left_wall)
+
+		horizontal_floor_walls = []
+		horizontal_floor_faces = []
+		horizontal_floor_points = []
+
+		floor1SlotsOnTop = False
+		floor2SlotsOnTop = True
+
+		for floor_dist in (-iwid / 2, iwid / 2):
+			floor_points = [
+				v(-owid / 2, floor_dist, 0),
+				v( owid / 2, floor_dist, 0),
+				v( owid / 2, floor_dist, fhit),
+				v(-owid / 2, floor_dist, fhit)
+			]
+			floor_points.append(floor_points[0])
+			horizontal_floor_points.append(floor_points)
+			floor_face = Part.Face(Part.makePolygon(floor_points))
+			horizontal_floor_faces.append(floor_face)
+			
+			floor_wall = floor_face.extrude(v(0,-th*cmp(floor_dist,0),0))
+			horizontal_floor_walls.append(floor_wall)
+
+		back_floor_points = horizontal_floor_points[1]
+		front_floor_points = horizontal_floor_points[0]
+		back_floor_wall = horizontal_floor_walls[1]
+		front_floor_wall = horizontal_floor_walls[0]
+		back_floor_face = horizontal_floor_faces[1]
+		front_floor_face = horizontal_floor_faces[0]
+
+		secondary_floor_walls = []
+
+		for floor_dist in (-iwid / 2, iwid / 2):
+			floor_points = [
+				v(floor_dist,-iwid / 2, 0),
+				v(floor_dist, owid / 2, 0),
+				v(floor_dist, owid / 2, fhit),
+				v(floor_dist,-iwid / 2, fhit)
+			]
+			floor_points.append(floor_points[0])
+			floor_face = Part.Face(Part.makePolygon(floor_points))
+			
+			floor_wall = floor_face.extrude(v(-th*cmp(floor_dist,0),0,0))
+			floor_wall = floor_wall.cut(TabbedEdge(self.tabbing, floor_points[0], floor_points[3], floor_face, front_floor_face, not floor2SlotsOnTop, False, True, False, False, False, False, False).calculate())
+			front_floor_wall = front_floor_wall.cut(TabbedEdge(self.tabbing, floor_points[0], floor_points[3], front_floor_face, floor_face, floor2SlotsOnTop, True, False, True, False, True, False, False).calculate())
+			floor_wall = floor_wall.cut(TabbedEdge(self.tabbing, floor_points[1], floor_points[2], floor_face, back_face, not floor2SlotsOnTop, False, True, False, False, False, False, False).calculate())
+			back_wall = back_wall.cut(TabbedEdge(self.tabbing, floor_points[1], floor_points[2], back_face, floor_face, floor2SlotsOnTop, True, False, True, False, True, False, False).calculate())
+			secondary_floor_walls.append(floor_wall)
+
+		horizontal_floor_walls = []
+		for pointswallface in ((front_floor_points,front_floor_wall,front_floor_face),(back_floor_points,back_floor_wall,back_floor_face)):
+			floor_points = pointswallface[0]
+			floor_wall = pointswallface[1]
+			floor_face = pointswallface[2]
+			floor_wall = floor_wall.cut(TabbedEdge(self.tabbing, floor_points[0], floor_points[3], floor_face, left_face, not floor1SlotsOnTop, False, True, False, False, False, False, False).calculate())
+			left_wall = left_wall.cut(TabbedEdge(self.tabbing, floor_points[0], floor_points[3], left_face, floor_face, floor1SlotsOnTop, True, False, True, False, True, False, False).calculate())
+			floor_wall = floor_wall.cut(TabbedEdge(self.tabbing, floor_points[1], floor_points[2], floor_face, right_face, not floor1SlotsOnTop, False, True, False, False, False, False, False).calculate())
+			right_wall = right_wall.cut(TabbedEdge(self.tabbing, floor_points[1], floor_points[2], right_face, floor_face, floor1SlotsOnTop, True, False, True, False, True, False, False).calculate())
+			horizontal_floor_walls.append(floor_wall)
+		back_floor_wall = horizontal_floor_walls[1]
+		front_floor_wall = horizontal_floor_walls[0]
 
 		# offset parts to see better
 		#back_wall.Placement.move(v(0,th*2,0))
 		#bottom_wall.Placement.move(v(0,0,-th*2))
+		#left_wall.Placement.move(v(-th*2,0,0))
+		#right_wall.Placement.move(v(th*2,0,0))
+
+		#parts = secondary_floor_walls
+
+		#parts.append(back_floor_wall)
+		#parts.append(front_floor_wall)
+
+		parts.append(back_floor_wall)
+		parts.append(front_floor_wall)
+		parts.append(secondary_floor_walls[0])
+		parts.append(secondary_floor_walls[1])
+
+		parts.append(left_wall)
+		parts.append(right_wall)
+		parts.append(back_wall)
+		#parts.append(bottom_wall)
 		
-		fp.Shape = Part.Compound([left_wall, right_wall, back_wall, bottom_wall])
+		fp.Shape = Part.Compound(parts)
 
 def makeCrate():
 		if not FreeCAD.ActiveDocument:
