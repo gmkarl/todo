@@ -67,10 +67,11 @@ screwMaker = ScrewMaker.Instance()
 
 			
 class Tabbing:
-	def __init__(self, tabDistance, thickness, screwDistance=0, screwDiameter=0, screwMinLength=0, screwMaxLength=0, nutDiameter=0, nutThickness=0):
+	def __init__(self, tabDistance, thickness, screwDistance=0, screwEdgeDistance=0, screwDiameter=0, screwMinLength=0, screwMaxLength=0, nutDiameter=0, nutThickness=0):
 		self.tabDistance = tabDistance.Value
 		self.thickness = thickness.Value
 		self.screwDistance = screwDistance.Value
+		self.screwEdgeDistance = screwEdgeDistance.Value
 		self.screwDiameter = screwDiameter.Value
 		self.screwMinLength = screwMinLength.Value
 		self.screwMaxLength = screwMaxLength.Value
@@ -114,8 +115,6 @@ class TabbedCorner:
 	def __ne__(self, other):
 		return not (self.__eq__(other))
 
-# NEXT:
-#  Each face corner needs exactly 1 screw slot and 1 screw tab to prevent self-intersection
 class TabbedEdge:
 	@staticmethod
 	def FromFaces(tabbing, face1, face2):
@@ -176,7 +175,7 @@ class TabbedEdge:
 		if self.tabbing.screwDistance:
 			if self.screwCount % 2 != 0:
 				++ self.screwCount
-			screwOffset = self.tabbing.screwTabWidth / 2 + self.tabbing.thickness
+			screwOffset = self.tabbing.screwTabWidth / 2 + self.tabbing.thickness + self.tabbing.screwEdgeDistance
 			screwDelta = (self.dist - screwOffset * 2) / (self.screwCount - 1)
 			self.screwPositions = [idx * screwDelta + screwOffset for idx in xrange(self.screwCount)]
 		else:
@@ -203,7 +202,7 @@ class TabbedEdge:
 			self.addslot(slotpos, slotlen)
 		pos += self.tabbing.thickness
 
-		while pos < self.dist - self.tabbing.thickness:
+		while pos < self.dist - self.tabbing.thickness - self.tabbing.slotCutOverlap:
 			# self.cutScrewFlag indicates we can make screw tabs here
 			# self.otherScrewFlag indicates we can make screw slots here
 			if tabnext:
@@ -217,7 +216,10 @@ class TabbedEdge:
 				nextScrewPos = pos + self.tabbing.tabWidth + self.tabbing.screwTabWidth / 2
 			else:
 				nextScrewPos = pos + self.tabbing.tabWidth * 2 + self.tabbing.screwTabWidth / 2
-			goalScrewPos = self.screwPositions[screwIdx]
+			if screwIdx < len(self.screwPositions):
+				goalScrewPos = self.screwPositions[screwIdx]
+			else:
+				goalScrewPos = float('inf')
 			if canscrewhere and abs(goalScrewPos - possibleScrewPos) < abs(goalScrewPos - nextScrewPos):
 				# place a screw
 				#slotlen = 2 * (goalScrewPos - pos)
@@ -232,9 +234,6 @@ class TabbedEdge:
 				 	self.addscrewslot(pos, screwpos, slotlen)
 				pos += slotlen
 				screwIdx = screwIdx + 1
-				if screwIdx == len(self.screwPositions):
-					tabnext = not tabnext
-					break
 			else:
 				# place a tab
 				tabwidth = self.tabbing.tabWidth
@@ -346,11 +345,13 @@ class CrateDrawer:
 		obj.addProperty('App::PropertyLength', 'overlap', 'CrateDrawer', 'Stacking overlap')
 		obj.overlap = u('0.5 in')
 		obj.addProperty('App::PropertyLength', 'tabSpacing', 'CrateDrawer', 'Tab spacing')
-		obj.tabSpacing = u('0.5 in')
+		obj.tabSpacing = u('1 in')
 		obj.addProperty('App::PropertyBool', 'screws', 'CrateDrawer', 'Whether to use screws or just glue')
 		obj.screws = True
 		obj.addProperty('App::PropertyDistance', 'screwSpacing', 'CrateDrawer', 'Screw spacing')
 		obj.screwSpacing = u('6 in')
+		obj.addProperty('App::PropertyDistance', 'screwMargin', 'CrateDrawer', 'Distance to space screws away from corners')
+		obj.screwMargin = obj.tabSpacing
 		obj.addProperty('App::PropertyLength', 'screwMaxLength', 'CrateDrawer', 'Maximum screw length')
 		obj.screwMaxLength = u('16 mm')
 		obj.addProperty('App::PropertyLength', 'screwMinLength', 'CrateDrawer', 'Minimum screw length')
@@ -381,7 +382,7 @@ class CrateDrawer:
 			screwOffset = 0
 
 		if fp.screws:
-			self.tabbing = Tabbing(fp.tabSpacing, fp.thickness, fp.screwSpacing, fp.screwDiameter, fp.screwMinLength, fp.screwMaxLength, fp.nutDiameter, fp.nutThickness)
+			self.tabbing = Tabbing(fp.tabSpacing, fp.thickness, fp.screwSpacing, fp.screwMargin, fp.screwDiameter, fp.screwMinLength, fp.screwMaxLength, fp.nutDiameter, fp.nutThickness)
 		else:
 			self.tabbing = Tabbing(fp.tabSpacing, fp.thickness)
 
