@@ -512,6 +512,79 @@ class CrateDrawer:
 		TabbedEdge.trace = True
 		right_wall = right_wall.cut(TabbedEdge(self.tabbing, right_trim_edge[0], right_trim_edge[1], right_face, trim_face, False, False, True, False, False, True, True, False).calculate())
 
+		# drawer
+		nutHeight = (self.tabbing.nutDiameter - self.tabbing.thickness) / 2
+		if nutHeight < 0:
+			nutHeight = 0
+		dsidemargin = self.tabbing.thickness + nutHeight
+		screwHeight = fp.screwHeadHeight.Value
+		if screwHeight < nutHeight:
+			screwHeight = nutHeight;
+		dbotmargin = self.tabbing.thickness + screwHeight
+		dwid = owid.Value - self.tabbing.thickness * 2 - dsidemargin * 2
+		dbot = self.tabbing.thickness + screwHeight
+		dtop = ohit - fp.overlap - fp.trimWidth
+		dps = [
+			v(-dwid / 2,-dwid / 2, dbot),
+			v(-dwid / 2, dwid / 2, dbot),
+			v(-dwid / 2, dwid / 2, dtop),
+			v(-dwid / 2,-dwid / 2, dtop),
+			v( dwid / 2,-dwid / 2, dbot),
+			v( dwid / 2, dwid / 2, dbot),
+			v( dwid / 2, dwid / 2, dtop),
+			v( dwid / 2,-dwid / 2, dtop),
+			v(-dwid / 2, dwid / 2, dtop + fp.trimWidth),
+			v( dwid / 2, dwid / 2, dtop + fp.trimWidth),
+		]
+
+		drawer_left_face = Part.Face(Part.makePolygon([dps[0],dps[1],dps[2],dps[3],dps[0]]))
+		drawer_right_face = Part.Face(Part.makePolygon([dps[4],dps[5],dps[6],dps[7],dps[4]]))
+		drawer_back_face = Part.Face(Part.makePolygon([dps[1],dps[2],dps[6],dps[5],dps[1]]))
+		drawer_bottom_face = Part.Face(Part.makePolygon([dps[0],dps[1],dps[5],dps[4],dps[0]]))
+		drawer_front_face = Part.Face(Part.makePolygon([dps[3],dps[7],dps[4],dps[0],dps[3]]))
+		drawer_back_full_face = Part.Face(Part.makePolygon([dps[1],dps[8],dps[9],dps[5],dps[1]]))
+
+		drawer_left_wall = drawer_left_face.extrude(v(th,0,0))
+		drawer_right_wall = drawer_right_face.extrude(v(-th,0,0))
+		drawer_back_wall = drawer_back_full_face.extrude(v(0,-th,0))
+		drawer_bottom_wall = drawer_bottom_face.extrude(v(0,0,th))
+		drawer_front_wall = drawer_front_face.extrude(v(0,th,0))
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_left_face, drawer_back_face):
+			drawer_left_wall = drawer_left_wall.cut(cuts[0].calculate())
+			drawer_back_wall = drawer_back_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_right_face, drawer_back_face):
+			drawer_right_wall = drawer_right_wall.cut(cuts[0].calculate())
+			drawer_back_wall = drawer_back_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_left_face, drawer_front_face):
+			drawer_left_wall = drawer_left_wall.cut(cuts[0].calculate())
+			drawer_front_wall = drawer_front_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_right_face, drawer_front_face):
+			drawer_right_wall = drawer_right_wall.cut(cuts[0].calculate())
+			drawer_front_wall = drawer_front_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_left_face, drawer_bottom_face):
+			drawer_left_wall = drawer_left_wall.cut(cuts[0].calculate())
+			drawer_bottom_wall = drawer_bottom_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_right_face, drawer_bottom_face):
+			drawer_right_wall = drawer_right_wall.cut(cuts[0].calculate())
+			drawer_bottom_wall = drawer_bottom_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_back_face, drawer_bottom_face):
+			drawer_back_wall = drawer_back_wall.cut(cuts[0].calculate())
+			drawer_bottom_wall = drawer_bottom_wall.cut(cuts[1].calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, drawer_front_face, drawer_bottom_face):
+			drawer_front_wall = drawer_front_wall.cut(cuts[0].calculate())
+			drawer_bottom_wall = drawer_bottom_wall.cut(cuts[1].calculate())
+
+		drawer = Part.Compound([drawer_left_wall, drawer_right_wall, drawer_back_wall, drawer_bottom_wall, drawer_front_wall])
+		drawer.Placement.move(v(0,-dwid/2,0))
+
 		# structure for settling under floor
 		iwid = fp.crateInnerWidth.Value
 		#fhit = fp.floorHeight.Value
@@ -660,6 +733,7 @@ class CrateDrawer:
 		parts.append(back_wall)
 		parts.append(bottom_wall)
 		parts.append(trim_wall)
+		parts.append(drawer)
 		parts.extend(settle_floors)
 		
 		fp.Shape = Part.Compound(parts)
