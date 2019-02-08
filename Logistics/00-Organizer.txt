@@ -455,171 +455,138 @@ youtube/vimeo: search consensus decision-making
 
 => When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
 
-- [!] 2018-12-25 Tue
-	- [X][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- meet woman at telescope involved in amateur work (ideas for what to say to)
-			-> hmm ... i guess this might get done by being in a 'logistics & scheduled' category of my nic routine
-	- [X][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
+Jim Taggart's laptop: Dell express service code #10882328761
 
-- [ ] 2018-12-26 Wed
-	- Christmas celebration
-		- Christmas celebration
-	- [ ][ ] ~8:30a - MEDS after bkfst
+- [!] 2019-02-04 Mon
+	- [X][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+		-> missed this
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He said it would be running by the end of last week.
+			M-F 9a=5:30p see 'Truck Mechanic' section below
+			304 636 5330
 	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
 
-- [ ] 2018-12-27 Thu
-	- [ ][ ] ~8:30a - MEDS after bkfst
+- [ ] 2019-02-05 Tue
+	PAY RENT TO JIM REESE
+		WRITE A CHECK OFF FIRST CITIZEN'S USING CHERYL'S $!000
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] 12:00p - 1:00p IP Jeremy in person
-	- [ ] 1:00p - 4:00p Kate BA shift
+	- [ ][ ] 9:00a - 10:00a - Kate call rescheduled to 9a for today (usu. 10a Fri, Tue)
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-02-06 Wed
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ] review nvc core concepts materials
+	- [ ] register for GBO tours, can do walk-in or call or e-mail
+	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
+	- [ ] 3:00p - pick up atovquone and azitromycin from pharmacy
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-02-07 Thu
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ] leave or plan to leave for dr bouboulis meeting on sat
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-02-08 Fri
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ] check class situation at gbo?
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
-			- add 'LOGISTICS & SCHEDULED' to nice routine
-			- contact old profs etc for possible recommendations
+			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to this telescope stuff
+			- 2. apply for internship & continue coursework (add to routine)
+			- contact profs etc for possible recommendations for internship
 			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
 			- meet woman at telescope involved in amateur work (ideas for what to say to)
 			- other ideas, possibly from e-mail with astronomer
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-28 Fri
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2018-12-29 Sat
-	- [ ][ ] ~8:30a - MEDS after bkfst
-		100mg doxycycline
-		Bactrim DS
-        - [ ] 11:09a - American Airlines flight 1915 leaves Boston
-        - [ ] 3:37p - flight 5488 arrives Charlottesville
-				- CALL GWYN when arrive green bank, for meds check-in
-				gwyn please FIND KARL if he does not contact you
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-Start adding Mepron with Gwyn to antibiotics on return.
-
-- [ ] 2018-01-01 Tue
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
-- [ ] 2019-01-02 Wed
-	- [ ][ ] gbo 2019 brochure will show 2019 dates for high tech & seti tours (likely start february)
-				-> internet brochure may not be updated for a couple months; check for brochure in-person
-				-> may also be a newsletter
-				-> can also just e-mail and ask to sign up for next seti/high tech tour
-	- [ ] reschedule missed Celia call
-	- [ ] 1:00p - Jim Taggart arrives? will sort out where to meet, maybe elkins
-	- [ ] 2:00p
-		Jenny L Cross
-		Bring mailed paperwork, insurance card, medications
-		Tygart Valley Medical Specialties
-		911 Gorman Avenue
-		Old Physicians Office Building
-		Suite 201
-		Elkins, WV 26241
+- [ ] 2019-02-09 Sat
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ] 10:15a DR BOUBOULIS IN PERSON VISIT
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
-- [ ] 2019-01-03 Thu
-	- Jim Taggart
-	- [ ][X] 10:00 am - 11:00am Dr Mooney (every other week; copy forward 14 days)
-			-> rescheduled from 1:00pm, will be 1:00pm next time according to dr mooney 2018-12-19 1:05p
-
-- [ ] 2019-01-04 Fri
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-			-> Jim in this call
-
-- [ ] 2019-01-06 Sun
-	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 2 sundays/mo
-		2014 Northside Dr
-		Blacksburg, VA
-	- [ ][ ] 8:00p - street giraffes first sunday of the month
-	  call 530 881-1212  (or maybe 701 801-1211)
-	  meeting id in email
-	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
-
-- [ ] 2019-01-07 Mon
-	- [ ] Jeremy and Jim?
-
-- [ ] 2019-01-08 Tue
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 1
-				-> could be helpful to set up screen recording
-
-- [ ] 2018-01-09 Wed
-	- [ ] 1:45p Oncological Follow-up
-		-> rescheduled to this day
-		Dr Fleming
-		Davis Medical Center
-		801 Harrison Ave
-		Elkins, WV 26241
-		davishealthsystem.org
-		304 637 3640
-		fax: 304 637 3644
-		-> it was actually at 11:45 !
-
-- [ ] 2019-01-10 Thu
-	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
-
-- [ ] 2019-01-15 Tue
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2
-
-- [ ] 2018-01-17 Thu
-	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
-		CHAPTER 9
-		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
-
-- [ ] 2019-01-22 Tue
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3
-
-- [ ] 2019-01-23 Wed
-	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
-
-- [ ] 2019-01-27 Sun
-	- [ ] 7:30a perhaps leave if going to friends meeting
-  - [ ] 10:00a Buckhannon "Preparative" Meeting?
-			Judy Seaman 304 636-7712
-			Meditation Chapel at West Virginia Wesleyan
-			Buckhannon, WV 26201
-
-- [ ] 2019-01-28 Mon
-	- [ ][ ] 6:30 PM food
-		~7:00 PM official meeting
-		Mon Grotto meeting last monday of every month
-		Beanery American Grill
-		226 Comfort Inn Dr.
-		Morgantown, WV 26508
-		Wayne Perkins <jwperkins0@gmail.com>
-
-- [ ] 2019-01-29 Tue
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4
-
-- [ ] 2019-02-05 Tue
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5
+- [ ] 2019-02-11 Mon
+	- [ ][ ] 12:45p - Basileia monthly Zoom NVC practice (every 2rd Mon 12:45p)
+					          register at https://calendly.com/basileia/monthly-practice
 
 - [ ] 2019-02-12 Tue
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 6 (final)
 
+- [ ] 2019-02-13 Wed
+	- [ ] 1:30p - Dr Cross followup after CAT scan
 
-- [ ] 2019-02-14
+- [ ] 2019-02-14 Thu
+	ALERT! the two appointments scheduled for today conflict
+	- [ ] 11:30a - Dr Sivak, eye dr
+				if reasonable, BRING ANY RECORDS FROM BOSTON AREA RE: FACE STUFF
+				referral from Dr Cross, ENT
+	  Mon General Hospital
+		600 Suncrest Town center
+		Morgantown, WV 26505
+		304 598 2200 x243
 	- [ ] 1:00 PM dental cleaning
+
+- [ ] 2019-02-15 Fri
+
+- [ ] 2019-02-16 Sat
+
+- [ ] 2019-02-17 Sun
+	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA
+
+- [ ] 2019-02-18 Mon
+
+- [ ] 2019-02-19 Tue
+
+- [ ] 2019-02-20 Wed
+
+- [ ] 2019-02-21 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 9
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2019-02-22 Fri
 	- [ ] 6:00 A leave for eye appt
@@ -628,8 +595,65 @@ Start adding Mepron with Gwyn to antibiotics on return.
 		Charlottesville, VA`
 		To reschedule: 434-924-5485 (ideally 3 days advance notice)
 		               800-251-3627
-- [ ] 2019-03-03
+
+- [ ] 2019-02-23 Sat
+
+- [ ] 2019-02-24 Sun
+	Is Gwyn's birthday in 1 week?
+
+- [ ] 2019-02-25 Mon
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Beanery American Grill
+		226 Comfort Inn Dr.
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+
+- [ ] 2019-02-26 Tue
+
+- [ ] 2019-02-27 Wed
+
+- [ ] 2019-02-28 Thu
+
+- [ ] 2019-02-29 Fri
+
+- [ ] 2019-03-02 Sat
+	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
+	  BUT NOTE tomorrow might be Gwyn's birthday
+
+- [ ] 2019-03-03 Sun
 	Gwyn's birthday?
+	- [ ][ ] 11:30a - leave for Blacksburg group 3:00p - 4:30p, 1st and 3rd sundays/mo
+		2014 Northside Dr
+		Blacksburg, VA
+	- [ ][ ] 8:00p - street giraffes first sunday of the month
+	  call 530 881-1212  (or maybe 701 801-1211)
+	  meeting id in email
+	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
+
+- [ ] 2018-03-13 Wed
+	- [ ] 8:30a - leave for morgantown
+	- [ ] 12:30a - half day neuropsych testing, verbal and a little pencil & paper
+		Dr Christina Wilson
+		1 Medical Center Dr.
+		Morgantown, WV 26506
+
+- [ ] 2018-03-14 Thu
+
+- [ ] 2019-04-03 Wed
+	- [ ] GET BLOOD WORK DONE FOR PET SCAN
+				lab form is in glove compartment of VW
+
+- [ ] 2019-04-10 Wed
+	- [ ] 2:00p Oncology PET Scan
+			Davis Cancer Center or whatnot
+			Elkins
+
+===
+- [ ] 2019-08-04 Sun
+	30 Year Anniversary Maine Primitive Skills School
+===
 
 - [ ] 2019-10-02
 	Kate's Birthday
@@ -854,6 +878,49 @@ Green Bank, WV 24944
 	UPS delivered stright to my door, marked my address as 6330 Potomac Highlands Trail / Ste 7
 					I had written it as 6328 / tiny home behind shed, and they rewrote it as above to suite 7
 
+House Purchase:
+	- I'll need to write a check for $1000 with accompanying note that I'm not
+	  expecting it to be deposited until they have agreed to the offer.
+		Bill will send $1000 to First Citizens.
+	- Contact realtor and say I would like to make an offer.
+	  Cheryl Dean
+	  304 940-0607
+					304 799-4002
+	- Terms of offer.
+	  Contingent on the following being done:
+	  1. Approval of a mortgage for the house for $50,000 with a 30 year term,
+		   at the prevailing interest rate.
+			 - ask broker way to say this, if standard time period is specified
+			 - ask how long it would take to get a mortgage in this community
+			 :Loan contingency
+		2. The buyer has a week to have the home and septic system inspected.
+			:home inspection done, anything -> completed by 18th
+		3. Removal of all the trash, clothing, and personal items from the
+		   primary building, and removal of everything from the rundown front
+			 building.
+		4. Broom sweeping of both properties before closing.
+	- Broker may ask me to be preapproved for a mortgage.  If needed, Bill will
+	  walk me through.
+	- Clarify that furniture, appliances, and tools will convey with the property.
+	- Cheryl will be back in touch.
+	- 11:45a Cheryl checks back
+			-> clarify appliances stay, furniture is not in listing but they don't seem to want to move it
+			   owner will take hutch that was left in mother's will
+			- owner will remove personal belongings and sweep floors
+			- some things may be left in workspace
+			- needs to talk to sister, will call her this evening and talk to her
+			- Cheryl will call back tomorrow with result pricewie
+	- 2018-01-09
+			- Owners countered with $100,000 .  I replied with $94,000, Cheryl will
+			  get back to me.  Owner wants to leave upstairs Tommy stove, but may
+				take some furniture.
+			- mom says I could fax the check, but it sounds like it's not needed
+			- mom recommends I accept any offer they provide, and if they don't
+			  counter we can counter with more.
+	- 2018-01-10 11:08a
+			Cheryl will send documents with DocuSign
+			REMEMBER TO OFFER TO FAX CHECK
+
 Voicemail:
 	*100
 		pin is 6 digits
@@ -863,9 +930,119 @@ Voicemail:
     Woman on phone said she filed a lawsuit after much legwork, water testing, etc, with the company causing pollution resulting in cancer
     Stated she re-added me to voicemail.  Still does not work.
 
+	2018-1-28 voicemail check
+		304 473 1440 Thu 12:10pm
+			Jennifer at clinic
+			call me back and we'll talk it over
+		
+
+Truck Mechanic
+	Elkins Trucking Services
+	304 636 5330
+	38 11 St
+	Please visit during business hours.
+	9a-5:30p M-F
+
+	2019-01-04 truck is in line for shop, not looked at yet
+						 should have it in before the end of next week
+	2019-01-23 truck is in the shop for transmission, new one has been ordered, should be done by 2019-02-02
+						 starter was bad and has been replaced
+	2019-01-28 received call from office that towing has still not been paid for.
+		It's $752.40
+	- [X] when do you think it'll be finished?
+				could you call me if you learn there will be a delay, so I can plan around it?
+				-> have not queued yet
+				-> Sat 2019-02-02
+	- [X] have you received payment? is there more needed?
+				-> got request to order transmission, haven't looked at truck yet, may not be worth it
+				-> transmission ordered, will send estimate to gmkarl@gmail.com 2019-01-23
+	- [X] aware of: AC, lift gate, speakers, brakes, (cab light?)
+				-> added to ticket
+	- [X] what is the dial to the left of the wheel? changes engine noise
+				-> will investigate
+	- [X] has new transmission arrived?
+				-> have not ordered yet
+	- [X] how can I get personal stuff out of cab?
+			-> can visit
+
+		- in shop, engine runs fine, transmission ordered
+				new starter replaced
+
+
+Insurance
+	Uni?care
+	Member: 00505837144
+	Says no primary insurance on file.
 
 
 VOICEMAIL NOTES
+	1. 1. Hear New Messages
+		1. Repeat
+		2. Save
+		3. Delete
+		4. Reply
+		5. Send a copy
+		# Leave as new
+
+802 774 8450
+	Sun 3:33P
+	Hey Karl how ya doin it's Jim just calling to check in about a few things and see that
+	we're still on for our trip this Fri and Sat to see Dr Bouboulis
+	Hope you survive the cold and that things are okay at the two houses
+	Also wanted to know if that guy Hughes ever got back to you about the Buffalo Mtn Rd house
+	Can call me at 802 774 8450
+
+844 779 1041
+	Mon 6:06p
+		Mon Power
+
+802 774 8450
+	Tue 11:51A
+	Hey Karl how ya doin it's Jim calling to check in.  If you could give me a call I'd
+	appreciate it.  At home in Vermont. 802 774 8450.  I want to know if you've
+	been contacted about seeing the Buffalo Mtn Rd house and also wanted to
+	check in with you about our plans about Friday and Saturday and if that's still
+	a go.  I'd appreciate a call.  Bye-bye.
+
+Community Dental Care of Green Bank
+	Today 9:56A
+	Good morning this is Margaret.  Reminder about uncoming cleaning appointemtn.
+	Feb 14 1:00P.  304 456 5433 if you have any questions or need to make any changes.
+
+844-779-1040
+	Fri Dec 28 12:53P
+		Mon Power
+Cheryl Dean
+	2019-01-09 3:02p
+		304 799 4002
+  2019-01-17 4:23p
+		Got an e-mail from Dad that asked to make additional changes.  She did so and sent it to me.
+		If I have any questions, call her there at office.
+304 44731440?
+	2019-01-24 12:10p
+	Hey Karl it's Jennifer at the clinic, just call me back and we'll talk it over.  After you left everybody called me.
+802 774 8450
+	2019-01-30 11:15a
+	Hi Karl how are you it's Jim I'm calling to check in see how your
+	night went.  I'll have some time this afternoon if you feel
+	like giving me a call back or  text update about how my night went
+	It was great going to morgantown with you I really enjoyed it
+	talk with you soon bye
+304 456 5115
+	Karl this is Pam at Green Bank Clinic.  It's look like Dr Cross
+	referred you to a Dr in Morgantown and I was just calling to check
+	and see if you knew about the appointment: it's tomorrow at
+	eleven o'clock.  Their number is 304 598 2200
+844 779 1040
+	2019-02-01 10:19a
+	Urgent message from Mon Power for Robert C Bold
+802 774 8450
+	2019-02-03 3:33p
+	Jim calling to check in with you about a few things and to
+	see that we're still on for our trip this Friday and Saturday
+	to see Dr Bouboulis.
+	Also did Hughes ever get back to you about the buffalo
+	monutain ranch house?
 
 Caverns
 	WVCC provides access to public caves
@@ -987,11 +1164,16 @@ Green Bank Community Care
 		Menu:
 		1 -> health center
 		2 -> billing
+	Fax: 304 456-5118
 
 Health food stores:
 - Good Energy Foods? in Elkins (small)
 - A couple in Lewisburg
 
+
+CCIL / WV Choice
+	304-636-9396
+	Cheryl
 
 
 Green Box (garbage facility)
@@ -1008,6 +1190,21 @@ Metals: Valley Steel, 30 mins towards elkins
 
 Frontier Support:
 	Main Menu: 877-669-5535
+		1 - new residential customer, interested in service
+		2 - current customer
+			1 - transfer to new address
+			2 - make changes to existing service
+			3 - billing questions
+			4 - installation date questions
+			9 - all other technical support
+				frontier.com/helpcenter
+				1 - english residential
+
+				2 - english business
+				3 - spanish residential
+				4 - spanish business
+		3 - new commmerical customer
+
 		1 - current customer, customer service
 		or
 		2 - current customer, install date
@@ -1030,6 +1227,19 @@ Frontier Support:
 	DSL Tech Dept: 888-440-2096
 		1 - english
 			304 456 5564
+
+	Voicemail Access
+		2018-01-09
+				I haven't had voicemail for at least a month.
+				Right now I "have" voicemail but it rejects my pin.
+				I just called support and got the new pin 922846, but
+				this pin still did not work.
+				I've now called support again, 6:24pm.
+				Michelle recovered a pin from December 11, 602169
+				She tried this pin and it worked.
+				unexpected number was set as my contact number:
+					800-239-4430
+				Can now access my voicemail !!
 
 Green Bank Anechoic Chamber
 	Jansky Laboratory
@@ -1061,7 +1271,9 @@ Gwyn Cole
 	304 456 5300
 
 James Reese
-	304 456 4525
+	304 456 4525 office
+	304 456 4489 home
+		call anytime to get water turned off
 
 Diane Schou
 	304 456 5525
@@ -1118,7 +1330,7 @@ Dr Bouboulis
 		-> going to talk with dr bouboulis
 		-> aware that not allergic to azithromycin, allergic to amoxicillin
 	2. get missing antibiotic
-		green bank pharmacy
+		Green Bank Pharmacy
 		PO Box 85
 		90 Route 28
 		Green Bank, WV 24944
@@ -1836,8 +2048,223 @@ Agenda:
 
 		- goals
 
+2019-01-03 10:02 Dr Mooney
+	items:
+		- finding pen
+		- update
+			- jim hire organizer
+			- organization system
+			- shielding project?
+			- karl's post to mailing list
+		- check-in to see recent behavior
+		- wrapup to see how the meeting went
+
+	10:05
+	check-in:
+		started new year, two weeks since talked to dr mooney
+		- visited parents for xmas, also kate
+		- set up brushing/routine
+			- visited parents and froze up, it threw in the works and i've been somewhat struggling
+		- my laptop broke so my systems are slightly confused
+		- my parents gave me a new laptop for birthday, but it's not set up with floobits
+		10:10
+		- came up with plan for building working shielding space, lots of excitement around which has inhibited progress
+		- parents are planning to buy a house with me; jim and i are visiting a candidate today
+		- gettign better at nvc; i've used it successfully in one or two situations
+		- planning to attend a caving meeting with jim
+		- attending multiple nvc groups
+		- dropped some e-mail conversations i had
+		- my parents support me in pursuing an internship at the telescope but it is very hard to make progress on
+		- struggled to make progress with volunteership at telescope; missed celia's last call
+				-> should really schedule regular calls with celia
+		10:13
+			buyung house explanation: I asked my parents to co-sign a mortgage on a $40k house nearby, which jim had brought to my awarenes
+			would make it affordable for me.  they saw there was no pluming and it was very rundown, and make a counter-proposal the next day
+			that I buy a larger house with much better attributes, and they would make a large downpayment on it to give it a comparable mortgage
+		- jim took the truck tot he mechanic
+		- my parents gave me a brithday present of paying for the transmission
+		-> I want to call the mechanic and review the situation and bring some additional issues to their attention like broken AC and lift gate,
+		   but I keep forgetting to do this
+		10:15
+		gwyn is still visiting twice/day sometimes more
+			she often offers to work more than I am interested, speaking with the assumption that i want her to
+			i want to give her work but often am not looking for more things done
+	two best times for celia calls:
+			9:30a-5:00p m-f
+			- any time monday afternoon (1230 - 5)
+			- any time wednesday EXCEPT for the 9th when I have a cancer appt an hour away
+			- any time thursday _other_ than my talk with dr mooney (which apparently is mischeduled)
+					some weeks I am unavaialble Thu afternoon this happens 1/mo
+			- any time friday afternoon
+		10:21
+	email i posted to mailing list:
+		https://lists.cpunks.org/pipermail/cypherpunks/2019-January/044280.html
+		10:37
+	hiring an organizer with jim:
+	floobits with celia?
+	wrapup:
+		10:51 karl thinks things went okay !
+		  dr mooney is worried he took me somewhere that was too frightening
+			karl tries to clarify he was responsible for going there, and was trying to bring things there
+			dr mooney says karl is brave for sharing this with him today
+
+2019-01-04 Kate & Jim
+	10:13a
+	concerns:
+			- relay my new routine script
+			- discuss/plan/inform jim's work combining some of the organization concepts
+	10:14a
+			- J: when jim visits every other week, it's nice [to use the same structure]... usually come midday wednesday and then here for half the day, sometimes thursday ...
+			  if we use the same process, and i think we kind of do ... then we engage and have some sort of checkout ...
+				just being aware that we're using the same kind of process or organizational things when we're together for a long period of times
+				=> broadening what we're doing in these meetings to the whole time we're together (me and jim)
+		  - time tracking, involvement tracking
+			- Kt: purpose of these calls; to articulate that as well as to determine the frequency of them
+	10:18a
+	Purpose of These Calls
+			Kt - 6-8 wks ago Kr askd if the 3 of us could meet, my understanding it was for
+				1 - sometimes it's helpful to have a group conversation rather than 1-on-1, affects the dynamics
+				2 - related to organization systems, Kt and Kr had worked on that before
+				3 - historically, Kr and I have spent about a year together, or a little more; there could be a passing-on of best
+				    practices for relating
+				4 - Kt wants to show up in whatever way is supportive to you both
+			Jm - re: 1, value of involving many people, occasionally, perhaps more people
+					 re: organization systems, i was trying to start fresh, but after research involve new stuff
+					     early december lots of disorganization for Kr, didn't make much progress
+					 Kr wants to feel more organized and get stuff done in his life, bottom line, and people have experience and that's great
+					 also: getting point of view
+			10:27a
+			Kr - .getting stuck, other struggles
+			    .trouble communicating and collaborating
+			    .Jm, hiring an organizer
+			Jm - Action Method: look at everything in your life as a project.  Imagine a folder.  On the front are action steps
+			     to complete the project.  Inside the folder are the reference materials; things you need to complete the steps.
+				Jm has experience that Karl's routines are complex and interwoven [perhaps that they could even be getting in the way
+				of progress?].  I think he expresses a desire for simplicity, unsure.  Repeats focus on a system of 3 priorities.
+			...
+			10:44a
+			10:47a
+			Kt - breaking tasks up into categories: daily routine, ongoing projects, life-enriching goals
+					if Kr can attend to a bit of each, he might experience more fulfillment
+			Jm - in past we've discussed chunking each week or day into blocks: work, therapeutic lifestyle, social connection
+					Kr was trying to allocate whole days at once to things like this
+					impresed by all Kr has tried, but it doesn't seem anything really sticks and course is stayed
+			...
+			Jm - Karl keeps talking about bringing people in, but I think that complicates things.  We have the formation of a
+      			really interesting team here with Kate, Dr Mooney, Gwyn, Jeremy ...
+						I think the answer is somehow in how we're teaming ... this talk may not be efficient.  There's a lot of
+						possibly wasted effort that could be more efficient and effective.
+			Jm - requests meeting with most parties discussing how we are working together, to make more effective.
+			     prior to that perhaps could synthesize goals and priorities.  team's purpose is to support me to get that
+					 accomplished, and to think creatively about how.
+			Kt - when many ppl are working on similar things, it can be very helpful to have quarterly or monthly meetings.
+
+2019-01-10 11:15a Dr Mooney
+	Agenda?
+		- house
+		- Celia
+		- wrap-up at end
+
+2019-01-23 13:05p Dr Mooney
+	Agenda:
+		- Celia
+		- check-in on Karl and Karl's family and the House purchase
+		- Check-in on Jim and Jim's involvement
+		- How things are going with support staff (Gwyn)
+		- Focus for work with Dr Mooney (brainstorm, check-in)
+					questions for inspiration are: what does dr mooney see his role as? what does karl see his role as?
+
+	Let's go
+		- Celia
+				didn't get call at 12:00p (which is kind of good because I was having a water emergency involving taking up the carpet)
+				Celia does not have the time to consistently meet with Karl.  Doesn't want to promise things she can't follow through on.
+				Dr Mooney is going to pursue this, find somebody else.
+		- check-in on Karl and Karl's family and the House purchase
+				My parents seem okay ... I visited them? over christmas ...
+				I talked with them recently, but I don't remember what about ...
+				but they seem somewhat wellish?
+				Karl has been kind of fluctuating ... some really rough days, some ok days generally marked
+				by high doses of nicotine.  I've been thinking of my experience as being at the nadir of what
+				I call "looping" -- where I stop my productive activity, forget a big chunk of it, and do something
+				else for a while.  It's generally associated with intense suffering prior.
+				So I've been figuring this is the case and playing a lot of video games, which has not really
+				involved suffering at all.
+				I'm trying to get back on the nicotine and associate it with being productive.  Maybe looping can stop.
+				"Has it run its course with regard to functionality?"  [With behavioral plans, some reinforcers can
+				sustain themselves and some cannot without increases.] "With any substance that is addictive, like
+				nicotine, your body is going to demand more to get the same result."
+				The effect decreasing that I'm concerned about is how easy it is to take the nicotine.
+				It seems to be getting harder.
+				House looks like ti will happen fi we are okay with asbestos etc derelict house.
+		- Check-in on Jim and Jim's involvement
+				Jim is helping with the house inspections; he seems to have kind of taken charge of them.
+				I've also asked him to keep tabs on some obligations that I'm having trouble remembering
+				  that came up when I was with him.
+				He visits every two weeks.
+				He's a little taxed and will be staying in the area longer this week in order to attend with me
+				a caving group meeting that I wanted to try next weekish.
+				Jim is also kind of managing Gwyn, orchestrating payment and such.
+				I'm asking Jim to hire an organizer for me; he offered to once.  My things are hard to find
+				and it would be incredible to have an ally in having everything have a place.
+				Jim sometimes tries to task Gwyn with tasks that are not that aligned with my relationship with her;
+				I haven't quite sorted that out.
+		- How things are going with support staff (Gwyn)
+				I generally try to encourage things with Gwyn to mostly be about giving me meds, which is
+				what I was looking for at the start.  I haven't gotten good at communicating with her in
+				depth at this time; so it can be hard to get on the same page about workable strategies
+				for workarounds to my issues.
+		- Focus for work with Dr Mooney (brainstorm, check-in)
+					questions for inspiration are: what does dr mooney see his role as? what does karl see his role as?
+
+					What does Dr Mooney see his role as?
+						(What is Karl's role in relation to that?)
+						"I see, in some ways, looking at the bigger picture and looking from a behavioral point of view,
+						 developing strategies, that sort of thing, asking some of the more difficult questions,
+						 and approaching things from a macro rather than micro point of view."
+
+					- Looking at the bigger picture and approaching things from a macro rather than a micro point of view
+							"looking at more 'what are you doing, what are you able to do' and 'how can we get you there'
+							as opposed to focusing on the day-to-day functioning.  What are your larger goals and how can
+							we set you off in that direction?  You may not reach a certain goal, but you make decisions
+							along the way."
+					- Developing strategies, that sort of thing
+					- Asking some of the more difficult questions
+
+					Has
+					- Experience with working with
+							- autism-spectrum individuals
+							- recoverees from radiation treatment
+							- psychosis diagnosees
+							and the "bowl of spaghetti" such people are in
+
+					What does Karl see Dr Mooney's role as?
+
+					Goal Relevance:
+						Dr Mooney has interest in helping organize my goals and priorities, while keeping in mind my values.
+
+					Strategy Relevance:
+						Dr Mooney has interest in finding workarounds for the obstructions in my daily life and my pursuit of my goals.
+
+					Dr Mooney requests involvement of Jim and Gwyn regarding strategies and "goal-setting".
+						Worries discussions will remain in floobits and not reach the real world.
+
+					Karl texted Jim regarding Dr Mooney's request for meetings involving Jim and Gwyn.
+					Dates and times were suggested.
+
+
+
 VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
 				consider occasional sense of conflict could be both of us searching for achievement to happen soon
+
+TIMEKEEPING: consider asking somebody to track how much each person speaks, so we can work on improving efficiency of meetings?
+
+LONGER-TERM CONCERNS:
+		- pressure of practical items going by unresolved and how much time addressing them is eaten up
+		- complexity and number of pieces that need structure, plan, effort to address
+		- intense struggle performing simple tasks, especially if high priority
+
+CONCEPTS / APPROACHES / REFERENCES:
+		-
 
 # MEETING PROCESS PROPOSAL
 Notes / Agenda on https://floobits.com/fuzzyTew/todo in Logistics/00-Organizer.txt
