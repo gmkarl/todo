@@ -559,6 +559,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	- [ ] 1:30p - Dr Cross followup after CAT scan
 
 - [ ] 2019-02-14 Thu
+	ALERT! the two appointments scheduled for today conflict
 	- [ ] 11:30a - Dr Sivak, eye dr
 				if reasonable, BRING ANY RECORDS FROM BOSTON AREA RE: FACE STUFF
 				referral from Dr Cross, ENT
@@ -566,14 +567,22 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		600 Suncrest Town center
 		Morgantown, WV 26505
 		304 598 2200 x243
-
-- [ ] 2019-02-14
 	- [ ] 1:00 PM dental cleaning
+
+- [ ] 2019-02-15 Fri
+
+- [ ] 2019-02-16 Sat
 
 - [ ] 2019-02-17 Sun
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
 		2014 Northside Dr
 		Blacksburg, VA
+
+- [ ] 2019-02-18 Mon
+
+- [ ] 2019-02-19 Tue
+
+- [ ] 2019-02-20 Wed
 
 - [ ] 2019-02-21 Thu
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
@@ -588,6 +597,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		To reschedule: 434-924-5485 (ideally 3 days advance notice)
 		               800-251-3627
 
+- [ ] 2019-02-23 Sat
+
 - [ ] 2019-02-24 Sun
 	Is Gwyn's birthday in 1 week?
 
@@ -599,6 +610,14 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		226 Comfort Inn Dr.
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
+
+- [ ] 2019-02-26 Tue
+
+- [ ] 2019-02-27 Wed
+
+- [ ] 2019-02-28 Thu
+
+- [ ] 2019-02-29 Fri
 
 - [ ] 2019-03-02 Sat
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
@@ -614,7 +633,6 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	  meeting id in email
 	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
 
-- [ ] 2018-03-12 Tue
 - [ ] 2018-03-13 Wed
 	- [ ] 8:30a - leave for morgantown
 	- [ ] 12:30a - half day neuropsych testing, verbal and a little pencil & paper
@@ -966,6 +984,32 @@ VOICEMAIL NOTES
 		4. Reply
 		5. Send a copy
 		# Leave as new
+
+802 774 8450
+	Sun 3:33P
+	Hey Karl how ya doin it's Jim just calling to check in about a few things and see that
+	we're still on for our trip this Fri and Sat to see Dr Bouboulis
+	Hope you survive the cold and that things are okay at the two houses
+	Also wanted to know if that guy Hughes ever got back to you about the Buffalo Mtn Rd house
+	Can call me at 802 774 8450
+
+844 779 1041
+	Mon 6:06p
+		Mon Power
+
+802 774 8450
+	Tue 11:51A
+	Hey Karl how ya doin it's Jim calling to check in.  If you could give me a call I'd
+	appreciate it.  At home in Vermont. 802 774 8450.  I want to know if you've
+	been contacted about seeing the Buffalo Mtn Rd house and also wanted to
+	check in with you about our plans about Friday and Saturday and if that's still
+	a go.  I'd appreciate a call.  Bye-bye.
+
+Community Dental Care of Green Bank
+	Today 9:56A
+	Good morning this is Margaret.  Reminder about uncoming cleaning appointemtn.
+	Feb 14 1:00P.  304 456 5433 if you have any questions or need to make any changes.
+
 844-779-1040
 	Fri Dec 28 12:53P
 		Mon Power
@@ -1228,7 +1272,9 @@ Gwyn Cole
 	304 456 5300
 
 James Reese
-	304 456 4525
+	304 456 4525 office
+	304 456 4489 home
+		call anytime to get water turned off
 
 Diane Schou
 	304 456 5525
