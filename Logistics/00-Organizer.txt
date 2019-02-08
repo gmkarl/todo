@@ -573,6 +573,7 @@ Start adding Mepron with Gwyn to antibiotics on return.
 		davishealthsystem.org
 		304 637 3640
 		fax: 304 637 3644
+		-> it was actually at 11:45 !
 
 - [ ] 2019-01-10 Thu
 	- [ ][X] 11:00a - 12:00p Dr Mooney (every other week; copy forward 14 days)
