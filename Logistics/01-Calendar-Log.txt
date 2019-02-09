@@ -4,6 +4,9 @@
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] Jim Reese helps replace missing carpet
+		-> I failed to commit this item to my repo and missed processing it
+		   The carpet's replaced now ... I think Jim Reese did it while I was out
 	- [X] leave or plan to leave for dr bouboulis meeting on sat
 		-> I ended up leaving around 7pm
 	- [X][ ] ~6:30p - MEDS after dinnr
@@ -521,6 +524,7 @@
 		davishealthsystem.org
 		304 637 3640
 		fax: 304 637 3644
+		-> it was actually at 11:45 !
 		-> failed to tell dr fleming about eye appt
 		-> turns out they had 11:45a as the appointment time; maybe bring appt card to next appt? verify reality
 		   dr fleming was able to see me despite my lateness
