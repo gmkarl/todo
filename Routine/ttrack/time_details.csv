@@ -778,3 +778,5 @@ Time,Action,Goal,Task
 1549723136,stop,RESPONS,Brush Teeth
 >>>>>>> 2ac8026e0c09ca4588a832ff5f45df610e7d9a25
 1549753295,start,RESPONS,Meds
+1549753358,stop,RESPONS,Meds
+1549810036,start,RESPONS,Meds
