@@ -458,14 +458,16 @@ youtube/vimeo: search consensus decision-making
 Jim Taggart's laptop: Dell express service code #10882328761
 
 - [!] 2019-02-13 Wed
-	- [ ][ ] ~7:37a - MEDS after bkfst
+	- [X][ ] ~7:37a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] 9:00a - see 152 Buffalo Mtn Rd
-	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He ordered a new-new transmission for it; it might be running.
+	- [X] 9:00a - see 152 Buffalo Mtn Rd
+	- [ ] Pick up Gwyn to go to Dr Cross
+	- [X] check in with Tim at Elkins Trucking Service regarding truck.  He ordered a new-new transmission for it; it might be running.
 			M-F 9a-5:30p see 'Truck Mechanic' section below
 			304 636 5330
+		-> Tim wasn't in today, will be in tomorrow morning
 	- [ ] check class situation at gbo?
 	- [ ] 1:30p - Dr Cross followup after CAT scan
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -475,11 +477,14 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2019-02-14 Thu
-	ALERT! the two appointments scheduled for today conflict
+	[X] ALERT! the two appointments scheduled for today conflict
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He ordered a new-new transmission for it; it might be running.
+			M-F 9a-5:30p see 'Truck Mechanic' section below
+			304 636 5330
 	- [ ] 11:30a - Dr Sivak, eye dr
 				if reasonable, BRING ANY RECORDS FROM BOSTON AREA RE: FACE STUFF
 				referral from Dr Cross, ENT
@@ -488,6 +493,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Morgantown, WV 26505
 		304 598 2200 x243
 	- [ ] 1:00 PM dental cleaning
+		-> rescheduled to May to provide for eye dr
 	- [ ] Be sure to sign up for next instance of NVC Core Concepts class, instructor said it could be free
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -545,6 +551,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -568,6 +575,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -597,6 +605,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -627,12 +636,16 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Wayne Perkins <jwperkins0@gmail.com>
 
 - [ ] 2019-02-26 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2019-02-27 Wed
 
 - [ ] 2019-02-28 Thu
+	- Jim Taggart visits for whole day
 
 - [ ] 2019-02-29 Fri
+	- Jim Taggart present for first half of day
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2019-03-02 Sat
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
@@ -673,6 +686,9 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-04-17 Wed
 	- [ ] Is this my dr bouboulis call?  I'd better call them and check
+
+- [ ] 2019-05-09 Thu
+	- [ ] 1:15 PM dental cleaning
 
 ===
 - [ ] 2019-08-04 Sun
@@ -973,6 +989,9 @@ Truck Mechanic
 						 starter was bad and has been replaced
 	2019-01-28 received call from office that towing has still not been paid for.
 		It's $752.40
+	... dad paid for towing ... also said tim called him and said new transmission was bad, new new one was ordered
+	2019-02-13 
+		
 	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
 				-> have not queued yet
