@@ -10,6 +10,8 @@ last update: 2018-01-04
 	  - [ ] openemissions/shielding/effectiveness-measurement/noiscillate-data/test.cpp
       	Current work with more todo in
 	  - [ ] ?-?-*.cpp
+  - [ ] Verify technique for discerning single emitter profile by trying with varying presence of background noise
+  - [ ] Verify technique for discerning S.E. by comparing with conventional equipment
 
 - [ ] Construction:
 Ordered some copper foil, and some thin solder to test soldering the copper foil.

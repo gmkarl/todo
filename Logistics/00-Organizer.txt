@@ -457,67 +457,17 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-02-09 Sat
-	- [ ][ ] ~8:15a - MEDS after bkfst
+- [!] 2019-02-13 Wed
+	- [X][ ] ~7:37a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] 10:15a DR BOUBOULIS IN PERSON VISIT
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-10 Sun
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-11 Mon
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He ordered a new-new transmission for it; it might be running.
-			M-F 9a=5:30p see 'Truck Mechanic' section below
+	- [X] 9:00a - see 152 Buffalo Mtn Rd
+	- [ ] Pick up Gwyn to go to Dr Cross
+	- [X] check in with Tim at Elkins Trucking Service regarding truck.  He ordered a new-new transmission for it; it might be running.
+			M-F 9a-5:30p see 'Truck Mechanic' section below
 			304 636 5330
-	- [ ] review nvc core concepts materials
-	- [ ][ ] 12:45p - Basileia monthly Zoom NVC practice (every 2rd Mon 12:45p)
-					          register at https://calendly.com/basileia/monthly-practice
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-12 Tue
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] register for GBO tours, can do walk-in or call or e-mail
-	- [ ] review nvc core concepts materials
-	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 6 (final)
-		Be sure to sign up for next instance of class, instructor said it could be free
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-13 Wed
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+		-> Tim wasn't in today, will be in tomorrow morning
 	- [ ] check class situation at gbo?
 	- [ ] 1:30p - Dr Cross followup after CAT scan
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -527,11 +477,14 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2019-02-14 Thu
-	ALERT! the two appointments scheduled for today conflict
+	[X] ALERT! the two appointments scheduled for today conflict
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck.  He ordered a new-new transmission for it; it might be running.
+			M-F 9a-5:30p see 'Truck Mechanic' section below
+			304 636 5330
 	- [ ] 11:30a - Dr Sivak, eye dr
 				if reasonable, BRING ANY RECORDS FROM BOSTON AREA RE: FACE STUFF
 				referral from Dr Cross, ENT
@@ -540,6 +493,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Morgantown, WV 26505
 		304 598 2200 x243
 	- [ ] 1:00 PM dental cleaning
+		-> rescheduled to May to provide for eye dr
+	- [ ] Be sure to sign up for next instance of NVC Core Concepts class, instructor said it could be free
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -552,6 +507,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] register for GBO tours, can do walk-in or call or e-mail
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -577,20 +533,66 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2019-02-17 Sun
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
 	- [ ][ ] 3:00p - leave for Blacksburg group 6:30p - 8:00p, 1st and 3rd sundays/mo
 		2014 Northside Dr
 		Blacksburg, VA
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-02-18 Mon
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-02-19 Tue
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-02-20 Wed
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-02-21 Thu
-	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
-		CHAPTER 9
-		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- NVC canceled today and this month; Robin is traveling
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-02-22 Fri
 	- [ ] 6:00 A leave for eye appt
@@ -599,8 +601,27 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Charlottesville, VA`
 		To reschedule: 434-924-5485 (ideally 3 days advance notice)
 		               800-251-3627
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-02-23 Sat
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
 
 - [ ] 2019-02-24 Sun
 	Is Gwyn's birthday in 1 week?
@@ -615,12 +636,16 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Wayne Perkins <jwperkins0@gmail.com>
 
 - [ ] 2019-02-26 Tue
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2019-02-27 Wed
 
 - [ ] 2019-02-28 Thu
+	- Jim Taggart visits for whole day
 
 - [ ] 2019-02-29 Fri
+	- Jim Taggart present for first half of day
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 
 - [ ] 2019-03-02 Sat
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
@@ -645,6 +670,11 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2018-03-14 Thu
 
+- [ ] 2018-03-21 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 10
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+
 - [ ] 2019-04-03 Wed
 	- [ ] GET BLOOD WORK DONE FOR PET SCAN
 				lab form is in glove compartment of VW
@@ -654,8 +684,14 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			Davis Cancer Center or whatnot
 			Elkins
 
+- [ ] 2019-04-17 Wed
+	- [ ] Is this my dr bouboulis call?  I'd better call them and check
+
+- [ ] 2019-05-09 Thu
+	- [ ] 1:15 PM dental cleaning
+
 - [ ] 2019-07-10 Wed
-	1:00p - Tygart Valley Medical Specialties Dr Cross routine
+	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
 
 ===
 - [ ] 2019-08-04 Sun
@@ -956,6 +992,9 @@ Truck Mechanic
 						 starter was bad and has been replaced
 	2019-01-28 received call from office that towing has still not been paid for.
 		It's $752.40
+	... dad paid for towing ... also said tim called him and said new transmission was bad, new new one was ordered
+	2019-02-13 
+		
 	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
 				-> have not queued yet
