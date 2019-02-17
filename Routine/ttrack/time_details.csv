@@ -801,3 +801,5 @@ Time,Action,Goal,Task
 1550193141,start,RESPONS,Meds
 1550415318,start,RESPONS,Eye Lubricant
 1550415412,stop,RESPONS,Eye Lubricant
+1550417513,start,RESPONS,Brush Teeth
+1550418496,stop,RESPONS,Brush Teeth
