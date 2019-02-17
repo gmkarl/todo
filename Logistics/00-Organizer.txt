@@ -469,8 +469,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			304 636 5330
 		-> Tim wasn't in today, will be in tomorrow morning
 	- [ ] check class situation at gbo?
-	- [ ] 1:30p - Dr Cross followup after CAT scan
-	- [ ][ ] ~6:30p - MEDS after dinnr
+	- [X] 1:30p - Dr Cross followup after CAT scan
+	- [X][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
