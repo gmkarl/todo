@@ -627,6 +627,9 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	Is Gwyn's birthday in 1 week?
 
 - [ ] 2019-02-25 Mon
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
+			M-F 9a-5:30p see 'Truck Mechanic' section below
+			304 636 5330
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
 		Mon Grotto meeting last monday of every month
@@ -663,10 +666,23 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2018-03-13 Wed
 	- [ ] 8:30a - leave for morgantown
-	- [ ] 12:30a - half day neuropsych testing, verbal and a little pencil & paper
+	- [ ] 12:15a to 4:30a -  half day neuropsych testing, verbal and a little pencil & paper
+			park in front of building and check in at outpatient desk
+			APPOINTMENT BE CANCELED IF ARRIVE AFTER 1PM
+			map and detailed final directions in packet
+		BRING COPIES OF
+			IMAGING STUDIES (MRI, CT, PET)
+			NEUROPSYCHOLOGICAL EVALUATION REPORTS
+			PSYCHOEDUCATIONAL EVALUATION REPORTS
 		Dr Christina Wilson
-		1 Medical Center Dr.
+		Neuropsychology Clinic
+		Chestnut Ridge Center
+		Ruby Memorial Hospital
+		1 Medical Center Dr. (or 1 Stadium Drive)
 		Morgantown, WV 26506
+		Neuropsychology Clinic: 304 598-4740
+		Chestnut Ridge Center: 304 598-6400
+		
 
 - [ ] 2018-03-14 Thu
 
@@ -996,6 +1012,12 @@ Truck Mechanic
 	... dad paid for towing ... also said tim called him and said new transmission was bad, new new one was ordered
 	2019-02-13 Tim wasn't in this day, was coming in morning of the following day.
 	2019-02-18 Tim was at lunch, added lunch break info.
+		4:15p Got Tim
+		Still fighting with Isuzu on transmission.
+		Sent one: the bracket had a broken bolt, returned it
+		Another came: they didn't accept it
+		Third one: back end of transmission and pan are different
+		Fourth one expected by end of week.
 		
 	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
