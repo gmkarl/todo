@@ -595,12 +595,16 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2019-02-22 Fri
-	- [ ] 6:00 A leave for eye appt
+	- CANCELED [ ] 6:00 A leave for eye appt
 		9:30 AM UVA West Complex
 		1300 Jefferson Park Ave, 2nd floor
 		Charlottesville, VA`
 		To reschedule: 434-924-5485 (ideally 3 days advance notice)
 		               800-251-3627
+		-> This was scheduled September of last year after being rescheduled once (probably the time I arrived too late to be seen)
+		PLEASE BRING medical records, radiology films
+		-> CANCELED THIS 2019-02-19
+		
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
