@@ -457,25 +457,19 @@ youtube/vimeo: search consensus decision-making
 
 Jim Taggart's laptop: Dell express service code #10882328761
 
-- [!] 2019-02-19 Tue
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [X][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] register for GBO tours, can do walk-in or call or e-mail
-	- [ ] 4:30p or 5:00p - conference call with Gwyn and Jim
-	- [ ][ ] likely before 6p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-20 Wed
+- [!] 2019-02-20 Wed
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] 8:30a or 9:00a (after meds?) Call Jim and conference with surgery office
+		Info in green folder
+		304 598-2200 x243
+	- [ ] SCHEDULE PCP APPT FOR PRE-OP STUFF FOR SURGERY
+	- [ ] register for GBO tours, can do walk-in or call or e-mail
+	- [ ] got a call from UVA that my appointment for Feb 22 is still on!
+		they called from 434-924-3627.
+		could call back and re-cancel
 	- [ ][ ] 1:00p - 2:00p Dr Mooney (every other week; copy forward 14 days)
 	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
 			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to this telescope stuff
@@ -484,6 +478,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
 			- meet woman at telescope involved in amateur work (ideas for what to say to)
 			- other ideas, possibly from e-mail with astronomer
+	- [ ] Gwyn would like to sleep over at the cottage !
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -626,7 +621,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
-	  BUT NOTE tomorrow might be Gwyn's birthday
+	  BUT NOTE tomorrow is Gwyn's birthday
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -634,7 +629,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		500mg azithromycin
 
 - [ ] 2019-03-03 Sun
-	Gwyn's birthday?
+	Gwyn's Birthday
 	- [ ][ ] 11:30a - leave for Blacksburg group 3:00p - 4:30p, 1st and 3rd sundays/mo
 		2014 Northside Dr
 		Blacksburg, VA
@@ -667,6 +662,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		
 
 - [ ] 2018-03-14 Thu
+
+- [ ] 2018-03-15 Fri
 
 - [ ] 2018-03-20 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4, Mar/Apr 2019 Series
@@ -1044,6 +1041,37 @@ VOICEMAIL NOTES
 		4. Reply
 		5. Send a copy
 		# Leave as new
+
+508 333 9955
+	Sat 4:18P
+	Hi Karl it's your Dad.  I did ... the checking on that deed website and I was looking at
+	the wrong property that Mr Curry owns property in another town, Hillside or something,
+	and that $60,000 mortgage was on the property in Hillside.
+	He did take out a mortgage for $20,000 when he bought the Bear Mtn Rd property in 1993; he paid
+	that off in 2002 or 2008 or something like that.  There's no evidence that there's any
+	mortgage on the Bear Mtn Rd property at all, which gives you a little more room to
+	negotiate.
+	If and when you do learn this information, let me know you got it so I can relax.
+	I just wanted to be sure you knew that before talking to anyone like Cheryl or anything like
+	that.
+
+304 637 6302
+	Sun Feb 10 4:48P
+	... specialties to remind you of your appointmnet on Wed Feb 13th 2019 at 1:30pm
+
+Cheryl Dean
+	Fri Feb 8 10:34A
+	Hey Karl this is Cheryl Dean, would you give me a call?  I've actually heard back from
+	the sellers so I need to talk with you.
+	LEFT AS NEW
+
+304 456 5300
+	Thu Feb 7 6:52P
+	Hi Karl this is Gwyn I'm calling you from my mom's house ... please make sure that
+	you have your medicine with you and especially ... that goes with it
+	I think I asked you that and I think you told me you have it but I wanted to
+	double-check.  Okay, bye.
+
 
 802 774 8450
 	Sun 3:33P
