@@ -2,8 +2,8 @@ last update: 2018-01-04
 
 - [ ] Measurement:
   Made simple script but results are not what was expected.
-  - [ ] Take notes on electromagnetic compatibility / shielding resource material and plan correct way to measure S.E. to compare with crafted way.
-  	- [ ] Notes on traditional measurement methods in 01-Traditional_Measurement.txt
+  - [ ] Take a measurement of an emission peak when shielded and unshielded using a normal spectrogram.  Then debug a measurement approach until it can predict the same attenuation.
+	-> orientation, placement, etc matter ... so possibly automate re-checking the comparison measurement to handle changes
   - [ ] Reuse noiscillate setup with new soapyRTLSDR changes (timing can be fixed).  Resolve misalignment bug and possible other bugs (some assumption of shifted average could be false?)
   - [ ] Build enclosable emitter / detector setup to measure actual shielded enclosure.
 	Todo items in
