@@ -30,7 +30,6 @@ csv="${year}-meds.csv"
 		do
 			if [ "$line" == "$routine Meds" ]
 			then
-				echo found line
 				break
 			fi
 		done
