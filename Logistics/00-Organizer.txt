@@ -526,7 +526,8 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	X- [ ][X] 10:00a - 11:00a Kate call Fri, Tue
+		-> Kate's out today
 	- [ ] Gwyn would like to sleep over at the cottage !
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
@@ -562,6 +563,7 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	= [ ] 9:00a - 10:00a - Sascha
 	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
 			M-F 9a-5:30p see 'Truck Mechanic' section below
 			304 636 5330
