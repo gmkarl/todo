@@ -551,6 +551,7 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] 12:30p - lunch w gwyn & her son
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
