@@ -511,47 +511,15 @@ Its simplest link is back to the National Human Trafficking Hotline,
 likely intended for emergency use but could perhaps forward me somewhere
 relevant.
 
-- [ ] 2019-02-22 Fri
-	- NEED TO RE-CANCEL [ ] 6:00 A leave for eye appt
-		9:30 AM UVA West Complex
-		1300 Jefferson Park Ave, 2nd floor
-		Charlottesville, VA`
-		To reschedule: 434-924-5485 (ideally 3 days advance notice)
-		               800-251-3627
-		-> This was scheduled September of last year after being rescheduled once (probably the time I arrived too late to be seen)
-		PLEASE BRING medical records, radiology films
-		-> CANCELED THIS 2019-02-19
-		
-	- [ ][ ] ~8:15a - MEDS after bkfst
+- [!] 2019-02-24 Sun
+	Gwyn's birthday in 1 week
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	X- [ ][X] 10:00a - 11:00a Kate call Fri, Tue
-		-> Kate's out today
-	- [ ] Gwyn would like to sleep over at the cottage !
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-23 Sat
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-24 Sun
-	Is Gwyn's birthday in 1 week?
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
+	- [ ] 12:30p - lunch w gwyn & her son
+	- [ ] laundry
+	- [ ] trash?
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -559,6 +527,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-25 Mon
+	Gwyn's birthday in 6 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -582,6 +551,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-26 Tue
+	Gwyn's birthday in 5 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -594,6 +564,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-27 Wed
+	Gwyn's birthday in 4 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -607,6 +578,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-28 Thu
+	Gwyn's birthday in 3 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -619,6 +591,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-29 Fri
+	Gwyn's birthday in 2 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -632,6 +605,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-03-02 Sat
+	Gwyn's birthday tomorrow
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
