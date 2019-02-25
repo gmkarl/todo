@@ -511,28 +511,13 @@ Its simplest link is back to the National Human Trafficking Hotline,
 likely intended for emergency use but could perhaps forward me somewhere
 relevant.
 
-- [!] 2019-02-24 Sun
-	Gwyn's birthday in 1 week
-	- [X][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] 12:30p - lunch w gwyn & her son
-	- [ ] laundry
-	- [ ] trash?
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-25 Mon
+- [!] 2019-02-25 Mon
 	Gwyn's birthday in 6 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	= [ ] 9:00a - 10:00a - Sascha
+	- [ ] 9:00a - 10:00a - Sascha
 	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
 			M-F 9a-5:30p see 'Truck Mechanic' section below
 			304 636 5330
@@ -557,6 +542,7 @@ relevant.
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] 1:00p - 2:00p Jeremy call
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -579,6 +565,9 @@ relevant.
 
 - [ ] 2019-02-28 Thu
 	Gwyn's birthday in 3 days
+	- [ ] 8:00a-9:00a PRE-OP NO BKFST
+		BRING PAPERWORK	 it's in green folder again
+		can have meds after labs
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -627,6 +616,10 @@ relevant.
 	  call 530 881-1212  (or maybe 701 801-1211)
 	  meeting id in email
 	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
+
+- [ ] 2019-03-04 Mon
+	- [ ] 10:00a - 11:00a - Sascha from Icarus counseling, zoom
+
 - [ ] 2019-03-06 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2, Mar/Apr 2019 Series
 
