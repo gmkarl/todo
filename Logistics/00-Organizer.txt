@@ -513,15 +513,16 @@ relevant.
 
 - [!] 2019-02-25 Mon
 	Gwyn's birthday in 6 days
-	- [ ][ ] ~8:15a - MEDS after bkfst
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] 9:00a - 10:00a - Sascha
-	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
+	- [X] 9:00a - 10:00a - Sascha
+	- [X] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
 			M-F 9a-5:30p see 'Truck Mechanic' section below
 			304 636 5330
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+		-> jeremy was ill, rescheduled to tomorrow
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
 		Mon Grotto meeting last monday of every month
@@ -542,7 +543,6 @@ relevant.
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] 1:00p - 2:00p Jeremy call
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -587,6 +587,7 @@ relevant.
 		Bactrim DS
 	- Jim Taggart present for first half of day
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] 1:00p - 2:00p Jeremy call
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -619,6 +620,10 @@ relevant.
 
 - [ ] 2019-03-04 Mon
 	- [ ] 10:00a - 11:00a - Sascha from Icarus counseling, zoom
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
+			M-F 9a-5:30p see 'Truck Mechanic' section below
+			304 636 5330
 
 - [ ] 2019-03-06 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2, Mar/Apr 2019 Series
@@ -996,6 +1001,10 @@ Truck Mechanic
 		Another came: they didn't accept it
 		Third one: back end of transmission and pan are different
 		Fourth one expected by end of week.
+	2019-02-25 called, got Time, he said they didn't get back to him and the order for the 4th one
+		hasn't happened yet.  he's going to call and check in.
+	remember to check lift gate, AC, estimate, broken key, etc!
+		
 		
 	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
