@@ -865,6 +865,7 @@ Time,Action,Goal,Task
 1550666846,stop,RESPONS,Eye Lubricant
 >>>>>>> 10af18c279f9878c04d7c5d7da53b2fcfc8a6d6f
 1550930037,start,RESPONS,Meds
+<<<<<<< HEAD
 1550930414,stop,RESPONS,Meds
 1550965879,start,RESPONS,Meds
 1550965978,stop,RESPONS,Meds
@@ -880,3 +881,9 @@ Time,Action,Goal,Task
 1551230030,stop,RESPONS,Meds
 1551274628,start,RESPONS,Meds
 1551274638,stop,RESPONS,Meds
+=======
+1551027902,start,RESPONS,Eye Lubricant
+1551027960,stop,RESPONS,Eye Lubricant
+1551097728,start,RESPONS,Eye Lubricant
+1551097795,stop,RESPONS,Eye Lubricant
+>>>>>>> 0de35b4b71db1db12952989b5899eb14b417a82a

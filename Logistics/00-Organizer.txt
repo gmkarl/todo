@@ -511,61 +511,18 @@ Its simplest link is back to the National Human Trafficking Hotline,
 likely intended for emergency use but could perhaps forward me somewhere
 relevant.
 
-- [ ] 2019-02-22 Fri
-	- NEED TO RE-CANCEL [ ] 6:00 A leave for eye appt
-		9:30 AM UVA West Complex
-		1300 Jefferson Park Ave, 2nd floor
-		Charlottesville, VA`
-		To reschedule: 434-924-5485 (ideally 3 days advance notice)
-		               800-251-3627
-		-> This was scheduled September of last year after being rescheduled once (probably the time I arrived too late to be seen)
-		PLEASE BRING medical records, radiology films
-		-> CANCELED THIS 2019-02-19
-		
-	- [ ][ ] ~8:15a - MEDS after bkfst
+- [!] 2019-02-25 Mon
+	Gwyn's birthday in 6 days
+	- [X][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
-	- [ ] Gwyn would like to sleep over at the cottage !
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-23 Sat
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-24 Sun
-	Is Gwyn's birthday in 1 week?
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ][ ] ~6:30p - MEDS after dinnr
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-		500mg azithromycin
-
-- [ ] 2019-02-25 Mon
-	- [ ][ ] ~8:15a - MEDS after bkfst
-		1 tsp atovaquone
-		100mg doxycycline
-		Bactrim DS
-	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
+	- [X] 9:00a - 10:00a - Sascha
+	- [X] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
 			M-F 9a-5:30p see 'Truck Mechanic' section below
 			304 636 5330
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+		-> jeremy was ill, rescheduled to tomorrow
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
 		Mon Grotto meeting last monday of every month
@@ -580,6 +537,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-26 Tue
+	Gwyn's birthday in 5 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -592,6 +550,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-27 Wed
+	Gwyn's birthday in 4 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -605,6 +564,10 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-28 Thu
+	Gwyn's birthday in 3 days
+	- [ ] 8:00a-9:00a PRE-OP NO BKFST
+		BRING PAPERWORK	 it's in green folder again
+		can have meds after labs
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -617,12 +580,14 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-02-29 Fri
+	Gwyn's birthday in 2 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 	- Jim Taggart present for first half of day
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] 1:00p - 2:00p Jeremy call
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -630,6 +595,7 @@ relevant.
 		500mg azithromycin
 
 - [ ] 2019-03-02 Sat
+	Gwyn's birthday tomorrow
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -651,6 +617,14 @@ relevant.
 	  call 530 881-1212  (or maybe 701 801-1211)
 	  meeting id in email
 	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
+
+- [ ] 2019-03-04 Mon
+	- [ ] 10:00a - 11:00a - Sascha from Icarus counseling, zoom
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
+	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
+			M-F 9a-5:30p see 'Truck Mechanic' section below
+			304 636 5330
+
 - [ ] 2019-03-06 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2, Mar/Apr 2019 Series
 
@@ -1027,6 +1001,10 @@ Truck Mechanic
 		Another came: they didn't accept it
 		Third one: back end of transmission and pan are different
 		Fourth one expected by end of week.
+	2019-02-25 called, got Time, he said they didn't get back to him and the order for the 4th one
+		hasn't happened yet.  he's going to call and check in.
+	remember to check lift gate, AC, estimate, broken key, etc!
+		
 		
 	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
