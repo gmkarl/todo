@@ -18,7 +18,8 @@ done
 # create list of toothbrush times
 {
   cut -d , -f 1 bt-routine.csv
-  grep ',$' n-meds.csv | cut -d , -f 1
+  # this used to be where aux entries were removed
+  cat n-meds.csv | cut -d , -f 1
 } | sort > bt.csv
 
 # make folders for separating data
