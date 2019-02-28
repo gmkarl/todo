@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # store recorded times teeth brushed in morning
-cut -d , -f 1,18 ../routine/2018-routine.csv | grep ....-..-..,1 > bt-routine.csv
+cut -d , -f 1,18 ../routine/201*-routine.csv | grep ....-..-..,1 > bt-routine.csv
 # store recorded times teeth brushed in evening
-cut -d , -f 1,54 ../routine/2018-routine.csv | grep ....-..-..,1 >> bt-routine.csv
+cut -d , -f 1,54 ../routine/201*-routine.csv | grep ....-..-..,1 >> bt-routine.csv
 
 # store recorded times nicotine taken
-grep N[24] ../meds/2018-meds.csv | tr T , | cut -d , -f 1,3,4,5 | grep ....-..-.., > n-meds.csv
+grep -h N[124] ../meds/201*-meds.csv | tr T , | cut -d , -f 1,3,4,5 | grep ....-..-.., > n-meds.csv
 
 # remove nicotine times from routine times
 cut -d , -f 1 n-meds.csv | while read date
