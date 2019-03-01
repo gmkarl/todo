@@ -608,6 +608,7 @@ relevant.
 		Bactrim DS
 	- [ ] somewhere 9:00a - 12:30p: call bouboulis 203 655 9904 to get azithromycin rescrip
 		(opt 4: prescriptions, opt 1: front desk, opt 2: nurse)
+		also ask front desk when my upcoming appointment is and update calendar
 	- [ ] Pick up @ Elkins
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
 	  BUT NOTE tomorrow is Gwyn's birthday
