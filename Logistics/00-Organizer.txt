@@ -606,6 +606,9 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] somewhere 9:00a - 12:30p: call bouboulis 203 655 9904 to get azithromycin rescrip
+		(opt 4: prescriptions, opt 1: front desk, opt 2: nurse)
+		also ask front desk when my upcoming appointment is and update calendar
 	- [ ] Pick up @ Elkins
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
 	  BUT NOTE tomorrow is Gwyn's birthday
@@ -642,12 +645,16 @@ relevant.
 		(304) 799 4500
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2, Mar/Apr 2019 Series
 
+- [ ] 2019-03-07 Thu
+	- [ ] go with Gwyn to Elkins (she has a ct) and get my chest x-ray done
+		my x-ray order is in the glove compartment of the car
+
 - [ ] 2018-03-11 Mon
 
 - [ ] 2018-03-12 Tue
+	- Jim arrives this evening to travel with me to morgantown for his visit this week
 
 - [ ] 2018-03-13 Wed
-	- Jim arrives to travel with me to morgantown for his visit this week
 	- [ ] 8:30a - leave for morgantown
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3, Mar/Apr 2019 Series
 	- [ ] 12:15a to 4:30a -  half day neuropsych testing, verbal and a little pencil & paper
@@ -692,7 +699,7 @@ relevant.
 		Wayne Perkins <jwperkins0@gmail.com>
 
 - [ ] 2018-03-26 Tue
-	EYE SURGERY: time will be finalized on day prior
+	EYE SURGERY: time will be finalized one day prior
 
 - [ ] 2018-03-27 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5, Mar/Apr 2019 Series
