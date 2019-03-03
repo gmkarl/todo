@@ -1,6 +1,3 @@
-Urgent Debts:
-Capital One pmt bounced, min is $50
-
 Upcoming Payments:
 19-01-08 [ ] $30.00 debcard PO Box 117
 19-01-11 UNEXPECTED BALANCE of $1017.23; adjusted
@@ -13,15 +10,20 @@ Monthly Autopayments: $615.27
 Expected balance: $987.23
 Available balance: $371.96
 
+--
+Current balance: $70.87
+Expect debits before income: $199
+--
+
 Autopayments
 Day	What			Amount
 02	PP/Patreon		  $2
 05	Capital One	 	 $50
 08	IPSDC.ORG?               $10
 08	Zwiebelfreunde E.V.??	  $5
-09  Burning Books           $100
+09	Burning Books           $100
 11	Cascadia Forest Dfndrs   $20
-12	Trust Rental	      -$1305
+14	Trust Rental	      -$1305
 16	Frontier Internet/Phone  $72
 17	Earth First!		 $20
 21	Nature Conservancy	  $5
@@ -29,10 +31,9 @@ Day	What			Amount
 24	Home Depot		 $37
 27	Paypal Credit		$222
 26	iTunes pmt???		  $2.11
-29	Freedom of the Press	  $5
-28	iTunes pmt???		  $3.16
-29	riseup.net		  $1
+28	Freedom of the Press	  $5
 30	Lakota People's Law	  $1
+28	riseup.net		  $1
 30	Network for Good	  $5
 01-00 PO Box 117  $36
 07-00 PO Box 117  $36

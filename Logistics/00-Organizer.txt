@@ -523,7 +523,7 @@ relevant.
 			304 636 5330
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 		-> jeremy was ill, rescheduled to tomorrow
-	- [ ][ ] 6:30 PM food
+	- [X][ ] 6:30 PM food
 		~7:00 PM official meeting
 		Mon Grotto meeting last monday of every month
 		Beanery American Grill
@@ -535,6 +535,7 @@ relevant.
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
+	-> MISSED this
 
 - [ ] 2019-02-26 Tue
 	Gwyn's birthday in 5 days
@@ -579,15 +580,20 @@ relevant.
 		Bactrim DS
 		500mg azithromycin
 
-- [ ] 2019-02-29 Fri
+- [ ] 2019-03-01 Fri
 	Gwyn's birthday in 2 days
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
 	- Jim Taggart present for first half of day
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] Try calling NROCKS to book a wild caving trip.
+		https://www.nrocks.com/activities/wild-caving/
+		(877) 435-4842
+			
+	- [ ] 12:00p - lunch @ observatory w/ jim
 	- [ ] 1:00p - 2:00p Jeremy call
+	- [ ][ ] 3:00p - 4:00p Kate call rescheduled to 3pm today
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -600,6 +606,10 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ] somewhere 9:00a - 12:30p: call bouboulis 203 655 9904 to get azithromycin rescrip
+		(opt 4: prescriptions, opt 1: front desk, opt 2: nurse)
+		also ask front desk when my upcoming appointment is and update calendar
+	- [ ] Pick up @ Elkins
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
 	  BUT NOTE tomorrow is Gwyn's birthday
 	- [ ][ ] ~6:30p - MEDS after dinnr
@@ -626,7 +636,23 @@ relevant.
 			304 636 5330
 
 - [ ] 2019-03-06 Wed
+	- [ ] 9:45a - leave for Marlinton
+	- [ ] 10:45a - Physical therapy
+		Seneca Trails Physical Therapy
+		18228 Seneca Trail
+		Marlinton, WV 24954
+			next to the bridge
+		(304) 799 4500
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 2, Mar/Apr 2019 Series
+
+- [ ] 2019-03-07 Thu
+	- [ ] go with Gwyn to Elkins (she has a ct) and get my chest x-ray done
+		my x-ray order is in the glove compartment of the car
+
+- [ ] 2018-03-11 Mon
+
+- [ ] 2018-03-12 Tue
+	- Jim arrives this evening to travel with me to morgantown for his visit this week
 
 - [ ] 2018-03-13 Wed
 	- [ ] 8:30a - leave for morgantown
@@ -636,7 +662,7 @@ relevant.
 			APPOINTMENT BE CANCELED IF ARRIVE AFTER 1PM
 			map and detailed final directions in packet
 		BRING COPIES OF
-			IMAGING STUDIES (MRI, CT, PET)
+			IMAGING STUDIES (MRI, CT, PET, EEG?)
 			NEUROPSYCHOLOGICAL EVALUATION REPORTS
 			PSYCHOEDUCATIONAL EVALUATION REPORTS
 		Dr Christina Wilson
@@ -649,6 +675,7 @@ relevant.
 		Chestnut Ridge Center: 304 598-6400
 
 - [ ] 2018-03-14 Thu
+	- Jim visits first half of day
 
 - [ ] 2018-03-15 Fri
 
@@ -663,13 +690,29 @@ relevant.
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2018-03-25 Mon
-	grotto mtg
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Morgantown Brewing Company
+		(used to be Beanery American Grill)
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
 
 - [ ] 2018-03-26 Tue
-	EYE SURGERY: time will be finalized on day prior
+	EYE SURGERY: time will be finalized one day prior
 
 - [ ] 2018-03-27 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5, Mar/Apr 2019 Series
+
+- [ ] 2019-04-02 Tue
+	- [ ] 1:00p - 1 week eye surgery post op visit w Jennifer Sivak-Callcott
+		Mon Health
+		Oculofacial Surgery
+		600 Suncrest Towne Centre
+		Suite 310
+		Morgantown, WV 26505
+		monhealth.com
+		304 598-2200
 
 - [ ] 2019-04-03 Wed
 	- [ ] GET BLOOD WORK DONE FOR PET SCAN
@@ -685,6 +728,16 @@ relevant.
 
 - [ ] 2019-04-17 Wed
 	- [ ] Is this my dr bouboulis call?  I'd better call them and check
+
+- [ ] 2019-05-08 Wed
+	- [ ] 1:00p - 6 week eye surgery post op visit w Jennifer Sivak-Callcott
+		Mon Health
+		Oculofacial Surgery
+		600 Suncrest Towne Centre
+		Suite 310
+		Morgantown, WV 26505
+		monhealth.com
+		304 598-2200
 
 - [ ] 2019-05-09 Thu
 	- [ ] 1:15 PM dental cleaning
@@ -1040,6 +1093,11 @@ VOICEMAIL NOTES
 		4. Reply
 		5. Send a copy
 		# Leave as new
+
+304 456 5115
+	community care has my results 2019-03-02 -> called back
+		everything was good except my white blood count, maybe due to one of my medications
+		if have concerns, can discuss with dr fleming
 
 304 591 9429
 	Today 5:39P
