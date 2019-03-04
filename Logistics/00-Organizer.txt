@@ -721,6 +721,9 @@ relevant.
 		FINAL CLASS
 		add next series to calendar!
 
+- [ ] 2019-04-08 Mon
+	- Last call with Jeremy
+
 - [ ] 2019-04-10 Wed
 	- [ ] 2:00p Oncology PET Scan
 			Davis Cancer Center or whatnot
@@ -1095,7 +1098,10 @@ VOICEMAIL NOTES
 		# Leave as new
 
 304 456 5115
-	community care has my results 2019-03-02 -> called back
+	Fri @ 12:01p
+	Hi Karl it's Kim at community care and we have your results back.  Please call me back
+	304 456 551 thanks.
+	2019-03-02 -> called back
 		everything was good except my white blood count, maybe due to one of my medications
 		if have concerns, can discuss with dr fleming
 
@@ -1484,12 +1490,12 @@ Dr Bouboulis
 		-> aware that not allergic to azithromycin, allergic to amoxicillin
 	2. get missing antibiotic
 		Green Bank Pharmacy
+		M-Thu 9a-5:30p
 		PO Box 85
 		90 Route 28
 		Green Bank, WV 24944
 		Phone: (304) 456-3333
 		Fax: (304) 456-3070
-		M-Thu 9a-5:30p
 
 NVC Practice Group
 	Blacksburg, VA; ~3 hr drive alternate sundays 7pm-8:30pm patriciabevan@mac.com
