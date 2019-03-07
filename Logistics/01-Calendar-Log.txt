@@ -399,6 +399,9 @@
 		-> gwyn did this; she was a little pressed for time and I felt bad not helping more
 	- [X] 11:00a NOTHING TO EAT OR DRINK PRIOR TO CAT SCAN 3 HRS
 	- [X] 1:30p CAT scan davis medical center
+radiology: 304 637 3764
+fax: 304 637 3344
+
 	- [X][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -1952,9 +1955,10 @@ blacksburg group:
 		Post Office
 		300 3rd St Flr 1
 		Elkins, WV 26241
-	- [X] 2 pm Neurology: A..a.. Alghadban
+	- [X] 2 pm Neurology: Adnan Alghadban (pronounced like "algabon" I think)
 		Associated Specialists
 		304 933-3800
+		
 		527 Medical Park Dr Ste 204
 		Bridgeport, WV 26330
 		- [ ] ask if reasonable to use neurologist in elkins?
