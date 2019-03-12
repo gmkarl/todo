@@ -683,8 +683,9 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
-	- [ ] CONTACT PHYSICAL THERAPY REGARDING APPT TOMORROW
-	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [X] CONTACT PHYSICAL THERAPY REGARDING APPT TOMORROW
+		-> Rescheduled !!
+	- [X][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] contact nvc group regarding attendance
 	- [ ] contact truck guy, didn't get the call back
 	- Jim arrives this evening to travel with me to morgantown for his visit this week
@@ -701,12 +702,6 @@ relevant.
 		Bactrim DS
 	- [ ] 8:30a - leave for morgantown
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 3, Mar/Apr 2019 Series
-	- [ ][ ] 3:15p - Physical therapy every Wednesday NEED TO RESCHEDULE
-		Seneca Trails Physical Therapy
-		18228 Seneca Trail
-		Marlinton, WV 24954
-			next to the bridge
-		(304) 799 4500
 	- [ ] 12:15a to 4:30a -  half day neuropsych testing, verbal and a little pencil & paper
 			park in front of building and check in at outpatient desk
 			APPOINTMENT BE CANCELED IF ARRIVE AFTER 1PM
@@ -747,6 +742,12 @@ relevant.
 		100mg doxycycline
 		Bactrim DS
 	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ][ ] 3:15p - Physical therapy every Friday
+		Seneca Trails Physical Therapy
+		18228 Seneca Trail
+		Marlinton, WV 24954
+			next to the bridge
+		(304) 799 4500
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -1160,7 +1161,7 @@ Truck Mechanic
 	38 11 St
 	Please visit during business hours.
 	9a-5:30p M-F
-		Lunch Break: 12:30p - 1:30p
+	====>	Lunch Break: 12:30p - 1:30p	<====
 
 	2019-01-04 truck is in line for shop, not looked at yet
 						 should have it in before the end of next week
@@ -1186,6 +1187,7 @@ Truck Mechanic
 		when he gets time for it
 		lift gate has been looked at
 		something came up and he'll give me a call back, hung up at 11:58a
+	2019-03-12 called 12:53p after not noticing call back -- Tim goes for lunch 12:30-1:30p
 		
 		
 	- [X] when do you think it'll be finished?
@@ -1337,7 +1339,7 @@ Cheryl Dean
 	monutain ranch house?
 
 Lester Zook
-	(540) 433-1637 (6-PM weeknights not thursday)
+	(540) 433-1637 (6-8 PM weeknights not thursday)
 
 Caverns
 	WVCC provides access to public caves
