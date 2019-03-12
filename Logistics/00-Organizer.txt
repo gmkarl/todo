@@ -675,6 +675,8 @@ relevant.
 
 
 - [ ] 2018-03-11 Mon
+	- [ ] Call Truck Mechanic regarding truck.  More info elsewhere in doc.
+	- [ ] 3:00p - pick up atovaquone from pharmacy
 
 - [ ] 2018-03-12 Tue
 	- Jim arrives this evening to travel with me to morgantown for his visit this week
@@ -714,7 +716,7 @@ relevant.
 	- [ ] POSSIBLY 1:00p Franklin, WV - caving with 4 other people, Lester Zook
 		
 - [ ] 2018-03-18 Mon
-	- [ ] Drive Gwyn to ELKINS for her ENT followup after her CT
+	- [ ] Drive Gwyn to ELKINS for her 2:00p ENT followup after her CT
 
 - [ ] 2018-03-20 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 4, Mar/Apr 2019 Series
@@ -1092,9 +1094,15 @@ Truck Mechanic
 		Another came: they didn't accept it
 		Third one: back end of transmission and pan are different
 		Fourth one expected by end of week.
-	2019-02-25 called, got Time, he said they didn't get back to him and the order for the 4th one
+	2019-02-25 called, got Tim, he said they didn't get back to him and the order for the 4th one
 		hasn't happened yet.  he's going to call and check in.
 	remember to check lift gate, AC, estimate, broken key, etc!
+	2019-03-11 transmission is en route; they did find the right one this time.  it should be here
+		later on this week, but will likely be beginning of next week to get it in
+		he's got the item list, works a little between jobs to reduce billing, will do estimate
+		when he gets time for it
+		lift gate has been looked at
+		something came up and he'll give me a call back, hung up at 11:58a
 		
 		
 	- [X] when do you think it'll be finished?
