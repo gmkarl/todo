@@ -684,6 +684,7 @@ relevant.
 		100mg doxycycline
 		Bactrim DS
 	- [ ] CONTACT PHYSICAL THERAPY REGARDING APPT TOMORROW
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ] contact nvc group regarding attendance
 	- [ ] contact truck guy, didn't get the call back
 	- Jim arrives this evening to travel with me to morgantown for his visit this week
@@ -745,6 +746,7 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -779,6 +781,8 @@ relevant.
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a - Sascha
+	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 	- [ ] Drive Gwyn to ELKINS for her 2:00p ENT followup after her CT
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
