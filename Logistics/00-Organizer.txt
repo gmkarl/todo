@@ -766,7 +766,7 @@ relevant.
 		Bactrim DS
 		500mg azithromycin
 
-- [ ] 2019-03-17
+- [ ] 2019-03-17 Sun
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
@@ -809,6 +809,8 @@ relevant.
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 10
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+
+- [ ] 2019-03-22 Fri
 
 - [ ] 2019-03-25 Mon
 	- [ ][ ] 6:30 PM food
