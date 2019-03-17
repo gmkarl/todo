@@ -1231,6 +1231,10 @@ VOICEMAIL NOTES
 		# Leave as new
 
 304 591 9429
+	Sat 3/17 12:04p
+	Yo, Karl, it's like uh just after 12:00 on Sat, I was just wondering if Mom was there.  Anyways, if you can just give me a call back, if she's not there don't worry about it, and you have a great day.  Bye.
+
+304 591 9429
 	Sat @ 8:20p
 	Hi Karl, this is Gwyn, after I left you I realized your boots are on the porch and it's
 	really, really raining, so you might want to bring your boots in, and also if you change
