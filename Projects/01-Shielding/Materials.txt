@@ -1,0 +1,7 @@
+Non-shielding Materials
+	Material		Melting Point C
+	PETG			210
+	Polystyrene		210
+	Acrylic			160
+	Bamboo			250-300 (ignition)
+	
