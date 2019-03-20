@@ -949,6 +949,11 @@ VOICEMAIL NOTES
 		5. Send a copy
 		# Leave as new
 
+304 456 4489
+	Tue 3/20/2109 5:42p
+	Hey Karl, it's Jim, I talked to a couple plumbers, and they said the only thing it could possibly be is that a piece of the waterline froze.  We'll just have to wait for it to thaw out.
+	If you're away and sleeping overnight or whatever it is you do and it freezes like that, there's isn't much we can do about it right at the moment.  So that's the story.  Bye.
+
 304 591 9429
 	Sat 3/17 12:04p
 	Yo, Karl, it's like uh just after 12:00 on Sat, I was just wondering if Mom was there.  Anyways, if you can just give me a call back, if she's not there don't worry about it, and you have a great day.  Bye.
