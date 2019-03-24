@@ -463,14 +463,15 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 	- [ ] register for GBO tours, can do walk-in or call or e-mail
-	- [ ] check in with Tim at Elkins Trucking Service regarding truck after order of 4th transmission from Isuzu.  Also check in regarding lift gate, AC, estimate, etc
+	- [X] check in with Tim at Elkins Trucking Service regarding order of 4th transmission from Isuzu.
 			M-F 9a-5:30p see 'Truck Mechanic' section below
 				but not during lunch break
 			304 636 5330
 	- [ ] I had a Dr Mooney appt the last two wednesdays but missed both.
 	      Call him to schedule the next, and add it to this calendar.
-	- [ ] check status of EEG request from dartmouth hitchcock: notes
+	- [X] check status of EEG request from dartmouth hitchcock: notes
 	      in annex/media/medical/DartmouthHitchcock.txt on rhel
+	- [ ] Call dr sivak's office regarding pre-op requirements completion, note I had a chest x-ray
 	- [ ][ ] 10:00a - 11:00a - Sascha
 	- [ ][ ] 11:00a - 12:00p Jeremy (tentatively every Mon 11:00a-11:50a)
 	- [ ] Drive Gwyn to ELKINS for her 2:00p ENT followup after her CT
@@ -521,6 +522,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 			next to the bridge
 		(304) 799 4500
 
+- [ ] 2019-03-24 Sun
+	- [ ][ ] 10:00 AM Sascha call, used to be Mon
+		DO SECTION 1 T-MAPS https://tmapscommunity.net/
+
 - [ ] 2019-03-25 Mon
 	- [ ] 9:30 AM Kee's Cave w/ Jim & Lester
 		leave early to arrive in time
@@ -538,6 +543,17 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-03-27 Wed
 	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5, Mar/Apr 2019 Series
+
+- [ ] 2019-03-29 Fri
+	- [ ][ ] tentatively 1:00p - 2:00p Jeremy (used to be Mon 11a)
+
+- [ ] 2019-04-01 Mon
+	- [ ] check in with Tim at Elkins Trucking Service regarding order of 4th transmission from Isuzu.
+			If transmission still not shipped, get order information to ask Isuzu about it.
+			M-F 9a-5:30p see 'Truck Mechanic' section below
+				but not during lunch break 12:30p - 1:30p
+				Called 9:05a and got tim immediately!
+			304 636 5330
 
 - [ ] 2019-04-02 Tue
 	- [ ] 1:00p - 1 week eye surgery post op visit w Jennifer Sivak-Callcott
@@ -911,6 +927,11 @@ Truck Mechanic
 		lift gate has been looked at
 		something came up and he'll give me a call back, hung up at 11:58a
 	2019-03-12 called 12:53p after not noticing call back -- Tim goes for lunch 12:30-1:30p
+	2019-03-18 called again 9:08p.  tim picked up!
+		getting ready to ship the transmission still.  specs were giving wrong tailshaft.
+		can't do estimate on lift gate operation, will do when transmission is done,
+		combine labor hours
+		Isuzu is the distributor for the transmission.
 		
 		
 	- [X] when do you think it'll be finished?
