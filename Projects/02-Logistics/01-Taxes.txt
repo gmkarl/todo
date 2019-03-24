@@ -1,2 +1,16 @@
 01-Taxes.txt
 
+2019-03-20
+	I filed taxes for 2017 using turbotax but did not pay them.
+	I think they were around $20,000 .
+	I currently have around $6,000 and make around $1,000 a month.
+	I'll need a payment plan.
+	Taxes for 2018 are coming up.
+	I have a _lot_ of taxable cryptocurrency trades, hundreds or thousands.
+	I received a document in the mail regarding taxes and insurance.
+	Gwyn referred me to a local woman who can do taxes, but she will still likely expect me to do some work.
+
+	- [ ] find document
+	- [ ] discern what is needed for last year's taxes
+		Keep in mind I can likely pay my taxes but only on an installment basis.
+	- [ ] discern what is needed for this year's taxes
