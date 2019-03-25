@@ -524,14 +524,14 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] 2019-03-24 Sun
 	- [ ] 7:00a leave for BP station in Franklin wearing clothes to cover in clay and with $75 check.
-	- [ ] 8:30a Kee's Cave w/ Lester
+	- [X] 8:30a Keys Cave w/ Lester
 		Meet at BP station in Franklin.
 		Bring $75.
 	- [ ][ ] 10:00 AM Sascha call, used to be Mon
 		DO SECTION 1 T-MAPS https://tmapscommunity.net/
 
 - [ ] 2019-03-25 Mon
-	- [ ] 9:30 AM Kee's Cave w/ Jim & Lester
+	- [ ] 9:30 AM Keys Cave w/ Jim & Lester
 		leave early to arrive in time
 		remember to prepare -- notably clothes
 		-> canceled, rescheduled on 2019-03-23 to 2019-03-24
