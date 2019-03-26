@@ -92,6 +92,8 @@ AZ, CONTAINS azithromycin equiv. monohydrate, 500 milligrams
 C12, Rexall Bone Health Calcium 1200, 2 softgels
 C12, CONTAINS D3 cholecalciferol, 1000 IU
 C12, CONTAINS calcium as carbonate, 1200 milligrams
+T5, Extra Strength Tylenol, 2 tablets
+T5, CONTAINS acetaminophen, 500 milligrams
 
 Morning Meds
 B2, Nature's Truth B-12 1000 mcg, 1 tablet
@@ -952,3 +954,4 @@ Time, Med, Dosage, Notes
 2019-03-26T13:27:19-04:00,AT,5,
 2019-03-26T13:27:59-04:00,DX,1,
 2019-03-26T13:28:26-04:00,BM,1,
+2019-03-26T18:46:03-04:00,T5,1,
