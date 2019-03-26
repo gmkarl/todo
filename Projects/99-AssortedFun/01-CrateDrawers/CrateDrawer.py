@@ -11,7 +11,7 @@ screwMaker = ScrewMaker.Instance()
 # 1. sustenance
 # 2. safety, protection
 # 3. love
-# 4. empathy
+# 4. empathy, understanding
 # 5. rest, recreation, play
 # 6. community
 # 7. creativity
@@ -126,7 +126,7 @@ class TabbedCorner:
 class TabbedEdge:
 	trace = False
 	@staticmethod
-	def FromFaces(tabbing, face1, face2):
+	def FromFaces(tabbing, face1, face2, screwFace1 = True, screwFace2 = True):
 		v2v = lambda vv: v(vv.X, vv.Y, vv.Z)
 		samev = lambda v1, v2: v1.x == v2.x and v1.y == v2.y and v1.z == v2.z
 		coordlist = lambda v: [v.x, v.y, v.z]
@@ -142,8 +142,8 @@ class TabbedEdge:
 					if TabbedEdge.trace:
 						print 'found edge ', vs1[0], ' ', vs1[1]
 					ret.append( (
-						TabbedEdge(tabbing, vs1[0], vs1[1], face1, face2, cutFlag, True, True),
-						TabbedEdge(tabbing, vs1[0], vs1[1], face2, face1, not cutFlag, True, True)
+						TabbedEdge(tabbing, vs1[0], vs1[1], face1, face2, cutFlag, screwFace1, screwFace2),
+						TabbedEdge(tabbing, vs1[0], vs1[1], face2, face1, not cutFlag, screwFace2, screwFace1)
 					) )
 		return ret
 				
@@ -393,8 +393,47 @@ class FastenedFace:
 			side2 = not side2
 		return cuts
 
-class CrateDrawer:
+class FrozenGroup:
+	def __init__(self, obj, doc, subobjs):
+		self.Object = obj
+		self.Document = doc
+		obj.Proxy = self
+		self.SubObjects = subobjs
+	def removeObjectsFromDocument(self):
+		print 'removeObjectsFromDocument'
+		for obj in self.SubObjects:
+			self.Document.removeObject(obj)
+		self.SubObjects = []
+	def addObject(self, child):
+		print 'removeObject'
+		pass
+	def removeObject(self, child):
+		print 'addObject'
+		pass
+
+class VPFrozenGroup:
+	def __init__(self, vobj):
+		if FreeCAD.GuiUp:
+			vobj.Proxy = self
+
+	def attach(self, vobj):
+		self.Object = vobj.Object
+
+	def claimChildren(self):
+		if hasattr(self,'Object'):
+			if self.Object:
+				return self.Object.Proxy.SubObjects
+
+	def __getstate__(self):
+		return None
+
+	def __setstate__(self,state):
+		return None
+
+class CrateDrawer(FrozenGroup):
 	def __init__(self, obj, doc):
+		#obj.addExtension('App::OriginGroupExtensionPython', self)
+		#obj.ExtensionProxy = self
 		obj.addProperty('App::PropertyLength', 'crateOuterWidth', 'CrateDrawer', 'Outer width of a crate')
 		obj.crateOuterWidth = u('13 in')
 		obj.addProperty('App::PropertyLength', 'crateInnerWidth', 'CrateDrawer', 'Inner width of a crate')
@@ -429,9 +468,33 @@ class CrateDrawer:
 		obj.addProperty('App::PropertyLength', 'screwHeadHeight', 'CrateDrawer', 'Height of screw heads')
 		obj.screwHeadHeight = u('2.5 mm')
 		obj.screwMargin = obj.nutDiameter + obj.thickness
-		obj.Proxy = self
+		#obj.Proxy = self
 
-		#obj.Shape = #
+		#obj.Shape = Part.Shape()
+		#self.Object = obj
+		self.left_wall = doc.addObject("Part::Feature", "Crate Left")
+		self.right_wall = doc.addObject("Part::Feature", "Crate Right")
+		self.back_wall = doc.addObject("Part::Feature", "Crate Back")
+		self.bottom_wall = doc.addObject("Part::Feature", "Crate Bottom")
+		self.trim_wall = doc.addObject("Part::Feature", "Crate Front")
+		self.top_wall = doc.addObject("Part::Feature", "Crate Top")
+		self.drawer_left_wall = doc.addObject("Part::Feature", "Drawer Left")
+		self.drawer_right_wall = doc.addObject("Part::Feature", "Drawer Right")
+		self.drawer_back_wall = doc.addObject("Part::Feature", "Drawer Back")
+		self.drawer_bottom_wall = doc.addObject("Part::Feature", "Drawer Bottom")
+		self.drawer_front_wall = doc.addObject("Part::Feature", "Drawer Front")
+		self.sub_wall = doc.addObject("Part::Feature", "Crate Sub Bottom")
+
+		self.drawer = doc.addObject('App::DocumentObjectGroupPython', 'Drawer')
+		FrozenGroup(self.drawer, doc, [self.drawer_left_wall, self.drawer_right_wall, self.drawer_back_wall, self.drawer_bottom_wall, self.drawer_front_wall])
+		VPFrozenGroup(self.drawer.ViewObject)
+		FrozenGroup.__init__(self, obj, doc, [
+			self.left_wall, self.right_wall, self.back_wall, self.bottom_wall, self.trim_wall, self.top_wall, self.sub_wall,
+			self.drawer
+			#self.drawer_left_wall, self.drawer_right_wall, self.drawer_back_wall, self.drawer_bottom_wall, self.drawer_front_wall
+		])
+		#obj.Group = [ self.left_wall ]
+		#fp.addObject(lw)
 
 	def onChanged(self, fp, prop):
 		# a property has changed
@@ -457,7 +520,7 @@ class CrateDrawer:
 
 		TabbedCorner.reset()
 
-		parts = []
+		#parts = []
 
 		ops = [
 			v(-owid / 2,-owid / 2, 0),
@@ -477,6 +540,7 @@ class CrateDrawer:
 		back_face = Part.Face(Part.makePolygon([ops[1],ops[2],ops[6],ops[5],ops[1]]))
 		bottom_face = Part.Face(Part.makePolygon([ops[0],ops[1],ops[5],ops[4],ops[0]]))
 		trim_face = Part.Face(Part.makePolygon([ops[3],ops[7],ops[8],ops[9],ops[3]]))
+		top_face = Part.Face(Part.makePolygon([ops[2],ops[3],ops[7],ops[6],ops[2]]))
 		left_trim_edge = [ops[3],ops[9]]
 		right_trim_edge = [ops[7],ops[8]]
 
@@ -485,6 +549,7 @@ class CrateDrawer:
 		back_wall = back_face.extrude(v(0,-th,0))
 		bottom_wall = bottom_face.extrude(v(0,0,th))
 		trim_wall = trim_face.extrude(v(0,th,0))
+		top_wall = top_face.extrude(v(0,0,-th))
 
 		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, back_face):
 			left_wall = left_wall.cut(cuts[0].calculate())
@@ -509,8 +574,22 @@ class CrateDrawer:
 		trim_wall = trim_wall.cut(TabbedEdge(self.tabbing, left_trim_edge[0], left_trim_edge[1], trim_face, left_face, True, True, False, False, False, False, True, False).calculate())
 		left_wall = left_wall.cut(TabbedEdge(self.tabbing, left_trim_edge[0], left_trim_edge[1], left_face, trim_face, False, False, True, False, False, True, True, False).calculate())
 		trim_wall = trim_wall.cut(TabbedEdge(self.tabbing, right_trim_edge[0], right_trim_edge[1], trim_face, right_face, True, True, False, False, False, False, True, False).calculate())
-		TabbedEdge.trace = True
 		right_wall = right_wall.cut(TabbedEdge(self.tabbing, right_trim_edge[0], right_trim_edge[1], right_face, trim_face, False, False, True, False, False, True, True, False).calculate())
+
+		for cuts in TabbedEdge.FromFaces(self.tabbing, left_face, top_face, False):
+			left_wall = left_wall.cut(cuts[0].calculate())
+			top_wall = top_wall.cut(cuts[1].calculate())
+		for cuts in TabbedEdge.FromFaces(self.tabbing, right_face, top_face, False):
+			right_wall = right_wall.cut(cuts[0].calculate())
+			top_wall = top_wall.cut(cuts[1].calculate())
+		for cuts in TabbedEdge.FromFaces(self.tabbing, back_face, top_face, False):
+			back_wall = back_wall.cut(cuts[0].calculate())
+			top_wall = top_wall.cut(cuts[1].calculate())
+		for cuts in TabbedEdge.FromFaces(self.tabbing, trim_face, top_face, False):
+			trim_wall = trim_wall.cut(cuts[0].calculate())
+			top_wall = top_wall.cut(cuts[1].calculate())
+
+		top_wall = top_wall.cut(Part.makeBox(fp.crateInnerWidth, fp.crateInnerWidth, th * 3, v(-fp.crateInnerWidth / 2, -fp.crateInnerWidth / 2, ohit - th)))
 
 		# drawer
 		nutHeight = (self.tabbing.nutDiameter - self.tabbing.thickness) / 2
@@ -582,6 +661,11 @@ class CrateDrawer:
 			drawer_front_wall = drawer_front_wall.cut(cuts[0].calculate())
 			drawer_bottom_wall = drawer_bottom_wall.cut(cuts[1].calculate())
 
+		self.drawer_left_wall.Shape = drawer_left_wall
+		self.drawer_right_wall.Shape = drawer_right_wall
+		self.drawer_back_wall.Shape = drawer_back_wall
+		self.drawer_bottom_wall.Shape = drawer_bottom_wall
+		self.drawer_front_wall.Shape = drawer_front_wall
 		drawer = Part.Compound([drawer_left_wall, drawer_right_wall, drawer_back_wall, drawer_bottom_wall, drawer_front_wall])
 		drawer.Placement.move(v(0,-dwid/2,0))
 
@@ -728,20 +812,48 @@ class CrateDrawer:
 		#parts.append(front_floor_wall)
 		#parts.extend(secondary_floor_walls)
 
-		parts.append(left_wall)
-		parts.append(right_wall)
-		parts.append(back_wall)
-		parts.append(bottom_wall)
-		parts.append(trim_wall)
-		parts.append(drawer)
-		parts.extend(settle_floors)
+		self.left_wall.Shape = left_wall
+		self.right_wall.Shape = right_wall
+		self.back_wall.Shape = back_wall
+		self.bottom_wall.Shape = bottom_wall
+		self.trim_wall.Shape = trim_wall
+		self.top_wall.Shape = top_wall
+		#self.drawer = drawer
+		#self.settle_floors = settle_floors
+		self.sub_wall.Shape = Part.makeCompound(settle_floors)
+
+		#self.lw = FreeCAD.ActiveDocument.addObject("Part::Feature", "Left Wall")
+		#self.lw.Shape = left_wall
+		#fp.addObject(lw)
 		
-		fp.Shape = Part.Compound(parts)
+		#fp.Shape = Part.makeCompound(parts)
+		#fp.Shape = Part.Compound()
+
+#class VPCrateDrawer:
+#	def __init__(self, vobj):
+#		vobj.Proxy = self
+#
+#	def attach(self,vobj):
+#		self.Object = vobj.Object
+#
+#	def claimChildren(self):
+#		if hasattr(self,'Object'):
+#			if self.Object:
+#				return self.Object.Proxy.subparts
+#		return []
+#
+#	def __getstate__(self):
+#		return None
+#
+#	def __setstate__(self,state):
+#		return None
+#
 
 def makeCrate():
 		if not FreeCAD.ActiveDocument:
 			FreeCAD.newDocument()
-		c = FreeCAD.ActiveDocument.addObject('Part::FeaturePython', 'CrateDrawer')
+		c = FreeCAD.ActiveDocument.addObject('App::DocumentObjectGroupPython', 'CrateDrawer')
+		#c = FreeCAD.ActiveDocument.addObject('Part::FeaturePython', 'CrateDrawer')
 		CrateDrawer(c, FreeCAD.ActiveDocument)
-		c.ViewObject.Proxy = 0
+		VPFrozenGroup(c.ViewObject)
 		FreeCAD.ActiveDocument.recompute()
