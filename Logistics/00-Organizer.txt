@@ -622,6 +622,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		1 tsp atovaquone
 		100mg doxycycline
 		Bactrim DS
+	- Kate call CANCELED: she has polyvegal training
 	- [ ][ ] ~6:30p - MEDS after dinnr
 		1 tsp atovaquone
 		100mg doxycycline
@@ -664,6 +665,9 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		-> considering whether this is non-controversial.  if I ever tangentially bumped a system that could be threatened by this, is this the course I want to pursue?
 	- [ ] read encrypted e-mail & reply
 		-> maybe if I came at this from a strong place of being non-controversial, I'd feel more okay about it
+
+- [ ] 2019-04-09 Tue
+	- [ ][ ] 10:00a - 11:00a - Kate call every Tue, Fri
 
 - [ ] 2019-04-10 Wed
 	- [ ] 2:00p Oncology PET Scan
