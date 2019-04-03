@@ -1,0 +1,35 @@
+FIRST PROTOTYPE:
+	Fixed Base, plugs in, powers electromagnets.
+	Floating Component, with permanent magnets.
+remember, no oscillating fields cause we live in green bank !!!!
+TOWARDS THE END GOAL OF A TINY WALKING GOLEM !!!!
+
+I'd like to be able to levitate the magnets an inch to the side of the base.
+- [ ] find the kind of magnet with highest power / mass (likely neodymium)
+	-> note: dimensions of magnet affect behavior?
+	
+	These magnets have maximum temperatures depending on the neodymium material type.
+	It can range from 176 F 80 C through 428 F 220 C.
+	Don't appear to have any problem with cold.
+
+	Neodymium magnetis are ~7.45 g/cm^3.  There's more at https://www.kjmagnetics.com/specs.asp
+		- they also reshape a little proportional to temperature and stresses and it's predictable.
+
+	The magnetically strongest neodymium materialtype is N52.  It only goes to 176 F.
+
+	We'll likely want the lightest, smallest magnet, which is about a mm wide.
+	Magnets are specd with a detailed graph of the field shape, but m can be calculated with
+		m = 1/mu_0 Br V
+			where V is magnet volume.
+	Smallest magnet is D101-N52.
+		Weight: 0.0118 g
+		1/16" diameter, 1/32" thick ->
+			-> 0.00157109008 cm^3, which matches mass
+	D101-N52
+		dia = 1/16 in
+		height = 1/32 in
+		V = pi * (1/32 in)^3 = 0.0015709008 cm^3
+		m = ?
+		
+- [ ] plan how many will be needed to actually function (remember 3 dimensions)
+- [ ] calculate needed specs of base.
