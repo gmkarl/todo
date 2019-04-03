@@ -143,7 +143,7 @@ public:
     time_t startTime;
     if (*chunk != ',')
     {
-      chunk = strptime(chunk, "%FT%T%z", &_tm);
+      chunk = strptime(chunk, line, &_tm);
       startTime = mktime(&_tm);
     }
     else
@@ -151,15 +151,15 @@ public:
       startTime = 0;
     }
     
-    if (*chunk != ',') throw std::runtime_error("unexpected data after startTime");
+    if (*chunk != ',') throw std::runtime_error(std::string("unexpected data after startTime: ") + chunk);
     ++ chunk;
     delimAdvance(chunk, -' ');
 
     // stopTime
-    chunk = strptime(chunk, "%FT%T%z", &_tm);
+    chunk = strptime(chunk, line, &_tm);
     time_t stopTime = mktime(&_tm);
 
-    if (*chunk != ',') throw std::runtime_error("unexpected data after stopTime");
+    if (*chunk != ',') throw std::runtime_error(std::string("unexpected data after stopTime: ") + chunk);
     ++ chunk;
     delimAdvance(chunk, -' ');
 
@@ -182,6 +182,22 @@ public:
   time_t stopTime;
   std::string description;
   std::string comment;
+
+  private:
+  static char const * strptime(char const * str, std::string & line, struct tm * _tm)
+  {
+    char const * ret = ::strptime(str, "%FT%T%z", _tm);
+    if (*ret == ':')
+    {
+      if (ret[1] >= '0' && ret[1] <= '9' && ret[2] >= '0' && ret[2] <= '9')
+      {
+        size_t offset = str - line.c_str();
+        line.erase(ret - line.c_str(), 1);
+        ret = ::strptime(line.c_str() + offset, "%FT%T%z", _tm);
+      }
+    }
+    return ret;
+  }
 };
 
 // blargh i didn't generalize it enough
