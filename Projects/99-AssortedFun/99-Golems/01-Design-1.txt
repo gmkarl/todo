@@ -3,9 +3,13 @@ FIRST PROTOTYPE:
 	Floating Component, with permanent magnets.
 remember, no oscillating fields cause we live in green bank !!!!
 TOWARDS THE END GOAL OF A TINY WALKING GOLEM !!!!
+		or even procedural plans for a golem of user-chosen size !
+			waitwait what if a user makes a giant city-destroying golem? ????????
+				i think htey would be arrested but there would be a big huge community golem
+				sold at auction or something
 
 I'd like to be able to levitate the magnets an inch to the side of the base.
-- [ ] find the kind of magnet with highest power / mass (likely neodymium)
+- [X] find the kind of magnet with highest power / mass (likely neodymium)
 	-> note: dimensions of magnet affect behavior?
 	
 	These magnets have maximum temperatures depending on the neodymium material type.
@@ -29,7 +33,43 @@ I'd like to be able to levitate the magnets an inch to the side of the base.
 		dia = 1/16 in
 		height = 1/32 in
 		V = pi * (1/32 in)^3 = 0.0015709008 cm^3
-		m = ?
+		Brmax = 14800 G = 1.48 T
+		m = 1/mu_0 Br V
+		m = 0.00185034597 Am^2
 		
 - [ ] plan how many will be needed to actually function (remember 3 dimensions)
+
+
+	okay, it's like we're pulling with strings and pushing with sticks.
+	we're going to need to be able to move it left/right, up/down, and in/out as it drifts, to maintain.
+	orientation will matter too ....
+	
+		to move it up:
+			push diagonally on top / pull diagonally on bottom
+			-> results in horizontal force too, need to counter with other magnet
+		I think we can do this with only _one_ magnet.
+
+		but say is has drifted below or above the side-force magnet.
+			forces will increase in order to not send magnet to or fro.
+			in extreme, magnet is balanced between the two and it won't quite work.
+			can counter with another magnet on base or on component.
+       _ _
+O     |\ /|
+	X
+O	|
+	v
+		
+		to move it left and right .....
+
 - [ ] calculate needed specs of base.
+
+
+
+How can we engage in mediation when our brains are talking with each other?
+	I still think it's valuable and notable that it has worked successfully in normal situations.
+			including street gangs, warfare, etc ...
+
+		no, I mean hvaing to do with privacy and secrets.
+			I'm not aware of the details, but it does sound difficult.  Maybe mediation is
+			needed elsewhere first.
+
