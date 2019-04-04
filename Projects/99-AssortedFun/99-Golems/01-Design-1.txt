@@ -61,6 +61,58 @@ O	|
 		
 		to move it left and right .....
 
+	if the magnet is situated between two electromagnets, then what?
+			one could push super hard, the other pull super harder, and this would move it parallel
+			both could pull and this would move it towards / away
+			BUT if the magnet spins, we're likely in trouble.
+	if the magnet is above just one, we've already seen it would work (unless it spins)
+	if the magnet is beyond both, then ...
+			one could push really hard, and the other could pull really hard until a component reaches zero, right?
+
+			a N, theta = 60 deg
+			b N, phi = 70 deg
+
+			cos(theta) * a + cos(phi) * b = 0
+				yeah we can cancel these out.
+
+	so the big problem with only 1 magnet is that it will spin to align its poles.  do we need anothe rmagnet?
+
+	
+			N
+				S N
+			N
+
+			N	S
+				
+			S	N
+
+		I think another magnet would help, or a really long magnet.
+
+			N      N
+
+			N      S
+
+
+			
+			S
+					N
+					N
+
+			N
+
+
+
+			N		S
+
+
+			S		S
+
+		it's hard to solve for this without oscillation.
+
+			I think it owuld help to consider magnetic monopoles.
+			I settle don looking to solve it algebraically based on the formula for force and torque.
+			The restraint will be that the torque is zero, we want to freely control the force.  So this will decide hte number of electromagnets needed.
+
 - [ ] calculate needed specs of base.
 
 
