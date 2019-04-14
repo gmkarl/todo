@@ -1,5 +1,11 @@
 last update: 2018-01-04
 
+- [ ] CUT current box to open it
+- [ ] place EMITTER inside on a battery
+- [ ] RESEAL box, with NEW foil if needed
+- [ ] Measure BY HAND, using FFT prog, to get basic results (WIDEBAND)
+
+
 - [ ] Measurement:
   Made simple script but results are not what was expected.
   - [ ] Take a measurement of an emission peak when shielded and unshielded using a normal spectrogram.  Then debug a measurement approach until it can predict the same attenuation.
