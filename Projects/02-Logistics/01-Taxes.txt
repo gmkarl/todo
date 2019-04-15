@@ -3,6 +3,14 @@
 	IRS tax help for individuals:
 		800-829-1040
 			M-F 7a-7p
+		   1. english
+			1. refund & form 1040-X status
+			2. personal income tax, tax reform law, income tax withholding,
+			   tax forms and transcripts
+			3. answers about business taxes
+			4. prerecorded information & resources about health care law
+			5. personal & business taxes regarding health care
+			9. repeat menu?
 		1600 N. Coalter St.
 		Staunton, VA 24401
 			M-F 8:30a-4:30p (closed lunch 11:30a-12:30p)
