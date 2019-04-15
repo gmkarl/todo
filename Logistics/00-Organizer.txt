@@ -758,6 +758,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 				($580 total)
 	- [ ] 7:00a - 7:00p - call irs and get tax filing status from 2018
 		800-829-1040
+		-> please call back after the deadline if you do not need immediate assistance
 		if i filed my 2018 taxes, figure out a payment plan
 
 		there's also 
@@ -768,10 +769,21 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	
 
 - [ ] 2019-04-16 Tue
+	- [ ] 7:00a - 7:00p - call irs and get tax filing status from 2018
+		800-829-1040
+		-> please call back after the deadline if you do not need immediate assistance
+		if i filed my 2018 taxes, figure out a payment plan
+
+		there's also 
+		1 hr away
+		Commissioner of Revenue Bath Co
+		65 Court House Hill Road, suite 102
+		Warm Springs, VA 24484
 	- [ ] 11:30a Oncology PET Scan
 			Davis Cancer Center or whatnot
 			Elkins
-	- Jim visits after PET scan, see below
+	- [ ] 2:00p Jim visits after PET scan, see below
+	- [ ] 6:00p Dr Mooney team meeting
 
 Jim wants to is visiting Tues 16, to schedule an appointment with Seneca Health Services Care Coordinator.
 	This is to move my supports off of private pay systems: dr mooney and windhorse.
@@ -805,6 +817,9 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 		(used to be Beanery American Grill)
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
+
+- [ ] 2019-05-06 Mon
+	- [ ] 2:30p - Dr Cross diving clearance
 
 - [ ] 2019-05-08 Wed
 	- [ ] 1:00p - 6 week eye surgery post op visit w Jennifer Sivak-Callcott
