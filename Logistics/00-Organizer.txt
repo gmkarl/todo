@@ -737,6 +737,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 
 - [ ] Sat/Sun
 	Jim recommends working on taxes
+	-> i calculated my taxes with turbotax and bitcoin.tax .
+		turbotax charged a lot of money, but calculated that I had no taxes due
+		because I had lost $137k that year.
+		so, i didn't file and didn't have to pay.
 
 - [ ] 2019-04-15 Mon
 	- No Jeremy call this week
@@ -744,14 +748,19 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		jim thinks i'd likely file for massachusetts
 		-> i made no net income in 2018.
 	- [ ] 11:00a - 7:00p - scuba buddys open, can call to sign up
-	- [ ] 9:00a - 4:00p - volunteer prepared taxes open M-F
-			could visit and ask about payment plans
-			could also cll irs and ask
-				other options:
-					- call irs
-					- irs has help center in staunton (2 hrs)
-					  need to schedule an appt
-					- sort through forms self
+		-> owner was away for weekend, is coming back tomorrow
+		-> need another form if I answer YES to a question for any reason,
+			PADI regulation
+		-> need to come in physically to register
+		   book & video take $50 deposit, can pay rest later
+			$330 total
+			also want you to own your own mask, snorkel, fins, at least $150
+				($580 total)
+	- [ ] 7:00a - 7:00p - call irs and get tax filing status from 2018
+		800-829-1040
+		if i filed my 2018 taxes, figure out a payment plan
+
+		there's also 
 		1 hr away
 		Commissioner of Revenue Bath Co
 		65 Court House Hill Road, suite 102
@@ -812,7 +821,7 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 
 - [ ] 2019-05-14 Tue
 	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
-		NOT REGISTERED YET
+		NOT REGISTERED YET -> come in physically with medical & doctor's forms
 
 - [ ] 2019-05-16 Thu
 	- [ ] 6:00p-9:30p Scuba Buddys class module 4,5 Quiz & Exam
@@ -820,6 +829,10 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 
 - [ ] 2019-05-18 Sat
 	- [ ] 1-6pm pool time at scuba buddys
+		NOT REGISTERED YET
+
+- [ ] 2019-05-19 Sun
+	- [ ] 1-5:30pm pool scuba buddys
 		NOT REGISTERED YET
 
 - [ ] 2019-07-10 Wed
@@ -1185,6 +1198,30 @@ VOICEMAIL NOTES
 		4. Reply
 		5. Send a copy
 		# Leave as new
+	2. send a message
+	3. work with greetings
+	4. change settings
+
+	6. get deleted messages
+	7. leave mailbox and log on as another subscriber
+	0. get more help
+	*. exit voicemail
+
+2019-04-15
+202 816 7451
+	Mon 4/1 12:18p
+	Hi, this is Dave Strauss, director of memberhsip at the Nature Conservancy, inviting
+	you to a live Q&A call tomorrow ...
+844 779 1040
+	Tue 4/2 10:17a
+	This is an urgent message from Mon Power for Robert C Bold ...
+202 839 9281
+	Tue 4/2 8:03p
+	Hi, this is Dave Strauss, director of membership at the Nature Conservancy.
+	[ same thing, happening right now the Q&A call with scientists ]
+It said I had 4 new messages, but played only 3.  I played the deleted voicemails and there
+were only 3.  I saw no other options to play voicemails.
+
 
 304 456 4489
 	Tue 3/20/2109 5:42p
