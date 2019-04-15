@@ -779,8 +779,8 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		Commissioner of Revenue Bath Co
 		65 Court House Hill Road, suite 102
 		Warm Springs, VA 24484
-	- [ ] 8:30a - leave for Elkins to move driving around Kate call
-	- [ ] 10:00a-10:50a Kate call Tue, Fri
+	- [ ] 9:00a - leave for Elkins to move driving around Kate call
+	- [ ] 10:30a-11:20a Kate call, usually 10a Tue, Fri
 	- [ ] 11:30a Oncology PET Scan
 			Davis Cancer Center or whatnot
 			Elkins
