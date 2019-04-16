@@ -1,5 +1,10 @@
 01-Taxes.txt
 
+2019-04-14
+	The tool I was using for tracking gains/losses was bitcoin.tax .  It costs money but appears to do
+	what is needed.  You need to roughly manually import all your exchanges every year.
+	Some of the numbers are inaccurate because I haven't imported all of my exchanges.
+
 2019-03-20
 	I filed taxes for 2017 using turbotax but did not pay them.
 	I think they were around $20,000 .
@@ -8,7 +13,7 @@
 	Taxes for 2018 are coming up.
 	I have a _lot_ of taxable cryptocurrency trades, hundreds or thousands.
 	I received a document in the mail regarding taxes and insurance.
-	Gwyn referred me to a local woman who can do taxes, but she will still likely expect me to do some work.
+	In 2018, I used a service that computed my cryptocurrency gains and losses.
 
 	- [ ] find document
 	- [ ] discern what is needed for last year's taxes
