@@ -815,6 +815,16 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 - [ ] 2019-04-22 Mon
 	- [ ] 11:00a Last Jeremy call
 
+~~~~~~~~~~~~~~
+- [ ] 2019-04-25 Thu
+	- [ ] 3:00p - registration opens Spring Var 2019
+~~~~~~~~~~~~~~
+Spring VAR 2019
+~~~~~~~~~~~~~~
+- [ ] 2019-04-28 Sun
+	- [ ] Spring VAR 2019 check-out
+~~~~~~~~~~~~~~
+
 - [ ] 2019-04-29 Mon
 	go early to motown on my own to scan books
 	- [ ][ ] 6:30 PM food
