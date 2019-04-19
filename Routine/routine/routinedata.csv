@@ -3829,3 +3829,10 @@ EY, morning, 2019-03-26T05:41:39-0400, 2019-03-26T05:42:38-0400, Eye Lubricant,
 FD, morning, 2019-03-26T05:42:50-0400, 2019-03-26T05:45:20-0400, Breakfast and Meds, UNFINISHED
 BT2Z, brushing, 2019-04-11T09:53:39-04:00, 2019-04-13T21:24:46-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 B, morning, , 2019-04-14T11:06:18-04:00, Get Out of Bed, finished earlier
+BT2Z, brushing, , 2019-04-15T12:20:29-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
+BTX4, brushing, 2019-04-15T12:20:56-0400, 2019-04-15T16:06:41-0400, Logistics & Obligations: 30 min {VALUE: 0.4; REASON: life maintenance; GOAL: 7/w}, UNFINISHED
+BTX5, brushing, 2019-04-15T16:06:51-0400, 2019-04-15T17:40:14-0400, Academic & Career Work: 30 min {VALUE: 0.6; REASON: credentials, contacts, experience; GOAL: 7/w; strat_paoe: primary}, UNFINISHED
+B, morning, , 2019-04-18T07:49:58-04:00, Get Out of Bed, finished earlier
+T, morning, 2019-04-18T07:50:06-04:00, 2019-04-18T07:51:11-04:00, Calendar and Routine Todo List, UNFINISHED
+EY, morning, 2019-04-18T07:51:15-04:00, 2019-04-18T07:53:24-04:00, Eye Lubricant,
+MB, morning, 2019-04-18T07:53:29-04:00, 2019-04-18T08:02:13-04:00, Make Bed,
