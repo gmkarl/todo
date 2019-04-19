@@ -797,13 +797,15 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 - [ ] 2019-04-17 Wed
 	- [X] CALL DR BOUBOULIS FIGURE WHEN APPT IS !
 		-> called 9:50a, got front desk voicemail and left voicemail
+		-> he called me, listed down in his section at bottom of file
 	- [ ] Is this my dr bouboulis call?  I'd better call them and check
-	- [ ][ ] 2:10p - 3:00p - dr mooney call, every 2 weeks
+	- [X][ ] 2:10p - 3:00p - dr mooney call, every 2 weeks
 	- [ ] 4:00p, 4:30p - GWYN's place for CAVE TRAINING
-	- [ ] 5:00p - 6:00p - cave training, Sarah Richards & Doug
+	- [X] 5:00p - 6:00p - cave training, Sarah Richards & Doug
 
 - [ ] 2019-04-18 Thu
-		bring nvc stuff to drs appt
+		bring NVC STUFF and MEDS to drs appt
+	- [ ] 7:45a or 8:15a, goal of 8:00a - gwyn for meds
 	- [ ] 11:45a - Dr Fleming PET scan followup
 		travel from elkins to charlottesville
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
@@ -813,16 +815,17 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 - [ ] 2019-04-19 Fri
 	- Jim is pushing Seneca Health; it would likely help things if I could wrap my head around
 		connecting with them.
-	- RESCHEDULE PHYSICAL THERAPY BELOW !! I've missed so many
-	- [ ][ ] 3:15p - Physical therapy every Friday? I missed previous ones !!!!
+	- RESCHEDULE PHYSICAL THERAPY TO RELEARN FACIAL MUSCLES, BELOW !! I've missed so many
+	- [ ][ ] 3:15p - Physical therapy to relearn facial nerve every Friday? I missed previous ones !!!!
 		Seneca Trails Physical Therapy
 		18228 Seneca Trail
 		Marlinton, WV 24954
 			next to the bridge
 		(304) 799 4500
+	- [ ][ ] 5:30p - Kate later this week due to training
 
 - [ ] 2019-04-20 Sat
-	- [ ] 9:00a - leave for cave trip
+	- [ ] 8:30a - leave for cave trip
 	- [ ] 11:00a - rendezvous with whole group for beginner's cave trip with doug
 		"Back Hollow Road, Dry Fork" on google -- it's at the east end of the road, intersecting rt 32
 		1.5 - 2hr drive
@@ -1728,6 +1731,13 @@ Dr Bouboulis
 			Atovaquone has been on indefinite backorder for some time now.
 			Called and asked for update.
 			Was shipped and should come in today!  Check after 3pm.
+	2019-04-17 Wed 1:30p
+		This is month 4 of full dose, since we started in January.
+		I should be feeling better.
+		The surgery could have been extenuating circumstances that exacerbated my symptoms.
+		It's time for me to get more blood work.
+		Let's speak again in 1.5 months or so (6 weeks).
+		Try calling front desk this afternoon or any time tomorrow.
 
 NVC Practice Group
 	Blacksburg, VA; ~3 hr drive alternate sundays 7pm-8:30pm patriciabevan@mac.com
