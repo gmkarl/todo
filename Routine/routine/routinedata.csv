@@ -3839,3 +3839,4 @@ MB, morning, 2019-04-18T07:53:29-04:00, 2019-04-18T08:02:13-04:00, Make Bed,
 BT2Z, brushing, 2019-04-19T13:00:52-04:00, 2019-04-19T13:09:17-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT2Z, brushing, , 2019-04-21T13:11:12-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
 BT10, brushing, 2019-04-21T15:00:19-04:00, 2019-04-21T15:00:20-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: primary}, UNFINISHED
+BT2Z, brushing, , 2019-04-21T15:00:23-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
