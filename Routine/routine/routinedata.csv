@@ -3845,3 +3845,4 @@ BT10, brushing, 2019-04-21T16:40:46-04:00, 2019-04-21T16:45:04-04:00, Toothpaste
 BT2Z, brushing, 2019-04-21T16:45:05-04:00, 2019-04-21T16:57:44-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT32, brushing, 2019-04-21T16:57:47-04:00, 2019-04-21T16:57:47-04:00, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, UNFINISHED
 BT10, brushing, 2019-04-21T18:41:33-04:00, 2019-04-21T18:41:35-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: primary},
+BT2Z, brushing, , 2019-04-21T18:41:37-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
