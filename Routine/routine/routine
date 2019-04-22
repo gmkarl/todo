@@ -16,6 +16,12 @@ then
     echo "Script has moved into routine2.C . "
     CONTINUE=0
   else
+	echo "=============================================================="
+	echo "= It is HARD to maintain this.  Please implement UPDATED PLAN:"
+	echo "= - [ ] DEPRIORITIZE unlearned tasks when learning is lost on tasks with more value"
+	echo "= - [ ] keep SIMPLE, SHORT behaviors around reinforcing behavior for a while"
+	echo "= - [ ] UPGRADE simple behaviors to HARDER behaviors AFTER simple behaviors are learned."
+	echo "=============================================================="
   	echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
 	echo "More accurately, let's merge the rating stuff in this script into routine2.C"
   fi
