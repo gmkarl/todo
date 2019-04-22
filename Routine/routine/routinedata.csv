@@ -3859,3 +3859,4 @@ B, morning, , 2019-04-22T13:16:29-04:00, Get Out of Bed, finished earlier
 BT18, brushing, 2019-04-22T13:16:16-04:00, 2019-04-22T13:16:36-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w}, UNFINISHED
 BT40, brushing, 2019-04-22T13:16:38-04:00, 2019-04-22T13:17:04-04:00, Eye lubricant {VALUE: 0.9; REASON: severe dry eye; GOAL: 6/d},
 BT10, brushing, 2019-04-22T14:51:12-04:00, 2019-04-22T14:55:49-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: primary},
+BT2Z, brushing, 2019-04-22T14:56:04-04:00, 2019-04-22T15:04:43-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
