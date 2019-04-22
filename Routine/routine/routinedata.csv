@@ -3866,3 +3866,4 @@ BT10, brushing, 2019-04-22T16:41:01-04:00, 2019-04-22T16:41:15-04:00, Toothpaste
 BT2Z, brushing, 2019-04-22T16:41:35-04:00, 2019-04-22T16:48:02-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 T, morning, 2019-04-22T16:48:52-04:00, 2019-04-22T16:51:17-04:00, Calendar and Routine Todo List, UNFINISHED
 EY, morning, 2019-04-22T16:51:20-04:00, 2019-04-22T16:51:49-04:00, Eye Lubricant,
+BT18, brushing, 2019-04-22T16:48:14-04:00, 2019-04-22T16:51:58-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w},
