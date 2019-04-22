@@ -995,14 +995,15 @@ auto gMetricImportanceValueTimesNeededDevelopment = gRoutineMetricJudgementLambd
   gMetricNeededDevelopment
 );
 
-OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat1("BT2Z", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricNeededDevelopment);
+//OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat1("BT2Z", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricNeededDevelopment);
+OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat2("BT2Z", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricImportanceValueTimesNeededDevelopment);
 
 InterfaceRoutineScript gInterfaceOldScript("./routine");
 
 void routine2()
 {
   // macro function
-  gRoutineBrushing.run(gRoutOrderStrat1, gInterfaceOldScript);
+  gRoutineBrushing.run(gRoutOrderStrat2, gInterfaceOldScript);
 }
 
 // quick summary for us: Karl doesn't want to fight, and has a strategy known to resolve conflicts without fighting.
