@@ -837,14 +837,19 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 - [ ] 2019-04-22 Mon
 	- [ ] 11:00a Last Jeremy call
 
+- [ ] 2019-04-23 Tue
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+
 - [ ] 2019-04-24 Wed
-	- 
+	- [ ] 10:00a - 11:00a Sascha call
 
 ~~~~~~~~~~~~~~
 - [ ] 2019-04-25 Thu
 	- [ ] 3:00p - registration opens Spring Var 2019
 ~~~~~~~~~~~~~~
 Spring VAR 2019
+- [ ] 2019-04-26 Fri
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
 ~~~~~~~~~~~~~~
 - [ ] 2019-04-28 Sun
 	- [ ] Spring VAR 2019 check-out
@@ -881,7 +886,7 @@ Spring VAR 2019
 	- [ ] 2:30p - Dr Cross diving clearance
 
 - [ ] 2019-05-07 Tue
-	- [ ] 10:00a-11:00a Kate call every Tue, Fri
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
 
 - [ ] 2019-05-08 Wed
 	- [ ] 1:00p - 6 week eye surgery post op visit w Jennifer Sivak-Callcott
@@ -895,6 +900,9 @@ Spring VAR 2019
 
 - [ ] 2019-05-09 Thu
 	- [ ] 1:15 PM dental cleaning
+
+- [ ] 2019-05-10 Fri
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
 
 - [ ] 2019-05-14 Tue
 	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
