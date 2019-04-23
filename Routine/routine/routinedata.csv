@@ -3885,3 +3885,4 @@ BT32, brushing, , 2019-04-23T16:50:52-04:00, Verify did not lose track of items 
 BT40, brushing, 2019-04-23T16:51:05-04:00, 2019-04-23T16:51:34-04:00, Eye lubricant {VALUE: 0.9; REASON: severe dry eye; GOAL: 6/d},
 BT18, brushing, 2019-04-23T16:51:48-04:00, 2019-04-23T16:57:49-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w}, UNFINISHED
 BT10, brushing, 2019-04-23T18:31:24-04:00, 2019-04-23T18:36:31-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: primary},
+BT2Z, brushing, 2019-04-23T18:36:33-04:00, 2019-04-23T18:45:02-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
