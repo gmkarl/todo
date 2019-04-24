@@ -461,9 +461,10 @@ Jim Taggart's laptop: Dell express service code #10882328761
 	- [ ][ ] ~8:15a - MEDS after bkfst
 		1 tsp atovaquone
 		100mg doxycycline
-		Bactrim DS
+		Bactrim DS -> TODO: COPY MEDS TASKS FORWARD
 	- [ ] call physical therapy to resolve schedule given I missed last Friday ?????
 		304 799 4500
+	-> did not do this
 	- [ ] 7:00a - EYE SURGERY: time will be finalized one day prior
 		no food or drink !!
 		- [ ] leave watches / valuables at home
@@ -474,6 +475,7 @@ Jim Taggart's laptop: Dell express service code #10882328761
 		100mg doxycycline
 		Bactrim DS
 		500mg azithromycin
+	-> I DIDN'T UPDATE MY CALENDAR FOR A MONTH AFTER THIS DAY.
 
 - [ ] 2019-03-27 Wed
 	- [ ][ ] ~8:15a - MEDS after bkfst
@@ -837,14 +839,19 @@ Jim would like to change things, so that he visits once a week for a day.  This 
 - [ ] 2019-04-22 Mon
 	- [ ] 11:00a Last Jeremy call
 
+- [ ] 2019-04-23 Tue
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+
 - [ ] 2019-04-24 Wed
-	- 
+	- [ ] 10:00a - 11:00a Sascha call
 
 ~~~~~~~~~~~~~~
 - [ ] 2019-04-25 Thu
 	- [ ] 3:00p - registration opens Spring Var 2019
 ~~~~~~~~~~~~~~
 Spring VAR 2019
+- [ ] 2019-04-26 Fri
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
 ~~~~~~~~~~~~~~
 - [ ] 2019-04-28 Sun
 	- [ ] Spring VAR 2019 check-out
@@ -862,7 +869,12 @@ Spring VAR 2019
 
 
 - [ ] 2019-04-30 Tue
+	- Kate gone this week due to trip to Spain and London
 	- Jim Taggart visits, likely also for grotto meeting yesterday
+
+- [ ] 2019-05-03 Fri
+	- Kate gone this week due to trip to Spain and London
+	- [ ] 10:30a - 11:30a - Sascha call
 
 - [ ] 2019-05-04 Sat
 	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
@@ -876,6 +888,9 @@ Spring VAR 2019
 - [ ] 2019-05-06 Mon
 	- [ ] 2:30p - Dr Cross diving clearance
 
+- [ ] 2019-05-07 Tue
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+
 - [ ] 2019-05-08 Wed
 	- [ ] 1:00p - 6 week eye surgery post op visit w Jennifer Sivak-Callcott
 		Mon Health
@@ -888,6 +903,9 @@ Spring VAR 2019
 
 - [ ] 2019-05-09 Thu
 	- [ ] 1:15 PM dental cleaning
+
+- [ ] 2019-05-10 Fri
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
 
 - [ ] 2019-05-14 Tue
 	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
@@ -1285,6 +1303,30 @@ VOICEMAIL NOTES
 	7. leave mailbox and log on as another subscriber
 	0. get more help
 	*. exit voicemail
+
+2019-04-23
+717 602 7447
+	Wednesday, 3:50pm
+	Hey Karl, this is Sarah, we're running late, we're close to Hillsboro, so we won't
+	be home on time.  The key is right beside the front door.  Mom said you can go
+	home ... and set up the TV so we can be ready for the conference call.
+	We should be ready by 5:00.  Okay, Bye.
+717 602 7447
+	Wednesday, 3:54pm
+	Hi, Karl, this is Gwyn, I'm calling from my cell phone.  I'm on somebody else's
+	cell phone plan, so it probably comes up as a different name, but anyway, it's me.
+	Sarah got held up at the Dr's office and turns it out we might not be home for
+	another hour.  It's like quarter to 4 right now so we're cutting it close.
+	If you could please g oover to my house, ben and matthew should be there, there's
+	a key by the front door.  You can call me back if you want. 717 602 7447
+304 591 9429
+	Saturday, 8:10a
+	Hi Karl, this is Gwyn, call me back please.  It would be better if you just got ready
+	and came over to my house, and just came and picked this up ... slow speed this morning,
+	they just got up, and I'm getting together the stuff I need.  Thinking we could just
+	take your car and I would pay you for the diesel ... feeling a little uncertain about
+	my van, so why don't we just do that.  Just come over to my house when you're ready.
+	Okay, bye.
 
 2019-04-17
 anonymous
@@ -1744,6 +1786,7 @@ Dr Bouboulis
 			Atovaquone has been on indefinite backorder for some time now.
 			Called and asked for update.
 			Was shipped and should come in today!  Check after 3pm.
+		
 	2019-04-17 Wed 1:30p
 		This is month 4 of full dose, since we started in January.
 		I should be feeling better.

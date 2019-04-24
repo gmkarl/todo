@@ -5,6 +5,8 @@
  *
  */
 
+// TODO NOW: adjust reordering metric to order almost completely by value (but rank lowest if learned degree >= 1)
+
 // issue list:
 // - [X] routine script is not passed the name of the script
 // - [X] brushing is broken up into multiple steps that will be shuffled by script
@@ -980,9 +982,9 @@ Routine gRoutineBrushing("brushing.routine");
 RoutineMetricValue gMetricValue;
 RoutineMetricDevelopment gMetricDevelopment(7);
 auto gMetricNeededDevelopment = gRoutineMetricJudgementLambda(
-  [](double value) -> double
+  [](double development) -> double
   {
-    return 1 - value;
+    return 1 - development;
   },
   gMetricDevelopment
 );
@@ -994,16 +996,27 @@ auto gMetricImportanceValueTimesNeededDevelopment = gRoutineMetricJudgementLambd
   gMetricValue,
   gMetricNeededDevelopment
 );
+auto gMetricImportanceValueThenNeededDevelopment = gRoutineMetricJudgementLambda(
+  [](double value, double development) -> double
+  {
+    // when unlearned, value is first
+    // when learned ... I guess neededDevelopment is okay, maybe make it negative?
+    return development < 1.0 ? value : -development;
+  },
+  gMetricValue,
+  gMetricDevelopment
+);
 
 //OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat1("BT2Z", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricNeededDevelopment);
-OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat2("BT2Z", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricImportanceValueTimesNeededDevelopment);
+//OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat2("BT2Z", gMetricImportanceValueTimesNeededDevelopment, gMetricDevelopment, 1.0, gMetricImportanceValueTimesNeededDevelopment);
+OrderingStrategyPrimaryAheadOfEvent gRoutOrderStrat3("BT2Z", gMetricImportanceValueThenNeededDevelopment, gMetricDevelopment, 1.0, gMetricImportanceValueThenNeededDevelopment);
 
 InterfaceRoutineScript gInterfaceOldScript("./routine");
 
 void routine2()
 {
   // macro function
-  gRoutineBrushing.run(gRoutOrderStrat2, gInterfaceOldScript);
+  gRoutineBrushing.run(gRoutOrderStrat3, gInterfaceOldScript);
 }
 
 // quick summary for us: Karl doesn't want to fight, and has a strategy known to resolve conflicts without fighting.
