@@ -1303,8 +1303,6 @@ VOICEMAIL NOTES
 	0. get more help
 	*. exit voicemail
 
-after check voicemail call back 833 number
-
 2019-04-23
 717 602 7447
 	Wednesday, 3:50pm
