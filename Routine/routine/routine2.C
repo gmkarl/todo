@@ -1001,8 +1001,7 @@ auto gMetricImportanceValueThenNeededDevelopment = gRoutineMetricJudgementLambda
   {
     // when unlearned, value is first
     // when learned ... I guess neededDevelopment is okay, maybe make it negative?
-    // no needed development, means no importance
-    return value < 1.0 ? value : -development;
+    return development < 1.0 ? value : -development;
   },
   gMetricValue,
   gMetricDevelopment
