@@ -3901,3 +3901,4 @@ BT2Z, brushing, 2019-04-24T13:22:50-04:00, 2019-04-24T13:32:16-04:00, Finalize p
 BT10, brushing, , 2019-04-24T13:32:21-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
 BT, morning, 2019-04-24T13:22:44-04:00, 2019-04-24T13:32:31-04:00, Brush Teeth,
 BT18, brushing, 2019-04-24T14:51:00-04:00, 2019-04-24T14:51:06-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w; strat_paoe: primary}, UNFINISHED
+BT2Z, brushing, 2019-04-24T14:51:09-04:00, 2019-04-24T20:20:22-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
