@@ -3904,3 +3904,4 @@ BT18, brushing, 2019-04-24T14:51:00-04:00, 2019-04-24T14:51:06-04:00, Have start
 BT2Z, brushing, 2019-04-24T14:51:09-04:00, 2019-04-24T20:20:22-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT2Z, brushing, 2019-04-24T20:20:32-04:00, 2019-04-24T20:46:52-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT40, brushing, 2019-04-24T20:46:54-04:00, 2019-04-24T20:47:21-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d},
+BT40, brushing, 2019-04-25T08:00:04-04:00, 2019-04-25T08:00:31-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
