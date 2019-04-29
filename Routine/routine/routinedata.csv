@@ -3916,3 +3916,4 @@ BT40, brushing, , 2019-04-29T07:39:51-04:00, Eye lubricant {VALUE: 2; REASON: se
 BT2Z, brushing, 2019-04-29T07:39:56-04:00, 2019-04-29T07:53:04-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT32, brushing, , 2019-04-29T07:53:21-04:00, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
 B, morning, , 2019-04-29T07:53:34-04:00, Get Out of Bed, finished earlier
+T, morning, 2019-04-29T07:53:37-04:00, 2019-04-29T07:57:48-04:00, Calendar and Routine Todo List, UNFINISHED
