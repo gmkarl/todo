@@ -3952,3 +3952,4 @@ BT2Z, brushing, 2019-05-02T06:38:56-0400, 2019-05-02T06:46:57-0400, Finalize pct
 BT32, brushing, , 2019-05-02T06:47:01-0400, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
 BT10, brushing, , 2019-05-02T06:47:05-0400, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
 B, morning, , 2019-05-02T06:47:18-0400, Get Out of Bed, finished earlier
+T, morning, 2019-05-02T06:47:20-0400, 2019-05-02T06:50:20-0400, Calendar and Routine Todo List, UNFINISHED
