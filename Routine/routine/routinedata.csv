@@ -3955,3 +3955,4 @@ B, morning, , 2019-05-02T06:47:18-0400, Get Out of Bed, finished earlier
 T, morning, 2019-05-02T06:47:20-0400, 2019-05-02T06:50:20-0400, Calendar and Routine Todo List, UNFINISHED
 EY, morning, 2019-05-02T06:50:46-0400, 2019-05-02T06:51:08-0400, Eye Lubricant,
 BT18, brushing, 2019-05-02T06:47:07-0400, 2019-05-02T07:30:23-0400, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w},
+BT40, brushing, 2019-05-02T07:30:28-0400, 2019-05-02T07:30:54-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
