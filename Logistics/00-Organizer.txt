@@ -967,6 +967,7 @@ Spring VAR 2019
 
 - [ ] 2019-05-17 Fri
 	- [ ][ ] 1:00p - Physical therapy
+	- [ ][ ] 2:30p - therapy wanda seneca health
 
 - [ ] 2019-05-18 Sat
 	- [ ] 1-6pm pool time at scuba buddys
@@ -975,6 +976,9 @@ Spring VAR 2019
 - [ ] 2019-05-19 Sun
 	- [ ] 1-5:30pm pool scuba buddys
 		NOT REGISTERED YET
+	
+- [ ] 2019-05-22 Wed
+	- [ ] 11:00a psychiatry Dr Jewell Seneca Health
 
 - [ ] 2019-05-24 Fri
 	- [ ][ ] 1:00p - Physical therapy
