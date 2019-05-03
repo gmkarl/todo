@@ -1015,12 +1015,11 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	Kate's Birthday
 
 - [ ] 2019-10-10 Thu
-	- GET BLOOD WORK FOR DR FLEMING APPT
+	- GET BLOOD WORK FOR DR FLEMING PET SCAN FOLLOWUP
 
 - [ ] 2019-10-17 Thu
-	- [ ] 11:45a - Dr Fleming Appt
-			not totally sure if this is pet scan or pet scan followup
-			but I think it is the FOLLOWUP
+	- [ ] 11:45a - Dr Fleming Appt, followup for PET scan
+			PET scan will be scheduled as date approaches
 
 - [ ] 2019-10-28 Mon
 	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
