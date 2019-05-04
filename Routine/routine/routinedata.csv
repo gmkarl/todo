@@ -3999,3 +3999,4 @@ BT2Z, brushing, 2019-05-04T12:31:11-04:00, 2019-05-04T12:40:16-04:00, Finalize p
 BT32, brushing, , 2019-05-04T12:40:20-04:00, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
 BT10, brushing, , 2019-05-04T12:40:25-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
 FD, morning, 2019-05-04T11:07:55-04:00, 2019-05-04T13:11:21-04:00, Breakfast and Meds,
+BT, morning, , 2019-05-04T13:11:25-04:00, Brush Teeth, finished earlier
