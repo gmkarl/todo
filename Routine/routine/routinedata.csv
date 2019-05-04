@@ -4000,3 +4000,4 @@ BT32, brushing, , 2019-05-04T12:40:20-04:00, Verify did not lose track of items 
 BT10, brushing, , 2019-05-04T12:40:25-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
 FD, morning, 2019-05-04T11:07:55-04:00, 2019-05-04T13:11:21-04:00, Breakfast and Meds,
 BT, morning, , 2019-05-04T13:11:25-04:00, Brush Teeth, finished earlier
+BT40, brushing, 2019-05-04T14:30:43-04:00, 2019-05-04T14:31:23-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
