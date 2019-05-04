@@ -3973,3 +3973,38 @@ EY, morning, , 2019-05-03T09:30:38-04:00, Eye Lubricant, finished earlier
 BT40, brushing, 2019-05-03T19:35:07-04:00, 2019-05-03T19:35:26-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
 BT2Z, brushing, , 2019-05-03T19:35:29-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
 BT10, brushing, , 2019-05-03T19:35:37-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+BT40, brushing, 2019-05-03T21:41:06-04:00, 2019-05-03T21:41:28-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
+BT2Z, brushing, 2019-05-03T21:41:31-04:00, 2019-05-03T21:52:13-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
+BT32, brushing, , 2019-05-03T21:52:18-04:00, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
+BT10, brushing, , 2019-05-03T21:52:23-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+BT40, brushing, 2019-05-04T07:35:05-04:00, 2019-05-04T07:36:09-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
+BT2Z, brushing, 2019-05-04T07:36:11-04:00, 2019-05-04T07:49:05-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
+BT32, brushing, , 2019-05-04T07:49:11-04:00, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
+BT10, brushing, , 2019-05-04T07:49:15-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+B, morning, , 2019-05-04T07:49:23-04:00, Get Out of Bed, finished earlier
+EY, morning, 2019-05-04T07:49:26-04:00, 2019-05-04T07:50:00-04:00, Eye Lubricant,
+MB, morning, 2019-05-04T07:50:08-04:00, 2019-05-04T08:26:23-04:00, Make Bed,
+BT18, brushing, 2019-05-04T07:49:16-04:00, 2019-05-04T08:50:31-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w},
+BT40, brushing, 2019-05-04T08:50:39-04:00, 2019-05-04T08:51:12-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
+BT2Z, brushing, , 2019-05-04T09:02:06-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
+BT10, brushing, , 2019-05-04T09:02:12-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+BT18, brushing, 2019-05-04T09:02:16-04:00, 2019-05-04T10:41:36-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w}, UNFINISHED
+BT40, brushing, 2019-05-04T10:41:46-04:00, 2019-05-04T10:42:22-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
+BT2Z, brushing, 2019-05-04T10:42:43-04:00, 2019-05-04T10:55:17-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
+BT10, brushing, , 2019-05-04T10:55:24-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+EX, morning, 2019-05-04T08:26:31-04:00, 2019-05-04T11:07:51-04:00, Morning Exercises,
+BT18, brushing, 2019-05-04T10:55:28-04:00, 2019-05-04T12:30:38-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w}, UNFINISHED
+BT40, brushing, 2019-05-04T12:30:46-04:00, 2019-05-04T12:31:09-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
+BT2Z, brushing, 2019-05-04T12:31:11-04:00, 2019-05-04T12:40:16-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
+BT32, brushing, , 2019-05-04T12:40:20-04:00, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
+BT10, brushing, , 2019-05-04T12:40:25-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+FD, morning, 2019-05-04T11:07:55-04:00, 2019-05-04T13:11:21-04:00, Breakfast and Meds,
+BT, morning, , 2019-05-04T13:11:25-04:00, Brush Teeth, finished earlier
+BT40, brushing, 2019-05-04T14:30:43-04:00, 2019-05-04T14:31:23-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
+BT2Z, brushing, 2019-05-04T14:31:34-04:00, 2019-05-04T14:42:24-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
+BT32, brushing, , 2019-05-04T14:42:53-04:00, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
+BT10, brushing, , 2019-05-04T14:42:56-04:00, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+SH, morning, 2019-05-04T14:43:02-04:00, 2019-05-04T14:55:07-04:00, Shave and Shower,
+CL, morning, 2019-05-04T14:55:11-04:00, 2019-05-04T14:57:45-04:00, Put Clothes On,
+EY, morning, 2019-05-04T14:57:47-04:00, 2019-05-04T14:58:07-04:00, Eye Lubricant,
+BT18, brushing, 2019-05-04T14:42:58-04:00, 2019-05-04T14:58:22-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w},
