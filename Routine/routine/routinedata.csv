@@ -3965,9 +3965,6 @@ BT40, brushing, 2019-05-03T07:19:18-0400, 2019-05-03T07:19:49-0400, Eye lubrican
 BT2Z, brushing, , 2019-05-03T07:19:52-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
 BT32, brushing, , 2019-05-03T07:19:58-0400, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
 BT10, brushing, 2019-05-03T07:20:07-0400, 2019-05-03T07:20:42-0400, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned},
-<<<<<<< HEAD
-BT40, brushing, , 2019-05-05T11:30:41-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary}, finished earlier
-=======
 B, morning, , 2019-05-03T08:59:16-04:00, Get Out of Bed, finished earlier
 BT40, brushing, 2019-05-03T09:22:07-04:00, 2019-05-03T09:22:29-04:00, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
 BT2Z, brushing, 2019-05-03T09:22:30-04:00, 2019-05-03T09:30:05-04:00, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
@@ -4011,6 +4008,6 @@ SH, morning, 2019-05-04T14:43:02-04:00, 2019-05-04T14:55:07-04:00, Shave and Sho
 CL, morning, 2019-05-04T14:55:11-04:00, 2019-05-04T14:57:45-04:00, Put Clothes On,
 EY, morning, 2019-05-04T14:57:47-04:00, 2019-05-04T14:58:07-04:00, Eye Lubricant,
 BT18, brushing, 2019-05-04T14:42:58-04:00, 2019-05-04T14:58:22-04:00, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w},
->>>>>>> 392f6768ffa92eaa51def71e4442a0d80f392da3
+BT40, brushing, , 2019-05-05T11:30:41-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary}, finished earlier
 BT2Z, brushing, 2019-05-05T11:30:42-0400, 2019-05-05T11:42:24-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT10, brushing, , 2019-05-05T11:42:30-0400, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
