@@ -1023,7 +1023,6 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 
 - [ ] 2019-07-10 Wed
-	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
 
 ===
 - [ ] 2019-08-04 Sun
@@ -1044,6 +1043,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
 			635 Robert E Lee Avemue
 			Elkins, WV
+
+- [ ] 2019-11-11 Mon
+	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
 
 # GOALWORK
 0: autonomy, safety, privacy, and joyful pursuit of dreams for all
