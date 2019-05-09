@@ -4065,3 +4065,4 @@ EY, morning, , 2019-05-08T14:30:39-0400, Eye Lubricant, finished earlier
 BT, morning, , 2019-05-08T14:30:49-0400, Brush Teeth, finished earlier
 SH, morning, 2019-05-08T14:30:53-0400, 2019-05-08T15:41:49-0400, Shave and Shower,
 BT40, brushing, 2019-05-09T07:00:53-0400, 2019-05-09T07:01:23-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
+BT2Z, brushing, 2019-05-09T07:01:25-0400, 2019-05-09T07:15:47-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
