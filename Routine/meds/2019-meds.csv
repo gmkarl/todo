@@ -94,6 +94,8 @@ C12, CONTAINS D3 cholecalciferol, 1000 IU
 C12, CONTAINS calcium as carbonate, 1200 milligrams
 T5, Extra Strength Tylenol, 2 tablets
 T5, CONTAINS acetaminophen, 500 milligrams
+MP, MegaFood MegaFlora, 1 capsule
+MP, CONTAINS probiotic blend, 20 billion CFU
 
 Morning Meds
 B2, Nature's Truth B-12 1000 mcg, 1 tablet
@@ -1411,3 +1413,4 @@ Time, Med, Dosage, Notes
 2019-05-09T09:31:00-04:00,AT,5,
 2019-05-09T09:31:41-04:00,DX,1,
 2019-05-09T09:31:55-04:00,BM,1,
+2019-05-09T11:37:47-04:00,MP,1,
