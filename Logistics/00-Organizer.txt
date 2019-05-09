@@ -1077,6 +1077,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 			635 Robert E Lee Avemue
 			Elkins, WV
 
+- [ ] 2019-11-12
+	- [ ] 12:00p - Dentist
+
 # GOALWORK
 0: autonomy, safety, privacy, and joyful pursuit of dreams for all
 Problem:
