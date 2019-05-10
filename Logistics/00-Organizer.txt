@@ -940,6 +940,7 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-05-09 Thu
 	- [ ] 10:00a - 11:00a - Sascha call
+		-> Sascha has things and rescheduled
 	- [ ] 1:00 PM dental cleaning
 		Dr is out of office, just a cleaning
 
@@ -968,6 +969,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		Didn't I already add this to this calendar?
 	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
 		NOT REGISTERED YET -> come in physically with medical & doctor's forms (harrisonburg)
+
+- CALL TIM FROM ELKINS TRUCKING.  he said to call him mid-week and he'll have had the transmission
+	re - sent out.
 
 - [ ] 2019-05-15 Wed
 	- Jim Taggart
@@ -1392,6 +1396,18 @@ Truck Mechanic
 		combine labor hours
 		Isuzu is the distributor for the transmission.
 	2019-04-30 1:09p called father, who was going to connect with tim but hadn't yet
+	- jim took over for a bit.  says rebuilt transmission is in but electrical work is needed and pending
+	2019-05-09 4:57p Thu
+		called, tim was there
+		transmission is in
+		lift gate is fixed !
+		working on the transmission; the rebuild has decided it doesn't want to have drive
+		looking into it.  it runs down the road fine until it shifts into drive, and then it loses it
+		isuzu was sending the wrong transmissions, different one each time
+		transmission needs to be redisassembled and sent back to rebuilder
+		(electrical transmission issue is resolved)
+		transmission will be sent back for rebuilding by beginning of next week
+		Tim wants me to call him around the middle of next week.
 		
 		
 	- [X] when do you think it'll be finished?
