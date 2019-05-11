@@ -940,11 +940,13 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-05-09 Thu
 	- [ ] 10:00a - 11:00a - Sascha call
+		-> Sascha has things and rescheduled
 	- [ ] 1:00 PM dental cleaning
 		Dr is out of office, just a cleaning
 
 - [ ] 2019-05-10 Fri
 	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+		Didn't we reschedule this to next Tue?
 	- [ ] 1:00p - application help at seneca health
 		bring stuff for volunteer application!
 	- [ ][ ] 3:15p - Physical therapy
@@ -957,13 +959,19 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ] gwyn goes to elkins
 		can go with her and resolve facebook
 		BRING LAPTOP and gwyn's SECURITY KEY
+	-> CANCELED gwyn went Thu
 
 - [ ] 2019-05-12 Sun
 	- [ ][ ] 7:00p - 8:30p Street Giraffes every week May only, usu. first Sunday of the month
 
 - [ ] 2019-05-14 Tue
+	- [ ] 10:00a-10:50a Kate call, winding down ??
+		Didn't I already add this to this calendar?
 	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
 		NOT REGISTERED YET -> come in physically with medical & doctor's forms (harrisonburg)
+
+- CALL TIM FROM ELKINS TRUCKING.  he said to call him mid-week and he'll have had the transmission
+	re - sent out.
 
 - [ ] 2019-05-15 Wed
 	- Jim Taggart
@@ -1042,6 +1050,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 - [ ] 2019-06-28 Fri
 	- Mon Grotto 55th anniversary summer campout 06-28 - 06-30
 
+- 07-03 thru 07-07
+	gwyn on trip thse dates, most comfort around me scheduling things same time
+
 
 - [ ] 2019-07-10 Wed
 	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
@@ -1059,6 +1070,7 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-10-10 Thu
 	- GET BLOOD WORK FOR DR FLEMING PET SCAN FOLLOWUP
+		-> lab order (+ followup card) are in glove compartment of car
 
 - [ ] 2019-10-17 Thu
 	- [ ] 11:45a - Dr Fleming Appt, followup for PET scan
@@ -1068,6 +1080,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
 			635 Robert E Lee Avemue
 			Elkins, WV
+
+- [ ] 2019-11-12
+	- [ ] 12:00p - Dentist
 
 # GOALWORK
 0: autonomy, safety, privacy, and joyful pursuit of dreams for all
@@ -1381,6 +1396,18 @@ Truck Mechanic
 		combine labor hours
 		Isuzu is the distributor for the transmission.
 	2019-04-30 1:09p called father, who was going to connect with tim but hadn't yet
+	- jim took over for a bit.  says rebuilt transmission is in but electrical work is needed and pending
+	2019-05-09 4:57p Thu
+		called, tim was there
+		transmission is in
+		lift gate is fixed !
+		working on the transmission; the rebuild has decided it doesn't want to have drive
+		looking into it.  it runs down the road fine until it shifts into drive, and then it loses it
+		isuzu was sending the wrong transmissions, different one each time
+		transmission needs to be redisassembled and sent back to rebuilder
+		(electrical transmission issue is resolved)
+		transmission will be sent back for rebuilding by beginning of next week
+		Tim wants me to call him around the middle of next week.
 		
 		
 	- [X] when do you think it'll be finished?
