@@ -4083,3 +4083,4 @@ B, morning, , 2019-05-10T08:01:55-0400, Get Out of Bed, finished earlier
 BT40, brushing, 2019-05-10T16:15:40-0400, 2019-05-10T16:27:21-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
 BT2Z, brushing, , 2019-05-10T16:27:22-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
 BT10, brushing, , 2019-05-10T16:27:30-0400, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+BT40, brushing, , 2019-05-11T09:08:40-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary}, finished earlier
