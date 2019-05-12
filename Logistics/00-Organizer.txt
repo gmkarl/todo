@@ -928,6 +928,12 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		2 sessions in may currently paid for =S
 
 - [ ] 2019-05-08 Wed
+	- [ ] 5:10p - leave for Marlinton and Maxwelton near Lewisburg
+	- [ ] 6:15p - meet Robin in Marlinton
+		will be in small white pickup truck
+		Oak Grove Presbyterian Church
+		44 Denmar Rd, Marlinton, WV 24954
+		location is on google
 	- [ ] 7:00p - Greenbrier Grotto Meeting, 2nd Wednesday of Month
 		Greenbrier Valley Brewing Company, near Lewisburg Airport
 		some people bring snacks to share
@@ -938,13 +944,24 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-05-09 Thu
 	- [ ] 10:00a - 11:00a - Sascha call
-	- [ ] 1:15 PM dental cleaning
+		-> Sascha has things and rescheduled
+	- [ ] 1:00 PM dental cleaning
 		Dr is out of office, just a cleaning
 
 - [ ] 2019-05-10 Fri
 	- [ ] 1:00p - application help at seneca health
 		bring stuff for volunteer application!
 	- [ ][ ] 3:15p - Physical therapy
+
+- if you want in on wvacs project caving,
+	email dave saki
+	express interest and caving experience
+
+- [ ] 2019-05-11 Sat
+	- [ ] gwyn goes to elkins
+		can go with her and resolve facebook
+		BRING LAPTOP and gwyn's SECURITY KEY
+	-> CANCELED gwyn went Thu
 
 - [ ] 2019-05-12 Sun
 	- [ ][ ] 7:00p - 8:30p Street Giraffes every week May only, usu. first Sunday of the month
@@ -953,6 +970,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ] 10:00a-10:50a Kate calls, running down
 	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
 		NOT REGISTERED YET -> come in physically with medical & doctor's forms (harrisonburg)
+
+- CALL TIM FROM ELKINS TRUCKING.  he said to call him mid-week and he'll have had the transmission
+	re - sent out.
 
 - [ ] 2019-05-15 Wed
 	- Jim Taggart
@@ -981,8 +1001,10 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		NOT REGISTERED YET
 
 - [ ] 2019-05-19 Sun
+	- [ ] 4:00p - 5:30p Blacksburg NVC practice
 	- [ ] 1-5:30pm pool scuba buddys
 		NOT REGISTERED YET
+	- [ ] 11:00p - trout cave greenbrier night trip?
 	
 - [ ] 2019-05-22 Wed
 	- [ ] 11:00a psychiatry Dr Jewell Seneca Health
@@ -1006,6 +1028,10 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 - [ ] 2019-06-04 Tue
 	- Phone consult with Dr Bouboulis, likely in afternoon.  He'll call me.
 
+- [ ] 2019-06-09 Sun
+	- [ ] afternoon - Greenbrier vertical training
+		gear appreciated
+
 - [ ] 2019-06-10 Mon
 	- [ ] 5:30p - 7:00p Fearless Heart  Teleclass with Miki Kashtan
 		call 619 326 3031
@@ -1025,8 +1051,14 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 - [ ] 2019-06-28 Fri
 	- Mon Grotto 55th anniversary summer campout 06-28 - 06-30
 
+- 07-03 thru 07-07
+	gwyn on trip thse dates, most comfort around me scheduling things same time
+
 
 - [ ] 2019-07-10 Wed
+
+- [ ] 2019-07-12
+	- WVACS classic thru 2019-07-14
 
 ===
 - [ ] 2019-08-04 Sun
@@ -1038,6 +1070,7 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-10-10 Thu
 	- GET BLOOD WORK FOR DR FLEMING PET SCAN FOLLOWUP
+		-> lab order (+ followup card) are in glove compartment of car
 
 - [ ] 2019-10-17 Thu
 	- [ ] 11:45a - Dr Fleming Appt, followup for PET scan
@@ -1048,8 +1081,13 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 			635 Robert E Lee Avemue
 			Elkins, WV
 
+<<<<<<< HEAD
 - [ ] 2019-11-11 Mon
 	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
+=======
+- [ ] 2019-11-12
+	- [ ] 12:00p - Dentist
+>>>>>>> 64e6c18fcb9fbfa773af97b1a791f3cebf3c5a3b
 
 # GOALWORK
 0: autonomy, safety, privacy, and joyful pursuit of dreams for all
@@ -1363,6 +1401,18 @@ Truck Mechanic
 		combine labor hours
 		Isuzu is the distributor for the transmission.
 	2019-04-30 1:09p called father, who was going to connect with tim but hadn't yet
+	- jim took over for a bit.  says rebuilt transmission is in but electrical work is needed and pending
+	2019-05-09 4:57p Thu
+		called, tim was there
+		transmission is in
+		lift gate is fixed !
+		working on the transmission; the rebuild has decided it doesn't want to have drive
+		looking into it.  it runs down the road fine until it shifts into drive, and then it loses it
+		isuzu was sending the wrong transmissions, different one each time
+		transmission needs to be redisassembled and sent back to rebuilder
+		(electrical transmission issue is resolved)
+		transmission will be sent back for rebuilding by beginning of next week
+		Tim wants me to call him around the middle of next week.
 		
 		
 	- [X] when do you think it'll be finished?
