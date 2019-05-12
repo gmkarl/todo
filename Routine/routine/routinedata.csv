@@ -4093,3 +4093,4 @@ BT40, brushing, 2019-05-12T08:10:59-0400, 2019-05-12T08:11:21-0400, Eye lubrican
 BT2Z, brushing, , 2019-05-12T08:11:25-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
 BT32, brushing, , 2019-05-12T08:11:37-0400, Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}, finished earlier
 BT10, brushing, , 2019-05-12T08:12:00-0400, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+T, morning, 2019-05-10T08:01:58-0400, 2019-05-12T08:12:12-0400, Calendar and Routine Todo List, UNFINISHED
