@@ -966,10 +966,12 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 - [ ] 2019-05-12 Sun
 	- [ ][ ] 7:00p - 8:30p Street Giraffes every week May only, usu. first Sunday of the month
 
+- [ ] 2019-05-13 Mon
+	-> apparently I had seneca health application help appt that I missed this day
+		found calling in to discern on 2019-05-14
+
 - [ ] 2019-05-14 Tue
 	- [ ] 10:00a-10:50a Kate calls, running down
-	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
-		NOT REGISTERED YET -> come in physically with medical & doctor's forms (harrisonburg)
 
 - CALL TIM FROM ELKINS TRUCKING.  he said to call him mid-week and he'll have had the transmission
 	re - sent out.
@@ -986,8 +988,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		304 598-2200
 
 - [ ] 2019-05-16 Thu
-	- [ ] 6:00p-9:30p Scuba Buddys class module 4,5 Quiz & Exam
-		NOT REGISTERED YET
+	- [ ] 9:00a - Alex calls to remind, bring things for application eg harddrives
+		anything with clues to volunteer/work history or otherwise helpful for application
+	- [ ][ ] 10:00a - Application help w/ Alex, Seneca Health (every thu?)
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
 		CHAPTER 12
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
@@ -997,8 +1000,6 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ][ ] 2:30p - therapy wanda seneca health
 
 - [ ] 2019-05-18 Sat
-	- [ ] 1-6pm pool time at scuba buddys
-		NOT REGISTERED YET
 
 - [ ] 2019-05-19 Sun
 	- [ ] 4:00p - 5:30p Blacksburg NVC practice
@@ -1835,20 +1836,30 @@ Varner 304-456-4505
 Metals: Valley Steel, 30 mins towards elkins
 
 Frontier Support:
+	Tech support: 800-239-4430
+		1 - technical support
+			1 - calling about calling number account
+			2 - other account
+		2 - other questions
 	Main Menu: 877-669-5535
-		1 - new residential customer, interested in service
-		2 - current customer
+		1 - custom service, billing, technical support
 			1 - transfer to new address
 			2 - make changes to existing service
 			3 - billing questions
 			4 - installation date questions
 			9 - all other technical support
 				frontier.com/helpcenter
-				1 - english residential
-
-				2 - english business
-				3 - spanish residential
-				4 - spanish business
+				# - further assistance
+					1 - english residential
+						My # is (304) 456-5564
+						2 - technical support
+							800-239-4430
+						3 - payments
+						4 - repair department for line trouble reports
+					2 - english business
+					3 - spanish residential
+					4 - spanish business
+		2 - new residential customer, interested in service
 		3 - new commmerical customer
 
 		1 - current customer, customer service
