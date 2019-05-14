@@ -1,4 +1,4 @@
-Priorit	Delay	Expense	Availability
+riorit	Delay	Expense	Availability
 0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
 	1	1	1		sign up for more gbo tours
 1	2	0	2		Move transport organization box from truck
@@ -951,10 +951,6 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		bring stuff for volunteer application!
 	- [ ][ ] 3:15p - Physical therapy
 
-- if you want in on wvacs project caving,
-	email dave saki
-	express interest and caving experience
-
 - [ ] 2019-05-11 Sat
 	- [ ] gwyn goes to elkins
 		can go with her and resolve facebook
@@ -963,6 +959,15 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-05-12 Sun
 	- [ ][ ] 7:00p - 8:30p Street Giraffes every week May only, usu. first Sunday of the month
+
+- [ ] 2019-05-13 Mon
+	- [ ]  9:00a - Alex calls, or call her; to REMEMBER TO BRING HARDDRIVES with work history in them
+		can also download files to computer !!
+	- [ ] 10:00a - Application Help with Alex @ Seneca Health
+
+- if you want in on wvacs project caving,
+	email dave saki even though initiating contact with new people is so scary for you
+	express interest and caving experience
 
 - [ ] 2019-05-14 Tue
 	- [ ] 10:00a-10:50a Kate call, winding down ??
@@ -998,12 +1003,12 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 - [ ] 2019-05-18 Sat
 	- [ ] 1-6pm pool time at scuba buddys
 		NOT REGISTERED YET
+	- [ ] 11:00p - trout cave greenbrier night trip?
 
 - [ ] 2019-05-19 Sun
 	- [ ] 4:00p - 5:30p Blacksburg NVC practice
 	- [ ] 1-5:30pm pool scuba buddys
 		NOT REGISTERED YET
-	- [ ] 11:00p - trout cave greenbrier night trip?
 	
 - [ ] 2019-05-22 Wed
 	- [ ] 11:00a psychiatry Dr Jewell Seneca Health
