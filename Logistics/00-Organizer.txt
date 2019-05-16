@@ -1,4 +1,4 @@
-Priorit	Delay	Expense	Availability
+riorit	Delay	Expense	Availability
 0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
 	1	1	1		sign up for more gbo tours
 1	2	0	2		Move transport organization box from truck
@@ -921,7 +921,11 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ] 2:30p - Dr Cross diving clearance
 
 - [ ] 2019-05-07 Tue
+	- [ ] expecting call from community care regarding diving medical form
+		can also visit physically or call to check in
 	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+		-> CHANGED FROM JIM & BILL !
+		2 sessions in may currently paid for =S
 
 - [ ] 2019-05-08 Wed
 	- [ ] 5:10p - leave for Marlinton and Maxwelton near Lewisburg
@@ -945,15 +949,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		Dr is out of office, just a cleaning
 
 - [ ] 2019-05-10 Fri
-	- [ ] 10:00a-10:50a Kate call every Tue, Fri
-		Didn't we reschedule this to next Tue?
 	- [ ] 1:00p - application help at seneca health
 		bring stuff for volunteer application!
 	- [ ][ ] 3:15p - Physical therapy
-
-- if you want in on wvacs project caving,
-	email dave saki
-	express interest and caving experience
 
 - [ ] 2019-05-11 Sat
 	- [ ] gwyn goes to elkins
@@ -964,17 +962,25 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 - [ ] 2019-05-12 Sun
 	- [ ][ ] 7:00p - 8:30p Street Giraffes every week May only, usu. first Sunday of the month
 
+- [ ] 2019-05-13 Mon
+	- [ ]  9:00a - Alex calls, or call her; to REMEMBER TO BRING HARDDRIVES with work history in them
+		can also download files to computer !!
+	- [ ] 10:00a - Application Help with Alex @ Seneca Health
+	-> apparently I had seneca health application help appt that I missed this day
+		found calling in to discern on 2019-05-14
+
 - [ ] 2019-05-14 Tue
-	- [ ] 10:00a-10:50a Kate call, winding down ??
-		Didn't I already add this to this calendar?
-	- [ ] 6:00p-9:30p Scuba Buddys class Module 1, 2, 3 and Quizzes
-		NOT REGISTERED YET -> come in physically with medical & doctor's forms (harrisonburg)
+	- [ ] 10:00a-10:50a Kate calls, running down
 
 - CALL TIM FROM ELKINS TRUCKING.  he said to call him mid-week and he'll have had the transmission
 	re - sent out.
 
+- if you want in on wvacs project caving,
+	email dave saki even though initiating contact with new people is so scary for you
+	express interest and caving experience
+
 - [ ] 2019-05-15 Wed
-	- Jim Taggart
+	- [ ] 10:00a - Jim Taggart arrives
 	- [ ] 1:30p - 6 week eye surgery post op visit w Jennifer Sivak-Callcott
 		Mon Health
 		Oculofacial Surgery
@@ -985,25 +991,30 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		304 598-2200
 
 - [ ] 2019-05-16 Thu
-	- [ ] 6:00p-9:30p Scuba Buddys class module 4,5 Quiz & Exam
-		NOT REGISTERED YET
-	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
-		CHAPTER 12
-		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+	- [ ]  9:00a - Alex calls, or call her; to REMEMBER TO BRING HARDDRIVES with work history in them
+		can also download files to computer !!
+		anything with clues to volunteer/work history or otherwise helpful for application
+	- [ ][ ] 10:00a - Application Help with Alex @ Seneca Health (every thu?)
 
 - [ ] 2019-05-17 Fri
 	- [ ][ ] 1:00p - Physical therapy
 	- [ ][ ] 2:30p - therapy wanda seneca health
 
 - [ ] 2019-05-18 Sat
-	- [ ] 1-6pm pool time at scuba buddys
-		NOT REGISTERED YET
+	- [ ] 9:00p - leave for trout cave
+		there is a $15 cabin reserved for sleeping:
+		Thorn Spring Park
+		42 All Star Dr, Franklin, WV 26807
+		(304) 358-7737
+		https://goo.gl/maps/FontnzYo8YZHd4LL8
+	- [ ] 11:00p - trout cave greenbrier night trip
 
 - [ ] 2019-05-19 Sun
 	- [ ] 4:00p - 5:30p Blacksburg NVC practice
-	- [ ] 1-5:30pm pool scuba buddys
-		NOT REGISTERED YET
-	- [ ] 11:00p - trout cave greenbrier night trip?
+	- [ ] 11:00p - trout cave greenbrier night trip
+
+- [ ] 2019-05-21 Tue
+	- [ ][ ] 10:00a-11:00a Kate call
 	
 - [ ] 2019-05-22 Wed
 	- [ ] 11:00a psychiatry Dr Jewell Seneca Health
@@ -1020,12 +1031,27 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
 
+- [ ] 2019-05-28 
+
+- [ ] 2019-05-30 Thu
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 12
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+
 - [ ] 2019-05-31 Fri
 	- [ ][ ] 1:00p - Physical therapy
 		SCHEDULE MORE
 
 - [ ] 2019-06-04 Tue
 	- Phone consult with Dr Bouboulis, likely in afternoon.  He'll call me.
+
+- [ ] 2019-06-07 Fri
+	- WVACS project weekend thrugh 2019-06-09 Sun
+		I think it starts in the evening.
+		Bring BEDDING, MEDS, EQUIPMENT, CLOTHES and CASH 
+		Costs $7/night $1/shower
+		West Virginia Association of Cave Studies Field Station
+		XJH5+P8 Renick, Eastern, WV
 
 - [ ] 2019-06-09 Sun
 	- [ ] afternoon - Greenbrier vertical training
@@ -1074,7 +1100,6 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 
 - [ ] 2019-07-10 Wed
-	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
 
 - [ ] 2019-07-12
 	- WVACS classic thru 2019-07-14
@@ -1099,6 +1124,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
 			635 Robert E Lee Avemue
 			Elkins, WV
+
+- [ ] 2019-11-11 Mon
+	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
 
 - [ ] 2019-11-12
 	- [ ] 12:00p - Dentist
@@ -1849,20 +1877,30 @@ Varner 304-456-4505
 Metals: Valley Steel, 30 mins towards elkins
 
 Frontier Support:
+	Tech support: 800-239-4430
+		1 - technical support
+			1 - calling about calling number account
+			2 - other account
+		2 - other questions
 	Main Menu: 877-669-5535
-		1 - new residential customer, interested in service
-		2 - current customer
+		1 - custom service, billing, technical support
 			1 - transfer to new address
 			2 - make changes to existing service
 			3 - billing questions
 			4 - installation date questions
 			9 - all other technical support
 				frontier.com/helpcenter
-				1 - english residential
-
-				2 - english business
-				3 - spanish residential
-				4 - spanish business
+				# - further assistance
+					1 - english residential
+						My # is (304) 456-5564
+						2 - technical support
+							800-239-4430
+						3 - payments
+						4 - repair department for line trouble reports
+					2 - english business
+					3 - spanish residential
+					4 - spanish business
+		2 - new residential customer, interested in service
 		3 - new commmerical customer
 
 		1 - current customer, customer service

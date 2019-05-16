@@ -3,8 +3,8 @@ BT2Z	Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for str
 BT32	Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}
 BT10	Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}
 BT18	Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w}
-BTX4	Logistics & Obligations: 30 min {VALUE: 0.4; REASON: life maintenance; GOAL: 7/w}
 BTX5	Academic & Career Work: 30 min {VALUE: 0.6; REASON: credentials, contacts, experience; GOAL: 7/w}
+BTX4	Logistics & Obligations: 30 min {VALUE: 0.4; REASON: life maintenance; GOAL: 7/w}
 BT19AB	If time, work towards exercise routine & finish if not yet today{VALUE: 0; REASON: ; GOAL: 100%}
 BT-5	Verify finished last run of routine{VALUE: 0; REASON: ; GOAL: 100%}
 BT00	Information task: 1 min{VALUE: 0; REASON: ; GOAL: 100%}
