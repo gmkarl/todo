@@ -4138,3 +4138,4 @@ BT10, brushing, , 2019-05-15T10:10:36-0400, Toothpaste / Flossing / Fluoride att
 BT18, brushing, 2019-05-15T10:10:37-0400, 2019-05-15T10:24:15-0400, Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w}, UNFINISHED
 BT40, brushing, 2019-05-16T00:09:17-0400, 2019-05-16T00:09:51-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
 BT2Z, brushing, , 2019-05-16T00:34:52-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}, finished earlier
+BT40, brushing, 2019-05-16T08:31:47-0400, 2019-05-16T08:32:27-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
