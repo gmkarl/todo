@@ -998,7 +998,6 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-05-17 Fri
 	- [ ][ ] 1:00p - Physical therapy
-	- [ ][ ] 2:30p - therapy wanda seneca health
 
 - [ ] 2019-05-18 Sat
 	- [ ] 9:00p - leave for trout cave
@@ -1017,7 +1016,9 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 	- [ ][ ] 10:00a-11:00a Kate call
 	
 - [ ] 2019-05-22 Wed
+	- [ ][ ] 10:00a - therapy wanda seneca health - moved from 2:30p Fri last week, this time
 	- [ ] 11:00a psychiatry Dr Jewell Seneca Health
+	- [ ][ ] 1:00p - Application Help with Alex @ Seneca Helath
 
 - [ ] 2019-05-24 Fri
 	- [ ][ ] 1:00p - Physical therapy
