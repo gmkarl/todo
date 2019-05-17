@@ -4141,3 +4141,4 @@ BT2Z, brushing, , 2019-05-16T00:34:52-0400, Finalize pct, Brush Teeth, Measure &
 BT40, brushing, 2019-05-16T08:31:47-0400, 2019-05-16T08:32:27-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
 BT2Z, brushing, 2019-05-16T08:41:57-0400, 2019-05-16T08:51:20-0400, Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d},
 BT10, brushing, , 2019-05-16T08:51:29-0400, Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}, finished earlier
+BT40, brushing, 2019-05-17T18:09:37-0400, 2019-05-17T18:10:17-0400, Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: primary},
