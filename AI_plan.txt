@@ -1,0 +1,12 @@
+It seems the path to intelligence that I've stumbled upon as lining up here is:
+	1. consider simple modules that interconnect (individuals)
+	2. consider a basic interconnection pattern that connects modules (individuals)
+		2b. consider a decision-making process: consensus
+	3. design the module such that it uses the decision making process to decide what to do
+	4. meta-modules are composed of these groups that have decided upon input / output channels
+	5. run the AI with the goal of optimizing the module design itself
+		- minimize all resource usage
+		- minimize number of modules and number of run cycle iterations (and other counts)
+	6. run a constant core process that does this with the goal of categorizing existing run cycles and finding a use for them.
+	7. when a cycle completes, add it to the largest core process that can continue the run-state in order to do something. (composting)
+	This keeps all life alive.
